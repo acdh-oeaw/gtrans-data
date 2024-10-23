@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0330.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0329.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0331.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Gemeinderat. Stenographischer Bericht über die Sitzung vom 23. Mai 1919. 4. Ergebnis der Wahlen in Gemeindeausschüsse</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#vhelfert">Helfert, Veronika</rs></editor><editor><rs ref="#tgarstenauer">Garstenauer, Therese</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/3034</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Wiener Stadt- und Landesarchiv</repository>
+                    <msName>Bestand: Wiener Stadt- und Landesarchiv, Archivbibliothek, BiblM - M - Amtsperiodika, Verwaltungsberichte, Adressbücher, Signatur: M 599 28/2 1. Ex., Punkt/Seite: 4; 1229f.</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Amtsblatteintrag</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents/></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#vhelfert #tgarstenauer">
+            <p>4. Ergebnis der Wahlen in Gemeindeausschüsse: [1229f.]
+- Gemeindeausschuß für Verleihung des Heimat- und Bürgerrechts der Stadt Wien (30 Mitglieder),
+- Disziplinarausschuß des Gemeinderates (10 Mitglieder und 10 Ersatz),
+- Gemeinderatsausschuß zur Beratung des Entwurfes einer neuen Bauordnung für Wien (30 Mitglieder),
+- Gemeinderatsausschuß für städtische Wohnungsfürsorge (30 Mitglieder),
+- gemeinderätliche Personalkommission (11 Mitglieder) (2 Jahre): Karl Angermayer, Leopold Doppler, Alois Jackl, Johann Pokorny, Ing. Richard Seidel, Johann Schorsch, Karl Schmid, Paul Speiser, Karl Untermüller, Karl Vaugoin, Karl Weigl.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-05-23" notAfter="1919-05-23">
+                
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Personalkommission</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-09 19:31:53.155544+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__602"><persName><surname>Angermayer</surname><forename>Karl</forename><roleName/></persName><birth when="1862-11-17">1862-11-17<placeName key="#place__580">Wien</placeName></birth><death when="1941-04-05">1941-04-05<placeName key="#place__580">Wien</placeName></death><idno>https://de.wikipedia.org/wiki/Karl_Angermayer</idno></person><person xml:id="person__637"><persName><surname>Doppler</surname><forename>Leopold</forename><roleName/></persName><birth when="1870-10-29">1870-10-29<placeName key="#place__580">Wien</placeName></birth><death when="1945-03-13">1945-03-13<placeName key="#place__580">Wien</placeName></death><idno>https://de.wikipedia.org/wiki/Leopold_Doppler</idno></person><person xml:id="person__802"><persName><surname>Pokorny</surname><forename>Johann</forename><roleName/></persName><birth><placeName key="#place__490">Linz</placeName></birth><death/></person><person xml:id="person__837"><persName><surname>Schmid</surname><forename>Karl</forename><roleName/></persName><birth when="1878-02-09">1878-02-09<placeName key="#place__535">Salzburg</placeName></birth><death when="1942-06-09">1942-06-09<placeName key="#place__580">Wien</placeName></death></person><person xml:id="person__843"><persName><surname>Schorsch</surname><forename>Johann</forename><roleName/></persName><birth/><death/></person><person xml:id="person__854"><persName><surname>Seidel</surname><forename>Richard</forename><roleName>Ing. </roleName></persName><birth/><death/></person><person xml:id="person__867"><persName><surname>Speiser</surname><forename>Paul</forename><roleName/></persName><birth/><death/></person><person xml:id="person__889"><persName><surname>Untermüller</surname><forename>Karl</forename><roleName/></persName><birth/><death/></person><person xml:id="person__891"><persName><surname>Vaugoin</surname><forename>Karl</forename><roleName/></persName><birth/><death/></person><person xml:id="person__902"><persName><surname>Weigl</surname><forename>Karl</forename><roleName/></persName><birth/><death/></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         </listOrg>
+      </back>
+  </text>
+</TEI>

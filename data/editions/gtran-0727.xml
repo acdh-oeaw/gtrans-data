@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0727.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0726.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0728.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Forderung der Kalkulantinnen des Postsparkassenamtes nach Einreihung in die XI. Rangklasse der Gruppe D nach sieben Dienstjahren</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2679</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>Bestand: Staatskanzlei - BKA/alt Varia 1919  Zwischenstaatliches Komitee; Verhandlungsschriften Nr. 26 - 50 zu den Sitzungen des zwischenstaatsamtlichen Komitees für Staatsbedienstetenangelegenheiten, Nr: 43., Unterpunkt: 01., Seite: 58ff</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__3257">Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>Sektionsrat Wilfling bringt die Forderung der Kalkulantinnen des Postsparkassenamtes nach Einreihung in die XI. Rangklasse der Gruppe D nach sieben Dienstjahren zur Kenntnis. Diese ca. 1300 Personen sind nach dem Gesetz vom 5. Februar 1919, StGBl. 100 in der XI. Rangklasse der Gruppe E nach 12 Dienstjahren eingereiht. Sie verrichten reine Manipulationstätigkeiten und müssen keine Fachprüfung ablegen. Diese Forderung hätte, wie Ministerialrat Pesta ausführt, Rückwirkungen auf andere Gruppen von Staatsbediensteten und würde der Besoldungsreform vorgreifen. Etwa auf die Eisenbahnbediensteten, die durchschnittlich höher zu bewertende Arbeit zu leisten hätten. Dagegen sprechen auch das Gerichtsorganisationsgesetz und die Dienstpragmatik, die eine gewisse Vorbildung vorsehen. Ablehnend äußern sich auch MinR Dr. Hödl und MinR Dr. Zweig sowie MinR. Dr. Davy und Sektionsrat Dr. Aigner. Weiters fordern die Beamten des Postsparkassenamtes des Status A und D insbesonders, dass die Kriegshalbjahre in die freien Beförderungsfristen eingerechnet werden. ANTWORT DER KOMMISSION: Das Komitee spricht sich gegen die Erfüllung dieser Forderung aus. Ebenso betrachtet es die Forderung der Postsparkassen-Beamten als unerfüllbar.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-04-26" notAfter="1919-04-26">
+                26. April 1919
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Beförderungsdienstfrist</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-27 09:06:24.763357+00:00" who="#pbecker"/><change when="2019-10-19 09:17:12.259719+00:00" who="#gsteiner"/><change when="2019-10-02 11:30:01.682950+00:00" who="#pbecker"/><change when="2019-03-20 12:13:33.733875+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__598"><persName><surname>Aigner</surname><forename>Artur</forename><roleName>Dr.</roleName></persName><birth when="1876-06-02">1876-06-02<placeName key="#place__580">Wien</placeName></birth><death when="1947-03-24">1947-03-24<placeName key="#place__580">Wien</placeName></death></person><person xml:id="person__633"><persName><surname>Davy</surname><forename>Robert Franz Ludwig</forename><roleName>Dr.</roleName></persName><birth when="1867-01-22">1867-01-22<placeName key="#place__478">Königsberg</placeName></birth><death when="1924-04-22">1924-04-22<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/126181365</idno></person><person xml:id="person__704"><persName><surname>Hödl</surname><forename>Richard</forename><roleName>Dr.</roleName></persName><birth/><death/></person><person xml:id="person__795"><persName><surname>Pesta</surname><forename>Karl</forename><roleName>Dr.</roleName></persName><birth when="1871-11-15">1871-11-15<placeName key="#place__460">Hard bei Bregenz</placeName></birth><death when="1945-12-03">1945-12-03<placeName key="#place__463">Innsbruck</placeName></death><idno>http://d-nb.info/gnd/1025804953</idno></person><person xml:id="person__910"><persName><surname>Wilfling</surname><forename>August</forename><roleName>Dr.</roleName></persName><birth/><death/></person><person xml:id="person__923"><persName><surname>Zweig</surname><forename>Egon</forename><roleName>Dr.</roleName></persName><birth/><death/></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         </listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1189"><orgName>Postsparkassenamt</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

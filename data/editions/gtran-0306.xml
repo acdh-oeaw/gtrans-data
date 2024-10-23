@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0306.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0305.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0307.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Beamtenfragen [begünstigte Kriegszeitanrechnung]</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/3704</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>ÖStA/AdR, Bundeskanzleramt, Kabinettsratsprotokolle 1. Republik, Protokoll Nr. 1 bis 35, 31. 10. 1918 bis 30. 1. 1919, Kabinettsratsprotokoll Nr. 23 vom 14. Dezember 1918, 13f.</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__1105">Kabinettsrat</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>StS Jukel vertritt die Auffassung, dass die Vollzugsanweisung des Staatsrates, betreffend die begünstigte Kriegszeitanrechnung schon bei der bevorstehenden Jännerbeförderung zu berücksichtigen sei, wohingegen der im Staatsamt für Verkehrswesen tätige Beirat die Auffassung teile, dass die Durchführungsvorschrift für das Eisenbahnpersonal, welche vom StA für Verkehrswesen auszuarbeiten sei, auf einschlägige Abänderungsanträge des Beirates Rücksicht zu nehmen habe, weshalb mit Rücksicht auf die Kürze der Zeit das Jänneravancement auf Grund der alten Formen durchzuführen sei. Der Kabinettsrat vertritt die Auffassung, dass die Vollzugsanweisung bereits jetzt anzuwenden sei.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1918-12-14" notAfter="1918-12-14">
+                14. Dezember 1918
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-10-12 12:27:55.969885+00:00" who="#pbecker"/><change when="2019-02-05 14:25:45.824575+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__609"><persName><surname>Beck von Managetta</surname><forename>Eugen</forename><roleName>Dr.</roleName></persName><birth when="1861-06-15">1861-06-15<placeName key="#place__524">Preßburg</placeName></birth><death when="1943-11-07">1943-11-07<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/137693036; https://www.deutsche-biographie.de/pnd137693036.html</idno></person><person xml:id="person__720"><persName><surname>Jukel</surname><forename>Carl</forename><roleName>Ing.</roleName></persName><birth when="1865-01-21">1865-01-21<placeName key="#place__580">Wien</placeName></birth><death when="1931-08-20">1931-08-20<placeName key="#place__540">Schönau an der Triesting</placeName></death><idno>http://d-nb.info/gnd/1012922529</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         </listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1105"><orgName>Kabinettsrat</orgName></org><org xml:id="org__1256"><orgName>Staatsrat</orgName></org><org xml:id="org__3703"><orgName>StA für Verkehrswesen (Beirat)</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0210.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0209.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0211.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Übernahme zweier Kärntner Wenden der Probieranstalt Ferlach in den deutschösterreichischen Staatsdienst</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2634</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>Bestand: Staatskanzlei - BKA/alt Varia 1919  Zwischenstaatliches Komitee; Verhandlungsschriften Nr. 26 - 50 zu den Sitzungen des zwischenstaatsamtlichen Komitees für Staatsbedienstetenangelegenheiten,Nr: 29., Unterpunkt: 01., Seite: 10f</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__3257">Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>StA für öffentliche Arbeiten: Zwei Angestellte der Ferlacher Probieranstalt wurden als vermeintliche Slowenen vom Dienste enthoben. Sie selbst bezeichneten sich als Kärntner Wenden, die bekanntermaßen überzeugte Anhänger des deutschösterreichischen Staatsgedankens sind und dies auch bei den kriegerischen Vorgängen, die zur Wiedergewinnung Ferlachs (Borovlje) führten, bewiesen. Die beiden enthobenen Angestellten haben sich aus eigenem Antrieb in die Ulanenkompanie der deutschösterreichischen Ferlacher Bürgerwehr einreihen lassen. Können die beiden Genannten im deutschösterreichischen Staatsdienste behalten, bzw. wieder aufgenommen werden? ANTWORT DER KOMMISSION: In der Tatsache, daß zu den Kärntner Wenden zu zählende Staatsbedienstete deutschösterreichischen Vereinigungen angehören, die zu dem Zwecke errichtet wurden, um das von Deutschösterreich in Anspruch genommene, jedoch umstrittene Gebiet gegen Einfälle von Krainer Slowenen mit Waffengewalt zu verteidigen, ist jedenfalls ein Umstand gelegen, der beim Vorliegen noch anderer in den Erläuterungen zu den Richtlinien angeführter, für die Beurteilung der Nationalität maßgebender Umstände dafür spricht, daß solche Staatsbediensteten der deutschen Nationalität zuzurechnen sind.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-03-07" notAfter="1919-03-07">
+                7. März 1919
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Bürgerkrieg</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-27 08:46:04.111936+00:00" who="#pbecker"/><change when="2019-10-18 19:00:16.175149+00:00" who="#gsteiner"/><change when="2019-10-13 15:35:17.497176+00:00" who="#pbecker"/><change when="2019-03-09 17:03:42.515389+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         </listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__442"><placeName>Ferlach</placeName><location><geo decls="#LatLng">46.496750000000 14.283070000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/7872761/</idno></place><place xml:id="place__471"><placeName>Kärnten</placeName><location><geo decls="#LatLng">46.750000000000 13.833330000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2774686/</idno></place><place xml:id="place__480"><placeName>Krain</placeName><idno type="GEONAMES"/></place><place xml:id="place__568"><placeName>umstrittenes Gebiet</placeName><idno type="GEONAMES"/></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1040"><orgName>Ferlacher Probieranstalt</orgName></org><org xml:id="org__1235"><orgName>Staatsamt für öffentliche Arbeiten</orgName></org><org xml:id="org__3301"><orgName>Deutschösterreichischer Staat</orgName></org><org xml:id="org__3803"><orgName>Ferlacher Bürgerwehr</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

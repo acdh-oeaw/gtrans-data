@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0433.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0432.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0434.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Antrag betreffend die Einberufung der im Felde gestandenen Juristen in den Staatsdienst unter Anrechnung der Kriegsdienstzeit</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/3711</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>ÖStA/AdR, Bundeskanzleramt, Kabinettsratsprotokolle 1. Republik, Protokoll Nr. 1 bis 35, 31. 10. 1918 bis 30. 1. 1919, Kabinettsratsprotokoll Nr. 24 vom 17. Dezember 1918, 10f.</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__1105">Kabinettsrat</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>Staatsrat Iro beantragt, dass jene Juristen, denen die früheren Ministerien die Zusicherung der Wiederaufnahme nach dem Kriegsdienst unter Anrechnung der Kriegsdienstzeit gemacht haben, in den deutschösterreichischen Staatsdienst aufzunehmen, soweit sie Deutschösterreicher sind. Der Kabinettsrat beschließt, den Antrag dem zwischenstaatsamtlichen Komitee für Staatsbedienstetenangelegenheiten weiterzuleiten.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1918-12-17" notAfter="1918-12-17">
+                17. Dezember 1918
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-10-12 12:44:45.184978+00:00" who="#pbecker"/><change when="2019-02-05 15:29:26.472016+00:00" who="#gsteiner"/><change when="2019-02-05 15:22:38.087919+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__712"><persName><surname>Iro</surname><forename>Karl</forename><roleName/></persName><birth when="1861-09-25">1861-09-25<placeName key="#place__438">Eger</placeName></birth><death when="1934-10-12">1934-10-12<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/101886573X</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         </listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1105"><orgName>Kabinettsrat</orgName></org><org xml:id="org__3257"><orgName>Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

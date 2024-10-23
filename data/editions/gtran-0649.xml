@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0649.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0648.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0650.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tschechische Eingriffe in den Wirkungskreis der Staatsbahndirektion Teplitz (Teplice)</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/3678</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>ÖStA/AdR, Bundeskanzleramt, Kabinettsratsprotokolle 1. Republik, Protokoll Nr. 1 bis 35, 31. 10. 1918 bis 30. 1. 1919, Kabinettsratsprotokoll Nr. 20 vom 2. Dezember 1918, 3f.</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__1105">Kabinettsrat</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>StS Jukel berichtet, dass die Generaldirektion der böhmischen Bahnen in Prag (Praha) die Staatsbahndirektion in Teplitz (Teplice) nicht anerkenne und den Staatsbahndirektor Dr. Geutebrück persönlich für Schäden verantwortlich mache. Alle Arbeiter der Werkstätte in Böhmisch-Leipa (Česká Lípa) seien aufgefordert worden, binnen drei Tagen zur Arbeit zurückzukehren, widrigenfalls sie entlassen würden. StS Jukel erbittet die Ermächtigung einer Weisung an Geutebrück, den Protest sowie die Drohungen der Generaldirektion in Prag (Praha) zurückzuweisen. Die Arbeiter in Böhmisch-Leipa (Česká Lípa) sollen das Gelöbnis auf den tschechischen Staat weiter verweigern. Daraus dürfe ihnen kein materieller Schaden entstehen. Der Kabinettsrat erteilt die Ermächtigungen.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1918-12-02" notAfter="1918-12-02">
+                2. Dezember 1918
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">tschechoslowak. Staatsdienst</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-13 16:23:07.804756+00:00" who="#pbecker"/><change when="2019-10-12 11:58:32.737072+00:00" who="#pbecker"/><change when="2019-01-31 12:10:47.891486+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__3677"><persName><surname>Basta</surname><forename/><roleName>Dr.</roleName></persName><birth/><death/></person><person xml:id="person__3676"><persName><surname>Geutebrück</surname><forename/><roleName>Dr.</roleName></persName><birth/><death/></person><person xml:id="person__720"><persName><surname>Jukel</surname><forename>Carl</forename><roleName>Ing.</roleName></persName><birth when="1865-01-21">1865-01-21<placeName key="#place__580">Wien</placeName></birth><death when="1931-08-20">1931-08-20<placeName key="#place__540">Schönau an der Triesting</placeName></death><idno>http://d-nb.info/gnd/1012922529</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__409"><placeName>Böhmisch-Leipa</placeName><location><geo decls="#LatLng">50.685510000000 14.537640000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3077929/</idno></place><place xml:id="place__523"><placeName>Prag</placeName><location><geo decls="#LatLng">50.088040000000 14.420760000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3067696/</idno></place><place xml:id="place__3172"><placeName>Teplitz</placeName><location><geo decls="#LatLng">50.640400000000 13.824510000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3064288/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1062"><orgName>Generaldirektion der tschechoslowakischen Staatsbahnen</orgName></org><org xml:id="org__1290"><orgName>tschechoslowakischer Staat</orgName></org><org xml:id="org__3273"><orgName>Nordbahn, verstaatlichte</orgName></org><org xml:id="org__3633"><orgName>Buschtehrader Eisenbahn</orgName></org><org xml:id="org__3675"><orgName>Staatsbahndirektion in Teplitz</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

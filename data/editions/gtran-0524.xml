@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0524.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0523.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0525.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ansuchen der Zwangspensionisten aller Kategorien um regierungsseitige Verfügungen behufs Milderung der ihnen erwachsenen Schädigung</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2653</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>Bestand: Staatskanzlei - BKA/alt Varia 1919  Zwischenstaatliches Komitee; Verhandlungsschriften Nr. 26 - 50 zu den Sitzungen des zwischenstaatsamtlichen Komitees für Staatsbedienstetenangelegenheiten, Nr: 33., Unterpunkt: 01., Seite: 26</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__3257">Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>Auftrag des Kabinettsrates, KRP Nr. 32: "Ansuchen der Zwangspensionisten aller Kategorien um regierungsseitige Verfügungen behufs Milderung der ihnen durch die vorzeitige Pensionierung erwachsenen Schädigung." StS Deutsch ergänzt den durch den Antrag, im Zusammenhang damit auch die Frage der Gleichstellung der Offiziere mit den Zivilstaatsbediensteten hinsichtlich des Ausmaßes der Ruhegenüsse zu beraten. ANTWORT DER KOMMISSION: Das Recht der Regierung, jedoch verdienen die Forderungen der Zwangspensionisten aufgrund ihrer Notlage Berücksichtigung.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-03-26" notAfter="1919-03-27">
+                26. und 27. März 1919
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Lebensumstände</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Memorandum</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-27 08:56:34.677653+00:00" who="#pbecker"/><change when="2019-10-24 12:19:40.722853+00:00" who="#pbecker"/><change when="2019-10-19 08:44:30.550077+00:00" who="#gsteiner"/><change when="2019-10-19 08:44:04.599140+00:00" who="#gsteiner"/><change when="2019-10-02 08:14:31.217101+00:00" who="#pbecker"/><change when="2019-03-12 14:51:49.012119+00:00" who="#gsteiner"/><change when="2019-03-12 14:33:50.796586+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__634"><persName><surname>Deutsch</surname><forename>Julius</forename><roleName>Dr.</roleName></persName><birth when="1884-02-02">1884-02-02<placeName key="#place__484">Lackenbach</placeName></birth><death when="1968-01-17">1968-01-17<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118678027</idno></person><person xml:id="person__820"><persName><surname>Renner</surname><forename>Karl</forename><roleName>Dr.</roleName></persName><birth when="1870-12-14">1870-12-14<placeName key="#place__570">Unter-Tannowitz</placeName></birth><death when="1950-12-31">1950-12-31<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118599739</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         </listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1007"><orgName>deutschösterr. Regierung</orgName></org><org xml:id="org__1031"><orgName>ehemals österr. Staat</orgName></org><org xml:id="org__1051"><orgName>fremdnationale Staaten</orgName></org><org xml:id="org__1097"><orgName>k.k. Finanzministerium</orgName></org><org xml:id="org__1105"><orgName>Kabinettsrat</orgName></org><org xml:id="org__1227"><orgName>Staatsamt für Heerwesen</orgName></org><org xml:id="org__3257"><orgName>Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</orgName></org><org xml:id="org__3301"><orgName>Deutschösterreichischer Staat</orgName></org><org xml:id="org__3303"><orgName>k.k. Ministerrat</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0295.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0294.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0296.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Begünstigte Anrechung der Kriegszeit für Telegraphenarbeiter in den höchsten Bezügen</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2539</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>Bestand: Staatskanzlei - BKA/alt Varia 1919  Zwischenstaatliches Komitee; Verhandlungsschriften Nr. 1 - 25 zu den Sitzungen des zwischenstaatsamtlichen Komitees für Staatsbedienstetenangelegenheiten, Nr: 03., Unterpunkt: 01., Seite: 8</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__3257">Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>Laut Note der deutschösterr. Generalpostdirektion wünschen die Telegraphenarbeiter in und außerhalb Wiens Maßnahmen dahingehend, dass die begünstigte Anrechnung der Kriegszeit auch für jene wirksam werde, die bereits in den höchsten Bezügen stehen. (Schaffung neuer Gehaltsstufen). Ministerialrat Pesta verweist darauf, dass auch die Eisenbahnarbeiter (Unterbeamte und Diener) beim Eisenbahnrat ein gleiches Begehren nach Gewährung von Zulagen gestelllt haben. ANTWORT DER KOMMISSION: Den Telegraphenarbeitern in und außerhalb von Wien wäre unvorgreiflich der weiteren Stellungnahmen und unter Vermeidung einer Schaffung neuer Gehaltsstufen ein entsprechender Betrag als Zulage zu gewähren. Die übrigen von der Arbeiterschaft gestellten Forderungen, die auf eine Ergänzung der Vollzugsanweisung betreffend die begünstigte Anrechnung der Kriegszeit abzielen, können erst auf Grundlage eines gegenwärtig nicht zu bestimmenden Überblickes über die erforderliche Grundlage in Beratung gezogen werden.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1918-12-14" notAfter="1918-12-14">
+                14. Dezember 1918
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-10-26 13:18:01.394687+00:00" who="#pbecker"/><change when="2019-10-18 12:31:08.908547+00:00" who="#gsteiner"/><change when="2019-09-21 17:36:27.398823+00:00" who="#pbecker"/><change when="2019-02-27 09:43:15.000095+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__795"><persName><surname>Pesta</surname><forename>Karl</forename><roleName>Dr.</roleName></persName><birth when="1871-11-15">1871-11-15<placeName key="#place__460">Hard bei Bregenz</placeName></birth><death when="1945-12-03">1945-12-03<placeName key="#place__463">Innsbruck</placeName></death><idno>http://d-nb.info/gnd/1025804953</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1006"><orgName>deutschösterr. Generalpostdirektion</orgName></org><org xml:id="org__1033"><orgName>Eisenbahnrat</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

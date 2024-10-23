@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0040.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0039.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0041.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Unterhaltszahlungen an deutschösterr. Finanzbeamte in Kaplitz (Kaplice)</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2800</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>Bestand: ÖStA/AdR, Bundeskanzleramt, Staatsratsprotokolle 1. Republik, Protokoll Nr. 36 - 50, 18. 11. 1918 - 29. 11. 1918; 39. Sitzung vom 20. Nov. 1918, S. 9f., Karton: 2</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__1256">Staatsrat</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>Die Finanzlandesdirektion in Prag telegraphiert, dass Unterhaltsauszahlungen an deutschösterr. Finanzbeamte im Steueramt Kaplitz (Kaplice) werden an das Bekenntnis zur Finanzlandesdirektion in Prag (Praha) gebunden. 
+StR Teufel beantragt, dass der von Deutschösterreich zu entsendende Beamte die notwendigen Weisungen und Aufklärungen gebe, dass Geldzuweisungen und -abfuhr von und nach Linz zu erfolgen habe. Das Gleiche gelte für die Auszahlung der Beamten- und Lehrergehalte.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1918-11-20" notAfter="1918-11-20">
+                20. Nov. 1918
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-10-22 08:51:01.978266+00:00" who="#gsteiner"/><change when="2019-10-20 07:34:02.958198+00:00" who="#gsteiner"/><change when="2019-10-13 15:41:16.354898+00:00" who="#pbecker"/><change when="2019-10-03 07:20:22.908029+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__879"><persName><surname>Teufel</surname><forename>Oskar</forename><roleName/></persName><birth when="1880-10-05">1880-10-05<placeName key="#place__595">Znaim</placeName></birth><death when="1946-01-26">1946-01-26<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/1027122671</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__469"><placeName>Kaplitz</placeName><location><geo decls="#LatLng">48.738810000000 14.494490000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3073862/</idno></place><place xml:id="place__490"><placeName>Linz</placeName><location><geo decls="#LatLng">48.306390000000 14.286110000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2772400/</idno></place><place xml:id="place__523"><placeName>Prag</placeName><location><geo decls="#LatLng">50.088040000000 14.420760000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3067696/</idno></place><place xml:id="place__567"><placeName>Tschechoslowakei</placeName><location><geo decls="#LatLng">50.082920000000 14.466720000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/8505031/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1046"><orgName>Finanzlandesdirektion Prag (Praha)</orgName></org><org xml:id="org__1129"><orgName>Land Oberösterreich</orgName></org><org xml:id="org__1276"><orgName>Steueramt Kaplitz (Kaplice)</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

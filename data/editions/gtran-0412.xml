@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0412.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0411.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0413.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Gemeinderat. Stenographischer Bericht über die öffentliche Sitzung vom 17. September 1920. 51</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#vhelfert">Helfert, Veronika</rs></editor><editor><rs ref="#tgarstenauer">Garstenauer, Therese</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2970</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Wiener Stadt- und Landesarchiv</repository>
+                    <msName>Bestand: Wiener Stadt- und Landesarchiv, Archivbibliothek, BiblM - M - Amtsperiodika, Verwaltungsberichte, Adressbücher, Signatur: M 599 1920/4, Punkt/Seite: 51; 2161</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Amtsblatteintrag</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents/></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#vhelfert #tgarstenauer">
+            <p>51. (P.Z.14384) „Dienstvorschrift“ für die Totengräber der nicht in Eigenregie der Gemeinde stehenden Friedhöfe wird genehmigt.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1920-09-17" notAfter="1920-09-17">
+                
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-10-09 10:47:54.665589+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         </listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         </listOrg>
+      </back>
+  </text>
+</TEI>

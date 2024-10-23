@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0463.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0462.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0464.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Frage der Übernahme eines ehemals österr. Beamtens (Armenopole), der den polnischen Staatsdienst ablehnt</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2563</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>Bestand: Staatskanzlei - BKA/alt Varia 1919  Zwischenstaatliches Komitee; Verhandlungsschriften Nr. 1 - 25 zu den Sitzungen des zwischenstaatsamtlichen Komitees für Staatsbedienstetenangelegenheiten, Nr: 12., Unterpunkt: 02., Seite: 27</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__3257">Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>StA für öffentliche Arbeiten: Wie ist ein ehemals österr. Beamter, der Armenopole ist, in der Bukowina (Bucovina) gedient hatte und die Übernahme in den polnischen Staat als seinen Anschauungen widersprechend nicht anstrebt, zu behandeln? ANTWORT DER KOMMISSION: Dieser Beamte ist gemäß den Richtlinien von seinem Dienste zu entheben und sind ihm Beihilfen pro Dezember 1918 und Jänner 1919 im Ausmaße der bisherigen Bezüge auszuzahlen. Die endgültige Behandlung ist der zwischenstaatlichen Regelung vorbehalten.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-01-09" notAfter="1919-01-09">
+                9. Jänner 1919
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">zwischenstaatliche Vereinbarung</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-27 08:09:23.674892+00:00" who="#pbecker"/><change when="2019-10-18 13:57:36.957456+00:00" who="#gsteiner"/><change when="2019-09-21 22:11:17.016844+00:00" who="#pbecker"/><change when="2019-03-04 18:32:33.640110+00:00" who="#gsteiner"/><change when="2019-03-04 18:31:56.998702+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         </listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__420"><placeName>Bukowina</placeName><location><geo decls="#LatLng">48.000000000000 25.500000000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/571096/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1184"><orgName>polnischer Staat</orgName></org><org xml:id="org__1235"><orgName>Staatsamt für öffentliche Arbeiten</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

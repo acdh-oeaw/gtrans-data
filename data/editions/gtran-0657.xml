@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0657.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0656.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0658.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Bitte der Gattin eines Kriegsgefangenen um Weiteranweisung der Bezüge</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2694</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>Bestand: Staatskanzlei - BKA/alt Varia 1919  Zwischenstaatliches Komitee; Verhandlungsschriften Nr. 26 - 50 zu den Sitzungen des zwischenstaatsamtlichen Komitees für Staatsbedienstetenangelegenheiten, Nr: 45., Unterpunkt: 06., Seite: 70</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__3257">Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>Die Gattin eines Finanzwachoberaufsehers aus Cervignano, der 1915 in Kriegsgefangenschaft geriet, erhielt die Bezüge von der Finanzlandesdirektion Triest (Trieste) nur bis November 1918. Sie bittet um Weiteranweisung ab 1. Dezember 1918 durch die Finanzlandesdirektion in Graz, diese bittet um Weisung. ANTWORT DER KOMMISSION: Unter der Voraussetzung, dass die deutsche Volkszugehörigkeit des Bediensteten festgestellt ist, obwaltet gegen die Auszahlung seiner bisherigen Bezüge als Beihilfe gegen Abrechnung an die Gattin kein Anstand.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-05-02" notAfter="1919-05-02">
+                2. Mai 1919
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-10-27 09:11:44.356246+00:00" who="#pbecker"/><change when="2019-10-19 08:42:25.147619+00:00" who="#gsteiner"/><change when="2019-10-02 12:02:56.018341+00:00" who="#pbecker"/><change when="2019-03-20 14:46:22.791347+00:00" who="#gsteiner"/><change when="2019-03-20 14:46:10.016721+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         </listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__422"><placeName>Cervignano del Friuli</placeName><location><geo decls="#LatLng">45.820820000000 13.339290000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3178992/</idno></place><place xml:id="place__453"><placeName>Graz</placeName><location><geo decls="#LatLng">47.066670000000 15.450000000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2778067/</idno></place><place xml:id="place__564"><placeName>Triest</placeName><location><geo decls="#LatLng">45.649530000000 13.776780000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3165185/</idno></place><place xml:id="place__3817"><placeName>Großklein</placeName><location><geo decls="#LatLng">46.736110000000 15.444440000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2777662/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1044"><orgName>Finanzlandesdirektion Graz</orgName></org><org xml:id="org__1047"><orgName>Finanzlandesdirektion Triest (Trieste)</orgName></org><org xml:id="org__3257"><orgName>Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

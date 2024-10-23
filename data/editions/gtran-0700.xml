@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0700.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0699.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0701.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">"Anarchisierung der Verwaltung", in: Reichspost, 6.IV.19</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#vhelfert">Helfert, Veronika</rs></editor><editor><rs ref="#tgarstenauer">Garstenauer, Therese</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2459</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Wiener Stadt- und Landesarchiv</repository>
+                    <msName>Bestand: VGA, Sozialdemokratische Parteistellen, Karton: Kt. 187, M 1346, Aktenzahl: keine</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Zeitungsartikel (Schnittarchiv)</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents/></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#vhelfert #tgarstenauer">
+            <p>Artikel gegen die Zentralisierungspläne der Sozialdemokratie, deren Politik ohnehin Österreich nicht zusammenhalten könne.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-04-06" notAfter="1919-04-06">
+                6.IV.19
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Demokratisierung</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-09-21 05:17:31.716548+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         </listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__430"><placeName>Deutschösterreich</placeName><idno type="GEONAMES"/></place><place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         </listOrg>
+      </back>
+  </text>
+</TEI>

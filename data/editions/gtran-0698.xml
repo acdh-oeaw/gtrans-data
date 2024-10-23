@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0698.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0697.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0699.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Gesetz über die Gewährung von Teuerungszulagen für das erste Halbjahr 1919 an die aktiven und pensionierten Lehrpersonen der öffentlichen Volks- und Bürgerschulen sowie an die Witwen und Waisen nach solchen Lehrpersonen</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#kmegner">Megner, Karl</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/3191</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichische Nationalbibliothek</repository>
+                    <msName>Bestand: Staatsgesetzblatt für den Staat Deutschösterreich 1918–1920, Signatur: StGBl. Nr. 40/1919 (PNV: 158 u. 189  AB - S. 15)</msName>
+               <idno>http://alex.onb.ac.at/cgi-content/alex?apm=0&amp;aid=sgb&amp;datum=19190004&amp;seite=00000071&amp;size=45</idno></msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Gesetzblatt</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents/></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#kmegner">
+            <p>"Teuerungszulagen" waren im Ersten Weltkrieg und vor allem nach 1918 für alle Berufsgruppen des öffentlichen Dienstes sehr zahlreich. Jene für Lehrer vom 25. Jänner 1919 dient als frühes Beispiel dafür, dass die "rangmäßige" Stellung finanziell nun bei weitem weniger bedeutend war als die Anzahl der Kinder (Personen), für die ein Lehrer zu sorgen hatte. Vor 1914 war nur die rangmäßige Stellung des Lehrers oder Beamten für die Höhe seines Bezugs entscheidend gewesen, unabhängig davon, ob er alleinstehend war oder viele Kinder zu versorgen hatte. Nun verdrängte das Alimentations- völlig das Leistungsprinzip. Und noch etwas fällt auf: Das Lehrpersonal der Elementarschulen war eine der ersten Gruppen des öffentlichen Dienstes, an die die Politik finanziell dachte. War dies ein Zufall oder wollte die Politik diesen Personenkreis, ein wichtiger sozialer Multiplikator,  dem neuen Staat besonders verpflichten? Teuerungszulagen späterer Jahre werden nur in Auswahl zitiert.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-01-25" notAfter="1919-01-25">
+                1919-01-25
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-10-10 08:57:36.330494+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         </listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         </listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1194"><orgName>Provisorische Nationalversammlung</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

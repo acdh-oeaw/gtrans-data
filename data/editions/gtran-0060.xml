@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0060.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0059.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0061.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Stadtrat. Bericht über die Sitzung vom 18. März 1920. Anfrage des StR Vaugoin</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#vhelfert">Helfert, Veronika</rs></editor><editor><rs ref="#tgarstenauer">Garstenauer, Therese</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2944</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Wiener Stadt- und Landesarchiv</repository>
+                    <msName>Bestand: Wiener Stadt- und Landesarchiv, Archivbibliothek, BiblM - M - Amtsperiodika, Verwaltungsberichte, Adressbücher, Signatur: M 599 29/1 1. Ex., Punkt/Seite: o.P.; 865</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Amtsblatteintrag</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents/></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#vhelfert #tgarstenauer">
+            <p>Anfrage Vaugoins zur Untersagung von Anbringen wie jener Kundmachung in den Räumen des Straßenbahnhofes Hernals, in der zu einer Versammlungssprengung einer "Bürger- und Ständeversammlung" aufgerufen wird. Beantwortung in der Folgesitzung angekündigt.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1920-03-18" notAfter="1920-03-18">
+                
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Protest</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-04 12:59:26.723284+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__891"><persName><surname>Vaugoin</surname><forename>Karl</forename><roleName/></persName><birth/><death/></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place><place xml:id="place__583"><placeName>Hernals</placeName><location><geo decls="#LatLng">48.233330000000 16.266670000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2776488/</idno></place><place xml:id="place__588"><placeName>Wien-Währing</placeName><location><geo decls="#LatLng">48.233330000000 16.316670000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2762091/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1277"><orgName>Straßenbahnen (städtische)</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

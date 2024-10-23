@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0465.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0464.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0466.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Versetzung von Richtern in den dauernden Ruhestand vor dem vollendeten 60. Lebensjahr</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/3699</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>ÖStA/AdR, Bundeskanzleramt, Kabinettsratsprotokolle 1. Republik, Protokoll Nr. 1 bis 35, 31. 10. 1918 bis 30. 1. 1919, Kabinettsratsprotokoll Nr. 23 vom 14. Dezember 1918, 4f.</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><p>vgl. Grundgesetz über die richterliche Gewalt, StGBl. 38/1918 und Gesetz über die aus Anlaß von Änderungen der Gerichtsverfassung erforderlichen Maßnahmen, StGBl. 39/1918</p><msItem><author ref="#org__1105">Kabinettsrat</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>StR Ofner macht auf einen Widerspruch in den Richtlinien zur Pensionierung von Staatsbediensteten, die das 60. Lebensjahr erreicht haben und den vollen Anspruch auf Ruhegenuss haben und dem Grundgesetz über die richterliche Gewalt und dem Gesetz vom 22. November 1918, StGBl. 39/1918 (Gesetz über die aus Anlaß von Änderungen der Gerichtsverfassung erforderlichen Maßnahmen) hin, da im Grundgesetz ausdrücklich die Versetzung in den Ruhestand mit 65 Jahren festgesetzt sei. Ein solcher Widerspruch wird schließlich vom Kabinettsrat verneint, da auch das Grundgesetz Ausnahmen vorsehe und ebenso die Richtlinien Ausnahmen in besonders berücksichtigungswürdigen Fällen vorsehen. Die Entscheidung über solche Ausnahmen sei beim Staatsratsdirektorium einzuholen.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1918-12-14" notAfter="1918-12-14">
+                14. Dezember 1918
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Pensionierung</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-12 12:21:22.610323+00:00" who="#pbecker"/><change when="2019-02-04 12:01:09.230245+00:00" who="#gsteiner"/><change when="2019-02-04 11:40:32.000759+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__609"><persName><surname>Beck von Managetta</surname><forename>Eugen</forename><roleName>Dr.</roleName></persName><birth when="1861-06-15">1861-06-15<placeName key="#place__524">Preßburg</placeName></birth><death when="1943-11-07">1943-11-07<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/137693036; https://www.deutsche-biographie.de/pnd137693036.html</idno></person><person xml:id="person__786"><persName><surname>Ofner</surname><forename>Julius</forename><roleName>Dr.</roleName></persName><birth when="1845-08-20">1845-08-20<placeName key="#place__461">Horschenz</placeName></birth><death when="1924-09-26">1924-09-26<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118831240</idno></person><person xml:id="person__820"><persName><surname>Renner</surname><forename>Karl</forename><roleName>Dr.</roleName></persName><birth when="1870-12-14">1870-12-14<placeName key="#place__570">Unter-Tannowitz</placeName></birth><death when="1950-12-31">1950-12-31<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118599739</idno></person><person xml:id="person__826"><persName><surname>Roller</surname><forename>Julius</forename><roleName>Dr.</roleName></persName><birth when="1862-10-28">1862-10-28<placeName key="#place__560">Thomigsdorf</placeName></birth><death when="1946-12-27">1946-12-27<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/1028281269</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         </listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1105"><orgName>Kabinettsrat</orgName></org><org xml:id="org__1257"><orgName>Staatsratsdirektorium</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

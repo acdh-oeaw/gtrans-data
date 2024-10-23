@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0338.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0337.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0339.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Übereinkommen mit dem Unterausschuss des Soldatenrates in den Militärsanitätsanstalten betreffend den Abbau des überzähligen Personals in diesen Anstalten</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/3753</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>ÖStA/AdR, Bundeskanzleramt, Kabinettsratsprotokolle 1. Republik, Protokoll Nr. 36 bis 55, 31. 1. 1919 bis 28. 3. 1919, Kabinettsratsprotokoll Nr. 37 vom 3. Februar 1919, 4f.</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__1105">Kabinettsrat</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>StS Kaup berichtet von einer Einigung mit dem Soldatenrat der Militärsanitätsanstalten betreffend den Abbau des überzähligen Personals. Demnach sollen Personen, die nachweisbar einem Zivilberuf nachgehen können, entlassen werden, und zwar gegen eine Entschädigung in der Höhe der zuletzt bezogenen Tages-Gesamtbezüge für 20 Tage; weiters soll die Überleitung der geeigneten und für den späteren Dienst notwendigen Personen in die Zivildienststellung nach den ortsüblichen Gehältern und Löhnen und drittens sollen die noch überzähligen Personen bis 28. Februar 1919 auf vier Wochen gekündigt werden.
+
+Kaup gibt auch bekannt, dass die Umwandlung der Militär-Sanitätsanstalten in zivile Sanitätsanstalten für Heeresangehörige mit 28. Februar 1919 vollzogen sein wird.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-02-03" notAfter="1919-02-03">
+                3. Februar 1919
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-10-12 22:02:19.094697+00:00" who="#pbecker"/><change when="2019-02-11 11:17:26.192471+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__3630"><persName><surname>Kaup</surname><forename>Ignaz</forename><roleName>Dr.</roleName></persName><birth when="1870-01-11">1870-01-11<placeName key="#place__3638">Marburg an der Lahn</placeName></birth><death when="1944-03-25">1944-03-25<placeName key="#place__505">München</placeName></death><idno>http://d-nb.info/gnd/117503622</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         </listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__3750"><orgName>Soldatenrat der Militärsanitätsanstalten</orgName></org><org xml:id="org__3751"><orgName>Militärsanitätsanstalten</orgName></org><org xml:id="org__3752"><orgName>zivile Sanitätsanstalten für Heeresangehörige</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

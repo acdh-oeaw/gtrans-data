@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0910.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0909.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0911.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Übernahme von Postenzusicherungen des ehemaligen österreichischen Staates</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2819</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>Bestand: ÖStA/AdR, Bundeskanzleramt, Staatsratsprotokolle 1. Republik, Protokoll Nr. 36 - 50, 18. 11. 1918 - 29. 11. 1918; 43. Sitzung vom 23. November 1918, S. 4f., Karton: 2</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__1256">Staatsrat</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>Dem ehemaligen k.k. Minister für soziale Fürsorge Viktor Mataja wurde vom ehemaligen österreichischen Staat eine Rückkehr auf die Stelle des Präsidenten der statistischen Zentralkommission zugesichert. Staatskanzler Renner warnt vor Übernahmen von Zusicherungen des ehemaligen österreichischen Staates. Diese könnten prinzipiell nicht gemacht werden. Darüber hat das Direktorium des Staatsrates zu entscheiden.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1918-11-23" notAfter="1918-11-23">
+                23. November 1918 Vormittag
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Ernennung</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-22 11:33:41.375633+00:00" who="#gsteiner"/><change when="2019-10-03 08:30:52.056792+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__765"><persName><surname>Mataja</surname><forename>Viktor</forename><roleName>Dr.</roleName></persName><birth when="1857-07-20">1857-07-20<placeName key="#place__580">Wien</placeName></birth><death when="1934-06-19">1934-06-19<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/11683742X</idno></person><person xml:id="person__820"><persName><surname>Renner</surname><forename>Karl</forename><roleName>Dr.</roleName></persName><birth when="1870-12-14">1870-12-14<placeName key="#place__570">Unter-Tannowitz</placeName></birth><death when="1950-12-31">1950-12-31<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118599739</idno></person><person xml:id="person__872"><persName><surname>Steinwender</surname><forename>Otto</forename><roleName>Dr.</roleName></persName><birth when="1847-02-17">1847-02-17<placeName key="#place__473">Klagenfurt</placeName></birth><death when="1921-03-20">1921-03-20<placeName key="#place__575">Villach</placeName></death><idno>http://d-nb.info/gnd/120148269</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         </listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1020"><orgName>k. k. Ministerium für soziale Fürsorge</orgName></org><org xml:id="org__1031"><orgName>ehemals österr. Staat</orgName></org><org xml:id="org__1097"><orgName>k.k. Finanzministerium</orgName></org><org xml:id="org__1257"><orgName>Staatsratsdirektorium</orgName></org><org xml:id="org__1267"><orgName>statistische Zentralkommission</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0636.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0635.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0637.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Gemeinderat. Stenographischer Bericht über die Sitzung vom 27. Februar 1919. 29. Antrag des GR. Angeli</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#vhelfert">Helfert, Veronika</rs></editor><editor><rs ref="#tgarstenauer">Garstenauer, Therese</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/3009</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Wiener Stadt- und Landesarchiv</repository>
+                    <msName>Bestand: Wiener Stadt- und Landesarchiv, Archivbibliothek, BiblM - M - Amtsperiodika, Verwaltungsberichte, Adressbücher, Signatur: M 599 28/1 1. Ex., Punkt/Seite: 29; 551</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Amtsblatteintrag</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents/></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#vhelfert #tgarstenauer">
+            <p>29. Antrag des GR Angeli: Abschaffung des Titels "Diener" für die städtischen Bediensteten und Ersetzung durch Gehilfe: im Magistrat: Amtsgehilfe, bei den Kassen und jene, die mit Inkasso befasst sind: "Kassengehilfe"; Unternehmungen: "Bureaugehilfe"; beim Marktamt: "Marktamtsaufseher" und "Marktamtsgehilfe"; in Schulen: "Schulwart"; in allen nicht genannten Feldern sinngemäß Gehilfe statt "Diener". BM: An den Stadtrat.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-02-27" notAfter="1919-02-27">
+                
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Demokratisierung</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-09 15:17:43.362917+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__601"><persName><surname>Angeli</surname><forename>Hans</forename><roleName/></persName><birth when="1859-09-03">1859-09-03<placeName key="#place__3111">St. Jakob bei Bozen</placeName></birth><death when="1925-06-01">1925-06-01<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/104176913X</idno></person><person xml:id="person__903"><persName><surname>Weiskirchner</surname><forename>Richard</forename><roleName>DDr.</roleName></persName><birth when="1861-03-24">1861-03-24<placeName key="#place__580">Wien</placeName></birth><death when="1926-04-30">1926-04-30<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/117278602</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         </listOrg>
+      </back>
+  </text>
+</TEI>

@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0022.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0021.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0023.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Die letzte Tat [Behandlung der Forderung der Beamtenschaft nach Teuerungszulage im Abgeordnetenhaus und Verhandlungen über die Kriegsdienstzeitanrechnung]</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/3481</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Beamten-Zeitung. Zeitschrift des Ersten allgemeinen Beamten-Vereines der österr.-ungarischen Monarchie. Organ für die Gesamtinteressen der Beamten aller Klassen, Erste allgemeiner Beamten-Verein (Hg.), Wien, 49. Jahrgang 1918</repository>
+                    <msName>Beamten-Zeitung, 31. 10. 1918, 203.</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Zeitungsartikel</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#person__3575"> K. Sch.</author></msItem><msItem><author ref="#org__3496">Erster allgemeiner Beamten-Verein</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>Bericht über die Behandlung der Forderung der Staatsbeamtenschaft nach einer Erhöhung der Teuerungszulage um 100 %. Das Abgeordnetenhaus hatte 50 % beschlossen. Die Regierung hatte nur 25 % bewilligt. In der Sitzung des Staatsangestelltenausschusses des Abgeordnetenhauses vom 3. Oktober 1918 wurde der Eindruck erweckt, als sei an materiellen Zuwendungen an die Staatsangestellten schon viel geschehen, um von den Geldforderungen abzulenken. In der Sitzung des Ausschusses vom 4. Oktober 1918 erklärten Ministerpräsident Hussarek und Finanzminister Wimmer, dem Beschluss des Abgeordnetenhauses nur dann nähertreten zu können, wenn dieses die Steuerpläne des Finanzministers unterstütze. Es wurde auf die Frage der Anrechnung der Kriegsjahre in der Folge verhandelt und am 22. Oktober 1918 vom Staatsangestelltenausschuss angenommen.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1918-10-31" notAfter="1918-10-31">
+                31. Oktober 1918
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Vorrückung</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Beamtenorganisation</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Staatsbedienstetenorganisationen</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-11 09:33:14.710900+00:00" who="#pbecker"/><change when="2019-01-17 09:46:57.920364+00:00" who="#gsteiner"/><change when="2019-01-16 09:54:33.473157+00:00" who="#gsteiner"/><change when="2019-01-10 11:47:39.379365+00:00" who="#gsteiner"/><change when="2019-01-10 11:28:57.937171+00:00" who="#gsteiner"/><change when="2019-01-10 11:22:36.073122+00:00" who="#gsteiner"/><change when="2019-01-10 11:15:24.090082+00:00" who="#gsteiner"/><change when="2019-01-10 09:45:09.534628+00:00" who="#gsteiner"/><change when="2019-01-09 09:10:23.955214+00:00" who="#gsteiner"/><change when="2019-01-09 09:09:46.960229+00:00" who="#gsteiner"/><change when="2019-01-08 16:09:15.673548+00:00" who="#gsteiner"/><change when="2019-01-08 15:20:19.199499+00:00" who="#gsteiner"/><change when="2019-01-08 14:17:53.864616+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__609"><persName><surname>Beck von Managetta</surname><forename>Eugen</forename><roleName>Dr.</roleName></persName><birth when="1861-06-15">1861-06-15<placeName key="#place__524">Preßburg</placeName></birth><death when="1943-11-07">1943-11-07<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/137693036; https://www.deutsche-biographie.de/pnd137693036.html</idno></person><person xml:id="person__3483"><persName><surname>d'Elvert</surname><forename>Heinrich</forename><roleName>Dr.</roleName></persName><birth when="1853-04-04">1853-04-04<placeName key="#place__416">Brünn</placeName></birth><death when="1926-04-07">1926-04-07<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/1080132759</idno></person><person xml:id="person__652"><persName><surname>Forstner</surname><forename>August</forename><roleName/></persName><birth when="1876-07-29">1876-07-29<placeName key="#place__580">Wien</placeName></birth><death when="1941-02-14">1941-02-14<placeName key="#place__3118">Wolfpassing bei Zeiselmauer</placeName></death><idno>http://d-nb.info/gnd/14403347X</idno></person><person xml:id="person__3490"><persName><surname>Gayer von</surname><forename>Edmund</forename><roleName/></persName><birth when="1860-11-07">1860-11-07<placeName key="#place__3489">Ober-Moschtienitz</placeName></birth><death when="1952-08-18">1952-08-18<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/136375723</idno></person><person xml:id="person__3485"><persName><surname>Gurtner</surname><forename/><roleName>Dr.</roleName></persName><birth/><death/></person><person xml:id="person__693"><persName><surname>Heine</surname><forename>Rudolf</forename><roleName>Dipl.-Ing.</roleName></persName><birth when="1877-12-14">1877-12-14<placeName key="#place__532">Rumburg</placeName></birth><death when="1949-12-10">1949-12-10<placeName key="#place__580">Wien</placeName></death><idno>https://de.wikipedia.org/wiki/Rudolf_Heine</idno></person><person xml:id="person__3498"><persName><surname>Held</surname><forename>Franz Xaver</forename><roleName>Professor</roleName></persName><birth when="1852-11-04">1852-11-04<placeName key="#place__490">Linz</placeName></birth><death when="1932-04-12">1932-04-12<placeName key="#place__453">Graz</placeName></death><idno>https://de.wikipedia.org/wiki/Franz_Held_(Politiker)</idno></person><person xml:id="person__705"><persName><surname>Hoheisl</surname><forename>Konrad</forename><roleName>Dr.</roleName></persName><birth when="1862-11-12">1862-11-12<placeName key="#place__400">Alt-Rothwasser</placeName></birth><death when="1930-09-15">1930-09-15<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/131556789</idno></person><person xml:id="person__3486"><persName><surname>Hussarek von Heinlein</surname><forename>Max</forename><roleName>Dr.</roleName></persName><birth when="1865-05-03">1865-05-03<placeName key="#place__3155">Bratislava</placeName></birth><death when="1935-03-07">1935-03-07<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118910930</idno></person><person xml:id="person__3497"><persName><surname>Müller</surname><forename/><roleName/></persName><birth/><death/></person><person xml:id="person__3491"><persName><surname>Paul</surname><forename>Ludwig</forename><roleName>Dr.</roleName></persName><birth when="1864-09-16">1864-09-16<placeName key="#place__580">Wien</placeName></birth><death when="1920-07-01">1920-07-01<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/1025496779</idno></person><person xml:id="person__826"><persName><surname>Roller</surname><forename>Julius</forename><roleName>Dr.</roleName></persName><birth when="1862-10-28">1862-10-28<placeName key="#place__560">Thomigsdorf</placeName></birth><death when="1946-12-27">1946-12-27<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/1028281269</idno></person><person xml:id="person__3484"><persName><surname>Schneider von</surname><forename/><roleName>Dr.</roleName></persName><birth/><death/></person><person xml:id="person__3284"><persName><surname>Stöckler</surname><forename>Josef</forename><roleName/></persName><birth when="1866-06-08">1866-06-08<placeName key="#place__3283">St. Valentin (NÖ)</placeName></birth><death when="1936-12-09">1936-12-09<placeName key="#place__3283">St. Valentin (NÖ)</placeName></death><idno>http://d-nb.info/gnd/103681033X</idno></person><person xml:id="person__3334"><persName><surname>Waber</surname><forename>Leopold</forename><roleName>Dr.</roleName></persName><birth/><death/><idno>https://de.wikipedia.org/wiki/Leopold_Waber http://d-nb.info/gnd/130170429</idno></person><person xml:id="person__910"><persName><surname>Wilfling</surname><forename>August</forename><roleName>Dr.</roleName></persName><birth/><death/></person><person xml:id="person__3488"><persName><surname>Wimmer von</surname><forename>Ferdinand</forename><roleName>Dr.</roleName></persName><birth when="1860-12-18">1860-12-18<placeName key="#place__519">Persenbeug</placeName></birth><death when="1919-11-03">1919-11-03<placeName key="#place__3487">Achenkirchen</placeName></death><idno>https://tools.wmflabs.org/persondata/p/Ferdinand_von_Wimmer</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         </listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1029"><orgName>ehemals österreichisch-ungarische Monarchie</orgName></org><org xml:id="org__1030"><orgName>k.k. Regierung</orgName></org><org xml:id="org__3424"><orgName>Abgeordnetenhaus des Reichsrats</orgName></org><org xml:id="org__3482"><orgName>Abgeordnetenhaus des Reichsrats (Staatsangestelltenausschuss)</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

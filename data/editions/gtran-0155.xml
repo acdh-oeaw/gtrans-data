@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0155.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0154.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0156.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Pensionsbegünstigungsgesetz</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#kmegner">Megner, Karl</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/3202</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichische Nationalbibliothek</repository>
+                    <msName>Bestand: Staatsgesetzblatt für den Staat Deutschösterreich 1918–1920, Signatur: StGBl. Nr. 411/1919 (KNV: 324 AB 360 S. 28.)</msName>
+               <idno>http://alex.onb.ac.at/cgi-content/alex?aid=sgb&amp;datum=1919&amp;page=1094&amp;size=45</idno></msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Gesetzblatt</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents/></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#kmegner">
+            <p>Das Beamtenkomitee hatte Vorschläge ausgearbeitet (Protokollnr. 39 vom 12.4.1919), durch Pensionierungen die große Anzahl der aktiven Beamter zu vermindern. Mit dem vorliegenden Gesetz wurde jenen Beamten, die zwar mehr als 75%, aber weniger als 100% Ruhegenussbemessungsgrundlage erreicht hatten, gestattet, um ihre Versetzung in den Ruhestand anzusuchen. Einige "Privilegien" wurden zudem gewährt (begünstigte Anrechnung der Kriegsdienstzeit, letzte begünstigte Zeitvorrückung usw.). Auch einmalige Abfertigungen waren möglich, wenn noch kein Pensionsanspruch bestand. Ex lege waren auf jeden Fall Beamte zu pensionieren, die bereits den vollen Anspruch auf ihren Ruhegenuss erreicht hatten, auch dann, wenn sie noch nicht das 60. Lebensjahr überschritten hatten. Vgl. Hafner (1990), Wandel, 88-92. Wenn die Pensionierung ex lege erfolgte, konnte der Bedienstete nichts dagegen unternehmen. Die Freiwilligen haben ihren Schritt bald bitter bereut. Die einsetzende Hyperinflation traf sie noch mehr als die aktiven Kollegen, weil es für Pensionisten nur unzureichenden Inflationsausgleich gab. Quellen sprechen von extremer Pauperisierung, von verhungernden Pensionisten. Vgl. Megner (1985); Staatsbeamte, Anm. 78). Gesamt gesehen, urteilt Hafner, war das Pensionsbegünstigungsgesetz ein Misserfolg. Die Fristen waren viel zu kurz bemessen, der Informationsfluss war nicht ausreichend und tatsächlich "zugegriffen" haben vor allem jene Aktiven, die wussten, dass die Tage ihrer Berufstätigkeit gezählt waren.
+In schweren Krisenjahren (mit Systembrüchen) lässt sich aber deutlich erkennen, dass traditionell-bürokratische Steuerungsmechanismen zur Eindämmung der Katastrophen bei der Besoldung des öffentlichen Dienstes völlig versagt haben. Sowohl beim Staatsbankrott 1811, wie auch in den Jahren nach 1918 und, zum dritten Mal, nach 1945, wurden die öffentlich-rechtlichen Dienstnehmer extrem geschädigt.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-07-30" notAfter="1919-07-30">
+                1919-07-30
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Ruhestand</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Pauperisierung</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-10 09:57:50.308188+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         </listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         </listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         </listOrg>
+      </back>
+  </text>
+</TEI>

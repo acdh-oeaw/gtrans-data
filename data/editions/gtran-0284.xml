@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0284.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0283.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0285.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Reform der allgemeinen Dienstpragmatik. Aufzeichnungen über die Sitzungen des Unterausschusses zur Beratung der einheitlichen Dienstordnung für die Gemeinde-Angestellten. 2. Sitzung am Donnerstag, den 10. April 1919</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#vhelfert">Helfert, Veronika</rs></editor><editor><rs ref="#tgarstenauer">Garstenauer, Therese</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2479</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Wiener Stadt- und Landesarchiv</repository>
+                    <msName>Bestand: Wiener Stadt- und Landesarchiv, 1.5.3 Magistratsdirektion, Karton: #NR, Aktenzahl: 2621/1919 [3]</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Akt</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents/></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#vhelfert #tgarstenauer">
+            <p>Aufzeichnung (Protokoll) der zweiten Sitzung des Unterausschusses zur Beratung der einheitlichen Dienstordnung für die Gemeinde-Angestellten am 10. April 1919, in der der Branddirektor Hugo Jenisch (städtische Feuerwehr) Abänderungsanträge zur Dienstordnung betreffend der Feuerwehr vorträgt. Nach einer Debatte über Formulierungen und inhaltliche Punkte werden Absätze zur Dienstvorschrift für die Feuerwehr eingefügt. Weitere Punkte in der Tagesordnung sind jene zur Wahl der Personalvertretungen sowie die Teilnahme des Magistratsdirektors und der "Amts- und Werksdirektoren" bei den Sitzungen der gemeinderätlichen Personalkommission, was nach Diskussion als Teilnahme mit beratender Funktion beschlossen wird. Letzter Punkt der Sitzung sind Beratungen über den Abschnitt III (Pflichten).</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-04-10" notAfter="1919-04-10">
+                1919-04-10
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Personalvertretung</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-09-21 08:05:20.660218+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__619"><persName><surname>Brabbée</surname><forename>Richard</forename><roleName>Baurat</roleName></persName><birth/><death/></person><person xml:id="person__666"><persName><surname>Gmeiner</surname><forename>Wilhelm</forename><roleName>Magistratsrat</roleName></persName><birth/><death/></person><person xml:id="person__716"><persName><surname>Jenisch</surname><forename>Hugo</forename><roleName>Brand-Direktor</roleName></persName><birth/><death/></person><person xml:id="person__734"><persName><surname>Klein</surname><forename>Karl</forename><roleName>Ober-Kommissär Dr.</roleName></persName><birth/><death/></person><person xml:id="person__736"><persName><surname>Knall</surname><forename>Adolf</forename><roleName>Zentral-Inspektor Dr.</roleName></persName><birth/><death/></person><person xml:id="person__737"><persName><surname>Koniakowski</surname><forename>Jaroslav</forename><roleName>Vize-Inspektor</roleName></persName><birth/><death/></person><person xml:id="person__752"><persName><surname>Lasch</surname><forename>Eduard</forename><roleName>Bau-Inspektor Dipl.-Ing.</roleName></persName><birth when="1875-05-26">1875-05-26<placeName key="#place__580">Wien</placeName></birth><death when="1942-07-28">1942-07-28<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/1111041954</idno></person><person xml:id="person__763"><persName><surname>Masopust</surname><forename>Josef</forename><roleName>Mag. Koär.Dr.</roleName></persName><birth><placeName key="#place__526">Rann</placeName></birth><death/></person><person xml:id="person__768"><persName><surname>Mayer</surname><forename>Richard</forename><roleName>Branddirektor-Stellvertreter Ober Inspektor</roleName></persName><birth/><death/></person><person xml:id="person__886"><persName><surname>Trnka</surname><forename>Leopold</forename><roleName>Oberbaurat</roleName></persName><birth><placeName key="#place__580">Wien</placeName></birth><death/></person><person xml:id="person__892"><persName><surname>Voit</surname><forename>Wihlelm</forename><roleName>Oberbaurat</roleName></persName><birth/><death/></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1034"><orgName>Elektrizitätswerke (städtische)</orgName></org><org xml:id="org__1041"><orgName>Feuerwehr (städtische)</orgName></org><org xml:id="org__1277"><orgName>Straßenbahnen (städtische)</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

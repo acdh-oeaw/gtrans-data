@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0443.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0442.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0444.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Versetzung von Staatsbahnbediensteten deutscher Nation in rein tschechisches Gebiet und deren Ersetzung durch tschechische Bedienstete</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2639</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>Bestand: Staatskanzlei - BKA/alt Varia 1919  Zwischenstaatliches Komitee; Verhandlungsschriften Nr. 26 - 50 zu den Sitzungen des zwischenstaatsamtlichen Komitees für Staatsbedienstetenangelegenheiten, Nr: 30., Unterpunkt: 05., Seite: 16</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__3257">Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>Das StA für Verkehrswesen hat die Nachricht erhalten, dass in Deutschböhmen Staatsbahnbedienstete deutscher Nationalität aus den von den Tschecho-Slowaken besetzten Gebietsteilen in das geschlossene tschechische Gebiet versetzt werden. Diese versetzten Staatsbahnbediensteten deutscher Nationalität werden durch tschechische  Staatsbahnbedienstete ersetzt. Welche Schritte sind gegen dieses Vorgehen einzuleiten. ANTWORT DER KOMMISSION: Das StA des Äußern wäre zwecks Erhebung von Protest sofort zu verständigen. Ebenso die Sudetenabteilung der Staatskanzlei. Endlich wäre noch gegen dieses Vorgehen eine unmittelbare Vorstellung beim tschechoslowakischen Eisenbahnministerium in Prag (Praha) zu erheben.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-03-10" notAfter="1919-03-10">
+                10. März 1919
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Versetzung</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Repression</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-27 08:47:44.090659+00:00" who="#pbecker"/><change when="2019-10-19 08:17:06.394783+00:00" who="#gsteiner"/><change when="2019-10-01 14:05:46.291387+00:00" who="#pbecker"/><change when="2019-03-12 11:12:40.482017+00:00" who="#gsteiner"/><change when="2019-03-09 17:50:44.475983+00:00" who="#gsteiner"/><change when="2018-12-21 12:40:58.914033+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         </listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__427"><placeName>Deutschböhmen</placeName><idno type="GEONAMES"/></place><place xml:id="place__523"><placeName>Prag</placeName><location><geo decls="#LatLng">50.088040000000 14.420760000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3067696/</idno></place><place xml:id="place__566"><placeName>tschech. Gebiet</placeName><idno type="GEONAMES"/></place><place xml:id="place__568"><placeName>umstrittenes Gebiet</placeName><idno type="GEONAMES"/></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1009"><orgName>deutschösterr. Staatskanzlei, deutschböhmische Abteilung</orgName></org><org xml:id="org__1224"><orgName>Staatsamt des Äußern</orgName></org><org xml:id="org__1239"><orgName>Staatsamt für Verkehrswesen</orgName></org><org xml:id="org__1246"><orgName>Staatsbahn</orgName></org><org xml:id="org__1286"><orgName>tschechoslowak. Eisenbahnministerium</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

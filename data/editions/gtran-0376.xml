@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0376.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0375.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0377.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Vollversammlung am 12. Juli 1920, S. 404f</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#vhelfert">Helfert, Veronika</rs></editor><editor><rs ref="#tgarstenauer">Garstenauer, Therese</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2451</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Archiv des Vereins für Geschichte der ArbeiterInnenbewegung</repository>
+                    <msName>Sozialdemokratische Parteistellen, Karton: Kt. 77, M 460, Aktenzahl: keine</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>None</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><p>Es liegt im Akt ein Blatt der Arbeiterzeitung vom 22. Juli 1920 (S. 6) über das neue Steuerprogramm der Gemeinde Wien.</p></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#vhelfert #tgarstenauer">
+            <p>Speiser stellt fest, dass es "nicht nur zuviel Beamte, sondern auch viel zu viele Arbeiter" gibt. Zudem: "Die Gewerkschaften haben bei allen Verhandlungen in uns nicht die Genossen, sondern gewöhnliche Unternehmer gesehen und direkt lächerliche Forderungen aufgestellt, die wir erst in hartem Kampfe auf ein erträgliches Mass herabdrücken konnten. Was die Frage der Richtlinien betrifft, so kann die Gemeinde diese Bestimmungen unmöglich annehmen."</p>
+        </abstract>
+        <creation>
+            <date notBefore="1920-07-12" notAfter="1920-07-12">
+                12. Juli 1920
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Gewerkschaft</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Lohnforderung</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Lohnverhandlung</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-08-07 19:55:58.075289+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__620"><persName><surname>Breitner</surname><forename>Hugo</forename><roleName/></persName><birth when="1873-11-09">1873-11-09<placeName key="#place__580">Wien</placeName></birth><death when="1946-03-05">1946-03-05<placeName key="#place__3127">Claremont</placeName></death><idno>http://d-nb.info/gnd/119179504</idno></person><person xml:id="person__640"><persName><surname>Eldersch</surname><forename>Matthias</forename><roleName/></persName><birth when="1869-02-24">1869-02-24<placeName key="#place__416">Brünn</placeName></birth><death when="1931-04-20">1931-04-20<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/126417598</idno></person><person xml:id="person__643"><persName><surname>Emmerling</surname><forename>Georg</forename><roleName/></persName><birth when="1870-07-12">1870-07-12<placeName key="#place__580">Wien</placeName></birth><death when="1948-12-12">1948-12-12<placeName key="#place__580">Wien</placeName></death><idno>https://de.wikipedia.org/wiki/Georg_Emmerling</idno></person><person xml:id="person__843"><persName><surname>Schorsch</surname><forename>Johann</forename><roleName/></persName><birth/><death/></person><person xml:id="person__862"><persName><surname>Skaret</surname><forename>Ferdinand</forename><roleName/></persName><birth/><death/></person><person xml:id="person__867"><persName><surname>Speiser</surname><forename>Paul</forename><roleName/></persName><birth/><death/></person><person xml:id="person__902"><persName><surname>Weigl</surname><forename>Karl</forename><roleName/></persName><birth/><death/></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1109"><orgName>Klub der Sozialdemokraten im Wiener Gemeinderate</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

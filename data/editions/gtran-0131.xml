@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0131.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0130.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0132.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Amtsstelle für die Wirtschaftsbetriebe der städt. Angestellten</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#vhelfert">Helfert, Veronika</rs></editor><editor><rs ref="#tgarstenauer">Garstenauer, Therese</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2493</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Wiener Stadt- und Landesarchiv</repository>
+                    <msName>Bestand: Wiener Stadt- und Landesarchiv, 1.5.3 Magistratsdirektion, Karton: Kt. 274, Aktenzahl: 3289/1919</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Akt</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents/></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#vhelfert #tgarstenauer">
+            <p>Akten zur Einrichtung einer Amtsstelle der Gemeinde Wien für die Wirtschaftsbetriebe der städtischen Angestellten zur Deckung des Warenbedarfs (im Mai 1919). Es werden Räumlichkeiten, Amtshilfe sowie ein Kredit über 10 Millionen Kronen zur Verfügung gestellt. Weiters sind Schreiben der Wirtschaftsgenossenschaft der Bediensteten der Stadt Wien an die Magistratsdirektion vom 10. und 17. Juni 1920 enthalten, in denen es um die Bekanntmachung der neu geschaffenen Genossenschaft sowie um die ausstehende Registrierung (die verhindert, dass interessierte Angestellte Zahlungen leisten können).</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-05-11" notAfter="1920-06-17">
+                1919-05-11
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-09-21 09:23:31.560233+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         </listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__961"><orgName>Amtstelle für die Wirtschaftsbetriebe der städtischen Angestellten</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

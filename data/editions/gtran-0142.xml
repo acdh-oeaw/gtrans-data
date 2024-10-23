@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0142.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0141.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0143.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Demokratisierung der Verwaltung</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#vhelfert">Helfert, Veronika</rs></editor><editor><rs ref="#tgarstenauer">Garstenauer, Therese</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2777</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Wien Bibliothek</repository>
+                    <msName>Bestand: Wien Bibliothek, Tagblatt Sachmappen, TS 2599/1919, Bibliographische Angaben: Demokratisierung der Verwaltung. Von Universitätsprofessor Dr. Karl Brockhausen, Wien, 15. Mai 1920</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Zeitungsartikel</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents/></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#vhelfert #tgarstenauer">
+            <p>Karl Brockhausen legt die Gefahren und Möglichkeiten der Demokratisierung der Verwaltung dar, wie sie in Reformvorhaben der Wiener Gemeindeverwaltung und der Umwandlung der Bezirkshauptmannschaften zu Tragen kommen. Er vergleicht unterschiedliche Verwaltungstypen (bürokratisch-aristokratisch und demokratisch) mit den religiösen Organisationen und der Stellung von katholischem Priester, evangelischem Pfarrer und Rabbiner.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1920-05-16" notAfter="1920-05-16">
+                
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-10-03 05:27:20.402883+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__622"><persName><surname>Brockhausen</surname><forename>Carl</forename><roleName>Prof. Dr.</roleName></persName><birth when="1859-05-09">1859-05-09<placeName key="#place__3129">Emmerich am Rhein</placeName></birth><death when="1951-09-16">1951-09-16<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/116552980</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         </listOrg>
+      </back>
+  </text>
+</TEI>

@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0633.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0632.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0634.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Vollzugsanweisung des Staatsrates betreffend die teilweise Änderung des Dienstverhältnisses der Kanzleioffizianten und Kanzleioffiziantinnen, der Kanzleigehilfen und Kanzleigehilfinnen, ständigen Aushilfsdiener und Landpostdiener</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/3769</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>ÖStA/AdR, Bundeskanzleramt, Kabinettsratsprotokolle 1. Republik, Protokoll Nr. 36 bis 55, 31. 1. 1919 bis 28. 3. 1919, Kabinettsratsprotokoll Nr. 45 vom 25. Februar 1919, 12.</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__1105">Kabinettsrat</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>Der Kabinettsrat erteilt seine Zustimmung zur betreffenden Vollzugsanweisung. Die Anregung von MinR Kralowski wegen Berücksichtigung der Zertifikatisten bei der Ernennung von Postamtsdienern wird abgelehnt.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-02-25" notAfter="1919-02-25">
+                25. Februar 1919
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-10-12 22:19:16.919543+00:00" who="#pbecker"/><change when="2019-02-11 14:49:47.049902+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__609"><persName><surname>Beck von Managetta</surname><forename>Eugen</forename><roleName>Dr.</roleName></persName><birth when="1861-06-15">1861-06-15<placeName key="#place__524">Preßburg</placeName></birth><death when="1943-11-07">1943-11-07<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/137693036; https://www.deutsche-biographie.de/pnd137693036.html</idno></person><person xml:id="person__742"><persName><surname>Kralowsky</surname><forename>Emil</forename><roleName>Dr.</roleName></persName><birth when="1868-09-13">1868-09-13<placeName key="#place__580">Wien</placeName></birth><death when="1941-10-19">1941-10-19<placeName key="#place__580">Wien</placeName></death></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         </listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1105"><orgName>Kabinettsrat</orgName></org><org xml:id="org__1227"><orgName>Staatsamt für Heerwesen</orgName></org><org xml:id="org__1256"><orgName>Staatsrat</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

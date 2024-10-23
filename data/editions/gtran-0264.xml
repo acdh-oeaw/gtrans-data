@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0264.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0263.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0265.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Gesetz betr. die Stellung und die Bezüge der Professoren an den staatlichen Hochschulen und gleichgehaltenen staatlichen Unterrichtsanstalten</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#kmegner">Megner, Karl</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/3211</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichische Nationalbibliothek</repository>
+                    <msName>Bestand: Staatsgesetzblatt für den Staat Deutschösterreich 1918–1920, Signatur: StGBl. Nr. 571/1919 (KNV: 542 AB 581 S. 49.)</msName>
+               <idno>http://alex.onb.ac.at/cgi-content/alex?aid=sgb&amp;datum=1919&amp;page=1390&amp;size=45</idno></msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Gesetzblatt</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents/></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#kmegner">
+            <p>Detaillierte Regelung der Bezüge der ordentlichen und außerordentlichen Professoren. Gehaltsvorrückung in 4-Jahres-Stufen (Quadriennien).</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-12-18" notAfter="1919-12-18">
+                1919-12-18
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-10-10 10:37:35.929966+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         </listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         </listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1083"><orgName>Hochschule</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

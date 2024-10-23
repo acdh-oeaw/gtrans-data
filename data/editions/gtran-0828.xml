@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0828.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0827.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0829.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Verhandlungsschrift über die Sitzung des Bürgerklubs vom 21. Jänner 1919</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#vhelfert">Helfert, Veronika</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/3827</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Karl von Vogelsang-Institut</repository>
+                    <msName>Christlichsoziale Partei-Wien, Kt. 37, M. Bürgerklub-Protokolle 1919</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__3826">Bürgerklub</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#vhelfert">
+            <p>Wahl von christlichsozialen Gemeinderäten in verschiedene Ausschüsse sowie den Landesschulrat. Bürgermeister Dr. Weiskirchner spricht über die verfassungsrechtliche Stellung Wiens im neuen Staat. Antrag des Gemeinderats Gussenbauer auf eine Gründung eines Komitees bzgl. der Frage der Gleichstellung der Bezüge der Lehrerschaft mit denen der Magistratsbeamten. Diese Frage ist aufgrund einer Eingabe der "Lehrerschaft" aufgekommen. Dieser Antrag wird von Gussenbauer in der nächsten Sitzung am 18. Februar 1919 zurückgezogen.</p>
+        </abstract>
+        <creation>
+            <date notBefore="2019-01-21" notAfter="2019-01-21">
+                21. Jänner 1919
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Föderalismus</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-27 09:24:41.351989+00:00" who="#pbecker"/><change when="2019-10-12 23:07:30.205433+00:00" who="#pbecker"/><change when="2019-06-13 08:35:34.880786+00:00" who="#vhelfert"/><change when="2019-03-28 11:38:40.656389+00:00" who="#vhelfert"/><change when="2019-03-28 11:37:07.731125+00:00" who="#vhelfert"/><change when="2019-03-28 11:21:40.032032+00:00" who="#vhelfert"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__682"><persName><surname>Gussenbauer</surname><forename>Adolf</forename><roleName/></persName><birth/><death/></person><person xml:id="person__903"><persName><surname>Weiskirchner</surname><forename>Richard</forename><roleName>DDr.</roleName></persName><birth when="1861-03-24">1861-03-24<placeName key="#place__580">Wien</placeName></birth><death when="1926-04-30">1926-04-30<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/117278602</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         </listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__991"><orgName>Christlichsoziale Partei (CSP)</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

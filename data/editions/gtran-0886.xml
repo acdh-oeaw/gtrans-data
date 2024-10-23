@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0886.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0885.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0887.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Amtskorrespondenz mit dem ehemaligen Kaiser und den Mitgliedern des Erzhauses</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/3782</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>ÖStA/AdR, Bundeskanzleramt, Kabinettsratsprotokolle 1. Republik, Protokoll Nr. 36 bis 55, 31. 1. 1919 bis 28. 3. 1919, Kabinettsratsprotokoll Nr. 48 vom 6. März 1919, 3f.</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__1105">Kabinettsrat</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>Das Bezirksgericht Salzburg fragt an, unter welchen Titeln mit den Mitgliedern des vormaligen kaiserlichen Hauses insbesondere mit dem früheren Kaiser zu verkehren sei. StK Renner vertritt die Auffassung, dass der ehemalige Kaiser in Zuschriften als "ehemaliger Kaiser" ohne Anführung irgendwelcher Titel zu bezeichnen sei. Mitglieder des ehemaligen Kaiserhauses gebühre, solange die Adelstitel nicht abgeschafft seien, in amtlichen Zuschriften die Anrede "Herr Erzherzog". Der Kabinettsrat schließt sich dem an.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-03-06" notAfter="1919-03-06">
+                6. März 1919
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Demokratisierung</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-12 22:39:03.147331+00:00" who="#pbecker"/><change when="2019-02-12 10:52:52.779959+00:00" who="#gsteiner"/><change when="2019-02-12 10:38:58.420980+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__724"><persName><surname>Habsburg-Lothringen</surname><forename>Karl</forename><roleName>ehemaliger Kaiser</roleName></persName><birth when="1887-08-17">1887-08-17<placeName key="#place__519">Persenbeug</placeName></birth><death when="1922-04-01">1922-04-01<placeName key="#place__446">Funchal</placeName></death><idno>http://d-nb.info/gnd/118560077</idno></person><person xml:id="person__3780"><persName><surname>Habsburg-Lothringen</surname><forename>Ludwig Viktor</forename><roleName/></persName><birth when="1842-05-15">1842-05-15<placeName key="#place__580">Wien</placeName></birth><death when="1919-01-18">1919-01-18<placeName key="#place__3779">Kleßheim</placeName></death><idno>http://d-nb.info/gnd/121750418</idno></person><person xml:id="person__820"><persName><surname>Renner</surname><forename>Karl</forename><roleName>Dr.</roleName></persName><birth when="1870-12-14">1870-12-14<placeName key="#place__570">Unter-Tannowitz</placeName></birth><death when="1950-12-31">1950-12-31<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118599739</idno></person><person xml:id="person__3781"><persName><surname>Stritzl</surname><forename>Friedrich</forename><roleName>Dr.</roleName></persName><birth/><death/></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         </listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1105"><orgName>Kabinettsrat</orgName></org><org xml:id="org__3778"><orgName>Bezirksgericht Salzburg</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

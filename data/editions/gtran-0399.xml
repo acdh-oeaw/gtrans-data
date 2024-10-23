@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0399.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0398.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0400.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Stellungnahme der Regierung zum tschechoslowakischen Gesetz betreffend die Angelobung der Staatsangestellten, hinsichtlich jener deutschen Beamten, die bereits dem deutschösterreichischen Staate die Angelobung geleistet haben</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/3772</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>ÖStA/AdR, Bundeskanzleramt, Kabinettsratsprotokolle 1. Republik, Protokoll Nr. 36 bis 55, 31. 1. 1919 bis 28. 3. 1919, Kabinettsratsprotokoll Nr. 45 vom 25. Februar 1919, 15f.</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__1105">Kabinettsrat</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>Die tschechoslowakische Nationalversammlung hat am 7. Februar 1919 ein Gesetz beschlossen, wonach alle Beamten, die von einem anderen als dem tschechoslowakischen Staat angestellt wurden, also auch die von Deutschösterreich in die Pflicht genommenen, ihre Posten nur behalten, wenn sie innerhalb eines Monats das Gelöbnis für den tschechoslowakischen Staat ablegen. Ansonsten würden sie des Dienstpostens und aller Ansprüche verloren gehen. Außerdem können mit dem Gesetz binnen eines Jahres Angestellte auch aus anderen als in der Dienstpragmatik vorgesehenen Gründen entlassen werden. Damit könnte jeder deutsche Beamte entlassen werden. Das Staatsamt des Äußeren wird beauftragt, dagegen bei der Entente Protest einzulegen.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-02-25" notAfter="1919-02-25">
+                25. Februar 1919
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">tschechoslowak. Staatsdienst</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-12 22:24:41.279814+00:00" who="#pbecker"/><change when="2019-02-11 15:15:34.547585+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__826"><persName><surname>Roller</surname><forename>Julius</forename><roleName>Dr.</roleName></persName><birth when="1862-10-28">1862-10-28<placeName key="#place__560">Thomigsdorf</placeName></birth><death when="1946-12-27">1946-12-27<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/1028281269</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__567"><placeName>Tschechoslowakei</placeName><location><geo decls="#LatLng">50.082920000000 14.466720000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/8505031/</idno></place><place xml:id="place__568"><placeName>umstrittenes Gebiet</placeName><idno type="GEONAMES"/></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1036"><orgName>Entente</orgName></org><org xml:id="org__1105"><orgName>Kabinettsrat</orgName></org><org xml:id="org__1159"><orgName>Národní Výbor (tschechoslowak. Nationalausschuss)</orgName></org><org xml:id="org__1224"><orgName>Staatsamt des Äußern</orgName></org><org xml:id="org__1289"><orgName>tschechoslowakische Regierung</orgName></org><org xml:id="org__1290"><orgName>tschechoslowakischer Staat</orgName></org><org xml:id="org__3301"><orgName>Deutschösterreichischer Staat</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

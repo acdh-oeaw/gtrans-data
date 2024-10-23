@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0519.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0518.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0520.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Vorschlag betreffend die Errichtung einer Personalausgleichsstelle zur Verwendung der Beamtenüberschüsse</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2700</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>Bestand: Staatskanzlei - BKA/alt Varia 1919  Zwischenstaatliches Komitee; Verhandlungsschriften Nr. 26 - 50 zu den Sitzungen des zwischenstaatsamtlichen Komitees für Staatsbedienstetenangelegenheiten, Nr: 47., Unterpunkt: 03., Seite: 74f</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__3257">Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>StA für Inneres und Unterricht bringt einen Vorschlag betreffend die Errichtung einer Personalausgleichsstelle zur Verwendung der Beamtenüberschüsse zur Kenntnis. ANTWORT DER KOMMISSION: Wird zur Kenntnis genommen und auf den Punkt 1 der Verhandlungsschrift Nr. 24 verwiesen. Danach besteht bereits eine Personalvermittlungsstelle mit dem im Vorschlag umschriebenen Wirkungskreis beim Staatsamt der Finanzen.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-05-08" notAfter="1919-05-09">
+                8. und 9. Mai 1919
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Personalpolitik</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-27 09:14:32.700230+00:00" who="#pbecker"/><change when="2019-10-19 16:53:23.010952+00:00" who="#gsteiner"/><change when="2019-10-02 12:28:34.309398+00:00" who="#pbecker"/><change when="2019-03-20 16:43:21.096801+00:00" who="#gsteiner"/><change when="2019-03-20 16:42:57.506883+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         </listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         </listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1181"><orgName>Personalvermittlungsstelle</orgName></org><org xml:id="org__1220"><orgName>Staatsamt für Finanzen</orgName></org><org xml:id="org__1225"><orgName>Staatsamt des Innern</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

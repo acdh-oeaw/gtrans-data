@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0130.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0129.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0131.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Aufnahme im Dienst der Gemeinde Wien als Sanitätsdiener unter der Bedingung, sich keiner Organisation anzuschließen und sich bei keinem Streik zu beteiligen</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#vhelfert">Helfert, Veronika</rs></editor><editor><rs ref="#tgarstenauer">Garstenauer, Therese</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2421</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Archiv des Vereins für Geschichte der ArbeiterInnenbewegung</repository>
+                    <msName>Sozialdemokratische Parteistellen, Karton: Kt. 23, M 123, Umschlag Interpellationen 1911/19, Aktenzahl: 676</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents/></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#vhelfert #tgarstenauer">
+            <p>Protokoll mit Sanitätsdiener Adolf Jandourek, in dem dieser angibt, dass er nicht in den Gemeindedienst der Stadt Wien aufgenommen wird, obwohl er bereits bis zu seiner Einrückung 1916 als Sanitätsdiener bedienstet gewesen war, solange er nicht eine Erklärung abgibt, dass er sich weder einer Organisation anschließen, noch bei einem Streik beteiligen würde, was dieser abgelehnt hat.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-07-05" notAfter="1919-07-05">
+                5. Juli 1919
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Streik</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-08-06 18:59:37.789037+00:00" who="#pbecker"/><change when="2019-08-06 18:55:33.225416+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__715"><persName><surname>Jandourek</surname><forename>Adolf</forename><roleName/></persName><birth/><death/></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1069"><orgName>Gesundheitsamt der Stadt Wien</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

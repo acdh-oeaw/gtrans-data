@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0161.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0160.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0162.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Bestellung des Sektionschefs a. D. Moriz von Pöschl zum Vertreter des deutschösterreichischen Staates in der internationalen Liquidierungskommission und des Hofrates a. D. Ernst Ganglbauer zu dessen Stellvertreter</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/3775</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>ÖStA/AdR, Bundeskanzleramt, Kabinettsratsprotokolle 1. Republik, Protokoll Nr. 36 bis 55, 31. 1. 1919 bis 28. 3. 1919, Kabinettsratsprotokoll Nr. 47 vom 1. März 1919, 6f.</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__1105">Kabinettsrat</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>UStS Grimm beantragt die Ernennung des Sektionschefs a. D. Moriz Ritter von Pöschl als Vertreter des deutschösterreichischen Staates in der internationalen Liquidierungskommission und des Hofrates a. D. Ernst Ganglbauer zu seinem Vertreter. Der Kabinettsrat stimmt den Ernennungen zu.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-03-01" notAfter="1919-03-01">
+                1. März 1919
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Bevollmächtiger</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-12 22:34:43.356440+00:00" who="#pbecker"/><change when="2019-02-12 09:03:09.923842+00:00" who="#gsteiner"/><change when="2019-02-12 08:58:52.599111+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__3774"><persName><surname>Ganglbauer</surname><forename>Ernst</forename><roleName/></persName><birth/><death/></person><person xml:id="person__670"><persName><surname>Grimm</surname><forename>Ferdinand</forename><roleName>Dr.</roleName></persName><birth when="1869-02-15">1869-02-15<placeName key="#place__580">Wien</placeName></birth><death when="1948-11-08">1948-11-08<placeName key="#place__401">Bad Kreuzen</placeName></death><idno>http://d-nb.info/gnd/1011184664</idno></person><person xml:id="person__3773"><persName><surname>Pöschl</surname><forename>Moriz</forename><roleName/></persName><birth/><death/></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         </listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1007"><orgName>deutschösterr. Regierung</orgName></org><org xml:id="org__1051"><orgName>fremdnationale Staaten</orgName></org><org xml:id="org__1105"><orgName>Kabinettsrat</orgName></org><org xml:id="org__1220"><orgName>Staatsamt für Finanzen</orgName></org><org xml:id="org__1224"><orgName>Staatsamt des Äußern</orgName></org><org xml:id="org__1253"><orgName>Staatskanzlei</orgName></org><org xml:id="org__3301"><orgName>Deutschösterreichischer Staat</orgName></org><org xml:id="org__3776"><orgName>internationale Liquidierungskommission</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

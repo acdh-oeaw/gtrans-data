@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0256.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0255.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0257.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Die Pensionierung des Berufsmilitärs</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/3585</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Beamten-Zeitung. Zeitschrift des Ersten allgemeinen Beamten-Vereines. Organ für die Gesamtinteressen der Beamten aller Klassen, Erster allgemeiner Beamten-Verein (Hg.), Wien, 50. Jahrgang 1919</repository>
+                    <msName>Beamten-Zeitung, 28. 2. 1919, 30.</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Zeitungsartikel</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><p>Bericht nach der "Militärischen Korrespondenz".</p><msItem><author ref="#org__3496">Erster allgemeiner Beamten-Verein</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>Die Liquidationskommission, auf deren Konto alle gemeinsamen Liquidierungsauslagen seit dem Umsturz verrechnet waren, kann die gemeinsamen Liquidierungskosten ab März 1919 nicht mehr tragen. Daher müssten alle deutschösterreichischen Militärgagisten, unabhängig von der Dienstzeit und dem Rang entlassen werden. Auf Intervention des Staatsamtes für Heerwesen wurde erreicht, dass sich die liquidierenden Staaten an den Pensionslasten beteiligen. Alle deutschösterreichischen Gagisten bleiben daher auch über den 1. März 1919 hinaus im aktiven Dienst. Der deutschösterreichische Staat übernimmt die Differenz zwischen den Pensions- und den Aktivitätsbezügen auf eigene Rechnung. Alle Gebühren aller Gagisten können daher ausbezahlt werden.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-02-28" notAfter="1919-02-28">
+                28. Februar 1919
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">zwischenstaatliche Verhandlung</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-24 12:14:30.042622+00:00" who="#pbecker"/><change when="2019-10-11 10:51:26.618307+00:00" who="#pbecker"/><change when="2019-01-18 13:46:18.086562+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         </listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         </listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1051"><orgName>fremdnationale Staaten</orgName></org><org xml:id="org__1227"><orgName>Staatsamt für Heerwesen</orgName></org><org xml:id="org__3301"><orgName>Deutschösterreichischer Staat</orgName></org><org xml:id="org__3584"><orgName>Militärische Korrespondenz</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

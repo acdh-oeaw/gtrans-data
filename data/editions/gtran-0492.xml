@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0492.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0491.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0493.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Beamtenfragen [zwischenstaatsamtliches Komitee für Staatsbedienstetenfragen]</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/3631</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>ÖStA/AdR, Bundeskanzleramt, Kabinettsratsprotokolle 1. Republik, Protokoll Nr. 1 bis 35, 31. 10. 1918 bis 30. 1. 1919, Kabinettsratsprotokoll Nr. 11 vom 15. November 1918, 5ff.</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__1105">Kabinettsrat</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>UStS Beck berichtet vom Zusammentreten des zwischenstaatsamtlichen Komitees für Staatsangestelltenfragen, das im StA der Finanzen angesiedelt sei, und seiner Zusammensetzung. Der Kabinettsrat beschließt, das Komitee mit der Vorbereitung der Beamtenfragen zu betrauen. Dieses habe seine Anträge dem Kabinettsrat zu unterbreiten. Grundsätzlich stellte der Kabinettsrat fest, dass den Staatsämter bezüglich Ernennung und Pensionierung die gleichen Rechte wie den ehemaligen k.k. Ministerien zukämen. Die früheren diesbezüglichen Rechte der Krone gingen auf das Staatsratsdirektorium über. UStS Riedl trat dafür ein, die Beamtenfrage im engen Konnex mit der Verwaltungsreform zu behandeln und anstelle ausscheidender fremdnationaler Beamten bei niederen Aufgaben die Unterbringung von Offizieren in Erwägung zu ziehen. Die Frage der Beamten deutscher Nationalität im fremdnationalen Gebieten sei, wie StK Renner meinte, eine Aufgabenstellung für das zwischenstaatsamtliche Komitee.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1918-11-15" notAfter="1918-11-15">
+                15. November 1918
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Ernennung</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Verwaltung</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Pensionierung</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-12 10:07:54.174251+00:00" who="#pbecker"/><change when="2019-01-24 14:50:56.330399+00:00" who="#gsteiner"/><change when="2019-01-24 14:49:38.152395+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__598"><persName><surname>Aigner</surname><forename>Artur</forename><roleName>Dr.</roleName></persName><birth when="1876-06-02">1876-06-02<placeName key="#place__580">Wien</placeName></birth><death when="1947-03-24">1947-03-24<placeName key="#place__580">Wien</placeName></death></person><person xml:id="person__609"><persName><surname>Beck von Managetta</surname><forename>Eugen</forename><roleName>Dr.</roleName></persName><birth when="1861-06-15">1861-06-15<placeName key="#place__524">Preßburg</placeName></birth><death when="1943-11-07">1943-11-07<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/137693036; https://www.deutsche-biographie.de/pnd137693036.html</idno></person><person xml:id="person__633"><persName><surname>Davy</surname><forename>Robert Franz Ludwig</forename><roleName>Dr.</roleName></persName><birth when="1867-01-22">1867-01-22<placeName key="#place__478">Königsberg</placeName></birth><death when="1924-04-22">1924-04-22<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/126181365</idno></person><person xml:id="person__724"><persName><surname>Habsburg-Lothringen</surname><forename>Karl</forename><roleName>ehemaliger Kaiser</roleName></persName><birth when="1887-08-17">1887-08-17<placeName key="#place__519">Persenbeug</placeName></birth><death when="1922-04-01">1922-04-01<placeName key="#place__446">Funchal</placeName></death><idno>http://d-nb.info/gnd/118560077</idno></person><person xml:id="person__704"><persName><surname>Hödl</surname><forename>Richard</forename><roleName>Dr.</roleName></persName><birth/><death/></person><person xml:id="person__3630"><persName><surname>Kaup</surname><forename>Ignaz</forename><roleName>Dr.</roleName></persName><birth when="1870-01-11">1870-01-11<placeName key="#place__3638">Marburg an der Lahn</placeName></birth><death when="1944-03-25">1944-03-25<placeName key="#place__505">München</placeName></death><idno>http://d-nb.info/gnd/117503622</idno></person><person xml:id="person__762"><persName><surname>Marckhl</surname><forename>Richard</forename><roleName/></persName><birth when="1861-05-10">1861-05-10<placeName key="#place__526">Rann</placeName></birth><death when="1939-04-27">1939-04-27<placeName key="#place__580">Wien</placeName></death><idno>https://de.wikipedia.org/wiki/Richard_Marckhl</idno></person><person xml:id="person__820"><persName><surname>Renner</surname><forename>Karl</forename><roleName>Dr.</roleName></persName><birth when="1870-12-14">1870-12-14<placeName key="#place__570">Unter-Tannowitz</placeName></birth><death when="1950-12-31">1950-12-31<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118599739</idno></person><person xml:id="person__824"><persName><surname>Riedl</surname><forename>Richard</forename><roleName>Dr.</roleName></persName><birth when="1865-12-08">1865-12-08<placeName key="#place__580">Wien</placeName></birth><death when="1944-03-09">1944-03-09<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/117532541</idno></person><person xml:id="person__826"><persName><surname>Roller</surname><forename>Julius</forename><roleName>Dr.</roleName></persName><birth when="1862-10-28">1862-10-28<placeName key="#place__560">Thomigsdorf</placeName></birth><death when="1946-12-27">1946-12-27<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/1028281269</idno></person><person xml:id="person__910"><persName><surname>Wilfling</surname><forename>August</forename><roleName>Dr.</roleName></persName><birth/><death/></person><person xml:id="person__923"><persName><surname>Zweig</surname><forename>Egon</forename><roleName>Dr.</roleName></persName><birth/><death/></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__444"><placeName>fremdnationales Gebiet</placeName><idno type="GEONAMES"/></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1105"><orgName>Kabinettsrat</orgName></org><org xml:id="org__1220"><orgName>Staatsamt für Finanzen</orgName></org><org xml:id="org__1232"><orgName>Staatsamt für Justiz</orgName></org><org xml:id="org__1253"><orgName>Staatskanzlei</orgName></org><org xml:id="org__1256"><orgName>Staatsrat</orgName></org><org xml:id="org__1257"><orgName>Staatsratsdirektorium</orgName></org><org xml:id="org__3257"><orgName>Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</orgName></org><org xml:id="org__3606"><orgName>StA für Volksgesundheit</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

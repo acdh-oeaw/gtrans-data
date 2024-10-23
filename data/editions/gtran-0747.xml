@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0747.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0746.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0748.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Für Ersparungen im Staatshaushalt</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#vhelfert">Helfert, Veronika</rs></editor><editor><rs ref="#tgarstenauer">Garstenauer, Therese</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2775</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Wien Bibliothek</repository>
+                    <msName>Bestand: Wien Bibliothek, Tagblatt Sachmappen, TS 2599/1919, Bibliographische Angaben: Für Ersparungen im Staatshaushalt. Von Oskar Kokstein. Präsident der niederösterreichischen Finanzlandesdirektion a. D. (Aus einem Gespräch), in: Neue Freie Presse, Nr. 19993, 25.4.1920</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Zeitungsartikel</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents/></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#vhelfert #tgarstenauer">
+            <p>Oskar Kokstein, ehemaliger niederösterreichischer Finanzlandesdirektor, nimmt in einem Zeitungsaritkel zur Budgetfrage Stellung und verweist auf die Notwendigkeit der Vereinfachung der Verwaltung, da die Übernahme der k.k. Ministerien und der deutschen Beamten aus den anderen Nachfolgestaaten einen zu hohen Kostenaufwand darstellen. Er sinniert über Einsparungsmöglichkeiten und Ursachen von Mehrkosten etwa durch das "Unvermögen der Bureaukraten, zwischen Wesentlichem und Unwesentlichem zu unterscheiden".</p>
+        </abstract>
+        <creation>
+            <date notBefore="1920-04-25" notAfter="1920-04-25">
+                
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-10-03 05:23:22.790960+00:00" who="#pbecker"/><change when="2019-10-03 05:20:15.825458+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         </listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         </listOrg>
+      </back>
+  </text>
+</TEI>

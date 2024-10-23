@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0528.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0527.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0529.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Gemeinderat. Stenographischer Bericht über die öffentliche Sitzung vom 22. Oktober 1920. 16</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#vhelfert">Helfert, Veronika</rs></editor><editor><rs ref="#tgarstenauer">Garstenauer, Therese</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2978</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Wiener Stadt- und Landesarchiv</repository>
+                    <msName>Bestand: Wiener Stadt- und Landesarchiv, Archivbibliothek, BiblM - M - Amtsperiodika, Verwaltungsberichte, Adressbücher, Signatur: M 599 1920/4, Punkt/Seite: 16; 2290</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Amtsblatteintrag</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents/></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#vhelfert #tgarstenauer">
+            <p>16. (P.Z. 15482), Die Bezüge der in das Gehaltsschema eingereihten oder nach ihm entlohnten Angestellten der Gemeinde Wien und ihrer Unternehmungen einschließlich […] Lehrpersonen und der bei den Unternehmungen in das Schema für Oberbeamten eingereihten Angestellten, sowie die Bezüge der Pensionsparteien werden nachstehend erhöht.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1920-10-22" notAfter="1920-10-22">
+                
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Ruhestand</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-09 12:26:56.588574+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__678"><persName><surname>Grünwald</surname><forename>Julius</forename><roleName/></persName><birth when="1869-02-25">1869-02-25<placeName key="#place__3153">Čáry</placeName></birth><death when="1945-10-07">1945-10-07<placeName key="#place__3154">London</placeName></death><idno>https://de.wikipedia.org/wiki/Julius_Gr%C3%BCnwald</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         </listOrg>
+      </back>
+  </text>
+</TEI>

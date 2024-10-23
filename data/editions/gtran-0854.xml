@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0854.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0853.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0855.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Weibliche Kanzleihilfskräfte, Anrechnung der Kriegsdienstzeit</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#vhelfert">Helfert, Veronika</rs></editor><editor><rs ref="#tgarstenauer">Garstenauer, Therese</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2506</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Wiener Stadt- und Landesarchiv</repository>
+                    <msName>Bestand: Wiener Stadt- und Landesarchiv, 1.5.3 Magistratsdirektion, Karton: ?, Aktenzahl: 1338/1919</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Akt</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents/></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#vhelfert #tgarstenauer">
+            <p>Weibliche Kanzleihilfskräfte, deren Dienstleistung als "vollkommen zufriedenstellend" eingeschätzt wird, erhalten infolge der erhöhten Anrechnung der Kriegsjahre höhere Bezüge (das Taggeld wird erhöht, in den meisten Fällen von 3,50 K auf 4 K). Der Akt enthält ein diesbezügliches Schreiben der Magistratsdirektion an den Bürgermeister, nach dem Alphabet gereihte Listen der Kanzleihilfskräfte (mit Namen, bisherigen und neuen Bezügen, Beurteilung der Dienstleistung u.a.) sowie die Dienstzettel, auf denen die Vorgesetzten bestätigen, dass die Dienstleistung der Kanzleihilfskräfte "vollkommen zufriedenstellend" ist.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-02-21" notAfter="1919-02-21">
+                1919-02-21
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-09-21 10:08:51.017793+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         </listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1151"><orgName>Magistratsdirektion (Stadt Wien)</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

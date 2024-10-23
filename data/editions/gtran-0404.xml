@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0404.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0405.xml" xml:base="https://gtrans.acdh.oeaw.ac.at" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0403.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Schreiben an den Bürgermeister in Donawitz, Josef Heissl (Gehaltsschema der öffentlich Angestellten)</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#vhelfert">Helfert, Veronika</rs></editor><editor><rs ref="#tgarstenauer">Garstenauer, Therese</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2418</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Archiv des Vereins für Geschichte der ArbeiterInnenbewegung</repository>
+                    <msName>Sozialdemokratische Parteistellen, Karton: Kt. 4, M 33, Aktenzahl: keine</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Schreiben </p>
+                    </typeDesc>
+               </physDesc>
+            <msContents/></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#vhelfert #tgarstenauer">
+            <p>Schreiben an den Bürgermeister in Donawitz, Josef Heißl, bzgl. Dienstordnung und Gehaltsschema. Seine Bitte um Übermittlung ders. wird abschlägig beantwortet, da "überall diesbezüglich Verhandlungen" laufen und "eine Regelung für alle öffentlichen Angestellten einverständlich geplant" ist.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-11-20" notAfter="1919-11-20">
+                20. Nov. 1919
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-07-24 08:24:13.322941+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__694"><persName><surname>Heißl</surname><forename>Josef</forename><roleName/></persName><birth/><death/></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__434"><placeName>Donawitz</placeName><location><geo decls="#LatLng">47.366670000000 15.066670000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2780850/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1340"><orgName>Zentralstelle für sozialdemokratische Gemeindepolitik</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

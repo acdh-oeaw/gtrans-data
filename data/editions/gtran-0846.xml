@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0846.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0845.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0847.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Antrag Breitner und Angermayer, Regelung der Dienstverhältnisse der städtischen Beamtenschaft</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#vhelfert">Helfert, Veronika</rs></editor><editor><rs ref="#tgarstenauer">Garstenauer, Therese</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2513</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Wiener Stadt- und Landesarchiv</repository>
+                    <msName>Bestand: Wiener Stadt- und Landesarchiv, 1.5.3 Magistratsdirektion, Karton: 271, Aktenzahl: 1860/1919</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Akt</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents/></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#vhelfert #tgarstenauer">
+            <p>Das Komitee zur Beratung der Maßnahmen zu Gunsten der städtischen Angestellten legt dem Stadtrat den Antrag des GR Breitner vor, das Komitee solle bis zur Schaffung der neuen Dienstpragmatik und zum Inslebentreten der Personalkommission die Möglichkeit haben, Stellung zu Personalien zu beziehen, die ganze Berufsgruppen betreffen. Magistratsdirektor Pawelka rät in einem Schreiben vom 15. 3. 1919 davon ab, diesem Antrag zu entsprechen "weil es doch nicht angeht, daß über individuelle Personalangelegenheiten oder aber auch über Angelegenheiten, die eine ganze Angestelltengruppe (Status) betreffen, Angestellte zu Rate gezogen werden, die einem anderen Status angehören. Schon aus dienstlichen Gründen müßte ein derartiger Vorgang vermieden werden." Dem Akt liegt auch ein Exemplar des Memorandums des Verbands der Fachvereine der städtischen Angestellten zur Dienstordnung bei.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-03-13" notAfter="1919-03-13">
+                1919-03-13
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Personalkommission</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-09-21 10:29:16.083823+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__602"><persName><surname>Angermayer</surname><forename>Karl</forename><roleName/></persName><birth when="1862-11-17">1862-11-17<placeName key="#place__580">Wien</placeName></birth><death when="1941-04-05">1941-04-05<placeName key="#place__580">Wien</placeName></death><idno>https://de.wikipedia.org/wiki/Karl_Angermayer</idno></person><person xml:id="person__620"><persName><surname>Breitner</surname><forename>Hugo</forename><roleName/></persName><birth when="1873-11-09">1873-11-09<placeName key="#place__580">Wien</placeName></birth><death when="1946-03-05">1946-03-05<placeName key="#place__3127">Claremont</placeName></death><idno>http://d-nb.info/gnd/119179504</idno></person><person xml:id="person__793"><persName><surname>Pawelka</surname><forename>Karl </forename><roleName>Obermag.R.</roleName></persName><birth><placeName key="#place__440">Eibiswald</placeName></birth><death/></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1113"><orgName>Komitee zur Beratung über Maßnahmen zu Gunsten der städtischen Angestellten</orgName></org><org xml:id="org__1299"><orgName>Verband der Fachvereine der städtischen Angestellten</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0761.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0760.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0762.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Automatische Vorrückung in eine höhere Gehaltsstufe bzw. Klasse, Verband der Angestellten</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#vhelfert">Helfert, Veronika</rs></editor><editor><rs ref="#tgarstenauer">Garstenauer, Therese</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2495</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Wiener Stadt- und Landesarchiv</repository>
+                    <msName>Bestand: Wiener Stadt- und Landesarchiv, 1.5.3 Magistratsdirektion, Karton: ?, Aktenzahl: 6094/1920</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Akt</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents/></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#vhelfert #tgarstenauer">
+            <p>Der Verband der Angestellten der Stadt Wien regt über Antrag ihres Gehalts- und Gebührenausschusses an: "Die Vorrückung in eine höhere Gehaltsstufe bezw. Klasse hätte automatisch zu erfolgen, nachdem derlei Ansuchen oft monatelang zur Erledigung brauchen." Der Magistratsdirektor antwortet grundsätzlich zustimmend, gibt aber zu dieser Anregung zu bedenken: "Leider lässt sie sich gegenwärtig nicht so rasch wie es wünschenswert wäre, verwirklichen, da technische Schwierigkeiten sich in den Weg stellen. Für die Evidenzhaltung der Vorrückungsfristen durch die einzelnen Dienststellen wäre nämlich vor allem die Anlage eines neuen, alle pragmatisierten Bediensteten umfassenden Katasters notwendig, die aber einen bedeutenden Personalapparat erfordern würde, der unter den derzeitigen Verhältnissen nicht bereit gestellt werden kann."</p>
+        </abstract>
+        <creation>
+            <date notBefore="1920-10-14" notAfter="1921-01-07">
+                1920-10-14
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Vorrückung</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Beamtenorganisation</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-09-21 09:27:42.046574+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         </listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         </listOrg>
+      </back>
+  </text>
+</TEI>

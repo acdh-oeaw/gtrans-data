@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0272.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0271.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0273.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Anfragebeantwortung des Staatssekretärs für Jusitz</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#vhelfert">Helfert, Veronika</rs></editor><editor><rs ref="#tgarstenauer">Garstenauer, Therese</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2772</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Wien Bibliothek</repository>
+                    <msName>Bestand: Wien Bibliothek, Tagblatt Sachmappen, TS 2599/1919, Bibliographische Angaben: Anfragebeantwortung des Staatssekretärs für Justiz, zu Nr. 200/I K.N.V./103. [42. Sitzung der Konstitutierenden Nationalversammlung vom 28. November 1919]</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Anfragebeantwortung [Sitzungsprotokoll]</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><p>Auch dieser Fall ist interessant, er verweist auf die Frage von Privatmeinung / Amtsmeinung und der Haltung der Beamten zum neuen Staat.</p></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#vhelfert #tgarstenauer">
+            <p>Anfragebeantwortung des Staatssekretärs für Jusitz, Rudolf Ramek, bzgl. zwei Vorfällen von Gerichtsverhandlungen am 12. November 1919, obwohl dieser Tag aufgrund des Gesetzes vom 25. April 1919 zu einem Feiertag erklärt worden ist. Ramek berichtet sogar von drei Vorfällen: neben Graz noch in Oberwölz und Voitsberg, bei letzteren beiden sei es aus Versehen passiert und würde daher nicht weiter verfolgt werden. Im Grazer Fall sei Wendelin Swoboda darüberhinaus auch noch in einem Gespräch gehört worden, in dem er die Habsburger zurückwünsche. Ramek verweist auf die Frage, ob dies als Privatgespräch zu gelten habe, und auf die Tatsache, dass es ein Disziplinarverfahren gegen Swoboda gäbe. Er schließt: "Ich erachte es als Pflicht jedes österreichischen Staatsbeamten, sein Verhalten in und außer dem Amte mit seinem Treuegelöbnis zur Republik Österreich in Einklang zu bringen und werde deshalb, soweit meine Befugnisse reichen, gegenteiligen Erscheinungen stets mit Entschiedenheit entgegentreten."</p>
+        </abstract>
+        <creation>
+            <date notBefore="1920-01-26" notAfter="1920-01-26">
+                
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-10-03 05:12:20.923581+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         </listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__453"><placeName>Graz</placeName><location><geo decls="#LatLng">47.066670000000 15.450000000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2778067/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         </listOrg>
+      </back>
+  </text>
+</TEI>

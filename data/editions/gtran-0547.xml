@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0547.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0546.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0548.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Beamtensorgen [Sorgen der Beamten in Verbindung mit dem Übergang von der Monarchie zur Republik und dem Kriegsende]</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/3510</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Beamten-Zeitung. Zeitschrift des Ersten allgemeinen Beamten-Vereines. Organ für die Gesamtinteressen der Beamten aller Klassen, Erster allgemeiner Beamten-Verein (Hg.), Wien, 49. Jahrgang 1918</repository>
+                    <msName>Beamten-Zeitung, 30. 11. 1918, 219.</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Zeitungsartikel</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#person__3575"> K. Sch.</author></msItem><msItem><author ref="#org__3496">Erster allgemeiner Beamten-Verein</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>Der Artikel bringt eine eindringliche Schilderung der Not und der Unsicherheiten der Staatsangestellten im Übergang von der Monarchie zur Republik, bezüglich der Erhöhung der Gehälter aber auch bezüglich des Abbaues bzw. der Nichtübernahme von Beamten und der damit verbundenen Angst um die Existenz.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1918-11-30" notAfter="1918-11-30">
+                30. November 1918
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Beamtenorganisation</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Demokratisierung</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Pensionierung</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-24 12:11:21.025181+00:00" who="#pbecker"/><change when="2019-10-11 09:42:58.536664+00:00" who="#pbecker"/><change when="2019-01-17 09:44:42.986570+00:00" who="#gsteiner"/><change when="2019-01-16 10:00:37.790516+00:00" who="#gsteiner"/><change when="2019-01-11 13:04:46.689304+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         </listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__430"><placeName>Deutschösterreich</placeName><idno type="GEONAMES"/></place><place xml:id="place__3509"><placeName>Österreich-Ungarn</placeName><idno type="GEONAMES"/></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1029"><orgName>ehemals österreichisch-ungarische Monarchie</orgName></org><org xml:id="org__1030"><orgName>k.k. Regierung</orgName></org><org xml:id="org__1194"><orgName>Provisorische Nationalversammlung</orgName></org><org xml:id="org__3301"><orgName>Deutschösterreichischer Staat</orgName></org><org xml:id="org__3424"><orgName>Abgeordnetenhaus des Reichsrats</orgName></org><org xml:id="org__3508"><orgName>k.u.k. gemeinsame Armee</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

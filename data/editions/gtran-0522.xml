@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0522.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0521.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0523.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">StA für Heereswesen - Pragmatisierung der staatlichen Vertragsbeamten</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2883</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>Bestand: ÖStA/AdR, Bundeskanzleramt, Staatsratsprotokolle 1. Republik, Protokoll Nr. 66 - 77, 15. 1. 1919 - 7. 3. 1919, 69. Sitzung vom 22. Jänner 1919, S. 17ff., Karton: 4</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__1256">Staatsrat</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>MinR. Kralowsky gibt zu Bedenken, dass 40.000 längerdienende Unteroffiziere, darunter 14.000 deutschösterreichische, zu versorgen seien. Jede Regelung der Vertragsbeamten in der Verorgung werde mit den Zertifikatisten vermischt. Er spricht sich dagegen aus, die Zertifikatisten schlechter zu behandeln. Der Staatssekretär wolle eine Erklärung in der Nationalversammlung abgeben. UStS Beck wendet ein, dass man die Verwaltungs- und Besoldungsreform nicht präjudizieren dürfe. Außerdem wäre ein Aufwand von 10 bis 19 Millionen Kronen zu gewärtigen. Tomschik spricht sich dafür aus, die Angelegenheit von der Sitzung der prov. Nationalversammlung des nächsten Tages abzusetzen. Im Staatsrat wird die Angelegenheit vertagt.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-01-22" notAfter="1919-01-22">
+                22. Jänner 1919
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Mitbestimmung</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Pensionierung</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-03 14:37:13.541566+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__609"><persName><surname>Beck von Managetta</surname><forename>Eugen</forename><roleName>Dr.</roleName></persName><birth when="1861-06-15">1861-06-15<placeName key="#place__524">Preßburg</placeName></birth><death when="1943-11-07">1943-11-07<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/137693036; https://www.deutsche-biographie.de/pnd137693036.html</idno></person><person xml:id="person__635"><persName><surname>Dinghofer</surname><forename>Franz</forename><roleName>Dr.</roleName></persName><birth when="1873-04-06">1873-04-06<placeName key="#place__517">Ottensheim</placeName></birth><death when="1956-01-12">1956-01-12<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118902830</idno></person><person xml:id="person__652"><persName><surname>Forstner</surname><forename>August</forename><roleName/></persName><birth when="1876-07-29">1876-07-29<placeName key="#place__580">Wien</placeName></birth><death when="1941-02-14">1941-02-14<placeName key="#place__3118">Wolfpassing bei Zeiselmauer</placeName></death><idno>http://d-nb.info/gnd/14403347X</idno></person><person xml:id="person__767"><persName><surname>Mayer</surname><forename>Josef</forename><roleName/></persName><birth when="1877-04-09">1877-04-09<placeName key="#place__438">Eger</placeName></birth><death when="1938-05-03">1938-05-03<placeName key="#place__438">Eger</placeName></death><idno>http://d-nb.info/gnd/1020242728</idno></person><person xml:id="person__879"><persName><surname>Teufel</surname><forename>Oskar</forename><roleName/></persName><birth when="1880-10-05">1880-10-05<placeName key="#place__595">Znaim</placeName></birth><death when="1946-01-26">1946-01-26<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/1027122671</idno></person><person xml:id="person__884"><persName><surname>Tomschik</surname><forename>Josef</forename><roleName/></persName><birth when="1867-12-27">1867-12-27<placeName key="#place__580">Wien</placeName></birth><death when="1945-07-06">1945-07-06<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/1113900385</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         </listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1220"><orgName>Staatsamt für Finanzen</orgName></org><org xml:id="org__1227"><orgName>Staatsamt für Heerwesen</orgName></org><org xml:id="org__1256"><orgName>Staatsrat</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

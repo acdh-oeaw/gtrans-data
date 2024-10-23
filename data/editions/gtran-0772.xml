@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0772.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0771.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0773.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Gemeinderat. Stenographischer Bericht über die öffentliche Sitzung vom 11. Dezember 1918. 15. Anfrage des GR. Dr. Danneberg betreffend die Ernennung der eingerückten Magistratsbeamten</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#vhelfert">Helfert, Veronika</rs></editor><editor><rs ref="#tgarstenauer">Garstenauer, Therese</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/3094</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Wiener Stadt- und Landesarchiv</repository>
+                    <msName>Bestand: Wiener Stadt- und Landesarchiv, Archivbibliothek, BiblM - M - Amtsperiodika, Verwaltungsberichte, Adressbücher, Signatur: M 599 27/4 2. Ex., Punkt/Seite: 15; 2433f.</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Amtsblatteintrag</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents/></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#vhelfert #tgarstenauer">
+            <p>15. Anfrage des GR Dr. Danneberg betreffend die Ernennung der eingerückten Magistratsbeamten. Es ist zu hören, dass die heimkehrenden Beamten erst nach der Qualifikation zum nächsten Jahresbeginn eine Beförderung erhalten und damit gleichsam zurückgesetzt würden. Beantwortung (BM Weiskirchner): Weiskirchner legt dar, dass die heimkehrenden Beamten aufgrund der erhöhten Anrechnung der Kriegsdienstjahre sofort befördert werden, wenn sie die Qualifikation besitzen, oder ansonsten bis Jänner warten müssten, was nur ein paar Wochen seien.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1918-12-11" notAfter="1918-12-11">
+                
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Beförderung</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-09 22:43:12.784064+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__631"><persName><surname>Danneberg</surname><forename>Robert</forename><roleName>Dr.</roleName></persName><birth when="1885-07-23">1885-07-23<placeName key="#place__580">Wien</placeName></birth><death when="1942-01-01">1942-01-01<placeName key="#place__3132">Auschwitz (KZ)</placeName></death><idno>http://d-nb.info/gnd/118523643</idno></person><person xml:id="person__903"><persName><surname>Weiskirchner</surname><forename>Richard</forename><roleName>DDr.</roleName></persName><birth when="1861-03-24">1861-03-24<placeName key="#place__580">Wien</placeName></birth><death when="1926-04-30">1926-04-30<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/117278602</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         </listOrg>
+      </back>
+  </text>
+</TEI>

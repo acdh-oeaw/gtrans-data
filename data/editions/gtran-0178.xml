@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0178.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0177.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0179.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Vollversammlung am 19. März 1920, S. 329f</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#vhelfert">Helfert, Veronika</rs></editor><editor><rs ref="#tgarstenauer">Garstenauer, Therese</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2441</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Archiv des Vereins für Geschichte der ArbeiterInnenbewegung</repository>
+                    <msName>Sozialdemokratische Parteistellen, Karton: Kt. 77, M 460, Aktenzahl: keine</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents/></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#vhelfert #tgarstenauer">
+            <p>"Bisher haben 28 Unternehmen die Pflasterungsarbeiten der Gemeinde ausgeführt. Nunmehr wollen die Gehilfen unter Ausschaltung dieser Meister die Arbeiten selbst ausführen." (Vertrag liegt als Beilage zum Protokoll vor)</p>
+        </abstract>
+        <creation>
+            <date notBefore="1920-03-19" notAfter="1920-03-19">
+                19. März 1920
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-08-06 20:03:08.409544+00:00" who="#pbecker"/><change when="2019-08-06 20:02:40.414888+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__777"><persName><surname>Müller</surname><forename/><roleName/></persName><birth/><death/></person><person xml:id="person__862"><persName><surname>Skaret</surname><forename>Ferdinand</forename><roleName/></persName><birth/><death/></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1109"><orgName>Klub der Sozialdemokraten im Wiener Gemeinderate</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

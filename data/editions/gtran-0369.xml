@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0369.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0368.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0370.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Anfrage bezüglich jener Beamten, die von der tschechoslowakischen Regierung entlassen wurden.</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2583</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>Bestand: Staatskanzlei - BKA/alt Varia 1919  Zwischenstaatliches Komitee; Verhandlungsschriften Nr. 1 - 25 zu den Sitzungen des zwischenstaatsamtlichen Komitees für Staatsbedienstetenangelegenheiten, Nr: 15., Unterpunkt: 06c., Seite: 39f</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__3257">Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>Anfrage bezüglich jener Beamten, die von der tschechoslowakischen Regierung entlassen wurden. ANTWORT DER KOMMISSION: Dies ist bereits durch Beschluss bzw. Verfügung geregelt.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-01-20" notAfter="1919-01-20">
+                20. Jänner 1919
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Repression</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-27 08:18:46.811561+00:00" who="#pbecker"/><change when="2019-09-25 08:08:45.837198+00:00" who="#pbecker"/><change when="2019-09-25 06:53:54.554458+00:00" who="#pbecker"/><change when="2019-03-06 12:54:50.930489+00:00" who="#gsteiner"/><change when="2019-03-06 12:54:39.258450+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__756"><persName><surname>Lodgman</surname><forename>Rudolf</forename><roleName>Dr.</roleName></persName><birth when="1877-12-21">1877-12-21<placeName key="#place__477">Königgrätz</placeName></birth><death when="1962-12-11">1962-12-11<placeName key="#place__505">München</placeName></death><idno>http://d-nb.info/gnd/118728709</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__427"><placeName>Deutschböhmen</placeName><idno type="GEONAMES"/></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1289"><orgName>tschechoslowakische Regierung</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

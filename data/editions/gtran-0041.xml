@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0041.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0040.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0042.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Beförderung von Rechnungsbeamten in höheren Rangklassen</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2697</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>Bestand: Staatskanzlei - BKA/alt Varia 1919  Zwischenstaatliches Komitee; Verhandlungsschriften Nr. 26 - 50 zu den Sitzungen des zwischenstaatsamtlichen Komitees für Staatsbedienstetenangelegenheiten, Nr: 46., Unterpunkt: 01., Seite: 72</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__3257">Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>StA des Innern: Ersuchen von Vereinigungen der Rechnungsbeamten, jene Beamten, die auf Grund der in der Dienstpragmatik vorgesehenen Zeitvorrückung bereits in den Bezügen einer höheren Rangklasse stehen, bei Vorliegen besonderer berücksichtigungswürdiger Umstände über den systemisierten Stand zu befördern, wie dies in verschiedenen Ressorts tatsächlich geschehen ist. Auch sollen Beamte über den systemisierten Stand in Rangklassen befördert werden, die auf Grund der Dienstpragmatik im Wege der Zeitvorrückung nicht mehr erreichbar sind, insbesondere Rechnungsbeamte der VII. Rangklasse. Endlich soll der Titel der höheren Rangklasse an jene Beamten verliehen werden, die bereits in den Bezügen der höheren Rangklasse stehen. ANTWORT DER KOMMISSION: Die Staatsämter können innerhalb ihres Ressorts in allen Zeitvorrückungsgruppen jene Beamten, die auf Grund der in der Dienstpragmatik vorgesehenen Zeitvorrückung bereits  in den Bezügen einer höheren Rangklasse stehen, über den systemisierten Stand in die nächsthöhere Rangklasse befördern, wenn dadurch keine Rangverschiebungen eintreten. Auch kann von der Ermächtigung des Staatsratsdirektoriums vom 10. Februar 1919 Z. 170/Dir. wegen der Verleihung des Titels der höheren Rangklasse an jene Beamten, die bereits in den Bezügen der höheren Rangklasse stehen, Gebrauch gemacht werden, wobei die Verleihung des Titels an Beamte, die noch nicht in den Bezügen der höheren Rangklasse stehen, ausgeschlossen ist. Sonstige Ernennungen über den systemisierten Stand sind der individuellen Behandlung im Einvernehmen mit dem StA der Finanzen vorbehalten.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-05-05" notAfter="1919-05-05">
+                5. Mai 1919
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Beförderung</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Systemisierung</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-27 09:12:23.631576+00:00" who="#pbecker"/><change when="2019-10-19 16:45:22.649311+00:00" who="#gsteiner"/><change when="2019-10-02 12:21:11.154558+00:00" who="#pbecker"/><change when="2019-03-20 15:46:36.756709+00:00" who="#gsteiner"/><change when="2019-03-20 15:41:39.273723+00:00" who="#gsteiner"/><change when="2019-03-20 15:41:25.756121+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         </listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         </listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1220"><orgName>Staatsamt für Finanzen</orgName></org><org xml:id="org__1225"><orgName>Staatsamt des Innern</orgName></org><org xml:id="org__1257"><orgName>Staatsratsdirektorium</orgName></org><org xml:id="org__1313"><orgName>Vereinigungen von Rechnungsbeamten</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

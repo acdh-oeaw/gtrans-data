@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0199.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0198.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0200.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Forderungen der Beamtenschaft deutscher Nationalität in Bosnien und Hercegowina</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2678</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>Bestand: Staatskanzlei - BKA/alt Varia 1919  Zwischenstaatliches Komitee; Verhandlungsschriften Nr. 26 - 50 zu den Sitzungen des zwischenstaatsamtlichen Komitees für Staatsbedienstetenangelegenheiten, Nr: 42., Unterpunkt: 01., Seite: 56ff</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__3257">Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>Forderungen der Beamtenschaft deutscher Nationalität in Bosnien und Hercegowina: 1. Beschluss des Kabinettsrates, dass alle im Verwaltungsdienste Bosniens und der Hercegovina stehenden Beamten und Angestellten deutschösterr. Staatsangehörigkeit in den Dienst der deutschösterr. Republik mit allen bisher erworbenen Rechten übernommen werden, wenn sie die Übernahme anstreben. 2. Vereinbarung mit der Regierung des SHS-Staates, dass die in den Dienst der deutschösterr. Republik bzw. Deutschlands übernommenen Beamten und Angestellten, sowie jene, die in den Ruhestand versetzt wurden, mittels Sonderzügen mit sämtlichen Übersiedlungseffekten kostenlos zum neuen Dienstort bzw. in die Heimat transportiert werden, wie dies die tschechoslowakische Republik für ihre Beamten in Bosnien-Hercegovina getan hat. 3. Vereinbarung mit der Regierung des SHS-Staates bezüglich der Ruhegenüsse und Witwenpensionen der Pensionisten bzw. der aus rein politischen Gründen zum Übertritt in den Ruhestand veranlassten Beamten und Angestellten, dass diese rechtlich als Pensionisten des deutschösterreichischen Staates erscheinen und von diesem ihre Ruhegenüsse und Witwenpensionen ausbezahlt bekommen. Dadurch soll die Zahlungspflicht des SHS-Staates nicht aufgehoben, sondern durch zwischenstaatliche Übereinkommen rechtsverbindlich festgelegt werden. ANTWORT DER KOMMISSION: Die Frage der Übernahme ist in den Richtlinien beantwortet. Unter der Voraussetzung unzweifelhaft deutscher Nationalität kann diese erst in Frage kommen, wenn die allgemein verfügte Stellensperre, die gegen jeden Staatsbediensteten ohne Unterschied wirkt, aufgehoben sein wird, was jedoch erst nach Abschluss des Friedensvertrages möglich sein wird, wodurch Klarheit geschaffen werden wird. Jedoch kann schon heute gesagt werden, dass vor den bosnisch-hercegovinischen Bediensteten zu berücksichtigen wären: 1. alle deutschösterr. Bediensteten in den derzeit okkupierten Gebieten, 2. alle enthobenen, ehemals österr. Staatsbediensteten deutscher Nationalität aus Gebieten außerhalb Deutschösterreichs. Diese zwei Gruppen weisen die gleiche Qualifikation wie deutschösterr. Staatsbedienstete auf. Dies gilt auch für die vorläufige Übernahme, wobei jedoch die bosnisch-hercegovinische Landesangehörigkeit kein grundsätzliches Hindernis für die vorläufige Inverwendungnahme darstellt. Die tatsächliche Lösung der Frage Inverwendungnahme ist eine reine Ressort- und Bedarfsache. Die in Verwendung Genommenen erhalten die Beihilfen im gleichen Ausmaß wie die ehemals österr. Staatsbediensteten deutscher Nationalität von außerhalb Deutschösterreichs, wobei die Höhe der Beihilfe nach dem Rang der in Verwendung Genommenen berechnet wird. Die Zahlung von Beihilfen an nicht in Verwendung genommene bosnisch-hercegovinische kann nicht in Aussicht genommen werden. Die Forderung Nr. 3 setzt zwischenstaatliche Verhandlungen voraus, die noch nicht abgeschlossen sind.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-04-23" notAfter="1919-04-23">
+                23. April 1919
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">tschechoslowak. Staatsdienst</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">zwischenstaatliche Vereinbarung</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">zwischenstaatliche Verhandlung</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Ruhestand</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Pensionierung</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-27 09:06:07.377604+00:00" who="#pbecker"/><change when="2019-10-24 10:53:12.663530+00:00" who="#pbecker"/><change when="2019-10-19 09:16:30.345152+00:00" who="#gsteiner"/><change when="2019-10-02 11:26:29.465154+00:00" who="#pbecker"/><change when="2019-03-20 12:02:00.906879+00:00" who="#gsteiner"/><change when="2019-03-20 12:00:09.233029+00:00" who="#gsteiner"/><change when="2019-03-20 11:56:32.863988+00:00" who="#gsteiner"/><change when="2019-03-20 11:29:58.867148+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         </listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__411"><placeName>Bosnien-Herzegowina</placeName><location><geo decls="#LatLng">44.250000000000 17.833330000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3277605/</idno></place><place xml:id="place__444"><placeName>fremdnationales Gebiet</placeName><idno type="GEONAMES"/></place><place xml:id="place__568"><placeName>umstrittenes Gebiet</placeName><idno type="GEONAMES"/></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__981"><orgName>Bosnien-Herzegowina (Bosna i Hercegovina)</orgName></org><org xml:id="org__997"><orgName>Deutsches Reich</orgName></org><org xml:id="org__1007"><orgName>deutschösterr. Regierung</orgName></org><org xml:id="org__1052"><orgName>Friedenskonferenz</orgName></org><org xml:id="org__1105"><orgName>Kabinettsrat</orgName></org><org xml:id="org__1200"><orgName>Regierung des SHS-Staates</orgName></org><org xml:id="org__1220"><orgName>Staatsamt für Finanzen</orgName></org><org xml:id="org__1225"><orgName>Staatsamt des Innern</orgName></org><org xml:id="org__1289"><orgName>tschechoslowakische Regierung</orgName></org><org xml:id="org__3301"><orgName>Deutschösterreichischer Staat</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

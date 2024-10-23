@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0887.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0886.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0888.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Vorlage des Staatskanzlers: Gesetz über das deutschösterreichische Staatsbürgerrecht</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/3443</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Gertrude Enderle-Burcel et al. (Hg.), Der österreichische Staatsrat. Protokolle des Vollzugsausschusses, des Staatsrates und des Geschäftsführenden Staatsratsdirektoriums 21. Oktober 1918 bis 14. Marz 1919, Band 1: 21. Oktober 1918 bis 14. November 1918, Wien 2008</repository>
+                    <msName>StRProt Nr. 29 vom 11. November 1918, in: Enderle-Burcel et al. (Hg.), Der österreichische Staatsrat, 368f.</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><p>Im Gesetz hieß es dann, dass alle in Deutschösterreich Heimatberechtigten aufhören, deutschösterreichische Staatsbürger zu sein, wenn sie sich bis zum 30. Juni 1919 zu einem anderen Staat bekennen, zu welchem Gebietsteile der ehemaligen österreichisch-ungarischen Monarchie gehören. &#13;
+&#13;
+Gesetz vom 5. Dezember 1918 über das deutschösterreichische Staatsbürgerschaftsrecht, StGBl. 91/1918</p><msItem><author ref="#org__1256">Staatsrat</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>StK Renner legt einen Entwurf über ein Gesetz über das deutschösterreichische Staatsbürgerrecht vor, in dessen erstem Paragrafen bestimmt wird, dass Beamte keine deutschösterreichischen Staatsbürger seien, die aufgrund ihres Amtssitzes in einer deutschösterreichischen Gemeinde heimatberechtigt sind, jedoch das Gelöbnis nicht leisten.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1918-11-11" notAfter="1918-11-11">
+                1918-11-11
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-10-18 10:45:55.373478+00:00" who="#gsteiner"/><change when="2019-10-18 10:45:28.026512+00:00" who="#gsteiner"/><change when="2019-10-11 08:56:24.411918+00:00" who="#pbecker"/><change when="2019-01-04 14:01:47.043135+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__820"><persName><surname>Renner</surname><forename>Karl</forename><roleName>Dr.</roleName></persName><birth when="1870-12-14">1870-12-14<placeName key="#place__570">Unter-Tannowitz</placeName></birth><death when="1950-12-31">1950-12-31<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118599739</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__430"><placeName>Deutschösterreich</placeName><idno type="GEONAMES"/></place><place xml:id="place__444"><placeName>fremdnationales Gebiet</placeName><idno type="GEONAMES"/></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1029"><orgName>ehemals österreichisch-ungarische Monarchie</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0877.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0876.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0878.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Beschwerde der Gewerkschaft der Verwaltungsjuristen an das StA der Finanzen bezüglich der Handhabung der begünstigten Anrechnung der Kriegsdienstzeit</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2664</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>Bestand: Staatskanzlei - BKA/alt Varia 1919  Zwischenstaatliches Komitee; Verhandlungsschriften Nr. 26 - 50 zu den Sitzungen des zwischenstaatsamtlichen Komitees für Staatsbedienstetenangelegenheiten, Nr: 40., Unterpunkt: 01., Seite: 47</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__3257">Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>Beschwerde der Gewerkschaft der Verwaltungsjuristen an das StA der Finanzen: Es entspreche nicht dem Geist der Vollzugsanweisung betreffend die begünstigte Anrechnung der Kriegsdienstzeit, dass bei Beförderungen nach dem 1. Oktober 1918 von der VII. in die VI. Rangklasse der in der VII. Rangklasse nicht konsumierte Rest der anzurechnenden Kriegsjahre mangels einer Zeitvorrückung für das Quadrienium der VI. Rangklasse angerechnet werde und wird gebeten, dass künftighin in allen solchen Fällen die Beförderung gleich der Vorrückung zu behandeln sei. ANTWORT DER KOMMISSION: Das Komitee vertritt diese Auffassung nicht, weil bei der Erlassung der Bestimmungen über die Kriegshalbjahre die Erwägung maßgeblich war, dass jeder Beamte aus Anlass des Krieges einen greifbaren Vorteil haben soll, die Beförderung aber, gleichgültig aus welchem Grund, als ein Vorteil in diesem Sinne erscheint. Die scheinbare Benachteiligung ist bei einer Vorschrift, die auf einen Stichtag abgestellt werden muss, unvermeidlich.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-04-15" notAfter="1919-04-15">
+                15. April 1919
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Beförderung</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Vorrückung</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-27 09:00:47.847545+00:00" who="#pbecker"/><change when="2019-10-19 08:59:12.303483+00:00" who="#gsteiner"/><change when="2019-10-02 10:21:08.502175+00:00" who="#pbecker"/><change when="2019-03-12 16:10:24.616223+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         </listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         </listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1072"><orgName>Gewerkschaft der Verwaltungsjuristen</orgName></org><org xml:id="org__1220"><orgName>Staatsamt für Finanzen</orgName></org><org xml:id="org__3257"><orgName>Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

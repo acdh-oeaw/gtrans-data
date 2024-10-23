@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0903.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0902.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0904.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Gesetz über das besetzte Staatsgebiet</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#kmegner">Megner, Karl</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/3194</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichische Nationalbibliothek</repository>
+                    <msName>Bestand: Staatsgesetzblatt für den Staat Deutschösterreich 1918–1920, Signatur: StGBl. Nr. 175/1919 (KNV: 1 AB 45 S. 3.).</msName>
+               <idno>http://alex.onb.ac.at/cgi-content/alex?apm=0&amp;aid=sgb&amp;datum=19190004&amp;seite=00000399&amp;size=45</idno></msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Gesetzblatt</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents/></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#kmegner">
+            <p>Die konstituierende deutschösterreichische Nationalversammlung protestierte gegen die Besetzung folgender Gebiete: Deutschböhmen, Sudetenland, Kreis Znaim (Znojmo), Einschlussgebiete von Brünn (Brno), Iglau (Jihlava) und Olmütz (Olomouc). Der Protest galt ferner der Besetzung der südlichen Grenzgebiete von Steiermark und Kärnten und des deutschsprachigen Teils von Südtirol (Alto Adige).                                                                                                                                                                                       Es waren, wie Walter Goldinger sinngemäß schreibt,  zahnlose Aktionen. Bereits am 30. Oktober 1918, dann vor allem ab November 1918, wurden Siedlungen im deutschösterreichischen Anspruchsgebiet von Tschechen besetzt. Die tschechische Seite begründete die Besetzung mit den historischen Grenzen. In den wenigen Wochen des Bestehens der Kreishauptmannschaft in Znaim (Znojmo) herrschten Mehrgleisigkeiten und Unklarheiten in der Verwaltung. Am 15.12.1918 flohen die Beamten der Kreishauptmannschaft aus Znaim (Znojmo) nach Retz. Bezirkshauptmann Hieronymus Odofredi war auch dort sehr aktiv (Znaimer Kreistag in Retz, Appell an die Ententemächte. Der deutschböhmische Landeshauptmann Dr. Rudolf Lodgman von Auen wies die Wiener Regierung am 26. November 1918 auf drei Möglichkeiten hin: "Schutz der sudetendeutschen Gebiete mit Waffengewalt, Anrufung der Ententehilfe" oder nichts tun, die Bevölkerung sich selbst überlassen.  Die Wiener Regierung glaubte, keine Machtmittel zu haben und protestierte lediglich gegen das tschechische Vorgehen.  Am 4. März 1919 richtete tschechisches Militär in mehreren deutschböhmischen Städten ein Blutbad an. Das Selbstbestimmungsrecht der Deutschen in Böhmen erwies sich als bloße Schimäre, bestenfalls als naiv-idealistisches Wunschdenken! Es verwundert in diesem Kontext nicht, dass die tschechische Regierung gegenüber deutschböhmischen Beamten nicht zimperlich war, wie zahlreiche Einzelquellen zeigen.
+
+"Blutbad": Goldinger (1954) Ablauf, 63-65, 48.
+Ausführliche Darstellung der Situation der Deutschen in Südmähren usw. u.a.: Mähner (2008) Niederösterreich, 5-8.
+
+https://de.wikipedia.org/wiki/Deutsch%C3%B6sterreich#/media/File:Deutsch%C3%B6sterreich1.png</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-03-12" notAfter="1919-03-12">
+                1919-03-12
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">tschechoslowakische Regierung</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-13 12:46:11.804415+00:00" who="#pbecker"/><change when="2019-10-13 12:45:12.421360+00:00" who="#pbecker"/><change when="2019-10-10 09:34:11.060218+00:00" who="#pbecker"/><change when="2019-10-10 09:19:45.506591+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__756"><persName><surname>Lodgman</surname><forename>Rudolf</forename><roleName>Dr.</roleName></persName><birth when="1877-12-21">1877-12-21<placeName key="#place__477">Königgrätz</placeName></birth><death when="1962-12-11">1962-12-11<placeName key="#place__505">München</placeName></death><idno>http://d-nb.info/gnd/118728709</idno></person><person xml:id="person__3255"><persName><surname>Odofredi</surname><forename>Hieronymus</forename><roleName/></persName><birth/><death/></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__462"><placeName>Iglau</placeName><location><geo decls="#LatLng">49.396100000000 15.591240000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3074199/</idno></place><place xml:id="place__515"><placeName>Olmütz</placeName><location><geo decls="#LatLng">49.595520000000 17.251750000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3069011/</idno></place><place xml:id="place__551"><placeName>Südböhmen</placeName><idno type="GEONAMES"/></place><place xml:id="place__553"><placeName>Sudetenland</placeName><idno type="GEONAMES"/></place><place xml:id="place__554"><placeName>Südmähren</placeName><idno type="GEONAMES"/></place><place xml:id="place__555"><placeName>Südsteiermark</placeName><idno type="GEONAMES"/></place><place xml:id="place__556"><placeName>Südtirol</placeName><location><geo decls="#LatLng">46.500000000000 11.333330000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3165244/</idno></place><place xml:id="place__568"><placeName>umstrittenes Gebiet</placeName><idno type="GEONAMES"/></place><place xml:id="place__595"><placeName>Znaim</placeName><location><geo decls="#LatLng">48.855500000000 16.048800000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3061344/</idno></place><place xml:id="place__3730"><placeName>Südkärnten</placeName><idno type="GEONAMES"/></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         </listOrg>
+      </back>
+  </text>
+</TEI>

@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0882.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0881.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0883.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Generaldirektion der Tabakregie: Regelung der Urlaubserteilung an weibliche Staatsangestellte im Falle der Schwangerschaft.</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2714</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>Bestand: Staatskanzlei - BKA/alt Varia 1919  Zwischenstaatliches Komitee; Verhandlungsschriften, Nr: 57., Unterpunkt: 02., Seite: 01f</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__3257">Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>Generaldirektion der Tabakregie: Regelung der Urlaubserteilung an weibliche Staatsangestellte im Falle der Schwangerschaft. ANTWORT DER KOMMISSION: Eine grundsätzliche allgemeine Regelung dieser Frage wäre abzulehnen, da sich die aus diesem Anlasse notwendige Dauer des Urlaubes vor allem nach dem körperlichen Zustande im einzelnen Falle richten wird. Es wird sohin Sache der gewissenhaften Prüfung durch den Amtsarzt sein, die notwendige Dauer des Urlaubes im einzelnen Falle zu beurteilen.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-07-14" notAfter="1919-07-14">
+                14. Juli 1919
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-10-27 09:19:51.772676+00:00" who="#pbecker"/><change when="2019-10-02 14:04:43.921067+00:00" who="#pbecker"/><change when="2019-03-28 10:34:37.514704+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         </listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         </listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1061"><orgName>Generaldirektion der Tabakregie</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

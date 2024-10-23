@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0889.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0888.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0890.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tätigkeit der Kriegsgefangenen-Fürsorgekommission des Staatsrates</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2907</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>Bestand: ÖStA/AdR, Bundeskanzleramt, Staatsratsprotokolle 1. Republik, Protokoll Nr. 66 - 77, 15. 1. 1919 - 7. 3. 1919, 77. Sitzung vom 7. März 1919, S. 10ff., Karton: 4</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__1256">Staatsrat</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>StR Schöpfer berichtet über die Verhandlungen der vom Staatsrat mit der Kriegsgefangenenfürsorge beauftragten Kommission, welche ergeben haben, dass als dringende Reform die Zusammenfassung aller damit befassten Ämter notwendig sei. Auch StS Bauer befürwortet eine Zentralstelle unter Einbeziehung der Angehörigenorganisationen. Der Staatsrat spricht sich für eine Zusammenfassung aller Kriegsgefangenenangelegenheiten sowie für die Reaktivierung der Kriegsgefangenenkommission in Bern aus.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-03-07" notAfter="1919-03-07">
+                7. März 1919
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Mitbestimmung</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Politische Parteien</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Pensionierung</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-03 20:51:29.765775+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__608"><persName><surname>Bauer</surname><forename>Otto</forename><roleName>Dr.</roleName></persName><birth when="1881-09-05">1881-09-05<placeName key="#place__580">Wien</placeName></birth><death when="1938-07-04">1938-07-04<placeName key="#place__518">Paris</placeName></death><idno>http://d-nb.info/gnd/118507346</idno></person><person xml:id="person__842"><persName><surname>Schoepfer</surname><forename>Aemilian</forename><roleName>Dr.</roleName></persName><birth when="1858-04-29">1858-04-29<placeName key="#place__415">Brixen</placeName></birth><death when="1936-03-24">1936-03-24<placeName key="#place__463">Innsbruck</placeName></death><idno>http://d-nb.info/gnd/119034913</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__414"><placeName>Brest-Litowsk</placeName><location><geo decls="#LatLng">52.097550000000 23.687750000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/629634/</idno></place><place xml:id="place__466"><placeName>Italien</placeName><location><geo decls="#LatLng">42.833330000000 12.833330000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3175395/</idno></place><place xml:id="place__533"><placeName>Russland</placeName><location><geo decls="#LatLng">60.000000000000 100.000000000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2017370/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__999"><orgName>deutschösterr. Amt für Kriegsgefangenenfürsorge</orgName></org><org xml:id="org__1023"><orgName>k.u.k. Kriegsministerium (Abteilung 10 KG)</orgName></org><org xml:id="org__1036"><orgName>Entente</orgName></org><org xml:id="org__1082"><orgName>Heimkehrersammelkommando "Freie Vereinigung" des ehemaligen k.u.k. Kriegsministeriums</orgName></org><org xml:id="org__1116"><orgName>kommunistische Heimkehrerorganisationen</orgName></org><org xml:id="org__1143"><orgName>Liquidationsgesellschaft für die Kriegsgefangengenfürsorgekommission</orgName></org><org xml:id="org__1220"><orgName>Staatsamt für Finanzen</orgName></org><org xml:id="org__1224"><orgName>Staatsamt des Äußern</orgName></org><org xml:id="org__1227"><orgName>Staatsamt für Heerwesen</orgName></org><org xml:id="org__1236"><orgName>Staatsamt für soziale Fürsorge</orgName></org><org xml:id="org__1256"><orgName>Staatsrat</orgName></org><org xml:id="org__3123"><orgName>Kommunistische Partei Deutschösterreichs</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

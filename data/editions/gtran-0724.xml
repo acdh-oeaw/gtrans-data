@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0724.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0723.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0725.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Serben in Marburg (Maribor)</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2824</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>Bestand: ÖStA/AdR, Bundeskanzleramt, Staatsratsprotokolle 1. Republik, Protokoll Nr. 36 - 50, 18. 11. 1918 - 29. 11. 1918; 44. Sitzung vom 25. November 1918, S. 2f, Karton: 2</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__1256">Staatsrat</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>Der Oberlandesgerichtspräsident von Graz bittet um Weisung bezüglich des Verhaltens des Gerichts in Marburg (Maribor) gegenüber den Serben, die sich der Verwaltung der gesamten Stadt bemächtigt haben. StK Renner empfiehlt, die Funktionäre nicht zurückzuziehen, auch wenn sie unter Zwang die Angelobung leisten müssten.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1918-11-25" notAfter="1918-11-25">
+                25. Nov. 1918
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Verwaltung</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-22 12:02:22.487551+00:00" who="#gsteiner"/><change when="2019-10-13 12:41:30.734514+00:00" who="#pbecker"/><change when="2019-10-03 08:59:05.303510+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__820"><persName><surname>Renner</surname><forename>Karl</forename><roleName>Dr.</roleName></persName><birth when="1870-12-14">1870-12-14<placeName key="#place__570">Unter-Tannowitz</placeName></birth><death when="1950-12-31">1950-12-31<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118599739</idno></person><person xml:id="person__826"><persName><surname>Roller</surname><forename>Julius</forename><roleName>Dr.</roleName></persName><birth when="1862-10-28">1862-10-28<placeName key="#place__560">Thomigsdorf</placeName></birth><death when="1946-12-27">1946-12-27<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/1028281269</idno></person><person xml:id="person__856"><persName><surname>Seitz</surname><forename>Karl</forename><roleName/></persName><birth when="1869-09-04">1869-09-04<placeName key="#place__580">Wien</placeName></birth><death when="1950-02-03">1950-02-03<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/119184745</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__453"><placeName>Graz</placeName><location><geo decls="#LatLng">47.066670000000 15.450000000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2778067/</idno></place><place xml:id="place__499"><placeName>Marburg</placeName><location><geo decls="#LatLng">46.554720000000 15.646670000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3195506/</idno></place><place xml:id="place__544"><placeName>SHS-Staat</placeName><location><geo decls="#LatLng">44.000000000000 19.750000000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/7500737/</idno></place><place xml:id="place__546"><placeName>Slowenien</placeName><location><geo decls="#LatLng">46.083330000000 15.000000000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3190538/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         </listOrg>
+      </back>
+  </text>
+</TEI>

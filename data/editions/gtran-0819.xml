@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0819.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0818.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0820.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Beamtenkomitee Mitglieder</title>
+            <title type="sub">Great Transformation App</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/3256</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>None</repository>
+                    <msName/>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>None</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents/></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="">
+            <p>Die Mitglieder des zwischenstaatsamtlichen Komitees
+
+MinR. Dr. Robert Davy (StA des Innern)
+MinR. Dr. Egon Zweig (StA für Unterricht)
+MinR. Dr. Richard Hödl (StA für Justiz)
+MinR. Dr. Karl Pesta (StA für Verkehrswesen)
+Sektionsrat Dr. August Wilfling (StA der Finanzen)
+Sektionsrat Dr. Artur Ritter von Aigner (StA  für Gewerbe, Industrie und Handel) 
+
+Quelle: Enquete veranstaltet am 17.und 18. Jänner 1919 zur Feststellung der Wünsche der Staatsangestellten in Bezug auf die Form ihrer künftigen Mitwirkung bei der Lösung sachlicher Fragen, die den Staatsdienst im Allgemeinen berühren, Wien 1919, Teilnehmerliste, VII.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1918-01-01" notAfter="1918-01-01">
+                
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-10-10 19:11:46.077909+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__598"><persName><surname>Aigner</surname><forename>Artur</forename><roleName>Dr.</roleName></persName><birth when="1876-06-02">1876-06-02<placeName key="#place__580">Wien</placeName></birth><death when="1947-03-24">1947-03-24<placeName key="#place__580">Wien</placeName></death></person><person xml:id="person__633"><persName><surname>Davy</surname><forename>Robert Franz Ludwig</forename><roleName>Dr.</roleName></persName><birth when="1867-01-22">1867-01-22<placeName key="#place__478">Königsberg</placeName></birth><death when="1924-04-22">1924-04-22<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/126181365</idno></person><person xml:id="person__704"><persName><surname>Hödl</surname><forename>Richard</forename><roleName>Dr.</roleName></persName><birth/><death/></person><person xml:id="person__795"><persName><surname>Pesta</surname><forename>Karl</forename><roleName>Dr.</roleName></persName><birth when="1871-11-15">1871-11-15<placeName key="#place__460">Hard bei Bregenz</placeName></birth><death when="1945-12-03">1945-12-03<placeName key="#place__463">Innsbruck</placeName></death><idno>http://d-nb.info/gnd/1025804953</idno></person><person xml:id="person__910"><persName><surname>Wilfling</surname><forename>August</forename><roleName>Dr.</roleName></persName><birth/><death/></person><person xml:id="person__923"><persName><surname>Zweig</surname><forename>Egon</forename><roleName>Dr.</roleName></persName><birth/><death/></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         </listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__3257"><orgName>Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

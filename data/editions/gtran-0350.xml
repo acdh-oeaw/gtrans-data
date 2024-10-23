@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0350.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0349.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0351.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Zum Zusammentritt der Nationalversammlung</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/3588</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Beamten-Zeitung. Zeitschrift des Ersten allgemeinen Beamten-Vereines. Organ für die Gesamtinteressen der Beamten aller Klassen, Erster allgemeiner Beamten-Verein (Hg.), Wien, 50. Jahrgang 1919</repository>
+                    <msName>Beamten-Zeitung, 15. 3. 1919, 35f.</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Zeitungsartikel</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#person__3576">  Sch-d.</author></msItem><msItem><author ref="#org__3496">Erster allgemeiner Beamten-Verein</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>Die Beamten-Zeitung begrüßt den Zusammentritt der Konst. Nationalversammlung als ein Symbol für den neuen demokratischen Staat und demokratischen Geist, in dem auch die Beamtenschaft, die mit dem Staat aufs Engste verknüpft ist, aktiv mitarbeiten kann und möchte. Sie ist sich der Schwierigkeiten, insbesondere wirtschaftlicher Art, dieser Übergangszeit bewusst. So hängt etwa die Frage der Besoldungsreform eng mit jener des Anschlusses an das Deutsche Reich und der Verwaltungsreform zusammen. Die Beamtenschaft macht dennoch auf ihre Notlage aus Folge des Krieges und der Teuerung aufmerksam und fordert die Verbesserung ihrer Lage durch Teuerungszulagen und Verbesserung der Wohnungssituation sowie Hilfe aus der Verschuldung. Auch aus Angst vor der Proletarisierung. Die Rückstellung der geplanten Pensionierungen und Entlassungen hat die Beamtenschaft dankbar angenommen und bittet, diese auf das unbedingt notwendige Maß zu beschränken.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-03-15" notAfter="1919-03-15">
+                15. März 1919
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Mitbestimmung</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Staatsbedienstetenorganisationen</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Demokratisierung</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Geist (moderner)</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Verwaltung</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Pensionierung</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-11 10:56:47.432377+00:00" who="#pbecker"/><change when="2019-01-25 11:15:21.052084+00:00" who="#gsteiner"/><change when="2019-01-18 14:57:29.680686+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__609"><persName><surname>Beck von Managetta</surname><forename>Eugen</forename><roleName>Dr.</roleName></persName><birth when="1861-06-15">1861-06-15<placeName key="#place__524">Preßburg</placeName></birth><death when="1943-11-07">1943-11-07<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/137693036; https://www.deutsche-biographie.de/pnd137693036.html</idno></person><person xml:id="person__820"><persName><surname>Renner</surname><forename>Karl</forename><roleName>Dr.</roleName></persName><birth when="1870-12-14">1870-12-14<placeName key="#place__570">Unter-Tannowitz</placeName></birth><death when="1950-12-31">1950-12-31<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118599739</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__429"><placeName>Deutsches Reich</placeName><idno type="GEONAMES"/></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1007"><orgName>deutschösterr. Regierung</orgName></org><org xml:id="org__1031"><orgName>ehemals österr. Staat</orgName></org><org xml:id="org__1120"><orgName>Konstituierende Nationalversammlung</orgName></org><org xml:id="org__1333"><orgName>Zentralverband der deutschösterr. Staatsbeamtenvereine</orgName></org><org xml:id="org__3301"><orgName>Deutschösterreichischer Staat</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

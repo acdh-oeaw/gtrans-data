@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0434.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0433.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0435.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Entbindung der Eisenbahnbediensteten in Deutschböhmen vom Gelöbnis und die Situation der Justizbehörden dortselbst</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/3684</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>ÖStA/AdR, Bundeskanzleramt, Kabinettsratsprotokolle 1. Republik, Protokoll Nr. 1 bis 35, 31. 10. 1918 bis 30. 1. 1919, Kabinettsratsprotokoll Nr. 22 vom 9. Dezember 1918, 1ff.</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__1105">Kabinettsrat</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>UStS Enderes berichtet von der Besetzung Teplitz-Schönaus (Teplice-Šanov) durch tschechische Behörden am 7. Dezember 1918 und erbittet die Genehmigung, die Eisenbahnbediensteten in Deutschböhmen von ihrem Eid auf den deutschösterreichischen Staat entbinden zu dürfen, da sie in ernsteste Gefahr geraten seien. Die Generaldirektion der tschechischen Staatsbahn in Prag (Praha) habe den Bediensteten in Böhmisch-Leipa (Česká Lípa) erklärt, dass sie nur dann zum Dienst zugelassen werden, wenn sie das Gelöbnis für Deutschösterreich widerrufen. Das Staatsamt für Verkehrswesen habe darauf in Anbetracht der Umstände die Bewilligung dazu erteilt, falls wegen Nichtwiderrufung des Gelöbnisses für die Bediensteten und die Bevölkerung Gefahr bestehe. StS Roller berichtet, dass die Aufrechterhaltung des deutschen Gerichtswesens in Deutschböhmen ebenso auf unüberwindliche Hürden stoße und regt an, die mit der Besetzung deutscher Gebiete auftauchenden Fragen einer einheitlichen Regelung zuzuführen. StK Renner teilt mit, dass der Fragenkomplex heute im Staatsrat behandelt werde.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1918-12-09" notAfter="1918-12-09">
+                9. Dezember 1918
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Repression</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">tschechoslowak. Staatsdienst</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-12 12:10:57.140534+00:00" who="#pbecker"/><change when="2019-01-31 13:33:31.884240+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__609"><persName><surname>Beck von Managetta</surname><forename>Eugen</forename><roleName>Dr.</roleName></persName><birth when="1861-06-15">1861-06-15<placeName key="#place__524">Preßburg</placeName></birth><death when="1943-11-07">1943-11-07<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/137693036; https://www.deutsche-biographie.de/pnd137693036.html</idno></person><person xml:id="person__644"><persName><surname>Enderes</surname><forename>Bruno</forename><roleName>Ing.</roleName></persName><birth when="1871-02-19">1871-02-19<placeName key="#place__580">Wien</placeName></birth><death when="1934-10-17">1934-10-17<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/117500348</idno></person><person xml:id="person__3676"><persName><surname>Geutebrück</surname><forename/><roleName>Dr.</roleName></persName><birth/><death/></person><person xml:id="person__3305"><persName><surname>Hanusch</surname><forename>Ferdinand</forename><roleName/></persName><birth when="1866-11-09">1866-11-09<placeName key="#place__3304">Wigstadtl</placeName></birth><death when="1923-09-28">1923-09-28<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118701460</idno></person><person xml:id="person__936"><persName><surname>Loewenfeld-Russ</surname><forename>Johann</forename><roleName/></persName><birth when="1873-10-29">1873-10-29<placeName key="#place__580">Wien</placeName></birth><death when="1940-01-12">1940-01-12<placeName key="#place__580">Wien</placeName></death><idno>https://de.wikipedia.org/wiki/Johann_L%C3%B6wenfeld-Russ</idno></person><person xml:id="person__767"><persName><surname>Mayer</surname><forename>Josef</forename><roleName/></persName><birth when="1877-04-09">1877-04-09<placeName key="#place__438">Eger</placeName></birth><death when="1938-05-03">1938-05-03<placeName key="#place__438">Eger</placeName></death><idno>http://d-nb.info/gnd/1020242728</idno></person><person xml:id="person__784"><persName><surname>Oberdorffer</surname><forename>Leonhard</forename><roleName>Dr.</roleName></persName><birth when="1875-03-08">1875-03-08<placeName key="#place__523">Prag</placeName></birth><death when="1956-12-18">1956-12-18<placeName key="#place__580">Wien</placeName></death></person><person xml:id="person__820"><persName><surname>Renner</surname><forename>Karl</forename><roleName>Dr.</roleName></persName><birth when="1870-12-14">1870-12-14<placeName key="#place__570">Unter-Tannowitz</placeName></birth><death when="1950-12-31">1950-12-31<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118599739</idno></person><person xml:id="person__826"><persName><surname>Roller</surname><forename>Julius</forename><roleName>Dr.</roleName></persName><birth when="1862-10-28">1862-10-28<placeName key="#place__560">Thomigsdorf</placeName></birth><death when="1946-12-27">1946-12-27<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/1028281269</idno></person><person xml:id="person__872"><persName><surname>Steinwender</surname><forename>Otto</forename><roleName>Dr.</roleName></persName><birth when="1847-02-17">1847-02-17<placeName key="#place__473">Klagenfurt</placeName></birth><death when="1921-03-20">1921-03-20<placeName key="#place__575">Villach</placeName></death><idno>http://d-nb.info/gnd/120148269</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__409"><placeName>Böhmisch-Leipa</placeName><location><geo decls="#LatLng">50.685510000000 14.537640000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3077929/</idno></place><place xml:id="place__427"><placeName>Deutschböhmen</placeName><idno type="GEONAMES"/></place><place xml:id="place__523"><placeName>Prag</placeName><location><geo decls="#LatLng">50.088040000000 14.420760000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3067696/</idno></place><place xml:id="place__527"><placeName>Reichenberg</placeName><location><geo decls="#LatLng">50.767110000000 15.056190000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3071961/</idno></place><place xml:id="place__553"><placeName>Sudetenland</placeName><idno type="GEONAMES"/></place><place xml:id="place__568"><placeName>umstrittenes Gebiet</placeName><idno type="GEONAMES"/></place><place xml:id="place__3172"><placeName>Teplitz</placeName><location><geo decls="#LatLng">50.640400000000 13.824510000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3064288/</idno></place><place xml:id="place__3681"><placeName>Tetschen</placeName><location><geo decls="#LatLng">50.782150000000 14.214780000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3077244/</idno></place><place xml:id="place__3682"><placeName>Bodenbach</placeName><location><geo decls="#LatLng">50.766670000000 14.200000000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3068031/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1009"><orgName>deutschösterr. Staatskanzlei, deutschböhmische Abteilung</orgName></org><org xml:id="org__1062"><orgName>Generaldirektion der tschechoslowakischen Staatsbahnen</orgName></org><org xml:id="org__1239"><orgName>Staatsamt für Verkehrswesen</orgName></org><org xml:id="org__1256"><orgName>Staatsrat</orgName></org><org xml:id="org__1289"><orgName>tschechoslowakische Regierung</orgName></org><org xml:id="org__3280"><orgName>Landesregierung Deutschböhmen</orgName></org><org xml:id="org__3301"><orgName>Deutschösterreichischer Staat</orgName></org><org xml:id="org__3675"><orgName>Staatsbahndirektion in Teplitz</orgName></org><org xml:id="org__3683"><orgName>Bahnamt Tetschen</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0074.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0073.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0075.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Gerichtseinteilung - Preisgabe von Grenzorten an die Tschechoslowakei</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2900</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>Bestand: ÖStA/AdR, Bundeskanzleramt, Staatsratsprotokolle 1. Republik, Protokoll Nr. 66 - 77, 15. 1. 1919 - 7. 3. 1919, 72. Sitzung vom 6. Februar 1919, S. 1., Karton: 4</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__1256">Staatsrat</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>Der Vorsitzende des deutschen Volksrates für Böhmen, Dr. Titta, verlangt in einem Telegramm die Rücknahme der Preisgabe von Grenzorten an die Tschechoslowakei durch StS Roller anlässlich der Verhandlungen zur Gerichtseinteilung zwischen der Tschechoslowakei und Deutschösterreich. Roller verneint, solche Zusagen gemacht zu haben, Titta soll in diesem Sinn verständigt werden.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-02-06" notAfter="1919-02-06">
+                6. Februar 1919
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">zwischenstaatliche Verhandlung</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-03 20:38:59.672325+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__754"><persName><surname>Licht</surname><forename>Stefan</forename><roleName>Dr.</roleName></persName><birth when="1860-10-28">1860-10-28<placeName key="#place__416">Brünn</placeName></birth><death when="1932-03-04">1932-03-04<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/124297870</idno></person><person xml:id="person__826"><persName><surname>Roller</surname><forename>Julius</forename><roleName>Dr.</roleName></persName><birth when="1862-10-28">1862-10-28<placeName key="#place__560">Thomigsdorf</placeName></birth><death when="1946-12-27">1946-12-27<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/1028281269</idno></person><person xml:id="person__882"><persName><surname>Titta</surname><forename>Josef Wenzel</forename><roleName>Dr.</roleName></persName><birth when="1863-01-24">1863-01-24<placeName key="#place__525">Prosmik</placeName></birth><death when="1923-08-09">1923-08-09<placeName key="#place__417">Brüx</placeName></death><idno>http://d-nb.info/gnd/124988474</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__427"><placeName>Deutschböhmen</placeName><idno type="GEONAMES"/></place><place xml:id="place__433"><placeName>Dlaschkowitz</placeName><location><geo decls="#LatLng">50.465550000000 13.964950000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3077140/</idno></place><place xml:id="place__475"><placeName>Kolldetsch</placeName><idno type="GEONAMES"/></place><place xml:id="place__520"><placeName>Podseditz</placeName><location><geo decls="#LatLng">50.471980000000 13.948280000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3067988/</idno></place><place xml:id="place__562"><placeName>Trebnitz</placeName><idno type="GEONAMES"/></place><place xml:id="place__567"><placeName>Tschechoslowakei</placeName><location><geo decls="#LatLng">50.082920000000 14.466720000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/8505031/</idno></place><place xml:id="place__568"><placeName>umstrittenes Gebiet</placeName><idno type="GEONAMES"/></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1253"><orgName>Staatskanzlei</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

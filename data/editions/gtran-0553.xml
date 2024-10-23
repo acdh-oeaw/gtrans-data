@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0553.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0552.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0554.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Allgemeine Nachrichten. Gutächtliche Aeußerungen der Experten im Gemeinderats-Ausschusse zur Vorberatung der Reform der Wiener Gemeindeverfassung am 19. und 23. Februar</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#vhelfert">Helfert, Veronika</rs></editor><editor><rs ref="#tgarstenauer">Garstenauer, Therese</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2937</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Wiener Stadt- und Landesarchiv</repository>
+                    <msName>Bestand: Wiener Stadt- und Landesarchiv, Archivbibliothek, BiblM - M - Amtsperiodika, Verwaltungsberichte, Adressbücher, Signatur: M 599 29/1 1. Ex., Punkt/Seite: o.P.; 580-597</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Amtsblatteintrag</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents/></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#vhelfert #tgarstenauer">
+            <p>Allgemeine Nachrichten. Gutächtliche Aeußerungen der Experten im Gemeinderats-Ausschusse zur Vorberatung der Reform der Wiener Gemeindeverfassung am 19. und 23. Februar. Mehrere Stellungsnahmen und Debatte von GR und StR. Z.B. Prof. Dr. Brockhausen: Berufs-/Parteibürgermeister; Stadtrat war modernisierungsbedürftig, aber Auflösung auch kritisch; Kommissionen: Vorteil vom "demokratischen Gesichtspunkt" aus, da "jeder Einzelne ein Betätigungsfeld hat, wo er eingreifen kann." [581]; zudem: der Beamte müsse seine Referate mündlich verteidigen. Allerdings: alles ist komplizierter und der Magistratsbeamte ist nur beratend - Expertenmeinungen werden der Majoritätsmeinung angepasst sein; der ausgewählte Beamte wird also kein Fachreferent im engen Sinne sein. Wie die Gemeinderäte zu "Berufsarbeitern" werden. [581]. Prof. Dr. Redlich charakterisiert den Entwurf mit dem Begriff Demokratisierung und der demokratischen Verwaltung, er macht einen geschichtlichen Überblick, verweist auf die Mitwirkung der Bevölkerung an der Verwaltung. NR Dr. Weiskirchner schildert die Reformen und Vorgänge in der Gemeindeverwaltung in der jüngsten Vergangenheit. Kritikpunkte an der Reform, sie sei auch verfrüht. Zwischendebatten der bereits genannten und anderen wie beispielsweise Kienböck. Dann Beitrag von Staatskanzler Dr. Renner, der den Vorschlag verteidigt und stärkere Autonomie der großen Bezirke andenkt, die wie eigene Städte seien; Beitrag des Präsidenten Seitz, der die aktuelle autokratische Verwaltung kritisiert und die Reform etwa gegen den Vorwurf, dass die Stellung der Beamten geschmälert würde, verteidigt. Kritik an der Reform von Kienböck.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1918-01-01" notAfter="1918-01-01">
+                
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Demokratisierung</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-04 09:08:12.414184+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__622"><persName><surname>Brockhausen</surname><forename>Carl</forename><roleName>Prof. Dr.</roleName></persName><birth when="1859-05-09">1859-05-09<placeName key="#place__3129">Emmerich am Rhein</placeName></birth><death when="1951-09-16">1951-09-16<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/116552980</idno></person><person xml:id="person__728"><persName><surname>Kienböck</surname><forename>Viktor</forename><roleName>Dr.</roleName></persName><birth when="1873-01-18">1873-01-18<placeName key="#place__580">Wien</placeName></birth><death when="1956-11-23">1956-11-23<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/129085804</idno></person><person xml:id="person__815"><persName><surname>Redlich</surname><forename>Josef</forename><roleName>Dr.</roleName></persName><birth when="1869-06-18">1869-06-18<placeName key="#place__450">Göding</placeName></birth><death when="1936-11-12">1936-11-12<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118743724</idno></person><person xml:id="person__820"><persName><surname>Renner</surname><forename>Karl</forename><roleName>Dr.</roleName></persName><birth when="1870-12-14">1870-12-14<placeName key="#place__570">Unter-Tannowitz</placeName></birth><death when="1950-12-31">1950-12-31<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118599739</idno></person><person xml:id="person__850"><persName><surname>Schwarz-Hiller</surname><forename>Rudolf</forename><roleName>Dr.</roleName></persName><birth/><death/></person><person xml:id="person__856"><persName><surname>Seitz</surname><forename>Karl</forename><roleName/></persName><birth when="1869-09-04">1869-09-04<placeName key="#place__580">Wien</placeName></birth><death when="1950-02-03">1950-02-03<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/119184745</idno></person><person xml:id="person__903"><persName><surname>Weiskirchner</surname><forename>Richard</forename><roleName>DDr.</roleName></persName><birth when="1861-03-24">1861-03-24<placeName key="#place__580">Wien</placeName></birth><death when="1926-04-30">1926-04-30<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/117278602</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1056"><orgName>Gemeinderat (Wien)</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0488.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0487.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0489.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Gemeinderat. Stenographischer Bericht über die Sitzung vom 11. Juli 1919. 24. Einreihung von Angestellten</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#vhelfert">Helfert, Veronika</rs></editor><editor><rs ref="#tgarstenauer">Garstenauer, Therese</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/3054</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Wiener Stadt- und Landesarchiv</repository>
+                    <msName>Bestand: Wiener Stadt- und Landesarchiv, Archivbibliothek, BiblM - M - Amtsperiodika, Verwaltungsberichte, Adressbücher, Signatur: M 599 28/3 1. Ex., Punkt/Seite: 24; 1872</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Amtsblatteintrag</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents/></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#vhelfert #tgarstenauer">
+            <p>24. Einreihung von Angestellten. Berichterstatter GR Speiser: Zahl 12575 Post 19, betrifft die Änderung des Gemeinderatsbeschlusses vom 24. April 1919, P.Z. 681.
+Änderung der Beilage C der neuen Dienstordnung für die Angestellten der Gemeinde Wien (Streichung von einigen Stufen in bestimmten Bezugsklassen von Gruppen). Aus dem Stadtrat (11.7.1919, AB 2.8.1919). Beschluss wird angenommen [1872].</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-07-11" notAfter="1919-07-11">
+                
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-10-09 20:55:52.830838+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__821"><persName><surname>Reumann</surname><forename>Jakob</forename><roleName/></persName><birth/><death/></person><person xml:id="person__867"><persName><surname>Speiser</surname><forename>Paul</forename><roleName/></persName><birth/><death/></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         </listOrg>
+      </back>
+  </text>
+</TEI>

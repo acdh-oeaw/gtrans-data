@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0704.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0703.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0705.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Übernahme der Regierung und Liquidierung</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/3593</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>ÖStA/AdR, Bundeskanzleramt, Kabinettsratsprotokolle 1. Republik, Protokoll Nr. 1 bis 35, 31. 10. 1918 bis 30. 1. 1919, Kabinettsratsprotokoll Nr. 2 vom 2. November 1918, 3ff.</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__1105">Kabinettsrat</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>Alle Staatssekretäre haben mit den k.k. Ministerien die Einrichtungen zu sondern in a) deutschösterreichische, b) andersnationale, c) internationale. Eine Liquidationsdeputation ist auf parlamentarischen Boden einzurichten, in die jede Nation im Verhältnis zu ihrer Bevölkerung Delegierte entsenden soll. Diese Deputation wird vom Parlament ermächtigt, über die Liquidationen zu entscheiden. Sie arbeitet zusammen mit einer aus Vertretern der  Staatssekretariate bzw. der Regierungen der fremdnationalen Staaten gebildeten Liquidationskommission. Außerdem hat jede Nation das Recht, Vertrauensmänner in die Ministerien zu entsenden. Erst wenn diese Deputation ins Leben gerufen ist, könnte das bisherige k.k. Ministerium aus dem Amt scheiden, was nicht vor 12. November sein kann. Von diesen Beschlüssen ist der Staatssekretär des Äußern zu verständigen. Mit der Liquidation der Zentralen wird das Staatsamt für Kriegs- und Übergangswirtschaft betraut.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1918-11-02" notAfter="1918-11-02">
+                2. November 1918
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">deutschösterr. Regierung</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">zwischenstaatliche Vereinbarung</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-11 11:20:17.574459+00:00" who="#pbecker"/><change when="2019-01-22 10:45:12.248928+00:00" who="#gsteiner"/><change when="2019-01-22 10:18:45.224559+00:00" who="#gsteiner"/><change when="2019-01-22 10:16:08.343981+00:00" who="#gsteiner"/><change when="2019-01-22 10:13:10.531572+00:00" who="#gsteiner"/><change when="2019-01-22 09:56:55.799789+00:00" who="#gsteiner"/><change when="2019-01-22 09:39:55.966593+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__597"><persName><surname>Adler</surname><forename>Victor</forename><roleName>Dr. med.</roleName></persName><birth when="1852-06-24">1852-06-24<placeName key="#place__523">Prag</placeName></birth><death when="1918-11-11">1918-11-11<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118647075</idno></person><person xml:id="person__820"><persName><surname>Renner</surname><forename>Karl</forename><roleName>Dr.</roleName></persName><birth when="1870-12-14">1870-12-14<placeName key="#place__570">Unter-Tannowitz</placeName></birth><death when="1950-12-31">1950-12-31<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118599739</idno></person><person xml:id="person__824"><persName><surname>Riedl</surname><forename>Richard</forename><roleName>Dr.</roleName></persName><birth when="1865-12-08">1865-12-08<placeName key="#place__580">Wien</placeName></birth><death when="1944-03-09">1944-03-09<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/117532541</idno></person><person xml:id="person__890"><persName><surname>Urban</surname><forename>Karl</forename><roleName/></persName><birth when="1855-09-01">1855-09-01<placeName key="#place__523">Prag</placeName></birth><death when="1940-10-24">1940-10-24<placeName key="#place__523">Prag</placeName></death><idno>http://d-nb.info/gnd/1148771107</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         </listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1007"><orgName>deutschösterr. Regierung</orgName></org><org xml:id="org__1051"><orgName>fremdnationale Staaten</orgName></org><org xml:id="org__1194"><orgName>Provisorische Nationalversammlung</orgName></org><org xml:id="org__1233"><orgName>Staatsamt für Kriegs- und Übergangswirtschaft</orgName></org><org xml:id="org__1253"><orgName>Staatskanzlei</orgName></org><org xml:id="org__3594"><orgName>Liquidationsdeputation</orgName></org><org xml:id="org__3595"><orgName>Liquidationskommission</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

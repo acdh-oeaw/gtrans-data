@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0393.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0392.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0394.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Verhandlungsschrift über die Beratung des Bürgerklubkomitees vom 18. Februar 1919 betreffend die Zukunft Wiens</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#vhelfert">Helfert, Veronika</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/3828</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Karl von Vogelsang-Institut</repository>
+                    <msName>Christlichsoziale Partei-Wien, Kt. 37, M. Bürgerklub-Protokolle 1919</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__3826">Bürgerklub</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#vhelfert">
+            <p>Bürgermeister Richard Weiskirchner diskutiert die Frage zu welchen Bedingungen der Anschluss an Deutschland für die ausgewählten anwesenden christlichsozialen Wiener Gemeinde- und Stadträte sowie den Landeshauptmann von Steiner in Frage kommt. Er diskutiert diese in diesem Gremium, nachdem Otto Bauer die Frage an das Gemeinderatspräsidium gestellt hat. Es wird eine vertrauliche Sitzung des Bürgermeisters mit den drei Vizebürgermeistern und den Obmännern der Gemeinderatsparteien am 21.2.1919 geben, da Weiskirchner "das Gemeinderatspräsidium allein nicht für kompetent halte in einer so verantwortungsvollen Angelegenheit ein Gutachten abzugeben".
+Gemeinderat Rummelhardt bringt ein, "in der Beamtenschaft und industriellen Arbeiterschaft werde bald eine Ernüchterung eintreten, wenn Tausende infolge Konkurrenz abwandern müßten. Wir sind für den Anschluß an Deutschland, lassen uns aber nicht unter die preußische Fuchtel bringen."
+Insgesamt ist die Stimmung der Sitzung pro Anschluß an Deutschland, sich aber im Gemeinderat vorsichtig zu äußern.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-02-18" notAfter="1919-02-18">
+                18. Februar 1919
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Politische Verhältnisse</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-12 23:12:06.353034+00:00" who="#pbecker"/><change when="2019-06-13 08:36:03.570966+00:00" who="#vhelfert"/><change when="2019-03-28 11:57:45.040990+00:00" who="#vhelfert"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__608"><persName><surname>Bauer</surname><forename>Otto</forename><roleName>Dr.</roleName></persName><birth when="1881-09-05">1881-09-05<placeName key="#place__580">Wien</placeName></birth><death when="1938-07-04">1938-07-04<placeName key="#place__518">Paris</placeName></death><idno>http://d-nb.info/gnd/118507346</idno></person><person xml:id="person__728"><persName><surname>Kienböck</surname><forename>Viktor</forename><roleName>Dr.</roleName></persName><birth when="1873-01-18">1873-01-18<placeName key="#place__580">Wien</placeName></birth><death when="1956-11-23">1956-11-23<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/129085804</idno></person><person xml:id="person__810"><persName><surname>Rain</surname><forename>Josef</forename><roleName/></persName><birth/><death/></person><person xml:id="person__831"><persName><surname>Rummelhardt</surname><forename>Karl</forename><roleName/></persName><birth/><death/></person><person xml:id="person__836"><persName><surname>Schmid</surname><forename>Heinrich</forename><roleName>Ing.</roleName></persName><birth/><death/></person><person xml:id="person__883"><persName><surname>Tomola</surname><forename>Leopold</forename><roleName/></persName><birth/><death/></person><person xml:id="person__891"><persName><surname>Vaugoin</surname><forename>Karl</forename><roleName/></persName><birth/><death/></person><person xml:id="person__894"><persName><surname>von Steiner</surname><forename/><roleName/></persName><birth/><death/></person><person xml:id="person__903"><persName><surname>Weiskirchner</surname><forename>Richard</forename><roleName>DDr.</roleName></persName><birth when="1861-03-24">1861-03-24<placeName key="#place__580">Wien</placeName></birth><death when="1926-04-30">1926-04-30<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/117278602</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__3637"><placeName>Preußen</placeName><idno type="GEONAMES"/></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__991"><orgName>Christlichsoziale Partei (CSP)</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

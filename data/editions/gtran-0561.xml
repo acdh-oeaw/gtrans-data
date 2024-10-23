@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0561.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0560.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0562.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Gesetz betr. das Dienstverhältnis der Hochschulassistenten, Änderung</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#kmegner">Megner, Karl</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/3219</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichische Nationalbibliothek</repository>
+                    <msName>Bestand: Staatsgesetzblatt für den Staat Deutschösterreich 1918–1920, Signatur: StGBl. Nr. 102/1920 (KNV: 719 AB 738 S. 64.)</msName>
+               <idno>http://alex.onb.ac.at/cgi-content/alex?aid=sgb&amp;datum=1920&amp;page=264&amp;size=45</idno></msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Gesetzblatt</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents/></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#kmegner">
+            <p>Die Bezüge der Hochschulassistenten wurden zu jenen der AHS-Professoren analog gesetzt.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1920-02-26" notAfter="1920-02-26">
+                1920-02-26
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-10-10 10:55:44.616458+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         </listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         </listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1083"><orgName>Hochschule</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

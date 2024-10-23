@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0224.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0223.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0225.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Dr. Reisch gegen Präsident Kokstein. Zugeständnis großer Stellenvermehrung</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#vhelfert">Helfert, Veronika</rs></editor><editor><rs ref="#tgarstenauer">Garstenauer, Therese</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2780</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Wien Bibliothek</repository>
+                    <msName>Bestand: Wien Bibliothek, Tagblatt Sachmappen, TS 2599/1919, Bibliographische Angaben: Dr. Reisch gegen Präsident Kokstein. Zugeständnis großer Stellenvermehrung, Wien, 25, Juni, in: Neue Freie Presse, Nr. 20052, 25. Juni 1920 (Abendausgabe)</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Zeitungsartikel</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents/></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#vhelfert #tgarstenauer">
+            <p>Die Neue Freie Presse spricht sich gegen die Vernaderungsvorwürfe des Staatssekretärs für Finanzen, Richard Reisch, aus und verweist auf die hohe Zahl an zusätzlichen Beamten im Staatsamt für Finanzen und andere Budgetprobleme.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1920-06-25" notAfter="1920-06-25">
+                
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-10-03 05:37:50.242287+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         </listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1220"><orgName>Staatsamt für Finanzen</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0279.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0278.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0280.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Anschaffungsbeitrag und Teuerungszulage für Lehrer</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2856</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>Bestand: ÖStA/AdR, Bundeskanzleramt, Staatsratsprotokolle 1. Republik, Protokoll Nr. 51 - 65, 30. 11. 1918 - 13. 1. 1919, 57. Sitzung vom 11. Dezember 1918, S. 3., Karton: 3</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__1256">Staatsrat</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>Unterstaatssekretär Beck berichtet über die Gewährung eines Anschaffungsbeitrages für das Jahr 1918 und eines Teuerungszuschlages für das erste Halbjahr 1919 für Lehrer an öffentlichen Volks- und Bürgerschulen sowie für deren Witwen und Waisen; die beiden Gesetzesentwürfe werden der Finanzkommission zugewiesen.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1918-12-11" notAfter="1918-12-11">
+                11. Dez. 1918
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-10-03 09:57:24.481615+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__609"><persName><surname>Beck von Managetta</surname><forename>Eugen</forename><roleName>Dr.</roleName></persName><birth when="1861-06-15">1861-06-15<placeName key="#place__524">Preßburg</placeName></birth><death when="1943-11-07">1943-11-07<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/137693036; https://www.deutsche-biographie.de/pnd137693036.html</idno></person><person xml:id="person__690"><persName><surname>Hauser</surname><forename>Johann Nepomuk</forename><roleName>Dr.</roleName></persName><birth when="1866-02-24">1866-02-24<placeName key="#place__479">Kopfing im Innkreis</placeName></birth><death when="1927-02-18">1927-02-18<placeName key="#place__490">Linz</placeName></death><idno>http://d-nb.info/gnd/118709178</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         </listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1043"><orgName>Finanzkommission</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

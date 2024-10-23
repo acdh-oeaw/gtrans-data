@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0460.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0459.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0461.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Verhandlungsschrift über die Sitzung des Bürgerklubs vom 19. Mai 1919</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#vhelfert">Helfert, Veronika</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/3834</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Karl von Vogelsang-Institut</repository>
+                    <msName>Christlichsoziale Partei-Wien, Kt. 37, M. Bürgerklub-Protokolle 1919</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__3826">Bürgerklub</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#vhelfert">
+            <p>Wahl von Leopold Kunschak zum Obmann des Bürgerklubs (Klub der christlichsozialen Fraktion im Wiener Gemeinderat), von Viktor Kienböck und Karl Vaugoin zu seinen Stellvertretern und anderer Funktionen im Klub. Im Protokoll ist eine lange Rede von Kunschak festgehalten, in der er auf die gegenwärtige politische Lage und die Lage der christlichsozialen Partei in der Stadtverwaltung eingeht.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-05-19" notAfter="1919-05-19">
+                19. Mai 1919
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Gemeindewahlrecht</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-12 23:21:29.497907+00:00" who="#pbecker"/><change when="2019-06-13 08:05:45.264179+00:00" who="#vhelfert"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__728"><persName><surname>Kienböck</surname><forename>Viktor</forename><roleName>Dr.</roleName></persName><birth when="1873-01-18">1873-01-18<placeName key="#place__580">Wien</placeName></birth><death when="1956-11-23">1956-11-23<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/129085804</idno></person><person xml:id="person__746"><persName><surname>Kunschak</surname><forename>Leopold</forename><roleName/></persName><birth when="1871-11-11">1871-11-11<placeName key="#place__580">Wien</placeName></birth><death when="1953-03-13">1953-03-13<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118725432</idno></person><person xml:id="person__3833"><persName><surname>Lueger</surname><forename>Karl</forename><roleName>Dr.</roleName></persName><birth when="1844-10-24">1844-10-24<placeName key="#place__580">Wien</placeName></birth><death when="1910-03-10">1910-03-10<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118729578</idno></person><person xml:id="person__891"><persName><surname>Vaugoin</surname><forename>Karl</forename><roleName/></persName><birth/><death/></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         </listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         </listOrg>
+      </back>
+  </text>
+</TEI>

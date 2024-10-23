@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0912.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0911.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0913.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Sachgüterdemobilisierung</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2815</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>Bestand: ÖStA/AdR, Bundeskanzleramt, Staatsratsprotokolle 1. Republik, Protokoll Nr. 36 - 50, 18. 11. 1918 - 29. 11. 1918; 42. Sitzung vom 22. Nov. 1918, S. 2ff., Karton: 2</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__1256">Staatsrat</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>Diskussion um die Durchführung der Sachdemobilisierung und ihre Probleme; dabei müsse auf die fremden Nationalstaaten Rücksicht genommen werden.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1918-11-22" notAfter="1918-11-22">
+                22. Nov. 1918
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-10-22 11:14:22.687399+00:00" who="#gsteiner"/><change when="2019-10-03 07:55:41.627040+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__608"><persName><surname>Bauer</surname><forename>Otto</forename><roleName>Dr.</roleName></persName><birth when="1881-09-05">1881-09-05<placeName key="#place__580">Wien</placeName></birth><death when="1938-07-04">1938-07-04<placeName key="#place__518">Paris</placeName></death><idno>http://d-nb.info/gnd/118507346</idno></person><person xml:id="person__616"><persName><surname>Bodirsky</surname><forename>Gustav</forename><roleName>Dr.</roleName></persName><birth when="1864-04-01">1864-04-01<placeName key="#place__549">Stachenwald</placeName></birth><death when="1934-09-18">1934-09-18<placeName key="#place__445">Fulnek</placeName></death><idno>https://de.wikipedia.org/wiki/Gustav_Bodirsky</idno></person><person xml:id="person__635"><persName><surname>Dinghofer</surname><forename>Franz</forename><roleName>Dr.</roleName></persName><birth when="1873-04-06">1873-04-06<placeName key="#place__517">Ottensheim</placeName></birth><death when="1956-01-12">1956-01-12<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118902830</idno></person><person xml:id="person__3341"><persName><surname>Fink</surname><forename>Jodok</forename><roleName>Dr.</roleName></persName><birth when="1853-02-19">1853-02-19<placeName key="#place__3340">Andelsbuch</placeName></birth><death when="1929-07-01">1929-07-01<placeName key="#place__3340">Andelsbuch</placeName></death><idno>http://d-nb.info/gnd/120009889</idno></person><person xml:id="person__675"><persName><surname>Gruber</surname><forename>Josef</forename><roleName/></persName><birth when="1867-03-12">1867-03-12<placeName key="#place__486">Lambach</placeName></birth><death when="1945-09-05">1945-09-05<placeName key="#place__490">Linz</placeName></death><idno>http://d-nb.info/gnd/109590177X</idno></person><person xml:id="person__690"><persName><surname>Hauser</surname><forename>Johann Nepomuk</forename><roleName>Dr.</roleName></persName><birth when="1866-02-24">1866-02-24<placeName key="#place__479">Kopfing im Innkreis</placeName></birth><death when="1927-02-18">1927-02-18<placeName key="#place__490">Linz</placeName></death><idno>http://d-nb.info/gnd/118709178</idno></person><person xml:id="person__820"><persName><surname>Renner</surname><forename>Karl</forename><roleName>Dr.</roleName></persName><birth when="1870-12-14">1870-12-14<placeName key="#place__570">Unter-Tannowitz</placeName></birth><death when="1950-12-31">1950-12-31<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118599739</idno></person><person xml:id="person__824"><persName><surname>Riedl</surname><forename>Richard</forename><roleName>Dr.</roleName></persName><birth when="1865-12-08">1865-12-08<placeName key="#place__580">Wien</placeName></birth><death when="1944-03-09">1944-03-09<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/117532541</idno></person><person xml:id="person__856"><persName><surname>Seitz</surname><forename>Karl</forename><roleName/></persName><birth when="1869-09-04">1869-09-04<placeName key="#place__580">Wien</placeName></birth><death when="1950-02-03">1950-02-03<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/119184745</idno></person><person xml:id="person__875"><persName><surname>Sylvester</surname><forename>Julius</forename><roleName>Dr.</roleName></persName><birth when="1854-06-30">1854-06-30<placeName key="#place__580">Wien</placeName></birth><death when="1944-07-13">1944-07-13<placeName key="#place__592">Zell am Wallersee</placeName></death><idno>http://d-nb.info/gnd/120148595</idno></person><person xml:id="person__879"><persName><surname>Teufel</surname><forename>Oskar</forename><roleName/></persName><birth when="1880-10-05">1880-10-05<placeName key="#place__595">Znaim</placeName></birth><death when="1946-01-26">1946-01-26<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/1027122671</idno></person><person xml:id="person__887"><persName><surname>Tusar</surname><forename>Vlastimil</forename><roleName/></persName><birth when="1880-10-18">1880-10-18<placeName key="#place__523">Prag</placeName></birth><death when="1924-03-22">1924-03-22<placeName key="#place__404">Berlin</placeName></death><idno>http://d-nb.info/gnd/133790649</idno></person><person xml:id="person__890"><persName><surname>Urban</surname><forename>Karl</forename><roleName/></persName><birth when="1855-09-01">1855-09-01<placeName key="#place__523">Prag</placeName></birth><death when="1940-10-24">1940-10-24<placeName key="#place__523">Prag</placeName></death><idno>http://d-nb.info/gnd/1148771107</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__412"><placeName>Braunau</placeName><location><geo decls="#LatLng">48.256280000000 13.043430000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2781520/</idno></place><place xml:id="place__430"><placeName>Deutschösterreich</placeName><idno type="GEONAMES"/></place><place xml:id="place__454"><placeName>Gröding</placeName><idno type="GEONAMES"/></place><place xml:id="place__490"><placeName>Linz</placeName><location><geo decls="#LatLng">48.306390000000 14.286110000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2772400/</idno></place><place xml:id="place__512"><placeName>Oberösterreich</placeName><location><geo decls="#LatLng">48.250000000000 14.000000000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2769848/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1022"><orgName>k.u.k. Kriegsministerium</orgName></org><org xml:id="org__1066"><orgName>Gesandtenkonferenz</orgName></org><org xml:id="org__1167"><orgName>Oberösterreichische Landesregierung</orgName></org><org xml:id="org__1226"><orgName>Staatsamt für Gewerbe, Industrie und Handel</orgName></org><org xml:id="org__1233"><orgName>Staatsamt für Kriegs- und Übergangswirtschaft</orgName></org><org xml:id="org__1237"><orgName>Staatsamt für Übergangswirtschaft (Generalkommissariat)</orgName></org><org xml:id="org__1256"><orgName>Staatsrat</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

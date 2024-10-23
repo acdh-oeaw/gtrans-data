@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0168.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0167.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0169.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Verhandlungsschrift über die Sitzung des Bürgerklubs vom 4. März 1919</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#vhelfert">Helfert, Veronika</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/3829</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Karl von Vogelsang-Institut</repository>
+                    <msName>Christlichsoziale Partei-Wien, Kt. 37, M. Bürgerklub-Protokolle 1919</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__3826">Bürgerklub</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#vhelfert">
+            <p>In dieser Sitzung des Bürgerklubs der christlichsozialen Gemeinderäte wird unter anderem über die kommende Gemeinderatswahl diskutiert. Gemeinderat Rotter wünscht sich dabei, dass die Bezirke, "in denen die Tschechen viele Stimmern erhalten, um je ein Mandat gekürzt werden, und schlägt vor, bei den Bezirksratswahlen die Mandate nicht nach den abgegebenen Stimmen, sondern nach der Anzahl der gewählten Gemeinderäte zu verteilen, um ein bedeutendes Anwachsen der tschechischen Mandate zu verhindern."</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-03-04" notAfter="1919-03-04">
+                4. März 1919
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Gemeindewahlrecht</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-12 23:13:49.339185+00:00" who="#pbecker"/><change when="2019-06-13 08:36:49.269449+00:00" who="#vhelfert"/><change when="2019-03-28 12:02:56.197623+00:00" who="#vhelfert"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__829"><persName><surname>Rotter</surname><forename>Hans</forename><roleName/></persName><birth/><death/></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         </listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__991"><orgName>Christlichsoziale Partei (CSP)</orgName></org><org xml:id="org__3176"><orgName>Tschechoslowakische Partei</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

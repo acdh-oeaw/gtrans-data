@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0694.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0693.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0695.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Übernahme von deutschen Universitäten und Akademien sowie von Staatslehrpersonen deutscher Nationalität durch Deutschösterreich</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/3413</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Gertrude Enderle-Burcel et al. (Hg.), Der österreichische Staatsrat. Protokolle des Vollzugsausschusses, des Staatsrates und des Geschäftsführenden Staatsratsdirektoriums 21. Oktober 1918 bis 14. Marz 1919, Band 1: 21. Oktober 1918 bis 14. November 1918, Wien 2008</repository>
+                    <msName>StRProt Nr. 30 vom 11. November 1918, in: Enderle-Burcel et al. (Hg.), Der österreichische Staatsrat, 380f.</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><p>vgl. hiezu Kabinettsratsprotokoll Nr. 11 vom 15. November 1918, Punkt 2 sowie StRProt. Nr. 44 vom 25. November 1918.</p><msItem><author ref="#org__1256">Staatsrat</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>StS Pacher beantragt einen grundsätzlichen Beschluss zur Übernahme verschiedener deutschsprachiger Universitäten und Hochschulen der ehemaligen Monarchie und von Verhandlungen über deren Standorte. Außerdem beantragt StS Pacher einen grundsätzlichen Beschluss, dass Staatslehrpersonen deutscher Nationalität außerhalb des Gebietes des deutschösterreichischen Staates die Dienstbezüge auf Rechnung der betreffenden Staatsanstalten weiter angewiesen werden. Schließlich bedürfe es laut Pacher einer Klarstellung, inwieweit Staatslehrpersonen deutscher Nationalität außerhalb Deutschösterreichs in den Dienst des deutschösterreichischen Staates aufgenommen werden können. StS Roller macht in diesem Zusammenhang darauf aumerksam, dass die Lösung der Beamtenfrage in einer Kommission, der unter dem Vorsitz des Unterstaatssekretärs von Beck die Präsidialisten aller Staatsämter zugezogen werden, vorbereitet wird. Die Angelegenheit gelangt in den Kabinettsrat und dann in den Staatsrat.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1918-11-11" notAfter="1918-11-11">
+                1918-11-11
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Beamtenorganisation</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-25 10:17:02.044754+00:00" who="#pbecker"/><change when="2019-10-18 10:27:56.679743+00:00" who="#gsteiner"/><change when="2019-10-11 08:36:01.745512+00:00" who="#pbecker"/><change when="2018-12-21 15:23:11.011936+00:00" who="#gsteiner"/><change when="2018-12-21 15:18:33.865829+00:00" who="#gsteiner"/><change when="2018-12-21 15:01:00.060030+00:00" who="#gsteiner"/><change when="2018-12-21 14:37:46.037992+00:00" who="#gsteiner"/><change when="2018-12-21 14:24:07.890199+00:00" who="#gsteiner"/><change when="2018-12-21 13:44:50.977344+00:00" who="#gsteiner"/><change when="2018-12-21 13:25:47.977169+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__609"><persName><surname>Beck von Managetta</surname><forename>Eugen</forename><roleName>Dr.</roleName></persName><birth when="1861-06-15">1861-06-15<placeName key="#place__524">Preßburg</placeName></birth><death when="1943-11-07">1943-11-07<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/137693036; https://www.deutsche-biographie.de/pnd137693036.html</idno></person><person xml:id="person__787"><persName><surname>Pacher</surname><forename>Raphael</forename><roleName>Dr.</roleName></persName><birth when="1857-07-21">1857-07-21<placeName key="#place__464">Iserthal</placeName></birth><death when="1936-03-25">1936-03-25<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/124749275</idno></person><person xml:id="person__820"><persName><surname>Renner</surname><forename>Karl</forename><roleName>Dr.</roleName></persName><birth when="1870-12-14">1870-12-14<placeName key="#place__570">Unter-Tannowitz</placeName></birth><death when="1950-12-31">1950-12-31<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118599739</idno></person><person xml:id="person__826"><persName><surname>Roller</surname><forename>Julius</forename><roleName>Dr.</roleName></persName><birth when="1862-10-28">1862-10-28<placeName key="#place__560">Thomigsdorf</placeName></birth><death when="1946-12-27">1946-12-27<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/1028281269</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__416"><placeName>Brünn</placeName><location><geo decls="#LatLng">49.195220000000 16.607960000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3078610/</idno></place><place xml:id="place__424"><placeName>Czernowitz</placeName><location><geo decls="#LatLng">48.291490000000 25.940340000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/710719/</idno></place><place xml:id="place__523"><placeName>Prag</placeName><location><geo decls="#LatLng">50.088040000000 14.420760000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3067696/</idno></place><place xml:id="place__527"><placeName>Reichenberg</placeName><location><geo decls="#LatLng">50.767110000000 15.056190000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3071961/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1083"><orgName>Hochschule</orgName></org><org xml:id="org__1097"><orgName>k.k. Finanzministerium</orgName></org><org xml:id="org__1105"><orgName>Kabinettsrat</orgName></org><org xml:id="org__1220"><orgName>Staatsamt für Finanzen</orgName></org><org xml:id="org__1238"><orgName>Staatsamt für Unterricht</orgName></org><org xml:id="org__1256"><orgName>Staatsrat</orgName></org><org xml:id="org__3257"><orgName>Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</orgName></org><org xml:id="org__3301"><orgName>Deutschösterreichischer Staat</orgName></org><org xml:id="org__3414"><orgName>Deutsche Universität Prag</orgName></org><org xml:id="org__3415"><orgName>Deutsche Technische Hochschule Prag</orgName></org><org xml:id="org__3416"><orgName>Deutsche Technische Hochschule Brünn</orgName></org><org xml:id="org__3417"><orgName>Universität Czernowitz</orgName></org><org xml:id="org__3418"><orgName>Kunstakademie Prag</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

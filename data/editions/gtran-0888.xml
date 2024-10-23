@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0888.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0887.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0889.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Gesetz betr. die Errichtung von Betriebsräten</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#kmegner">Megner, Karl</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/3197</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichische Nationalbibliothek</repository>
+                    <msName>Bestand: Staatsgesetzblatt für den Staat Deutschösterreich 1918–1920, Signatur: StGBl. Nr.283 /1919 (KNV: 164 AB 221  S.16.)</msName>
+               <idno>http://alex.onb.ac.at/cgi-content/alex?apm=0&amp;aid=sgb&amp;datum=19190004&amp;seite=00000651&amp;size=45</idno></msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Gesetzblatt</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents/></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#kmegner">
+            <p>Das Gesetz bestimmte die Errichtung von Betriebsräten für Arbeiter und Angestellte in der Privatwirtschaft. Auch bei "Staatsbetrieben" (Eisenbahnen, Post usw.) waren Betriebsräte vorgesehen. Zwischen 1918 und 1923 wurde in manchen Ressorts des öffentlichen Dienstes die Frage der Personalvertretungen auf dem Verordnungsweg geregelt, nicht aber im hoheitlichen Bereich. Eine Regierungsvorlage des Jahres 1921 sah keine Mitwirkungsrechte, sondern lediglich die Möglichkeit des Angehörtwerdens vor. Sie wurde im Plenum des Nationalrats nie beschlossen. Artikel 21 des Bundes-Verfassungsgesetzes legte fest, dass Personalvertretungen bei der Regelung der Rechte und Pflichten der öffentlich Bediensteten des Bundes mitsprechen sollten. In der Ersten Republik hatte die teilweise noch in k.k. Verhaltensmustern verankerte Hochbürokratie in der Errichtung von Personalvertretungen „eine unerwünschte Beschränkung der eigenen, bisher unangefochtenen Diensthoheitsrechte“ gesehen. Die von den Spitzenbeamten „meisterhaft beherrschte Technik der Verzögerung“ führte in der Zwischenkriegszeit auch hier zum Ziel. Die in der Ersten Republik zersplitterten Berufs- und Standesorganisationen unterstützten die Hochbürokratie indirekt auch noch dadurch, dass sie in gesetzlichen Personalvertretungen „das Ende ihrer eigenen Existenz“ gesehen hätten. Den öffentlich Bediensteten blieb als einziger Berufsgruppe „eine gesetzlich geregelte und frei gewählte Personalvertretung versagt.“ 
+Nach 1945 trat die Vorschrift über die Personalvertretungen der Eisenbahner wieder in Kraft (der Verfassungsgerichtshof hatte sie, unterschiedlich zu anderen, niemals aufgehoben). Analoges gilt für die Post- und Telegraphenbediensteten. Defizite bestanden weiterhin bei den öffentlich Bediensteten der übrigen staatlichen Dienstzweige, obwohl auch, wie erwähnt, für diese bereits im Art. 21 der Bundesverfassung der Ersten Republik Personalvertretungen vorgesehen waren. Dieser Status – Personalvertretungen verfassungsrechtlich vorgesehen, aber nicht vorhanden – wurde durch die Wiedereinsetzung der Verfassung im Jahr 1945 auch in der Zweiten Republik wieder hergestellt. Erst im Jahr 1967 wurden auch im hoheitlichen Bereich Personalvertretungen eingeführt. Karl Megner, Roman-Hans Gröger: Mitbestimmungsrechte im Spannungsfeld von Personalvertretung und Gewerkschaft: Zur Entstehungsgeschichte des PVG (Wien 2017). Vgl. Megner-Gröger, GÖD (im Druck), passim.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-05-15" notAfter="1919-05-15">
+                1919-05-15
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Betriebsrat</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-10 09:33:48.028695+00:00" who="#pbecker"/><change when="2019-10-10 09:28:25.201518+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         </listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         </listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         </listOrg>
+      </back>
+  </text>
+</TEI>

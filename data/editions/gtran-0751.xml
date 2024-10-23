@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0751.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0750.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0752.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">StA der Finanzen: Darstellung des derzeitigen Standes der zwischenstaatlichen Verhandlungen, betreffend Ruhe- und Versorgungsgenüsse</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2675</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>Bestand: Staatskanzlei - BKA/alt Varia 1919  Zwischenstaatliches Komitee; Verhandlungsschriften Nr. 26 - 50 zu den Sitzungen des zwischenstaatsamtlichen Komitees für Staatsbedienstetenangelegenheiten, Nr: 41., Unterpunkt: 01., Seite: 53f</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__3257">Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>StA der Finanzen: MinR Redinger gibt eine übersichtliche Darstellung des derzeitigen Standes der zwischenstaatlichen Verhandlungen, betreffend die Regelung der die allgemeinen Pensionen des ehemals österr. Staates belastenden Ruhe- und Versorgungsgenüsse und erörtert die verschiedenen Gesichtspunkte, nach denen eine Teilung der Pensionen erfolgen könnte. Von den verschiedenen Aufteilungsschlüsseln (Bevölkerungszahl, Staatszugehörigkeit, Nationalitäts-, Territorialprinzip, letzter Dienstort, Dauer der Dienstzeit) käme für Deutschösterreicher vor allem jener nach der Bevölkerung in Betracht, der bisher den Verhandlungen zugrunde gelegt wurde. Die verschiedenen Nationen gehen nun daran, die allgemeinen Pensionen durch einseitige Verfügungen auseinander zu reißen. Wenn eine Einigung über ein bestimmtes und von allen Nationalstaaten anzuwendendes Prinzip nicht erzielt wird, besteht die Gefahr, dass eine Anzahl von Pensionisten des ehemaligen österreichischen Staates bzw. deren Witwen und Waisen am 1. Mai 1919 keine Ruhe- und Versorgungsgenüsse erhalten. ANTWORT DER KOMMISSION: Es ist zu trachten, dass sämtlichen Pensionisten des ehemals österr. Staates, Witwen und Hinterbliebenen, vor allem deutscher Volkszugehörigkeit, auch wenn sie formell nicht deutschösterr. Staatsbürger sind, wo immer sie ihren Wohnsitz haben, unbeschadet der künftigen Gestaltung, zu Hilfe zu kommen ist und ihnen unter Protest und gleichzeitiger Betonung dieses Vorgehens als Notstandsaktion die Ruhe- und Versorgungsgenüsse rechtzeitig flüssig zu machen sind, wenn sie von keinem anderen Nationalstaat bezahlt werden, wobei das Moment der Volkszugehörigkeit nur gegenüber der Nationalregierung SHS zu betonen wäre.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-04-16" notAfter="1919-04-16">
+                16. April 1919
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">zwischenstaatliche Verhandlung</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Pensionierung</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-27 09:05:29.414396+00:00" who="#pbecker"/><change when="2019-10-19 09:13:56.374994+00:00" who="#gsteiner"/><change when="2019-10-02 11:14:20.139361+00:00" who="#pbecker"/><change when="2019-03-20 08:44:11.464557+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__814"><persName><surname>Redinger</surname><forename/><roleName/></persName><birth/><death/></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__444"><placeName>fremdnationales Gebiet</placeName><idno type="GEONAMES"/></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1031"><orgName>ehemals österr. Staat</orgName></org><org xml:id="org__1051"><orgName>fremdnationale Staaten</orgName></org><org xml:id="org__1184"><orgName>polnischer Staat</orgName></org><org xml:id="org__1200"><orgName>Regierung des SHS-Staates</orgName></org><org xml:id="org__1220"><orgName>Staatsamt für Finanzen</orgName></org><org xml:id="org__1290"><orgName>tschechoslowakischer Staat</orgName></org><org xml:id="org__3301"><orgName>Deutschösterreichischer Staat</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0548.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0547.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0549.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Unterrichtsministerium und Unterrichtsrat</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#vhelfert">Helfert, Veronika</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2757</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Wien Bibliothek</repository>
+                    <msName>Bestand: Wien Bibliothek, Tagblatt Sachmappen, TS 2599/1919, Bibliographische Angaben: Unterrichtsministerium und Unterrichtsrat. Von Hofrat Dr. Karl Hugelmann, in: Wiener Stimmen, 21.3.1919</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Zeitungsartikel</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#person__3847"> Karl Hugelmann</author></msItem><msItem><author ref="#org__1238">Staatsamt für Unterricht</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#vhelfert">
+            <p>Karl Hugelmann führt in seinem Kommentar zur Frage der Eigenständigkeit des Staatsamtes für Unterricht die Geschichte der Unterrichtsverwaltung seit dem Vormärz aus.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-03-21" notAfter="1919-03-21">
+                
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-10-04 13:24:59.341877+00:00" who="#vhelfert"/><change when="2019-10-02 20:47:24.096789+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         </listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         </listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         </listOrg>
+      </back>
+  </text>
+</TEI>

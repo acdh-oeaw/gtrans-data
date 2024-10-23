@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0421.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0420.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0422.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Bemessung der Ruhegenusszulage</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2703</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>Bestand: Staatskanzlei - BKA/alt Varia 1919  Zwischenstaatliches Komitee; Verhandlungsschriften Nr. 26 - 50 zu den Sitzungen des zwischenstaatsamtlichen Komitees für Staatsbedienstetenangelegenheiten, Nr: 49., Unterpunkt: 03., Seite: 77</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__3257">Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>StA für Inneres und Unterricht: Ein in den dauernden Ruhestand versetzter Rechnungsrat der politischen Verwaltung, der nicht in dem Bezug des vollen Ruhegenusses stand, wurde während des Krieges in der Rechnungsabteilung einer Landesregierung wieder verwendet und steht wegen Personalmangels heute noch in dieser Verwendung. Er hat nun um die Ruhegenusszulage gemäß § 2 der Vollzugsanweisung vom 28. November 1918, StGBl. 69, angesucht. Ist in diesem Falle für die Bemessung der Ruhegenusszulage die freiwillige Dienstzeit nur bis 1. November 1918 oder darüber hinaus bis zu ihrem Abschluss anrechenbar? Das StA für Inneres und Unterricht ist folgender Ansicht: Nach § 1 der Vollzugsanweisung vom 28. November 1918, StGBl. 68, umfasst die Dienstzeit während des Krieges die Kalenderjahre 1914 bis 1918. Es ist daher kein Zweifel, dass nur die während dieser Kalenderjahre in einer zivilen Verwendung zugebrachte Zeit im Sinne des § 2 der Vollzugsanweisung des StA der Finanzen vom 28. November 1918, StGBl. Nr. 69, begünstigt angerechnet werden kann. ANTWORT DER KOMMISSION: Das Komitee stimmt dieser Ansicht zu.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-05-16" notAfter="1919-05-16">
+                16. Mai 1919
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Pensionierung</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-27 09:16:28.899119+00:00" who="#pbecker"/><change when="2019-10-19 16:59:44.770052+00:00" who="#gsteiner"/><change when="2019-10-02 12:46:42.970531+00:00" who="#pbecker"/><change when="2019-03-20 17:44:11.660940+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         </listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         </listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1133"><orgName>Landesregierung</orgName></org><org xml:id="org__1220"><orgName>Staatsamt für Finanzen</orgName></org><org xml:id="org__1225"><orgName>Staatsamt des Innern</orgName></org><org xml:id="org__3257"><orgName>Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

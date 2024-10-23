@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0738.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0737.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0739.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Dienstanweisung für die obersten Behörden</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2849</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>Bestand: ÖStA/AdR, Bundeskanzleramt, Staatsratsprotokolle 1. Republik, Protokoll Nr. 51 - 65, 30. 11. 1918 - 13. 1. 1919, 56. Sitzung vom 9. Dezember 1918, S. 2., Karton: 3</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__1256">Staatsrat</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>StK Renner berichtet über den Gesetzesentwurf, der der Verfassungskommission zugewiesen werden soll; da eine solche formell noch nicht besteht, wird sie konstituiert.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1918-12-09" notAfter="1918-12-09">
+                9. Dezember 1918
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-10-25 14:33:35.805493+00:00" who="#gsteiner"/><change when="2019-10-03 13:24:10.827737+00:00" who="#pbecker"/><change when="2019-10-03 09:48:15.144883+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__690"><persName><surname>Hauser</surname><forename>Johann Nepomuk</forename><roleName>Dr.</roleName></persName><birth when="1866-02-24">1866-02-24<placeName key="#place__479">Kopfing im Innkreis</placeName></birth><death when="1927-02-18">1927-02-18<placeName key="#place__490">Linz</placeName></death><idno>http://d-nb.info/gnd/118709178</idno></person><person xml:id="person__754"><persName><surname>Licht</surname><forename>Stefan</forename><roleName>Dr.</roleName></persName><birth when="1860-10-28">1860-10-28<placeName key="#place__416">Brünn</placeName></birth><death when="1932-03-04">1932-03-04<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/124297870</idno></person><person xml:id="person__820"><persName><surname>Renner</surname><forename>Karl</forename><roleName>Dr.</roleName></persName><birth when="1870-12-14">1870-12-14<placeName key="#place__570">Unter-Tannowitz</placeName></birth><death when="1950-12-31">1950-12-31<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118599739</idno></person><person xml:id="person__856"><persName><surname>Seitz</surname><forename>Karl</forename><roleName/></persName><birth when="1869-09-04">1869-09-04<placeName key="#place__580">Wien</placeName></birth><death when="1950-02-03">1950-02-03<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/119184745</idno></person><person xml:id="person__879"><persName><surname>Teufel</surname><forename>Oskar</forename><roleName/></persName><birth when="1880-10-05">1880-10-05<placeName key="#place__595">Znaim</placeName></birth><death when="1946-01-26">1946-01-26<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/1027122671</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         </listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__971"><orgName>Beratungsgruppe für Verfassungs- und Verwaltungsorganisation</orgName></org><org xml:id="org__1317"><orgName>Verfassungskommission</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

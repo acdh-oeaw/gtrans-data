@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0631.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0630.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0632.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Antrag: Bestellung Franz Kleins als politischen Vertreter in Berlin</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/3390</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Gertrude Enderle-Burcel et al. (Hg.), Der österreichische Staatsrat. Protokolle des Vollzugsausschusses, des Staatsrates und des Geschäftsführenden Staatsratsdirektoriums 21. Oktober 1918 bis 14. Marz 1919, Band 1: 21. Oktober 1918 bis 14. November 1918, Wien 2008</repository>
+                    <msName>StRProt Nr. 26 vom 8. November 1918, in: Enderle-Burcel et al. (Hg.), Der österreichische Staatsrat, 284.</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__1256">Staatsrat</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>StK Renner teilt mit, dass das StA des Äußern beantrage, Dr. Franz Klein als politischen Vertreter und Dr. Philipp von Langenhan als wirtschaftlichen Vertreter der deutschösterreichischen Regierung nach Berlin zu entsenden.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1918-11-08" notAfter="1918-11-08">
+                1918-11-08
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Ernennung</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Bevollmächtiger</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">deutschösterr. Regierung</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-10 20:14:33.442038+00:00" who="#pbecker"/><change when="2019-01-03 09:28:02.419600+00:00" who="#gsteiner"/><change when="2018-12-19 10:47:33.841429+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__3315"><persName><surname>Klein</surname><forename>Franz</forename><roleName>Dr.</roleName></persName><birth when="1854-04-24">1854-04-24<placeName key="#place__580">Wien</placeName></birth><death when="1926-04-06">1926-04-06<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118562878</idno></person><person xml:id="person__751"><persName><surname>Langenhan von</surname><forename>Philipp</forename><roleName>Dr.</roleName></persName><birth when="1878-06-04">1878-06-04<placeName key="#place__424">Czernowitz</placeName></birth><death when="1960-11-14">1960-11-14<placeName key="#place__505">München</placeName></death><idno>http://d-nb.info/gnd/12770017X</idno></person><person xml:id="person__820"><persName><surname>Renner</surname><forename>Karl</forename><roleName>Dr.</roleName></persName><birth when="1870-12-14">1870-12-14<placeName key="#place__570">Unter-Tannowitz</placeName></birth><death when="1950-12-31">1950-12-31<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118599739</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__404"><placeName>Berlin</placeName><location><geo decls="#LatLng">52.524370000000 13.410530000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2950159/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1224"><orgName>Staatsamt des Äußern</orgName></org><org xml:id="org__3312"><orgName>Gesandtschaft Deutschösterreichs beim Deutschen Reich</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

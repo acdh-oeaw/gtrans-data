@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0743.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0742.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0744.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Anstellung von Konzeptsbeamten für den Vollzugsausschuss</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/3259</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Gertrude Enderle-Burcel et al. (Hg.), Der österreichische Staatsrat. Protokolle des Vollzugsausschusses, des Staatsrates und des Geschäftsführenden Staatsratsdirektoriums 21. Oktober 1918 bis 14. Marz 1919, Band 1: 21. Oktober 1918 bis 14. November 1918, Wien 2008</repository>
+                    <msName>Protokoll des Vollzugsausschuss Nr. 7 vom 25. Oktober 1918, in: Enderle-Burcel et al. (Hg.), Der österreichische Staatsrat, 34, 40.</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__3258">Vollzugsausschuss</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>Präsident Seitz ersucht, das Präsidium zu ermächtigen, 2 bis 3 Konzeptsbeamte anzustellen, deren einer die Protokolle des Vollzugsausschusses zu führen hat.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1918-10-25" notAfter="1918-10-25">
+                Freitag 1918-10-25
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-10-10 19:13:23.366553+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__820"><persName><surname>Renner</surname><forename>Karl</forename><roleName>Dr.</roleName></persName><birth when="1870-12-14">1870-12-14<placeName key="#place__570">Unter-Tannowitz</placeName></birth><death when="1950-12-31">1950-12-31<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118599739</idno></person><person xml:id="person__856"><persName><surname>Seitz</surname><forename>Karl</forename><roleName/></persName><birth when="1869-09-04">1869-09-04<placeName key="#place__580">Wien</placeName></birth><death when="1950-02-03">1950-02-03<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/119184745</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         </listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1256"><orgName>Staatsrat</orgName></org><org xml:id="org__3258"><orgName>Vollzugsausschuss</orgName></org><org xml:id="org__3262"><orgName>Stenographenbüro im Staatsrat</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0413.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0412.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0414.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Eingabe verschiedener Organisationen wegen Zuerkennung von Zulagen wegen begünstigter Anrechnung von Kriegsdienstzeiten</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2665</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>Bestand: Staatskanzlei - BKA/alt Varia 1919  Zwischenstaatliches Komitee; Verhandlungsschriften Nr. 26 - 50 zu den Sitzungen des zwischenstaatsamtlichen Komitees für Staatsbedienstetenangelegenheiten, Nr: 40., Unterpunkt: 02., Seite: 47</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__3257">Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>Eingabe des Reichsvereins der Justizdiener und Gefangenenaufseher Österreichs, des deutschösterr. Staatsangestelltenvereins in Wien und des Rechtsschutzvereins der Militärzertifikatisten Österreichs, wegen Zuerkennung einer Zulage von 200 Kronen aus dem Titel der begünstigten Anrechnung der Kriegshalbjahre an jene Unterbeamten und Diener, die sich bereits im Besitz der Alterszulage befinden und gemäß der Vollzugsanweisung des StA der Finanzen vom 28. Dezember 1918 betreffend die begünstigte Anrechnung der Dienstzeit während des Krieges dieser Begünstigung nicht teilhaftig werden können. ANTWORT DER KOMMISSION: Wäre zuzugestehen. Eine generelle Weisung des StA der Finanzen folgt.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-04-15" notAfter="1919-04-15">
+                15. April 1919
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Pensionierung</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-27 09:01:02.145375+00:00" who="#pbecker"/><change when="2019-10-19 09:01:03.521135+00:00" who="#gsteiner"/><change when="2019-10-02 10:23:38.151372+00:00" who="#pbecker"/><change when="2019-03-12 17:06:16.487803+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         </listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1008"><orgName>deutschösterr. Staatsangestelltenverein</orgName></org><org xml:id="org__1201"><orgName>Reichsschutzverein der Militärzertifikatisten Österreichs</orgName></org><org xml:id="org__1204"><orgName>Reichsverein der Justizdiener und Gefangenenaufseher Österreichs</orgName></org><org xml:id="org__1220"><orgName>Staatsamt für Finanzen</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

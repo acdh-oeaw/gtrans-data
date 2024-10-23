@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0933.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0932.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0934.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">StA des Innern: Wunsch des Rechtsschutzvereins der Militärzertifikatisten für Österreich der Zuerkennung der Anrede "Herr" und der Abschaffung des Dienertitels</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2594</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>Bestand: Staatskanzlei - BKA/alt Varia 1919  Zwischenstaatliches Komitee; Verhandlungsschriften Nr. 1 - 25 zu den Sitzungen des zwischenstaatsamtlichen Komitees für Staatsbedienstetenangelegenheiten, Nr: 18., Unterpunkt: 04., Seite: 45</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__3257">Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>StA des Innern: Wunsch des Rechtsschutzvereins der Militärzertifikatisten für Österreich der Zuerkennung der Anrede "Herr" und der Abschaffung des Dienertitels und Ernennung zu Beamten (Unterbeamten). ANTWORT DER KOMMISSION: Die Zusicherung der Ansprache "Herr" für alle zur Dienerschaft gehörigen Angestellten empfiehlt sich. Mit der Abschaffung des Titels "Diener" erklärt sich das Komitee grundsätzlich einverstanden […]. Die Erfüllung der weiteren Forderung nach Entlastung von niederen Arbeiten […] ist nicht erfüllbar, weil zur Besorgung dieser Arbeiten nur die niedrigsten Organe des Staatsdienstes zur Verfügung stehen und übrigens in der Praxis bei größeren Ämtern zu gröberen Arbeiten ohnehin besondere Aushilfskräfte verwendet werden.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-01-24" notAfter="1919-01-24">
+                24. Jänner 1919
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-10-27 08:23:41.178132+00:00" who="#pbecker"/><change when="2019-09-25 09:08:48.911829+00:00" who="#pbecker"/><change when="2019-03-06 14:03:33.952622+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         </listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         </listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1199"><orgName>Rechtsschutzverein der Militärzertifikatisten für Österreich</orgName></org><org xml:id="org__1225"><orgName>Staatsamt des Innern</orgName></org><org xml:id="org__3257"><orgName>Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

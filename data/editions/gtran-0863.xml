@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0863.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0862.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0864.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Vollversammlung am 15. März 1920, S. 339ff</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#vhelfert">Helfert, Veronika</rs></editor><editor><rs ref="#tgarstenauer">Garstenauer, Therese</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2442</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Archiv des Vereins für Geschichte der ArbeiterInnenbewegung</repository>
+                    <msName>Sozialdemokratische Parteistellen, Karton: Kt. 77, M 460, Aktenzahl: keine</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents/></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#vhelfert #tgarstenauer">
+            <p>"Breitner: Die Lasten, die der Gemeinde aus der Regelung der Beamtengehalte erwachsen, lassen sich noch nicht abschätzen. Wir sind aber nicht imstande diese Lasten alleine zu tragen und haben bei der Regierung durchgesetzt, dass diese nicht wie beabsichtigt 50 sondern 70 % übernimmt." Neue Steuern werden angedacht: Zuschläge auf die Erwerbssteuer; Erhöhung der Rentensteuer sowie der Steuern auf Wein, Bier und Schaumwein; Einführung einer Plakatsteuer; Hotelzimmersteuer; Lustbarkeitssteuer soll bei den Prosatheatern von 10 auf 5 % ermäßigt werden, bei den Kinos dafür von 10 auf 15 % erhöht; Abgaben für Veranstaltungen, die bis nach 10:00 Uhr abends währen; Erhöhung der Hundesteuer, Zuschläge zur Verzehrungssteuer. Beschlüsse: Besteuerung bei Luxusartikeln; Fleisch wird mit höchstens einer Krone pro Kilo, Hafer, Heu und Futtermittel mit 20 Kronen für 100 Kilo besteuert. Besteuerung der Südfrüchte wird angenommen, Kakao-, Karfiol-, Obst- und Erbsensteuer abgelehnt; Spargelsteuer beschlossen; Garten-, Auslagenfenster-, Industriekohle- und Flaschenweinsteuer werden abgelehnt.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1920-02-15" notAfter="1920-02-15">
+                15. März 1920
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-08-06 20:06:47.905798+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__620"><persName><surname>Breitner</surname><forename>Hugo</forename><roleName/></persName><birth when="1873-11-09">1873-11-09<placeName key="#place__580">Wien</placeName></birth><death when="1946-03-05">1946-03-05<placeName key="#place__3127">Claremont</placeName></death><idno>http://d-nb.info/gnd/119179504</idno></person><person xml:id="person__862"><persName><surname>Skaret</surname><forename>Ferdinand</forename><roleName/></persName><birth/><death/></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1109"><orgName>Klub der Sozialdemokraten im Wiener Gemeinderate</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

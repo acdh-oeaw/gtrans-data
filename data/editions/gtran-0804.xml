@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0804.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0803.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0805.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Aktivierung des Oberlandesgerichtes Reichenberg (Liberec) sowie Errichtung der Bezirksgerichte Gradlitz (Choustníkovo Hradiště)</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2822</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>Bestand: ÖStA/AdR, Bundeskanzleramt, Staatsratsprotokolle 1. Republik, Protokoll Nr. 36 - 50, 18. 11. 1918 - 29. 11. 1918; 44. Sitzung vom 25. November 1918, S. 1ff., Karton: 2</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__1256">Staatsrat</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>StS Roller berichtet über die Aktivierung des Oberlandesgerichts in Reichenberg (Liberec) und schlägt die Errichtung je eines Bezirksgerichtes in Gradlitz (Choustníkovo Hradiště) und Gießhübel (Olešnice v Orlických horách) vor.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1918-11-25" notAfter="1918-11-25">
+                25. Nov. 1918
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Verwaltung</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-22 11:56:47.690180+00:00" who="#gsteiner"/><change when="2019-10-13 15:38:40.076234+00:00" who="#pbecker"/><change when="2019-10-03 08:40:18.099686+00:00" who="#pbecker"/><change when="2019-01-04 11:09:38.416193+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__730"><persName><surname>Kikisch</surname><forename/><roleName/></persName><birth><placeName key="#place__580">Wien</placeName></birth><death/></person><person xml:id="person__790"><persName><surname>Paukal</surname><forename/><roleName>Oberlandesgerichtsrat</roleName></persName><birth/><death/></person><person xml:id="person__825"><persName><surname>Rodler</surname><forename/><roleName>Landesgerichtsrat</roleName></persName><birth><placeName key="#place__580">Wien</placeName></birth><death/></person><person xml:id="person__826"><persName><surname>Roller</surname><forename>Julius</forename><roleName>Dr.</roleName></persName><birth when="1862-10-28">1862-10-28<placeName key="#place__560">Thomigsdorf</placeName></birth><death when="1946-12-27">1946-12-27<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/1028281269</idno></person><person xml:id="person__906"><persName><surname>Wenzel</surname><forename/><roleName>Landesgerichtsrat</roleName></persName><birth/><death/></person><person xml:id="person__917"><persName><surname>Wölfl</surname><forename/><roleName>Dr.</roleName></persName><birth/><death/></person><person xml:id="person__922"><persName><surname>Zorn</surname><forename/><roleName>Hofrat</roleName></persName><birth/><death/></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__427"><placeName>Deutschböhmen</placeName><idno type="GEONAMES"/></place><place xml:id="place__431"><placeName>Deutschsüdböhmen</placeName><idno type="GEONAMES"/></place><place xml:id="place__449"><placeName>Gießhübel</placeName><location><geo decls="#LatLng">50.372620000000 16.310040000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3069024/</idno></place><place xml:id="place__452"><placeName>Gradlitz</placeName><location><geo decls="#LatLng">50.426420000000 15.878580000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3077615/</idno></place><place xml:id="place__482"><placeName>Kremsier Sprengel</placeName><location><geo decls="#LatLng">49.297850000000 17.393120000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3072649/</idno></place><place xml:id="place__506"><placeName>Neubistritz</placeName><location><geo decls="#LatLng">49.019260000000 15.103160000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3069706/</idno></place><place xml:id="place__512"><placeName>Oberösterreich</placeName><location><geo decls="#LatLng">48.250000000000 14.000000000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2769848/</idno></place><place xml:id="place__523"><placeName>Prag</placeName><location><geo decls="#LatLng">50.088040000000 14.420760000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3067696/</idno></place><place xml:id="place__527"><placeName>Reichenberg</placeName><location><geo decls="#LatLng">50.767110000000 15.056190000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3071961/</idno></place><place xml:id="place__552"><placeName>Sudetengebiete</placeName><idno type="GEONAMES"/></place><place xml:id="place__567"><placeName>Tschechoslowakei</placeName><location><geo decls="#LatLng">50.082920000000 14.466720000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/8505031/</idno></place><place xml:id="place__568"><placeName>umstrittenes Gebiet</placeName><idno type="GEONAMES"/></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__959"><orgName>Allgemeiner Pensionsfonds</orgName></org><org xml:id="org__975"><orgName>Bezirksgericht Gießhübel (Olešnice v Orlických horách)</orgName></org><org xml:id="org__976"><orgName>Bezirksgericht Gradlitz (Choustníkovo Hradiště)</orgName></org><org xml:id="org__1166"><orgName>Oberlandesgericht Reichenberg (Liberec)</orgName></org><org xml:id="org__1168"><orgName>Oberstaatsanwaltschaft Reichenberg (Liberec)</orgName></org><org xml:id="org__1232"><orgName>Staatsamt für Justiz</orgName></org><org xml:id="org__1282"><orgName>Sudetenland</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

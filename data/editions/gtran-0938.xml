@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0938.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0937.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0939.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Bestellung von leitenden Beamten zur Teilnahme an den Gemeinderatsausschußsitzungen</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#vhelfert">Helfert, Veronika</rs></editor><editor><rs ref="#tgarstenauer">Garstenauer, Therese</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2499</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Wiener Stadt- und Landesarchiv</repository>
+                    <msName>Bestand: Wiener Stadt- und Landesarchiv, 1.5.3 Magistratsdirektion, Karton: ?, Aktenzahl: 3571/1920</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Akt</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents/></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#vhelfert #tgarstenauer">
+            <p>"Gemäß § 36 des Gemeindestatutes sind den Gemeinderatsausschüssen leitende Beamte der Verwaltungsgruppe, die der Bürgermeister im Einvernehmen mit den amtsführenden Stadträten bestimmt, mit beratender Stimme beizuziehen." Der Akt enthält Vorschläge (Namen von leitenden Beamten) der Verwaltungsgruppen I - VII, unterzeichnet von den jeweiligen amtsführenden Stadträten ("mit obigem Vorschlag einverstanden!")  und dem Bürgermeister ("Genehmigt!")</p>
+        </abstract>
+        <creation>
+            <date notBefore="1920-06-04" notAfter="1920-06-04">
+                1920-06-04
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Mitbestimmung</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Pensionierung</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel"/></textClass></profileDesc>
+  <revisionDesc><change when="2019-09-21 09:48:44.723542+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__620"><persName><surname>Breitner</surname><forename>Hugo</forename><roleName/></persName><birth when="1873-11-09">1873-11-09<placeName key="#place__580">Wien</placeName></birth><death when="1946-03-05">1946-03-05<placeName key="#place__3127">Claremont</placeName></death><idno>http://d-nb.info/gnd/119179504</idno></person><person xml:id="person__732"><persName><surname>Kokrda</surname><forename>Quirin</forename><roleName/></persName><birth when="1873-07-04">1873-07-04<placeName key="#place__3168">Kattowitz</placeName></birth><death when="1937-10-15">1937-10-15<placeName key="#place__580">Wien</placeName></death><idno>https://de.wikipedia.org/wiki/Quirin_Kokrda</idno></person><person xml:id="person__821"><persName><surname>Reumann</surname><forename>Jakob</forename><roleName/></persName><birth/><death/></person><person xml:id="person__822"><persName><surname>Richter</surname><forename>Karl</forename><roleName/></persName><birth when="1978-10-26">1978-10-26</birth><death/></person><person xml:id="person__913"><persName><surname>Winter</surname><forename>Max</forename><roleName/></persName><birth/><death/></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         </listOrg>
+      </back>
+  </text>
+</TEI>

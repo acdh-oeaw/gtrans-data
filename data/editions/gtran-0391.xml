@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0391.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0390.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0392.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Resolution des Verbandes der Kanzleiarbeiter der alpinen Salinen in Ebensee</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#vhelfert">Helfert, Veronika</rs></editor><editor><rs ref="#tgarstenauer">Garstenauer, Therese</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2770</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Wien Bibliothek</repository>
+                    <msName>Bestand: Wien Bibliothek, Tagblatt Sachmappen, TS 2599/1919, Bibliographische Angaben: Resolution, Maschine, mit Unterschriften des Obmanns, des Kassiers und des Schriftführers und Stempel des Verbandes der Kanzleiarbeiter der alpinen Salinen in Ebensee; 1 Bogen, 2 Seiten.</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Resolution (Manuskript)</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents/></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#vhelfert #tgarstenauer">
+            <p>Der Verband der Kanzleiarbeiter der alpinen Saline in Ebensee erklärt sich bei seiner Sitzung am 10. Jänner 1920 mit den Arbeitern der Salinen solidarisch und fordert ihrerseits die Einreihung aller bei den alpinen Salinen in Verwendung stehenden Diener (Rechnungsgehilfen) in die Kategorie der Unterbeamten. Diese Forderung wird ausführlich begründet, die Resolution von einer Deputation von zwei Mitgliedern und Verbandsvertretern der Finanzlandesdirektion überbracht.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1920-01-16" notAfter="1920-01-16">
+                
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Personalvertretung</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Lohnforderung</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-03 05:01:32.872694+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         </listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__437"><placeName>Ebensee</placeName><location><geo decls="#LatLng">47.807160000000 13.779000000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2780547/</idno></place><place xml:id="place__490"><placeName>Linz</placeName><location><geo decls="#LatLng">48.306390000000 14.286110000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2772400/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1042"><orgName>Finanzdirektion Linz</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

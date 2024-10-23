@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0325.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0324.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0326.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Errichtung einer Minderheitenschutzstelle</title>
+            <title type="sub">Great Transformation App</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2838</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>Bestand: ÖStA/AdR, Bundeskanzleramt, Staatsratsprotokolle 1. Republik, Protokoll Nr. 36 - 50, 18. 11. 1918 - 29. 11. 1918; 44. Sitzung vom 25. November 1918, S. 17f., Karton: 2</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__1256">Staatsrat</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="">
+            <p>StK Renner regt die Errichtung einer Minderheitenschutzstelle an.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1918-11-25" notAfter="1918-11-25">
+                
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-10-22 13:38:14.131505+00:00" who="#gsteiner"/><change when="2019-10-05 08:09:02.060469+00:00" who="#gsteiner"/><change when="2019-10-03 09:30:55.467745+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__608"><persName><surname>Bauer</surname><forename>Otto</forename><roleName>Dr.</roleName></persName><birth when="1881-09-05">1881-09-05<placeName key="#place__580">Wien</placeName></birth><death when="1938-07-04">1938-07-04<placeName key="#place__518">Paris</placeName></death><idno>http://d-nb.info/gnd/118507346</idno></person><person xml:id="person__751"><persName><surname>Langenhan von</surname><forename>Philipp</forename><roleName>Dr.</roleName></persName><birth when="1878-06-04">1878-06-04<placeName key="#place__424">Czernowitz</placeName></birth><death when="1960-11-14">1960-11-14<placeName key="#place__505">München</placeName></death><idno>http://d-nb.info/gnd/12770017X</idno></person><person xml:id="person__754"><persName><surname>Licht</surname><forename>Stefan</forename><roleName>Dr.</roleName></persName><birth when="1860-10-28">1860-10-28<placeName key="#place__416">Brünn</placeName></birth><death when="1932-03-04">1932-03-04<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/124297870</idno></person><person xml:id="person__762"><persName><surname>Marckhl</surname><forename>Richard</forename><roleName/></persName><birth when="1861-05-10">1861-05-10<placeName key="#place__526">Rann</placeName></birth><death when="1939-04-27">1939-04-27<placeName key="#place__580">Wien</placeName></death><idno>https://de.wikipedia.org/wiki/Richard_Marckhl</idno></person><person xml:id="person__764"><persName><surname>Mataja</surname><forename>Heinrich</forename><roleName>Dr.</roleName></persName><birth when="1877-03-14">1877-03-14<placeName key="#place__580">Wien</placeName></birth><death when="1937-01-23">1937-01-23<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/137937598</idno></person><person xml:id="person__787"><persName><surname>Pacher</surname><forename>Raphael</forename><roleName>Dr.</roleName></persName><birth when="1857-07-21">1857-07-21<placeName key="#place__464">Iserthal</placeName></birth><death when="1936-03-25">1936-03-25<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/124749275</idno></person><person xml:id="person__820"><persName><surname>Renner</surname><forename>Karl</forename><roleName>Dr.</roleName></persName><birth when="1870-12-14">1870-12-14<placeName key="#place__570">Unter-Tannowitz</placeName></birth><death when="1950-12-31">1950-12-31<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118599739</idno></person><person xml:id="person__875"><persName><surname>Sylvester</surname><forename>Julius</forename><roleName>Dr.</roleName></persName><birth when="1854-06-30">1854-06-30<placeName key="#place__580">Wien</placeName></birth><death when="1944-07-13">1944-07-13<placeName key="#place__592">Zell am Wallersee</placeName></death><idno>http://d-nb.info/gnd/120148595</idno></person><person xml:id="person__918"><persName><surname>Wotawa</surname><forename/><roleName>Prof.</roleName></persName><birth/><death/></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__494"><placeName>Mährisch-Ostrau</placeName><location><geo decls="#LatLng">49.842490000000 18.267270000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3070328/</idno></place><place xml:id="place__568"><placeName>umstrittenes Gebiet</placeName><idno type="GEONAMES"/></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__956"><orgName>Abgrenzungskommission</orgName></org><org xml:id="org__1155"><orgName>Minderheitenschutzstelle</orgName></org><org xml:id="org__1194"><orgName>Provisorische Nationalversammlung</orgName></org><org xml:id="org__1224"><orgName>Staatsamt des Äußern</orgName></org><org xml:id="org__1225"><orgName>Staatsamt des Innern</orgName></org><org xml:id="org__1238"><orgName>Staatsamt für Unterricht</orgName></org><org xml:id="org__1253"><orgName>Staatskanzlei</orgName></org><org xml:id="org__1256"><orgName>Staatsrat</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

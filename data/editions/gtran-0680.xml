@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0680.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0679.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0681.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Streik der Eisenbahner in Marburg (Maribor) und Böhmisch-Leipa (Česká Lipa); Auszahlung der Gehälter</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2858</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>Bestand: ÖStA/AdR, Bundeskanzleramt, Staatsratsprotokolle 1. Republik, Protokoll Nr. 51 - 65, 30. 11. 1918 - 13. 1. 1919, 59. Sitzung vom 16. Dezember 1918, S. 14 und Beilagen, Karton: 3</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><p>Beilagen</p><msItem><author ref="#org__1256">Staatsrat</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>StS Jukel berichtet vom Ausstand der Eisenbahner in Marburg (Maribor) und Böhmisch-Leipa (Česká Lipa). Er vertritt die Auffassung, dass der Staatsverwaltung Kosten für die Löhne während des Ausstandes erwachsen und bittet um die Ermächtigung zur Auszahlung, falls sich die Südbahn-Gesellschaft weigern sollte, diese zu übernehmen.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1918-12-16" notAfter="1918-12-16">
+                16.Dezember 1918
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Streik</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-03 10:17:38.485002+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__720"><persName><surname>Jukel</surname><forename>Carl</forename><roleName>Ing.</roleName></persName><birth when="1865-01-21">1865-01-21<placeName key="#place__580">Wien</placeName></birth><death when="1931-08-20">1931-08-20<placeName key="#place__540">Schönau an der Triesting</placeName></death><idno>http://d-nb.info/gnd/1012922529</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__409"><placeName>Böhmisch-Leipa</placeName><location><geo decls="#LatLng">50.685510000000 14.537640000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3077929/</idno></place><place xml:id="place__499"><placeName>Marburg</placeName><location><geo decls="#LatLng">46.554720000000 15.646670000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3195506/</idno></place><place xml:id="place__546"><placeName>Slowenien</placeName><location><geo decls="#LatLng">46.083330000000 15.000000000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3190538/</idno></place><place xml:id="place__567"><placeName>Tschechoslowakei</placeName><location><geo decls="#LatLng">50.082920000000 14.466720000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/8505031/</idno></place><place xml:id="place__568"><placeName>umstrittenes Gebiet</placeName><idno type="GEONAMES"/></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1239"><orgName>Staatsamt für Verkehrswesen</orgName></org><org xml:id="org__1278"><orgName>Südbahndirektion</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

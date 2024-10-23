@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0200.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0199.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0201.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Verdichtung des Betriebes der Staatsämter</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#vhelfert">Helfert, Veronika</rs></editor><editor><rs ref="#tgarstenauer">Garstenauer, Therese</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2747</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Wien Bibliothek</repository>
+                    <msName>Bestand: Wien Bibliothek, Tagblatt Sachmappen, TS 2599/1919, Bibliographische Angaben: Verdichtung des Betriebes der Staatsämter. Von Dr. Wilhelm Exner, Präsidenten des Technischen Versuchsamtes, in: Neues Wiener Tagblatt, 1.3.1919, S. 1f.</msName>
+               <idno>http://anno.onb.ac.at/cgi-content/anno?aid=nwg&amp;datum=19190301&amp;seite=1&amp;zoom=33</idno></msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Zeitungsartikel</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents/></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#vhelfert #tgarstenauer">
+            <p>Wilhelm Exner legt seine Überlegungen über den Nutzen einer Vereinfachung der Verwaltung dar, in Form von Zusammenlegung von Staatsämtern. Er exemplifiziert das im Besonderen an einem zu schaffenden technischen Staatsamt mit Angelegenheiten der öffentlichen Arbeiten und des Verkehrswesens. Er streicht dabei die seit Jahrzehnten anstehende Reform der Eisenbahnverwaltung als dringende Aufgabe hervor.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-03-01" notAfter="1919-03-01">
+                
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-10-02 19:49:08.577244+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         </listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         </listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         </listOrg>
+      </back>
+  </text>
+</TEI>

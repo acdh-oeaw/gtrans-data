@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0397.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0396.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0398.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Entwurf des Antrages an den Kabinettsrat wegen Schaffung eines Gesetzes betreffend Maßnahmen für den deutschösterr. Zivilstaatsdienst aus Anlass der Errichtung des deutschösterr. Staates</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2560</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>Bestand: Staatskanzlei - BKA/alt Varia 1919  Zwischenstaatliches Komitee; Verhandlungsschriften Nr. 1 - 25 zu den Sitzungen des zwischenstaatsamtlichen Komitees für Staatsbedienstetenangelegenheiten, Nr: 11., Unterpunkt: 01., Seite: 23ff</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__3257">Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>Entwurf des Antrages an den Kabinettsrat wegen Schaffung eines Gesetzes betreffend Maßnahmen für den deutschösterr. Zivilstaatsdienst aus Anlass der Errichtung des deutschösterr. Staates. ANTWORT DER KOMMISSION: Entwurf zur Regelung der Zahl und Art der Staatsbediensteten, die der neue Staat braucht: Modalitäten des Abbaues von Staatsbediensteten einerseits, Regelung der Übernahme von solchen aus umstrittenen Gebieten andererseits; Vorbereitung zum Pensionsbegünstigungsgesetz; Leitwort: "Weniger, aber besser bezahlte Beamte".</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-01-07" notAfter="1919-01-07">
+                7. Jänner 1919
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Personalpolitik</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Mitbestimmung</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Staatsbedienstetenorganisationen</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Pensionierung</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-27 08:07:35.186081+00:00" who="#pbecker"/><change when="2019-10-18 13:54:53.539503+00:00" who="#gsteiner"/><change when="2019-09-21 22:06:38.731291+00:00" who="#pbecker"/><change when="2019-03-04 18:11:08.555630+00:00" who="#gsteiner"/><change when="2019-02-28 09:17:29.351027+00:00" who="#gsteiner"/><change when="2019-02-28 09:17:13.579881+00:00" who="#gsteiner"/><change when="2019-02-28 08:48:07.176428+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         </listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__430"><placeName>Deutschösterreich</placeName><idno type="GEONAMES"/></place><place xml:id="place__444"><placeName>fremdnationales Gebiet</placeName><idno type="GEONAMES"/></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1007"><orgName>deutschösterr. Regierung</orgName></org><org xml:id="org__1031"><orgName>ehemals österr. Staat</orgName></org><org xml:id="org__1051"><orgName>fremdnationale Staaten</orgName></org><org xml:id="org__1257"><orgName>Staatsratsdirektorium</orgName></org><org xml:id="org__3301"><orgName>Deutschösterreichischer Staat</orgName></org><org xml:id="org__3795"><orgName>Paritätische Kommission zum Personalabbau</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

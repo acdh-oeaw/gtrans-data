@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0486.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0485.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0487.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Weiterzahlung der Beihilfen eines Beamten des ehemaligen österreichischen Staates im Dienste der Gesandtschaft eines fremden Staates</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2632</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>Bestand: Staatskanzlei - BKA/alt Varia 1919 Zwischenstaatliches Komitee; Verhandlungsschriften Nr. 26 - 50 zu den Sitzungen des zwischenstaatsamtlichen Komitees für Staatsbedienstetenangelegenheiten, Nr: 28., Unterpunkt: 07., Seite: 9f</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__3257">Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>Ein ehemals österreichischer Beamter, im Laufe des Monats Jänner zum Unterstaatssekretär eines fremden Nationalstaates ernannt und im Dienste der Gesandtschaft dieses Staates stehend, ersucht um Weiterzahlung der pro Februar bereits eingestellten Beihilfen und beruft sich auf seine Erklärung, daß er von keiner anderen Regierung die "bisherigen" Bezüge erhielt. ANTWORT DER KOMMISSION: Die Einstellung der Beihilfe ist richtig; die weitere Zahlung pro Februar wäre nicht begründet, weil dieser Bedienstete bereits im Dienste eines fremden Nationalstaates (Gesandtschaft) steht; die nur für die Liquidierungskommissäre fremder Nationalstaaten geltende Ausnahmebestimmung der Ausbezahlung von Beihilfe an im fremden Dienste stehende Fremdnationale hat auf den in Betracht kommenden Beamten keine Anwendung zu finden, es wäre denn, daß er rechtzeitig und ausdrücklich zum Liquidierungskommissär bestellt worden wäre.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-03-04" notAfter="1919-03-04">
+                4. März 1919
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-10-27 08:44:22.051332+00:00" who="#pbecker"/><change when="2019-10-18 18:52:54.195968+00:00" who="#gsteiner"/><change when="2019-10-18 18:51:43.138222+00:00" who="#gsteiner"/><change when="2019-10-01 13:30:09.251517+00:00" who="#pbecker"/><change when="2019-03-09 16:07:29.978442+00:00" who="#gsteiner"/><change when="2019-03-09 16:07:13.548489+00:00" who="#gsteiner"/><change when="2019-03-09 16:06:55.135618+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         </listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         </listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1051"><orgName>fremdnationale Staaten</orgName></org><org xml:id="org__1142"><orgName>Liqudierungskommissär</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

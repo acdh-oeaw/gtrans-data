@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0515.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0514.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0516.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Pension eines tschechischen Beamtens</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2597</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>Bestand: Staatskanzlei - BKA/alt Varia 1919  Zwischenstaatliches Komitee; Verhandlungsschriften Nr. 1 - 25 zu den Sitzungen des zwischenstaatsamtlichen Komitees für Staatsbedienstetenangelegenheiten, Nr: 19., Unterpunkt: 01., Seite: 48</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__3257">Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>StA des Innern: Ein Beamter des ehemals k.k. Versatzamtes in Wien mit vollem Pensionsanspruch, der sich zur tschech. Nation bekennt und deshalb auch seit 27. November nicht mehr im Amt erschienen ist, beabsichtigt, seine Pension in Wien zu verleben und möchte deshalb vom Versatzamt pensioniert werden. Da das geweste Versatzamt ein Fonds ist, greift hier die Territorialregel nicht. ANTWORT DER KOMMISSION: Solche Beamte sind wie Zentralstellenangestellte zu behandeln. Der Mann ist zu entheben und ihm ist am 1. Februar die Beihilfe flüssig zu machen.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-01-30" notAfter="1919-01-30">
+                30. Jänner 1919
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Disziplinarrecht</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Pensionierung</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-27 08:25:48.161267+00:00" who="#pbecker"/><change when="2019-10-18 14:28:17.203352+00:00" who="#gsteiner"/><change when="2019-09-25 09:36:59.545172+00:00" who="#pbecker"/><change when="2019-03-06 14:22:27.726782+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         </listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1098"><orgName>k.k. Versatzamt</orgName></org><org xml:id="org__1225"><orgName>Staatsamt des Innern</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

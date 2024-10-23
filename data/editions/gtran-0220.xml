@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0220.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0219.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0221.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Auszahlung von Ruhe- und Versorgungsgenüssen sowie von Beihilfen für den Monat Jänner 1919</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/3733</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>ÖStA/AdR, Bundeskanzleramt, Kabinettsratsprotokolle 1. Republik, Protokoll Nr. 1 bis 35, 31. 10. 1918 bis 30. 1. 1919, Kabinettsratsprotokoll Nr. 29 vom 9. Jänner 1919, 7.</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><p>Die Vereinbarungen liegen dem Protokoll als Beilagen B und C bei.</p><msItem><author ref="#org__1105">Kabinettsrat</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>UStS Beck berichtet über die vom zwischenstaatsamtlichen Komitee für Staatsbedienstetenangelegenheiten beschlossenen Vereinbarungen betreffend die Auszahlung der die allgemeinen Pensionen belastenden Ruhe- und Versorgungsgenüsse sowie die Fortzahlung der Beihilfen an die Bediensteten nichtdeutscher Nationalität und die Auszahlung der Ruhe- und Versorgungsgenüsse ehemaliger Staatsbediensteter und deren Hinterbliebenen. Der Kabinettsrat genehmigt die getroffenen Vereinbarungen.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-01-09" notAfter="1919-01-09">
+                9. Jänner 1919
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-10-12 21:25:33.582189+00:00" who="#pbecker"/><change when="2019-02-07 10:18:55.779744+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__609"><persName><surname>Beck von Managetta</surname><forename>Eugen</forename><roleName>Dr.</roleName></persName><birth when="1861-06-15">1861-06-15<placeName key="#place__524">Preßburg</placeName></birth><death when="1943-11-07">1943-11-07<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/137693036; https://www.deutsche-biographie.de/pnd137693036.html</idno></person><person xml:id="person__625"><persName><surname>Bugatto</surname><forename/><roleName/></persName><birth/><death/></person><person xml:id="person__815"><persName><surname>Redlich</surname><forename>Josef</forename><roleName>Dr.</roleName></persName><birth when="1869-06-18">1869-06-18<placeName key="#place__450">Göding</placeName></birth><death when="1936-11-12">1936-11-12<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118743724</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__407"><placeName>Böhmen</placeName><location><geo decls="#LatLng">50.000000000000 14.500000000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3078198/</idno></place><place xml:id="place__420"><placeName>Bukowina</placeName><location><geo decls="#LatLng">48.000000000000 25.500000000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/571096/</idno></place><place xml:id="place__424"><placeName>Czernowitz</placeName><location><geo decls="#LatLng">48.291490000000 25.940340000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/710719/</idno></place><place xml:id="place__430"><placeName>Deutschösterreich</placeName><idno type="GEONAMES"/></place><place xml:id="place__447"><placeName>Galizien</placeName><location><geo decls="#LatLng">49.500000000000 23.000000000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/562153/</idno></place><place xml:id="place__471"><placeName>Kärnten</placeName><location><geo decls="#LatLng">46.750000000000 13.833330000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2774686/</idno></place><place xml:id="place__485"><placeName>Laibach</placeName><location><geo decls="#LatLng">46.051080000000 14.505130000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3196359/</idno></place><place xml:id="place__493"><placeName>Mähren</placeName><location><geo decls="#LatLng">49.500000000000 17.000000000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3070359/</idno></place><place xml:id="place__538"><placeName>Schlesien</placeName><location><geo decls="#LatLng">51.000000000000 18.000000000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3066138/</idno></place><place xml:id="place__555"><placeName>Südsteiermark</placeName><idno type="GEONAMES"/></place><place xml:id="place__568"><placeName>umstrittenes Gebiet</placeName><idno type="GEONAMES"/></place><place xml:id="place__3158"><placeName>Steiermark</placeName><location><geo decls="#LatLng">47.250000000000 15.166670000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2764581/</idno></place><place xml:id="place__3730"><placeName>Südkärnten</placeName><idno type="GEONAMES"/></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1007"><orgName>deutschösterr. Regierung</orgName></org><org xml:id="org__1031"><orgName>ehemals österr. Staat</orgName></org><org xml:id="org__1044"><orgName>Finanzlandesdirektion Graz</orgName></org><org xml:id="org__1045"><orgName>Finanzlandesdirektion Klagenfurt</orgName></org><org xml:id="org__1046"><orgName>Finanzlandesdirektion Prag (Praha)</orgName></org><org xml:id="org__1066"><orgName>Gesandtenkonferenz</orgName></org><org xml:id="org__1090"><orgName>italien. Staat</orgName></org><org xml:id="org__1091"><orgName>italienische Regierung</orgName></org><org xml:id="org__1184"><orgName>polnischer Staat</orgName></org><org xml:id="org__1200"><orgName>Regierung des SHS-Staates</orgName></org><org xml:id="org__1206"><orgName>rumän. Staat</orgName></org><org xml:id="org__1207"><orgName>rumänischer Nationalrat</orgName></org><org xml:id="org__1215"><orgName>slowenische Regierung; Slowenien (Slovenija)</orgName></org><org xml:id="org__1220"><orgName>Staatsamt für Finanzen</orgName></org><org xml:id="org__1289"><orgName>tschechoslowakische Regierung</orgName></org><org xml:id="org__1290"><orgName>tschechoslowakischer Staat</orgName></org><org xml:id="org__3257"><orgName>Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</orgName></org><org xml:id="org__3301"><orgName>Deutschösterreichischer Staat</orgName></org><org xml:id="org__3470"><orgName>SHS-Staat</orgName></org><org xml:id="org__3727"><orgName>polnische Regierung</orgName></org><org xml:id="org__3729"><orgName>Finanzlandesdirektion Lemberg</orgName></org><org xml:id="org__3731"><orgName>Regierung Bukowina</orgName></org><org xml:id="org__3732"><orgName>Finanzlandesbehörde Bukowina</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

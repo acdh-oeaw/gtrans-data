@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0895.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0894.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0896.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Gelöbnis, Wortlaut</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#vhelfert">Helfert, Veronika</rs></editor><editor><rs ref="#tgarstenauer">Garstenauer, Therese</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2463</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Wiener Stadt- und Landesarchiv</repository>
+                    <msName>Bestand: Wiener Stadt- und Landesarchiv, 1.5.3 Magistratsdirektion, Karton: Kt. 273, Aktenzahl: 2014/1919</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Akt</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents/></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#vhelfert #tgarstenauer">
+            <p>Schreiben der Direktion der städtischen Straßenbahnen an die Magistratsdirektion Wien bzgl. des nicht mehr verfassungsgemäßen Wortlauts der Gelöbnisformel für die Angestellten der städtischen Straßenbahnen. Auf der Rückseite des Schreibens findet sich eine Antwort vom 22. April 1919 von der Magistratsdirektion mit der Gelöbnisformel, wie sie im "§24 der Dienstpragmatik für die Gemeinde-Beamten und Diener der Stadt Wien vorgesehen" (und im Normalienblatt No 2 ex 1919 publiziert) ist. Der Wortlaut lautet: "Sie werden bei Ihrer Ehre und Treue eidesstättig geloben der deutschösterreichischen Republik treu und gehorsam zu sein, die Grundgesetze und alle übrigen Gesetze und die auf Grund der selben erlassenen Vollzugsanweisungen getreu und unverbrüchlich zu befolgen, die Interessen der Gemeinde Wien nach allen Ihren Kräften zu fördern und jeden Nachteil von ihr abzuwenden." Die Beilage des Schreibens ist nicht mehr vorhanden.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-03-15" notAfter="1919-04-22">
+                1919-03-15
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-10-04 09:58:04.485079+00:00" who="#pbecker"/><change when="2019-10-04 09:57:43.532245+00:00" who="#pbecker"/><change when="2019-09-21 05:31:51.805740+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         </listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1256"><orgName>Staatsrat</orgName></org><org xml:id="org__1277"><orgName>Straßenbahnen (städtische)</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

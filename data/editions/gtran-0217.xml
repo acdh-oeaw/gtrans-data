@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0217.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0216.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0218.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Gebietsabgrenzung - Einschlussgebiete Brünn (Brno), Olmütz (Olomouc) und Iglau (Jihlava)</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2821</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>Bestand: ÖStA/AdR, Bundeskanzleramt, Staatsratsprotokolle 1. Republik, Protokoll Nr. 36 - 50, 18. 11. 1918 - 29. 11. 1918; 43. Sitzung vom 23. November 1918, S. 9f., Karton: 2</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__1256">Staatsrat</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>Staatskanzler Renner plädiert dafür, die Frage der Einschlussgebiete Brünn (Brno), Olmütz (Olomouc) und Iglau (Jihlava), die er für faktisch verloren hält, im Gebietsgesetz nochmals im Staatsrat zu beraten und einstweilen nur die unbestrittenen Gebiete kundzumachen.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1918-11-23" notAfter="1918-11-23">
+                23. November 1918 Vormittag
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-10-03 08:37:16.951225+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__820"><persName><surname>Renner</surname><forename>Karl</forename><roleName>Dr.</roleName></persName><birth when="1870-12-14">1870-12-14<placeName key="#place__570">Unter-Tannowitz</placeName></birth><death when="1950-12-31">1950-12-31<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118599739</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__407"><placeName>Böhmen</placeName><location><geo decls="#LatLng">50.000000000000 14.500000000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3078198/</idno></place><place xml:id="place__416"><placeName>Brünn</placeName><location><geo decls="#LatLng">49.195220000000 16.607960000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3078610/</idno></place><place xml:id="place__462"><placeName>Iglau</placeName><location><geo decls="#LatLng">49.396100000000 15.591240000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3074199/</idno></place><place xml:id="place__493"><placeName>Mähren</placeName><location><geo decls="#LatLng">49.500000000000 17.000000000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3070359/</idno></place><place xml:id="place__515"><placeName>Olmütz</placeName><location><geo decls="#LatLng">49.595520000000 17.251750000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3069011/</idno></place><place xml:id="place__538"><placeName>Schlesien</placeName><location><geo decls="#LatLng">51.000000000000 18.000000000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3066138/</idno></place><place xml:id="place__552"><placeName>Sudetengebiete</placeName><idno type="GEONAMES"/></place><place xml:id="place__567"><placeName>Tschechoslowakei</placeName><location><geo decls="#LatLng">50.082920000000 14.466720000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/8505031/</idno></place><place xml:id="place__568"><placeName>umstrittenes Gebiet</placeName><idno type="GEONAMES"/></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1256"><orgName>Staatsrat</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

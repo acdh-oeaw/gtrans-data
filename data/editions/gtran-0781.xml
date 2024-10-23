@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0781.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0780.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0782.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Zertifikatisten [Tit. fik.]</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#kmegner">Megner, Karl</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/3253</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichische Nationalbibliothek</repository>
+                    <msName>Basiert wesentlich auf: Der sozio-ökonomische Wandel der österreichischen Staatsangestellten 1914-1924. [Univ. Wien,  phil. Diss. 1990]</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Wissenschaftliche Literatur</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#person__3254">Dr. phil. Herta Hafner</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#kmegner">
+            <p>Seit dem Jahr 1872 hatten längerdienende Unteroffiziere subjektiven, monopolistischen Anspruch auf die Verleihung von (Subaltern-)Beamten- und Dienerstellen. Sie erhielten "Versorgungsscheine", sogenannte "Zertifikate". Vgl. RGBl. Nr. 60 vom  19. April 1872
+
+
+Nun, nach dem verlorenen Weltkrieg, war es auch mit dem Glanz der Berufsunteroffiziere vorbei. Nachdem der Kabinettsrat am 23. November 1918 eine totale Aufnahmesperre in den Staatsdienst beschlossen wurde, wurden mit dem sogenannten "Pragmatisierungsgesetz" vom 5. Februar 1919 die Kanzleioffizianten und Aushilfsdiener definitiv gestellt. Damit erhielten sie bisher den Zertifikatisten vorbehaltene Dienstposten. Der alte, zähe soziale Kampf zwischen Diurnisten, Offizianten und sonstigem Aushilfspersonal gegen die Zertifikatisten ging für letztere verloren. Es war nur folgerichtig, dass das zwischenamtsstaatliche Beamtenkomitee im März 1919 beschloss, den absoluten Vorrang der Zertifikatisten auf offene Stellen einzuschränken. Künftig 
+k o n n t e n  erledigte Dienstposten an "deutschösterreichische" Zertifikatisten verliehen werden. Das lag im Ermessen der anstellenden Behörde. Gesetzlicher Zwang war nicht mehr gegeben.
+Zum gesamten Fragenkomplex vgl. u.a. Hafner, Wandel, passim; Megner, Beamte, passim</p>
+        </abstract>
+        <creation>
+            <date notBefore="1918-01-01" notAfter="1918-01-01">
+                
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-11-03 23:05:43.657902+00:00" who="#kmegner"/><change when="2019-10-25 10:13:14.859642+00:00" who="#pbecker"/><change when="2019-10-15 07:48:52.397063+00:00" who="#kmegner"/><change when="2019-10-10 19:09:29.870923+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         </listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         </listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         </listOrg>
+      </back>
+  </text>
+</TEI>

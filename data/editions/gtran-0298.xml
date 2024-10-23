@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0298.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0297.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0299.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Agenden des Kaiser-Karl-Fonds und des Kriegsfürsorgeamtes zum Staatsamt für soziale Fürsorge</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/3607</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>ÖStA/AdR, Bundeskanzleramt, Kabinettsratsprotokolle 1. Republik, Protokoll Nr. 1 bis 35, 31. 10. 1918 bis 30. 1. 1919, Kabinettsratsprotokoll Nr. 7 vom 10. November 1918, 4f.</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__1105">Kabinettsrat</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>StS Hanusch bittet um die Ermächtigung, den Kaiser-Karl-Fonds und die Agenden des Kriegsfürsorgeamtes im Kriegsministerium in das StA für soziale Fürsorge einzugliedern. Der Kabinettsrat erteilt diese mit der Maßgabe, dass bezüglich der Betriebe des Kriegsfürsorgeamtes das Einvernehmen mit dem StA für Kriegs- und Übergangswirtschaft und bezüglich der Einrichtungen und Mittel für die Kriegssiechen das Einvernehmen mit dem StA für Volksgesundheit herzustellen sei.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1918-11-10" notAfter="1918-11-10">
+                10. November 1918
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Soziale Fürsorge</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">deutschösterr. Regierung</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Verwaltung</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-12 09:36:36.362838+00:00" who="#pbecker"/><change when="2019-01-22 13:15:06.958225+00:00" who="#gsteiner"/><change when="2019-01-22 13:14:08.009930+00:00" who="#gsteiner"/><change when="2019-01-22 13:13:01.025004+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__3305"><persName><surname>Hanusch</surname><forename>Ferdinand</forename><roleName/></persName><birth when="1866-11-09">1866-11-09<placeName key="#place__3304">Wigstadtl</placeName></birth><death when="1923-09-28">1923-09-28<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118701460</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         </listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1022"><orgName>k.u.k. Kriegsministerium</orgName></org><org xml:id="org__1227"><orgName>Staatsamt für Heerwesen</orgName></org><org xml:id="org__1233"><orgName>Staatsamt für Kriegs- und Übergangswirtschaft</orgName></org><org xml:id="org__1236"><orgName>Staatsamt für soziale Fürsorge</orgName></org><org xml:id="org__3444"><orgName>Kriegsfürsorgeamt</orgName></org><org xml:id="org__3605"><orgName>Kaiser-Karl-Fonds</orgName></org><org xml:id="org__3606"><orgName>StA für Volksgesundheit</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

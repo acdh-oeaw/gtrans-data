@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0057.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0056.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0058.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Gesetz, mit welchem Maßnahmen für den Zivilstaatsdienst aus Anlaß des Krieges getroffen werden</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#kmegner">Megner, Karl</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/3200</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichische Nationalbibliothek</repository>
+                    <msName>Bestand: Staatsgesetzblatt für den Staat Deutschösterreich 1918–1920, Signatur: StGBl. Nr. 407/1919 (KNV: 281 AB 328 S. 27.)</msName>
+               <idno>http://alex.onb.ac.at/cgi-content/alex?apm=0&amp;aid=sgb&amp;datum=19190004&amp;seite=00001014&amp;size=45</idno></msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Gesetzblatt</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents/></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#kmegner">
+            <p>Mit diesem Gesetz sollten erlittene nachteilige Laufbahnfolgen von Angehörigen des öffentlichen Dienstes kompensiert werden (verspätete Beförderung infolge Kriegsgefangenschaft und dergl.). Es fällt auf, dass auch an Praktikanten usw. gedacht wurde.</p>
+        </abstract>
+        <creation>
+            <date notBefore="2019-07-29" notAfter="2019-07-29">
+                2019-07-29
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-10-10 09:32:53.124103+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         </listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         </listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         </listOrg>
+      </back>
+  </text>
+</TEI>

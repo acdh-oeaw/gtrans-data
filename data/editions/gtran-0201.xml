@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0201.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0200.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0202.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Gesetz betr. die Krankenversicherung der Staatsbediensteten</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#kmegner">Megner, Karl</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/3230</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichische Nationalbibliothek</repository>
+                    <msName>Bestand: Staatsgesetzblatt für den Staat Deutschösterreich 1918–1920, Signatur: StGBl. Nr. 311/1920 (KNV: 867 AB 909 S. 94.)</msName>
+               <idno>http://alex.onb.ac.at/cgi-content/alex?apm=0&amp;aid=sgb&amp;datum=19200004&amp;seite=00001310&amp;size=45</idno></msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Gesetzblatt</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents/></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#kmegner">
+            <p>Sowohl aktive öffentlich Bedienstete wie auch solche im Ruhestand wurden durch dieses Gesetz krankenversichert ("Krankenversicherungsanstalt der Staatsbediensteten"). Auch Familienangehörige (weiterer Begriff) waren mitversichert. Das war eine neue soziale Qualität. Beamte galten vor 1914 als "Honoratioren", die per definitionem für die Arzt- und Spitalskosten selbst aufzukommen hatten. Damit waren vor allem Subalternbeamte teilweise überfordert. Nunmehr leistete der Staat im Krankheitsfall die Versorgung. Dies und die Tatsache, dass vor allem in den Städten viele öffentlich Bedienstete mietergeschützt wohnten (die Mieten wurden mehr und mehr entwertet, die Hausherrenrenten gingen gegen Null), waren Vorteile, die die Nachteile der steigenden Inflation etwas ausgleichen konnten. Übrigens gibt es "Friedenskronenzinse" auch noch heute (2018). Eher nicht mehr die sprichwörtlich gewordenen "Hofratswitwen", die namhafte Zubußen durch Untervermietung ihrer großen Stadtwohnungen erzielten.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1920-07-13" notAfter="1920-07-13">
+                1920-07-13
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-10-10 11:32:46.792009+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         </listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         </listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         </listOrg>
+      </back>
+  </text>
+</TEI>

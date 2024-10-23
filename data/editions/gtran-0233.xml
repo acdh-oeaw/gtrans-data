@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0233.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0232.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0234.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Vollversammlung am 7. November 1919, 177f.</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#vhelfert">Helfert, Veronika</rs></editor><editor><rs ref="#tgarstenauer">Garstenauer, Therese</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2423</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Archiv des Vereins für Geschichte der ArbeiterInnenbewegung</repository>
+                    <msName>Sozialdemokratische Parteistellen, Karton: Kt. 77, M 459, Aktenzahl: keine</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents/></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#vhelfert #tgarstenauer">
+            <p>Protokoll der Vollversammlung mit der Tagesordnung "Die Lohnforderungen der Straßenbahner und die Erhöhung der Tarife" mit Bericht von Paul Speiser; Hugo Breitner weist auf die Teuerung der Kohlepreise hin, die ebenfalls eine Rolle bei der Tariferhöhung spiele, nach der Debatte wird beschlossen, den Forderungen zuzustimmen, wenn die Wiener Parteiorganisationen und die Gewerkschaften einverstanden sind und wenn die Fahrkartenpreise erhöht werden. Beilage: Beschluss.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-11-07" notAfter="1919-11-07">
+                7. November 1919
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Lohnforderung</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-04 09:53:03.060196+00:00" who="#pbecker"/><change when="2019-08-06 19:02:51.495296+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__610"><persName><surname>Bermann</surname><forename>Julius</forename><roleName/></persName><birth when="1868-05-01">1868-05-01<placeName key="#place__3114">Kroměříž</placeName></birth><death when="1943-01-07">1943-01-07<placeName key="#place__3115">Theresienstadt (KZ)</placeName></death><idno>https://de.wikipedia.org/wiki/Julius_Bermann</idno></person><person xml:id="person__615"><persName><surname>Bock</surname><forename>Marie</forename><roleName/></persName><birth when="1881-07-10">1881-07-10<placeName key="#place__3122">Leipzig</placeName></birth><death when="1959-06-06">1959-06-06<placeName key="#place__580">Wien</placeName></death><idno>https://de.wikipedia.org/wiki/Marie_Bock_(Politikerin)</idno></person><person xml:id="person__620"><persName><surname>Breitner</surname><forename>Hugo</forename><roleName/></persName><birth when="1873-11-09">1873-11-09<placeName key="#place__580">Wien</placeName></birth><death when="1946-03-05">1946-03-05<placeName key="#place__3127">Claremont</placeName></death><idno>http://d-nb.info/gnd/119179504</idno></person><person xml:id="person__643"><persName><surname>Emmerling</surname><forename>Georg</forename><roleName/></persName><birth when="1870-07-12">1870-07-12<placeName key="#place__580">Wien</placeName></birth><death when="1948-12-12">1948-12-12<placeName key="#place__580">Wien</placeName></death><idno>https://de.wikipedia.org/wiki/Georg_Emmerling</idno></person><person xml:id="person__659"><persName><surname>Freundlich</surname><forename>Emmy</forename><roleName/></persName><birth when="1878-06-25">1878-06-25<placeName key="#place__3149">Aussig</placeName></birth><death when="1948-03-16">1948-03-16<placeName key="#place__508">New York</placeName></death><idno>http://d-nb.info/gnd/137683693</idno></person><person xml:id="person__3174"><persName><surname>Groß</surname><forename>Johann</forename><roleName/></persName><birth/><death/></person><person xml:id="person__713"><persName><surname>Iser</surname><forename>Hans</forename><roleName/></persName><birth/><death/></person><person xml:id="person__719"><persName><surname>Jorde</surname><forename>Julius</forename><roleName/></persName><birth><placeName key="#place__580">Wien</placeName></birth><death/></person><person xml:id="person__806"><persName><surname>Popp</surname><forename>Adelheid</forename><roleName/></persName><birth when="1869-02-11">1869-02-11</birth><death when="1939-03-07">1939-03-07<placeName key="#place__580">Wien</placeName></death></person><person xml:id="person__808"><persName><surname>Proft</surname><forename>Gabriele</forename><roleName/></persName><birth/><death/></person><person xml:id="person__821"><persName><surname>Reumann</surname><forename>Jakob</forename><roleName/></persName><birth/><death/></person><person xml:id="person__837"><persName><surname>Schmid</surname><forename>Karl</forename><roleName/></persName><birth when="1878-02-09">1878-02-09<placeName key="#place__535">Salzburg</placeName></birth><death when="1942-06-09">1942-06-09<placeName key="#place__580">Wien</placeName></death></person><person xml:id="person__841"><persName><surname>Schön</surname><forename>Peter</forename><roleName/></persName><birth><placeName key="#place__457">Gußwerk</placeName></birth><death/></person><person xml:id="person__862"><persName><surname>Skaret</surname><forename>Ferdinand</forename><roleName/></persName><birth/><death/></person><person xml:id="person__902"><persName><surname>Weigl</surname><forename>Karl</forename><roleName/></persName><birth/><death/></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1109"><orgName>Klub der Sozialdemokraten im Wiener Gemeinderate</orgName></org><org xml:id="org__1277"><orgName>Straßenbahnen (städtische)</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

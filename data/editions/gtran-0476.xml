@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0476.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0475.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0477.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Informative Besprechung mit Vertretern der Deutschen aus Laibach (Ljubljana) über die Möglichkeit und Form der Auszahlung der Beihilfen und Pensionen</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2659</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>Bestand: Staatskanzlei - BKA/alt Varia 1919  Zwischenstaatliches Komitee; Verhandlungsschriften Nr. 26 - 50 zu den Sitzungen des zwischenstaatsamtlichen Komitees für Staatsbedienstetenangelegenheiten, Nr: 37., Unterpunkt: 03., Seite: 42</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__3257">Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>Informative Besprechung mit Vertretern der Deutschen aus Laibach (Ljubljana) über die Möglichkeit und Form der Auszahlung der Beihilfen und Pensionen an die deutschen Bediensteten Jugoslawiens. Hiernach erscheint die Auszahlung nur möglich durch Vermittlung eines Geldinstituts. Eine Auszahlung durch die Finanzlandeskasse in Laibach (Ljubljana) erscheint schon in Anbetracht der ihrer nationalen Zugehörigkeit nach zweifelhaften Bediensteten als absolut unzweckmäßig.  ANTWORT DER KOMMISSION: Das Staatsamt der Finanzen wird eingeladen, wegen der Auszahlung das Erforderliche zu veranlassen.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-04-08" notAfter="1919-04-08">
+                8. April 1919
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Pensionierung</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-27 08:58:26.689941+00:00" who="#pbecker"/><change when="2019-10-02 09:14:39.584583+00:00" who="#pbecker"/><change when="2019-03-12 15:51:11.823454+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         </listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__485"><placeName>Laibach</placeName><location><geo decls="#LatLng">46.051080000000 14.505130000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3196359/</idno></place><place xml:id="place__544"><placeName>SHS-Staat</placeName><location><geo decls="#LatLng">44.000000000000 19.750000000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/7500737/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1048"><orgName>Finanzlandeskasse Laibach (Ljubljana)</orgName></org><org xml:id="org__1220"><orgName>Staatsamt für Finanzen</orgName></org><org xml:id="org__3812"><orgName>Verkehrsbank Laibach</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

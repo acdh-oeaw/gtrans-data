@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0796.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0795.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0797.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Gemeinderat. Stenographischer Bericht über die öffentliche Sitzung vom 30. März 1920. 33. Kollektivvertrag, betreffend den Lastwagenbetrieb</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#vhelfert">Helfert, Veronika</rs></editor><editor><rs ref="#tgarstenauer">Garstenauer, Therese</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2947</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Wiener Stadt- und Landesarchiv</repository>
+                    <msName>Bestand: Wiener Stadt- und Landesarchiv, Archivbibliothek, BiblM - M - Amtsperiodika, Verwaltungsberichte, Adressbücher, Signatur: M 599 29/1 1. Ex., Punkt/Seite: 33; 989-994</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Amtsblatteintrag</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents/></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#vhelfert #tgarstenauer">
+            <p>33. Kollektivvertrag, betreffend den Lastwagenbetrieb. Berichterstatter GR. Speiser: Z. 5962. Doppler kritisiert den Abschluss des Kollektivvertrags mit dem Verband der Handels-, Transport- und Vekehrsarbeiter und -Arbeiterinnen, da dieser eine Organisation sei, die nicht nur aus Gemeindebediensteten bestehe, sowie die Schlechterbehandlung der weiblichen Bediensteten, die sogar hinter den männlichen Lehrlingen eingereiht werden. Weitere Kritik am Kollektivvertrag und die Bemerkung, dass die Bediensteten in das Schema eingereiht werden sollten und nicht in einen Kollektivvertrag (wie etwa ja auch die "Reibweiber" im Rathaus. Abänderungsanträge von Doppler werden abgelehnt, Kollektivvertrag wird angenommen. Beschluss mit KV [992-994.]</p>
+        </abstract>
+        <creation>
+            <date notBefore="1920-03-30" notAfter="1920-03-30">
+                
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Ungleichbehandlung</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-09 05:47:52.341306+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__637"><persName><surname>Doppler</surname><forename>Leopold</forename><roleName/></persName><birth when="1870-10-29">1870-10-29<placeName key="#place__580">Wien</placeName></birth><death when="1945-03-13">1945-03-13<placeName key="#place__580">Wien</placeName></death><idno>https://de.wikipedia.org/wiki/Leopold_Doppler</idno></person><person xml:id="person__643"><persName><surname>Emmerling</surname><forename>Georg</forename><roleName/></persName><birth when="1870-07-12">1870-07-12<placeName key="#place__580">Wien</placeName></birth><death when="1948-12-12">1948-12-12<placeName key="#place__580">Wien</placeName></death><idno>https://de.wikipedia.org/wiki/Georg_Emmerling</idno></person><person xml:id="person__652"><persName><surname>Forstner</surname><forename>August</forename><roleName/></persName><birth when="1876-07-29">1876-07-29<placeName key="#place__580">Wien</placeName></birth><death when="1941-02-14">1941-02-14<placeName key="#place__3118">Wolfpassing bei Zeiselmauer</placeName></death><idno>http://d-nb.info/gnd/14403347X</idno></person><person xml:id="person__867"><persName><surname>Speiser</surname><forename>Paul</forename><roleName/></persName><birth/><death/></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1139"><orgName>Lastkraftwagenbetrieb (städtischer)</orgName></org><org xml:id="org__1301"><orgName>Verband der Handels-, Transport- und Verkehrsarbeiter und -Arbeiterinnen Österreichs</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0902.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0901.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0903.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Abänderung der Gelöbnisformel</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#vhelfert">Helfert, Veronika</rs></editor><editor><rs ref="#tgarstenauer">Garstenauer, Therese</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2502</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Wiener Stadt- und Landesarchiv</repository>
+                    <msName>Bestand: Wiener Stadt- und Landesarchiv, 1.5.3 Magistratsdirektion, Karton: ?, Aktenzahl: 6281/1918</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Akt</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents/></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#vhelfert #tgarstenauer">
+            <p>Schreiben des Magistratsdirektors Pawelka an den Stadtrat (datiert mit 5. November 1918): Er weist darauf hin, dass „die politische Umgestaltung, welche der österreichische Kaiserstaat gegenwärtig durchmacht“ eine Änderung des bisherigen Diensteides erfordert. Es wird auch darauf hingewiesen, dass statt eines Eids nunmehr ein „eidesstättiges Gelöbnis“, das mit Handschlag bekräftigt wird, abgelegt wird. Beschrieben wird der Ablauf (Bürgermeister liest die Gelöbnisformel vor, Anzugelobender spricht die Worte: „Ich gelobe dies eidesstättig und bekräftige dieses Gelöbnis mit meinem Handschlage.“ Die Gelöbnisablegung ist mit Datum im Anstellungs- oder Beförderungsdekret ersichtlich zu machen.
+Das Gelöbnis lautet in diesem Entwurf wie folgt:
+„Sie werden bei Ihrer Ehre und Treue eidesstättig geloben, der deutsch-österreichischen Republik [durchgestrichen wurde „Vaterland“ und durch „Republik“ ersetzt] treu und gehorsam zu sein, die von der deutsch-österreichischen Nationalversammlung beschlossenen Grundgesetze und übrigen Gesetze sowie die auf Grund dieser erlassenen Vollzugsanweisungen des deutsch-österreichischen Staatsrates getreu und unverbrüchlich zu befolgen, die Interessen der Gemeinde Wien nach allen Ihren Kräften zu fördern und jeden Nachteil von ihr abzuwenden. Sie werden ferner geloben, alle Ihnen anvertrauten Amtsgeschäfte treu und gewissenhaft zu besorgen, sich in allem genau nach den für die städtischen Beamten und deren Amtsverrichtungen bestehenden Vorschriften zu benehmen, sich auf keine Weise durch Eigennutz oder aus Nebenabsichten von der redlichen Erfüllung Ihrer Amtspflichten abwenden zu lassen, dem Gemeinderate und den übrigen beschließenden Organen der Gemeinde sowie dem Bürgermeister und Ihren sonstigen Vorgesetzten die schuldige Achtung und in Dienstsachen Gehorsam zu leisten, das Amtsgeheimnis zu bewahren und überhaupt sich alles dasjenige sorgfältigst gegenwärtig zu halten, was den Pflichten eines eifrigen, redlichen und würdigen Beamten der Stadt Wien angemessen ist.“
+Der Stadtrat beantragt in der Sitzung des provisorischen Gemeinderats der Stadt Wien vom 30.12.1918 die Abänderung des bisherigen Diensteides, der Angelobung und der Gelöbniserinnerung der städtischen Beamten, diese wird beschlossen. 
+Am 30. März 1919 schreibt Magistratsdirektor Pawelka an Stadtrat und Gemeinderat und ersucht, aufgrund der Gesetze vom 14. März 1919 über die Volksvertretung und über die Staatsregierung StGBl 179 und 180 den ersten Satz der Gelöbnisformel dieserart abzuändern:
+„Sie werden bei Ihrer Ehre und Treue eidesstättig geloben, der deutsch-österreichischen Republik treu und gehorsam zu sein, die Grundgesetze und alle übrigen Gesetze und die auf Grund derselben erlassenen Vollzugsanweisungen getreu und unverbrüchlich zu befolgen, die Interessen der Gemeinde Wien nach allen Ihren Kräften zu fördern und jeden Nachteil von ihr abzuwenden.“ Dies wird in der Gemeinderatssitzung vom 15. April 1919 diskutiert und beschlossen (Referent: Hoss).</p>
+        </abstract>
+        <creation>
+            <date notBefore="1918-11-06" notAfter="1919-04-15">
+                1918-11-06
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2021-06-25 15:28:17.510462+00:00" who="#pandorfer"/><change when="2019-09-21 10:02:35.334991+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__793"><persName><surname>Pawelka</surname><forename>Karl </forename><roleName>Obermag.R.</roleName></persName><birth><placeName key="#place__440">Eibiswald</placeName></birth><death/></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1151"><orgName>Magistratsdirektion (Stadt Wien)</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

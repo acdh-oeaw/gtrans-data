@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0527.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0526.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0528.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Übernahme der k.k. Ministerien</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/3421</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Gertrude Enderle-Burcel et al. (Hg.), Der österreichische Staatsrat. Protokolle des Vollzugsausschusses, des Staatsrates und des Geschäftsführenden Staatsratsdirektoriums 21. Oktober 1918 bis 14. Marz 1919, Band 1: 21. Oktober 1918 bis 14. November 1918, Wien 2008</repository>
+                    <msName>Protokoll des Vollzugsausschusses Nr. 3 vom 23. Oktober 1918, in: Enderle-Burcel et al. (Hg.), Der österreichische Staatsrat, 18.</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><p>Die rechtliche Grundlage für die Übernahme der Amtsgeschäfte in den einzelnen Ressorts wurde erst mit dem Gesetz über die Staats- und Regierungsform, StGBl. Nr. 5 vom 12. November 1918, Artikel 4 geschaffen: "Die k.u.k. und die k.k. Ministerien werden aufgelöst. Ihre Aufträge und Vollmachten auf dem Staatsgebiete von Deutschösterreich gehen unter ausdrücklicher Ablehnung jeder Rechtsnachfolge auf die deutschösterreichischen Staatsämter über […]".</p><msItem><author ref="#org__3258">Vollzugsausschuss</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>Staatsnotar Sylvester und StR Freißler sprechen sich dafür aus, dass die Übernahme der k.k. Ministerien durch die deutschösterreichische Regierung möglichst rasch erfolgen sollte.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1918-10-23" notAfter="1918-10-23">
+                1918-10-23
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">deutschösterr. Regierung</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Verwaltung</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-25 10:18:16.844783+00:00" who="#pbecker"/><change when="2019-10-18 10:34:02.301312+00:00" who="#gsteiner"/><change when="2019-10-11 08:41:59.777466+00:00" who="#pbecker"/><change when="2019-01-03 09:43:03.567628+00:00" who="#gsteiner"/><change when="2019-01-03 09:39:30.431800+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__656"><persName><surname>Freißler</surname><forename>Robert</forename><roleName>Dr.</roleName></persName><birth when="1877-03-23">1877-03-23<placeName key="#place__565">Troppau</placeName></birth><death when="1950-01-07">1950-01-07<placeName key="#place__453">Graz</placeName></death><idno>http://d-nb.info/gnd/1072422069</idno></person><person xml:id="person__875"><persName><surname>Sylvester</surname><forename>Julius</forename><roleName>Dr.</roleName></persName><birth when="1854-06-30">1854-06-30<placeName key="#place__580">Wien</placeName></birth><death when="1944-07-13">1944-07-13<placeName key="#place__592">Zell am Wallersee</placeName></death><idno>http://d-nb.info/gnd/120148595</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         </listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1030"><orgName>k.k. Regierung</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

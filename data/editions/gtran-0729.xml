@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0729.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0728.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0730.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Vollversammlung am 21. November 1919, 217f.</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#vhelfert">Helfert, Veronika</rs></editor><editor><rs ref="#tgarstenauer">Garstenauer, Therese</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2429</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Archiv des Vereins für Geschichte der ArbeiterInnenbewegung</repository>
+                    <msName>Sozialdemokratische Parteistellen, Karton: Kt. 77, M 459, Aktenzahl: keine</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents/></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#vhelfert #tgarstenauer">
+            <p>Erklärung über die Verwaltungsreform, die ohne Gegenstimmen auf der Vollversammlung des Klubs der Sozialdemokraten im Gemeinderat angenommen wird. In der Erklärung geht es u.a. um die Teilnahme von Beamten bei Ausschusssitzungen des Gemeinderats.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-11-21" notAfter="1919-11-21">
+                21. November 1919
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-08-06 19:27:39.235659+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__631"><persName><surname>Danneberg</surname><forename>Robert</forename><roleName>Dr.</roleName></persName><birth when="1885-07-23">1885-07-23<placeName key="#place__580">Wien</placeName></birth><death when="1942-01-01">1942-01-01<placeName key="#place__3132">Auschwitz (KZ)</placeName></death><idno>http://d-nb.info/gnd/118523643</idno></person><person xml:id="person__862"><persName><surname>Skaret</surname><forename>Ferdinand</forename><roleName/></persName><birth/><death/></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1109"><orgName>Klub der Sozialdemokraten im Wiener Gemeinderate</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

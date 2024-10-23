@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0191.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0190.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0192.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ersuchen von Beamten in Schlesien aus Angst vor Repressalien, Beamten polnischer Nationalität in den deutschösterr. Staatsdienst zu übernehmen</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2556</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>Bestand: Staatskanzlei - BKA/alt Varia 1919  Zwischenstaatliches Komitee; Verhandlungsschriften Nr. 1 - 25 zu den Sitzungen des zwischenstaatsamtlichen Komitees für Staatsbedienstetenangelegenheiten, Nr: 10., Unterpunkt: 02., Seite: 18</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__3257">Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>Verband der Festangestellten in einem Ort in Schlesien ersucht den Staatsrat, Maßnahme, dass nichtdt. Beamte von der Leitung von Staatsämtern ausgeschlossen sind, für polnische Nationalität zurückzunehmen, weil Vergeltungsmaßnahmen gegen den Verband befürchtet werden. Ein solcher Fall (Enthebung eines Vorstandes des Bahnbetriebsamtes in Bielitz (Bielsko-Biala; Biƚsko-Bela)) habe sich bereits ereignet. ANTWORT DER KOMMISSION: Das Komitee lehnt ein Abgehen von den Richtlinien zugunsten einer bestimmten Nation ab.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-01-04" notAfter="1919-01-04">
+                4. Jänner 1919
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Vergeltung</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Nationalität</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Repression</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-26 13:34:16.409695+00:00" who="#pbecker"/><change when="2019-10-18 13:52:10.661259+00:00" who="#gsteiner"/><change when="2019-10-18 13:50:41.394184+00:00" who="#gsteiner"/><change when="2019-10-13 15:14:58.567038+00:00" who="#pbecker"/><change when="2019-09-21 18:17:32.327101+00:00" who="#pbecker"/><change when="2019-02-27 15:48:20.288891+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         </listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__406"><placeName>Bielitz</placeName><location><geo decls="#LatLng">49.822450000000 19.046860000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3103402/</idno></place><place xml:id="place__538"><placeName>Schlesien</placeName><location><geo decls="#LatLng">51.000000000000 18.000000000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3066138/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__968"><orgName>Bahnbetriebsamt Bielitz</orgName></org><org xml:id="org__1256"><orgName>Staatsrat</orgName></org><org xml:id="org__1300"><orgName>Verband der Festangestellten in einem Ort in Schlesien</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

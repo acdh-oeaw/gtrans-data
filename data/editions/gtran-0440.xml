@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0440.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0439.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0441.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Eingabe des Zentralverbands der deutschösterr. Staatsbeamtenvereine in Wien zur Novellierung der Dienstpragmatik</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2655</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>Bestand: Staatskanzlei - BKA/alt Varia 1919  Zwischenstaatliches Komitee; Verhandlungsschriften Nr. 26 - 50 zu den Sitzungen des zwischenstaatsamtlichen Komitees für Staatsbedienstetenangelegenheiten, Nr: 35., Unterpunkt: 05., Seite: 36f</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__3257">Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>Ministerialrat Dr. Davy und Dr. Wilfling bringen eine Eingabe des Zentralverbands der deutschösterr. Staatsbeamtenvereine in Wien zur Novellierung der Dienstpragmatik. ANTWORT DER KOMMISSION: 1. In eine Beratung über all jene Punkte, welche eine Abänderung der Dienstpragmatik bedingen würden, wäre vor der Neuregelung der Besoldungsordnung nicht einzugehen. 2. Zur Frage der Errichtung von Personalkommissionen mit Entscheidungsrechten ist vor allem zu bemerken, dass ein derartiger Wirkungskreis verfassungsrechtlich nicht zu vereinbaren wäre mit der Verantwortlichkeit der Chefs der Ressortverwaltung. 3. Es wird im Zusammenhang mit der Regelung der Besoldungsordnung beabsichtigt, alle Bedienstete zu Beamten zu machen und diese nach Gruppen, etwa in höhere, mittlere und Schreib- und Unterbeamten einzuteilen.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-04-01" notAfter="1919-04-01">
+                1. April 1919
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Ausbildung</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Disziplinarrecht</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Koalitionsrecht</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Mitbestimmung</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Personalkommission</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Staatsangestelltenkammer</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Staatsangestelltenrat</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Vereins- und Versammlungsfreiheit</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Pensionierung</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-27 08:57:20.791810+00:00" who="#pbecker"/><change when="2019-10-19 08:48:06.083191+00:00" who="#gsteiner"/><change when="2019-10-19 08:46:54.697507+00:00" who="#gsteiner"/><change when="2019-10-02 09:01:05.129431+00:00" who="#pbecker"/><change when="2019-03-12 15:31:44.801085+00:00" who="#gsteiner"/><change when="2019-03-12 15:31:22.264556+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__633"><persName><surname>Davy</surname><forename>Robert Franz Ludwig</forename><roleName>Dr.</roleName></persName><birth when="1867-01-22">1867-01-22<placeName key="#place__478">Königsberg</placeName></birth><death when="1924-04-22">1924-04-22<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/126181365</idno></person><person xml:id="person__910"><persName><surname>Wilfling</surname><forename>August</forename><roleName>Dr.</roleName></persName><birth/><death/></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         </listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1007"><orgName>deutschösterr. Regierung</orgName></org><org xml:id="org__1333"><orgName>Zentralverband der deutschösterr. Staatsbeamtenvereine</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

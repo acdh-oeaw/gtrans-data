@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0911.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0910.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0912.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Einberufung der im Felde gestandenen absolvierten Juristen in den deutschösterreichischen Staatsdienst unter Anrechnung ihrer Kriegsdienstzeit</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/3793</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>Bestand: Staatskanzlei - BKA/alt Varia 1919 Zwischenstaatliches Komitee; Verhandlungsschriften Nr. 1 - 25 zu den Sitzungen des zwischenstaatsamtlichen Komitees für Staatsbedienstetenangelegenheiten,Nr: 09.,Unterpunkt: 04, Seite 15f.</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__3257">Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>Kabinettsratsbeschluss vom 17. Dezember 1918, betreffend Antrag von StR Iro wegen Einberufung der im Felde gestandenen absolvierten Juristen in den deutschösterreichischen Staatsdienst unter Anrechnung der Kriegsdienstzeit. ANTWORT DER KOMMISSION: Gemäß den Richtlinien zu Staatsbedienstetenfragen hat die Aufnahme von Praktikanten in den Staatsdienst bis auf weiteres in der Regel zu unterbleiben. Etwaige durch die ehemals österreichische Regierung gegebene Zusicherungen der Aufnahme in den ehemals österreichischen Staatsdienst sind nicht bindend und rechtlich bedeutungslos, da der deutschösterreichische Staat kein Rechtsnachfolger des bestandenen österreichischen Staates ist.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-01-03" notAfter="1919-01-03">
+                3. Jänner 1919
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Rechtsnachfolge</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-27 09:24:30.056294+00:00" who="#pbecker"/><change when="2019-10-12 23:01:06.571959+00:00" who="#pbecker"/><change when="2019-02-27 14:47:25.019138+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__712"><persName><surname>Iro</surname><forename>Karl</forename><roleName/></persName><birth when="1861-09-25">1861-09-25<placeName key="#place__438">Eger</placeName></birth><death when="1934-10-12">1934-10-12<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/101886573X</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         </listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1007"><orgName>deutschösterr. Regierung</orgName></org><org xml:id="org__1030"><orgName>k.k. Regierung</orgName></org><org xml:id="org__1031"><orgName>ehemals österr. Staat</orgName></org><org xml:id="org__1105"><orgName>Kabinettsrat</orgName></org><org xml:id="org__3301"><orgName>Deutschösterreichischer Staat</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

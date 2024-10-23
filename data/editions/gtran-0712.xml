@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0712.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0711.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0713.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Schwierigkeiten des Aufbaus der Verwaltung im Sudetenland</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/3458</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Gertrude Enderle-Burcel et al. (Hg.), Der österreichische Staatsrat. Protokolle des Vollzugsausschusses, des Staatsrates und des Geschäftsführenden Staatsratsdirektoriums 21. Oktober 1918 bis 14. Marz 1919, Band 1: 21. Oktober 1918 bis 14. November 1918, Wien 2008</repository>
+                    <msName>StRProt Nr. 30 vom 11. November 1918, in: Enderle-Burcel et al. (Hg.), Der österreichische Staatsrat, 378ff.</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><p>vgl. KabRProt Nr. 9 vom 12. November 1918, Punkt 2; StRProt Nr. 16 vom 3. November 1918; StRProt Nr. 17 vom 4. November 1918; StRProt Nr. 32 vom 13. November 1918</p><msItem><author ref="#org__1256">Staatsrat</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>StR Freißler berichtet von den Problemen der Aufrichtung der Verwaltung im Sudentenland. In Deutsch-Schlesien wurde die behördliche Gewalt des deutschösterreichischen Staates vollständig aufgerichtet. In Nordmähren gibt es unüberwindliche Probleme, da die Behörden in Brünn (Brno) und in Olmütz (Olomouc) dem tschechischen Staat unterstehen. Unter Drohungen haben auch viele deutsche Beamte den "Slib", das Gelöbnis auf den tschechischen Staat, geleistet. Die Verkehrswege sind abgesperrt, die Zahlungsmittel fehlen, Löhne und Unterhalte können nicht bezahlt werden. Es wäre ein Notgeld herauszugeben. Freißler beantragt, ein Komitee des Staatsrates möge mit ihm die Maßnahmen, die zu treffen seien, besprechen. StK Renner betont, dass die Vorkehrungen zur Überführung der Mittelstellen von Brünn (Brno) nach Troppau (Opava) zum Teil schon getroffen sind - u.a. werden 200 Millionen Kronen ins Sudetenland geschickt und ein Fliegerdienst eingerichtet - und ersucht Freißler, in der Kabinettssitzung des folgenden Tages zu erscheinen, um von den Fachreferenten der einzelnen Staatsämter die nötigen Informationen zu erhalten.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1918-11-11" notAfter="1918-11-11">
+                1918-11-11
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">tschechoslowak. Staatsdienst</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Verwaltung</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">zwischenstaatliche Verhandlung</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-11 09:12:00.807598+00:00" who="#pbecker"/><change when="2019-01-07 14:10:52.727433+00:00" who="#gsteiner"/><change when="2019-01-07 14:03:38.667503+00:00" who="#gsteiner"/><change when="2019-01-07 13:20:30.677151+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__656"><persName><surname>Freißler</surname><forename>Robert</forename><roleName>Dr.</roleName></persName><birth when="1877-03-23">1877-03-23<placeName key="#place__565">Troppau</placeName></birth><death when="1950-01-07">1950-01-07<placeName key="#place__453">Graz</placeName></death><idno>http://d-nb.info/gnd/1072422069</idno></person><person xml:id="person__3466"><persName><surname>Günzburg</surname><forename>Bernhard</forename><roleName>Dr.</roleName></persName><birth/><death/></person><person xml:id="person__820"><persName><surname>Renner</surname><forename>Karl</forename><roleName>Dr.</roleName></persName><birth when="1870-12-14">1870-12-14<placeName key="#place__570">Unter-Tannowitz</placeName></birth><death when="1950-12-31">1950-12-31<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118599739</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__416"><placeName>Brünn</placeName><location><geo decls="#LatLng">49.195220000000 16.607960000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3078610/</idno></place><place xml:id="place__427"><placeName>Deutschböhmen</placeName><idno type="GEONAMES"/></place><place xml:id="place__493"><placeName>Mähren</placeName><location><geo decls="#LatLng">49.500000000000 17.000000000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3070359/</idno></place><place xml:id="place__515"><placeName>Olmütz</placeName><location><geo decls="#LatLng">49.595520000000 17.251750000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3069011/</idno></place><place xml:id="place__523"><placeName>Prag</placeName><location><geo decls="#LatLng">50.088040000000 14.420760000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3067696/</idno></place><place xml:id="place__538"><placeName>Schlesien</placeName><location><geo decls="#LatLng">51.000000000000 18.000000000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3066138/</idno></place><place xml:id="place__553"><placeName>Sudetenland</placeName><idno type="GEONAMES"/></place><place xml:id="place__565"><placeName>Troppau</placeName><location><geo decls="#LatLng">49.938660000000 17.902570000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3068927/</idno></place><place xml:id="place__568"><placeName>umstrittenes Gebiet</placeName><idno type="GEONAMES"/></place><place xml:id="place__3281"><placeName>Jägerndorf</placeName><location><geo decls="#LatLng">50.089670000000 17.703850000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3072656/</idno></place><place xml:id="place__3455"><placeName>Nordmähren</placeName><idno type="GEONAMES"/></place><place xml:id="place__3456"><placeName>Bautsch</placeName><location><geo decls="#LatLng">49.795110000000 17.629690000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3078469/</idno></place><place xml:id="place__3459"><placeName>Neutitschein</placeName><location><geo decls="#LatLng">49.594380000000 18.010280000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3069305/</idno></place><place xml:id="place__3463"><placeName>Zwittau</placeName><location><geo decls="#LatLng">49.755940000000 16.468290000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3064454/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1105"><orgName>Kabinettsrat</orgName></org><org xml:id="org__1166"><orgName>Oberlandesgericht Reichenberg (Liberec)</orgName></org><org xml:id="org__1256"><orgName>Staatsrat</orgName></org><org xml:id="org__1282"><orgName>Sudetenland</orgName></org><org xml:id="org__1290"><orgName>tschechoslowakischer Staat</orgName></org><org xml:id="org__3301"><orgName>Deutschösterreichischer Staat</orgName></org><org xml:id="org__3457"><orgName>Tabakfabrik Bautsch</orgName></org><org xml:id="org__3460"><orgName>Tabakfabrik Neutitschein</orgName></org><org xml:id="org__3462"><orgName>Tabakfabrik Sternberg</orgName></org><org xml:id="org__3464"><orgName>Tabakfabrik Zwittau</orgName></org><org xml:id="org__3465"><orgName>Kreisgericht Neutitschein</orgName></org><org xml:id="org__3467"><orgName>Finanzlandesdirektion für das Sudetenland</orgName></org><org xml:id="org__3468"><orgName>Postdirektion für das Sudetenland</orgName></org><org xml:id="org__3469"><orgName>Staatsbahndirektion für das Sudetenland</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

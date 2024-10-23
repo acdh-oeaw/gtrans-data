@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0271.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0270.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0272.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Einstellung der Gehälter von Gewerbeinspektoren, die einstweilig für den tschechoslowakischen Staat Dienst leisten</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2568</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>Bestand: Staatskanzlei - BKA/alt Varia 1919  Zwischenstaatliches Komitee; Verhandlungsschriften Nr. 1 - 25 zu den Sitzungen des zwischenstaatsamtlichen Komitees für Staatsbedienstetenangelegenheiten, Nr: 12., Unterpunkt: 07., Seite: 28</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__3257">Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>StA für soziale Fürsorge: den in Deutschböhmen und Sudetenland angestellten, dem deutschösterr. Staate bereits angelobten, anlässlich der Besetzung durch tschechoslowakische Truppen ihres dem deutschösterr. Staate geleisteten Gelöbnisses entbundenen deutschen Gewerbeinspektoren sollen, da sie mit Zustimmung der deutschösterr. Regierung der tschechoslowakischen Regierung gemäß einem befristeten Dienstgelöbnis Dienst leisten, die Bezüge bis auf weiteres eingestellt werden. ANTWORT DER KOMMISSION: Doppelbezüge sind jedenfalls zu vermeiden. Da aus dem Umstand, dass diese Beamten vom Gelöbnis entbunden worden waren, geschlossen werden könnte, dass sie nicht mehr als deutschösterr. Staatsbedienstete anzusehen seien, würde es sich empfehlen, diese Beamten aufzuklären, dass unter dieser Entbindung vom Gelöbnisse nicht eine solche im strengen Sinne gemeint war, sondern ihnen dadurch nur der Weg freigemacht werden sollte, um in ihrer Zwangslage das Gelöbnis für den tschechoslowakischen Staat ablegen zu können.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-01-09" notAfter="1919-01-09">
+                9. Jänner 1919
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Repression</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">tschechoslowak. Staatsdienst</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">tschechoslowakisches Militär</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-27 08:11:23.738895+00:00" who="#pbecker"/><change when="2019-10-18 14:03:54.529561+00:00" who="#gsteiner"/><change when="2019-09-21 22:26:52.194197+00:00" who="#pbecker"/><change when="2019-03-05 17:39:23.282558+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         </listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__427"><placeName>Deutschböhmen</placeName><idno type="GEONAMES"/></place><place xml:id="place__430"><placeName>Deutschösterreich</placeName><idno type="GEONAMES"/></place><place xml:id="place__553"><placeName>Sudetenland</placeName><idno type="GEONAMES"/></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1007"><orgName>deutschösterr. Regierung</orgName></org><org xml:id="org__1070"><orgName>Gewerbeinspektion</orgName></org><org xml:id="org__1236"><orgName>Staatsamt für soziale Fürsorge</orgName></org><org xml:id="org__1289"><orgName>tschechoslowakische Regierung</orgName></org><org xml:id="org__3301"><orgName>Deutschösterreichischer Staat</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

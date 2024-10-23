@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0493.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0492.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0494.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Frage Beamte als Staatssekretäre</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/3266</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Gertrude Enderle-Burcel et al. (Hg.), Der österreichische Staatsrat. Protokolle des Vollzugsausschusses, des Staatsrates und des Geschäftsführenden Staatsratsdirektoriums 21. Oktober 1918 bis 14. Marz 1919, Band 1: 21. Oktober 1918 bis 14. November 1918, Wien 2008</repository>
+                    <msName>StRProt. Nr. 12 vom 30. Oktober 1918, in: Enderle-Burcel et al. (Hg.), Der österreichische Staatsrat, 72 ff.</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__1256">Staatsrat</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>Im Zuge der Diskussion um die Bestellung der Staatssekretariate stellt StR Teufel die Anfrage, ob die Liste der Staatssekretäre nur aus Parlamentariern bzw. keine Beamten bestellt werden sollten, was abgelehnt wird. Es werden schließlich die Beamten Sektionschef Bruno Enderes als Unterstaatssekretär für Verkehrswesen, und Sektionschef Johann Loewenfeld-Russ als Staatssekretär für Volksernährung, die keine Parlamentarier waren, als Mitglieder der Staatsregierung bestellt. Sektionschef Dr. Ferdinand Grimm wurde am 4. November 1918 zum Unterstaatssekretär im StA der Finanzen. Am 5. November 1918 wurde Bezirksrichter Dr. Waiß (Weiss) als Unterstaatssekretär im StA für Heereswesen bestellt. Am selben Tag wurde Sektionschef Dr. Eugen Beck-Managetta als Unterstaatssekretär im StA der Finanzen bestellt. Ebenso am 5. November 1918 wurde Egon Pflügel zum Unterstaatssekretär im StA des Äußern berufen. Am 7. November 1918 wird Sektionschef Richard Riedl zum Unterstaatssekretär im Staatsamt für Handel und Übergangswirtschaft mit besonderer Betrauung für die Übergangswirtschaft ernannt. All diese Personen waren keine Parlamentarier. In der Staatsratssitzung vom 7. November 1918 protestierte StR Teufel dagegen, dass Parlamentarier als Unterstaatssekretäre bestellt wurden. Nach seiner Meinung und der seiner Partei hätte man ausschließlich Fachmänner bestellen sollen.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1918-10-30" notAfter="1918-10-30">
+                1918-10-30
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Mandat (politisches)</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">deutschösterr. Regierung</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-10 19:17:56.827881+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__609"><persName><surname>Beck von Managetta</surname><forename>Eugen</forename><roleName>Dr.</roleName></persName><birth when="1861-06-15">1861-06-15<placeName key="#place__524">Preßburg</placeName></birth><death when="1943-11-07">1943-11-07<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/137693036; https://www.deutsche-biographie.de/pnd137693036.html</idno></person><person xml:id="person__641"><persName><surname>Ellenbogen</surname><forename>Wilhelm</forename><roleName>Dr.</roleName></persName><birth when="1863-07-09">1863-07-09<placeName key="#place__492">Lundenburg</placeName></birth><death when="1951-02-25">1951-02-25<placeName key="#place__508">New York</placeName></death><idno>http://d-nb.info/gnd/118529978</idno></person><person xml:id="person__644"><persName><surname>Enderes</surname><forename>Bruno</forename><roleName>Ing.</roleName></persName><birth when="1871-02-19">1871-02-19<placeName key="#place__580">Wien</placeName></birth><death when="1934-10-17">1934-10-17<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/117500348</idno></person><person xml:id="person__656"><persName><surname>Freißler</surname><forename>Robert</forename><roleName>Dr.</roleName></persName><birth when="1877-03-23">1877-03-23<placeName key="#place__565">Troppau</placeName></birth><death when="1950-01-07">1950-01-07<placeName key="#place__453">Graz</placeName></death><idno>http://d-nb.info/gnd/1072422069</idno></person><person xml:id="person__670"><persName><surname>Grimm</surname><forename>Ferdinand</forename><roleName>Dr.</roleName></persName><birth when="1869-02-15">1869-02-15<placeName key="#place__580">Wien</placeName></birth><death when="1948-11-08">1948-11-08<placeName key="#place__401">Bad Kreuzen</placeName></death><idno>http://d-nb.info/gnd/1011184664</idno></person><person xml:id="person__936"><persName><surname>Loewenfeld-Russ</surname><forename>Johann</forename><roleName/></persName><birth when="1873-10-29">1873-10-29<placeName key="#place__580">Wien</placeName></birth><death when="1940-01-12">1940-01-12<placeName key="#place__580">Wien</placeName></death><idno>https://de.wikipedia.org/wiki/Johann_L%C3%B6wenfeld-Russ</idno></person><person xml:id="person__797"><persName><surname>Pflügl</surname><forename>Egon</forename><roleName>Dr.</roleName></persName><birth when="1869-09-09">1869-09-09<placeName key="#place__490">Linz</placeName></birth><death when="1960-06-18">1960-06-18<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/103933921</idno></person><person xml:id="person__824"><persName><surname>Riedl</surname><forename>Richard</forename><roleName>Dr.</roleName></persName><birth when="1865-12-08">1865-12-08<placeName key="#place__580">Wien</placeName></birth><death when="1944-03-09">1944-03-09<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/117532541</idno></person><person xml:id="person__842"><persName><surname>Schoepfer</surname><forename>Aemilian</forename><roleName>Dr.</roleName></persName><birth when="1858-04-29">1858-04-29<placeName key="#place__415">Brixen</placeName></birth><death when="1936-03-24">1936-03-24<placeName key="#place__463">Innsbruck</placeName></death><idno>http://d-nb.info/gnd/119034913</idno></person><person xml:id="person__879"><persName><surname>Teufel</surname><forename>Oskar</forename><roleName/></persName><birth when="1880-10-05">1880-10-05<placeName key="#place__595">Znaim</placeName></birth><death when="1946-01-26">1946-01-26<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/1027122671</idno></person><person xml:id="person__890"><persName><surname>Urban</surname><forename>Karl</forename><roleName/></persName><birth when="1855-09-01">1855-09-01<placeName key="#place__523">Prag</placeName></birth><death when="1940-10-24">1940-10-24<placeName key="#place__523">Prag</placeName></death><idno>http://d-nb.info/gnd/1148771107</idno></person><person xml:id="person__940"><persName><surname>Waiß</surname><forename>Erwin</forename><roleName/></persName><birth><placeName key="#place__580">Wien</placeName></birth><death/></person><person xml:id="person__916"><persName><surname>Wolf</surname><forename>Karl Hermann</forename><roleName>Dr.</roleName></persName><birth when="1862-01-27">1862-01-27<placeName key="#place__438">Eger</placeName></birth><death when="1941-06-11">1941-06-11<placeName key="#place__580">Wien</placeName></death><idno>https://d-nb.info/gnd/1013678079</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         </listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1007"><orgName>deutschösterr. Regierung</orgName></org><org xml:id="org__1220"><orgName>Staatsamt für Finanzen</orgName></org><org xml:id="org__1224"><orgName>Staatsamt des Äußern</orgName></org><org xml:id="org__1230"><orgName>Staatsamt für Volksernährung</orgName></org><org xml:id="org__1233"><orgName>Staatsamt für Kriegs- und Übergangswirtschaft</orgName></org><org xml:id="org__1239"><orgName>Staatsamt für Verkehrswesen</orgName></org><org xml:id="org__3265"><orgName>Deutschösterreichische Unabhängigkeitspartei</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

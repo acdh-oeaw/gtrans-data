@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0551.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0550.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0552.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Kreisgerichtspräsident in Znaim (Znojmo) - Verweigerung des Gelöbnisses</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/3383</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Gertrude Enderle-Burcel et al. (Hg.), Der österreichische Staatsrat. Protokolle des Vollzugsausschusses, des Staatsrates und des Geschäftsführenden Staatsratsdirektoriums 21. Oktober 1918 bis 14. Marz 1919, Band 1: 21. Oktober 1918 bis 14. November 1918, Wien 2008</repository>
+                    <msName>StRProt Nr. 22 vom 7. November 1918, in: Enderle-Burcel et al. (Hg.), Der österreichische Staatsrat, 228, 234.</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__1256">Staatsrat</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>StS Roller berichtet davon, dass der Kreisgerichtspräsident von Znaim (Znojmo), von Paumgartten, das Gelöbnis auf den deutschösterreichischen Staat verweigert und sein Pensionsgesuch überreicht hat. An das Kreisgericht in Znaim (Znojmo) ist ein Telegramm eingelangt, alle Beamten für den tschechoslowakischen Staat anzugeloben, wodurch sich die Notwendigkeit ergebe, die Stelle des Kreisgerichtspräsidenten in Znaim (Znojmo) zu besetzen. Für diese Stelle wird Oberlandesgerichtsrat Ferdinand Proksch vorgeschlagen und bestätigt.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1918-11-07" notAfter="1918-11-07">
+                1918-11-07
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Ernennung</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">tschechoslowak. Staatsdienst</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Pensionierung</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-10 20:07:52.207343+00:00" who="#pbecker"/><change when="2018-12-18 16:53:45.883433+00:00" who="#gsteiner"/><change when="2018-12-18 15:32:09.542557+00:00" who="#gsteiner"/><change when="2018-12-18 15:31:15.234192+00:00" who="#gsteiner"/><change when="2018-12-18 15:19:13.985596+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__3382"><persName><surname>Paumgartten von</surname><forename>Philipp</forename><roleName/></persName><birth when="1864-09-16">1864-09-16<placeName key="#place__472">Kaschau</placeName></birth><death when="1938-01-09">1938-01-09<placeName key="#place__416">Brünn</placeName></death></person><person xml:id="person__3384"><persName><surname>Proksch</surname><forename>Ferdinand</forename><roleName/></persName><birth/><death/></person><person xml:id="person__826"><persName><surname>Roller</surname><forename>Julius</forename><roleName>Dr.</roleName></persName><birth when="1862-10-28">1862-10-28<placeName key="#place__560">Thomigsdorf</placeName></birth><death when="1946-12-27">1946-12-27<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/1028281269</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__595"><placeName>Znaim</placeName><location><geo decls="#LatLng">48.855500000000 16.048800000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3061344/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1123"><orgName>Kreisgericht Znaim (Znojmo)</orgName></org><org xml:id="org__1159"><orgName>Národní Výbor (tschechoslowak. Nationalausschuss)</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

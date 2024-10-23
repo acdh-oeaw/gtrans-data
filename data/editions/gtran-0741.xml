@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0741.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0740.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0742.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Gemeinderat. Protokoll (Stenographischer Bericht) der öffentlichen Sitzung vom 30. Juli 1920 um 3 Uhr nachm. 2</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#vhelfert">Helfert, Veronika</rs></editor><editor><rs ref="#tgarstenauer">Garstenauer, Therese</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2968</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Wiener Stadt- und Landesarchiv</repository>
+                    <msName>Bestand: Wiener Stadt- und Landesarchiv, Archivbibliothek, BiblM - M - Amtsperiodika, Verwaltungsberichte, Adressbücher, Signatur: M 599 1920/3 , Punkt/Seite: 2; 262-270</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>ins Amtsblatt eingebundenes Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents/></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#vhelfert #tgarstenauer">
+            <p>Kritik an sozialdemokratischer Verwaltung: Extremes Budgetdefizit (auch) aufgrund hoher Personalkosten ("Personalforderungen weitgehender Natur, von welchen wir vorgestern durch den Streik auch fühlbar Kenntnis genommen haben, stehen vor der Tür. Sie werden mit 700 Millionen beziffert, von welchen naturgemäß noch nicht ein Heller in diesem Budget enthalten ist." (S. 262f).</p>
+        </abstract>
+        <creation>
+            <date notBefore="1920-07-30" notAfter="1920-07-30">
+                
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-10-09 10:40:36.123599+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__891"><persName><surname>Vaugoin</surname><forename>Karl</forename><roleName/></persName><birth/><death/></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         </listOrg>
+      </back>
+  </text>
+</TEI>

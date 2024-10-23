@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0664.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0663.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0665.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Stadtrat. Stenographischer Bericht über die Sitzung vom 6. Februar 1919. P.Z. 1816, M.Abt.II, 304, Anträge betreffs Bewilligung einer Notstandsaushilfe an die städtischen Angestellten</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#vhelfert">Helfert, Veronika</rs></editor><editor><rs ref="#tgarstenauer">Garstenauer, Therese</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/3005</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Wiener Stadt- und Landesarchiv</repository>
+                    <msName>Bestand: Wiener Stadt- und Landesarchiv, Archivbibliothek, BiblM - M - Amtsperiodika, Verwaltungsberichte, Adressbücher, Signatur: M 599 28/1 1. Ex., Punkt/Seite: o.P.; 380f.</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Amtsblatteintrag</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents/></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#vhelfert #tgarstenauer">
+            <p>StR Vaugoin referiert zur P.Z. 1816, M.Abt.II, 304, betreffs Bewilligung einer Notstandsaushilfe an die städtischen Angestellten. StR Vaugoin zu einer Notstandsaushilfe für die städtischen Angestellten und stellt mehrere Anträge zur Notstandsaushilfe auszahlbar bis 15. Februar 1919 (GR-Beschluss vom 19. Dezember 1918) an alle Angestellten der Gemeinde Wien und ihrer Unternehmungen sowie Witwen und Waisen (P.Z. 12620), Dienstzeitanrechnungen, einmaliger Anschaffungsbeitrag für LehrerInnen sowie Witwen und Waisen, Beförderung, Personalvertretungen, etc. und gemeinderätliches Komitee zur Vorbereitung der weiteren Maßnahmen zugunsten der Angestellten; sowie ihre Umsetzung.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-02-06" notAfter="1919-02-06">
+                
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Personalvertretung</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-09 15:06:58.736826+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__799"><persName><surname>Pick</surname><forename>Karl</forename><roleName/></persName><birth><placeName key="#place__490">Linz</placeName></birth><death/></person><person xml:id="person__821"><persName><surname>Reumann</surname><forename>Jakob</forename><roleName/></persName><birth/><death/></person><person xml:id="person__823"><persName><surname>Richter</surname><forename>Paul</forename><roleName/></persName><birth/><death/></person><person xml:id="person__891"><persName><surname>Vaugoin</surname><forename>Karl</forename><roleName/></persName><birth/><death/></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1113"><orgName>Komitee zur Beratung über Maßnahmen zu Gunsten der städtischen Angestellten</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0004.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0003.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0005.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Besetzung Spielfelds und Marburgs durch die Serben</title>
+            <title type="sub">Great Transformation App</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2842</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>Bestand: ÖStA/AdR, Bundeskanzleramt, Staatsratsprotokolle 1. Republik, Protokoll Nr. 36 - 50, 18. 11. 1918 - 29. 11. 1918; 46. Sitzung vom 26. November 1918, S. 16., Karton: 2</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__1256">Staatsrat</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="">
+            <p>StR Marckhl berichtet von der Besetzung Spielfelds durch Serben, die die Verwaltung unmöglich mache und die Gefahr eines Streiks der Eisenbahner und des Stillstands des Eisenbahnverkehrs.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1918-11-26" notAfter="1918-11-26">
+                
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Streik</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-22 14:26:48.680399+00:00" who="#gsteiner"/><change when="2019-10-05 08:31:47.422051+00:00" who="#gsteiner"/><change when="2019-10-05 08:29:12.556418+00:00" who="#gsteiner"/><change when="2019-10-05 08:28:10.242028+00:00" who="#gsteiner"/><change when="2019-10-03 09:36:35.155491+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__762"><persName><surname>Marckhl</surname><forename>Richard</forename><roleName/></persName><birth when="1861-05-10">1861-05-10<placeName key="#place__526">Rann</placeName></birth><death when="1939-04-27">1939-04-27<placeName key="#place__580">Wien</placeName></death><idno>https://de.wikipedia.org/wiki/Richard_Marckhl</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__499"><placeName>Marburg</placeName><location><geo decls="#LatLng">46.554720000000 15.646670000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3195506/</idno></place><place xml:id="place__544"><placeName>SHS-Staat</placeName><location><geo decls="#LatLng">44.000000000000 19.750000000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/7500737/</idno></place><place xml:id="place__546"><placeName>Slowenien</placeName><location><geo decls="#LatLng">46.083330000000 15.000000000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3190538/</idno></place><place xml:id="place__547"><placeName>Spielfeld</placeName><location><geo decls="#LatLng">46.705560000000 15.637220000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2764806/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         </listOrg>
+      </back>
+  </text>
+</TEI>

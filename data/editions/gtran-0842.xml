@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0842.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0841.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0843.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Wünsche des Verbandes vertriebener deutscher Staatsangestellter vom 3. April 1919</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2673</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>Bestand: Staatskanzlei - BKA/alt Varia 1919  Zwischenstaatliches Komitee; Verhandlungsschriften Nr. 26 - 50 zu den Sitzungen des zwischenstaatsamtlichen Komitees für Staatsbedienstetenangelegenheiten, Nr: 40., Unterpunkt: 04., Seite: 49f</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__3257">Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>Wünsche des Verbandes vertriebener deutscher Staatsangestellter vom 3. April 1919 an den Nationalrat, die Staatskanzlei, die Staatsämter sowie die Staatsangestelltenorganisationen zu übermitteln: 1. Endgültige Übernahme aller Staatsangestellten, die durch Muttersprache, Erziehung, und Gesinnung dem deutschen Volk angehören und deshalb von den auswärtigen Nationalstaaten zum Verlassen ihres Dienstes gezwungen worden sind in den deutschösterr. Staatsdienst, unter Wahrung des ihnen gebührenden Dienstranges und Flüssigmachung  aller ihnen seit dem 1. November 1918 zukommenden, jedoch nicht erfolgten Bezüge. Für die Staatsangestellten, die in den dauernden Ruhestand zu treten wünschen oder versetzt werden müssen, ist durch Sicherstellung entsprechender Ruhegenüsse zu sorgen; 2. Die von diesen Staatsangestellten als Vorbedingung für Auszahlung von Beihilfen abverlangten Erklärungen sind als null und nichtig anzusehen; 3. Zur Vermeidung der Benachteiligung anderer Staatsangestellter wird vorgeschlagen, diese Staatsangestellten einstweilen extra statum zu übernehmen und in Hinkunft alle freiwerdenden Stellen im Staatsdienst unbedingt in erster Reihe mit vertriebenen deutschen Staatsangestellten zu besetzen. Diese Bevorzugung hat in allen öffentlichen Ausschreibungen ausdrücklich hervorgehoben zu werden. Für deutsche Lehrkräfte der Staatsvolks- und Bürgerschulen und der Marineschulen ist, soweit sie nicht an staatlichen Übungsschulen untergebracht werden können, in besonderer Weise vorzusorgen; 4. Die während des Krieges verbrachte Dienstzeit ist allen diesen Staatsangestellten im Sinn der Erlässe vom 28. November 1918, StGBl. 68/1918 und 69/1918 begünstigt anzurechnen; 5. Die Regierung wird aufgefordert, für die Anstellung der vertriebenen deutschen Staatsangestellten Raum zu schaffen: a) durch sofortige Entlassung aller vor ihrer Staatsanstellung nicht nach Deutschösterreich zuständigen Staatsangestellten, soweit es sich nicht um Deutsche handelt; b) durch Übersetzung aller Staatsangestellten, die das 60. Lebensjahr zurückgelegt und Anspruch auf den vollen Ruhegenuss haben, in den Ruhestand; c) durch Revision sämtlicher seit November 1918 vorgenommenen Neuanstellungen im Staatsdienst; 6. Heimatrecht für die vertriebenen deutschen Staatsangestellten und ihrer unversorgten großjährigen  Familienangehörigen in Deutschösterreich durch Verordnung; 7. Die Regierung wird gebeten, Vorsorge für die gesicherte und kostenlose Heimbeförderung der Habe der vertriebenen Staatsangestellten zu treffen und sie anlässlich der Übersiedlung und der dadurch verursachten Unkosten durch eine Notstandsaktion zu unterstützen; 8. Die Regierung wird aufgefordert, den von den auswärtigen Nationalstaaten vertriebenen deutschen Staatsangestellten als heimatberechtigten Söhnen Deutschösterreichs in allen Belangen die gleiche Behandlung angedeihen zu lassen, welche die anderen Nationalstaaten (Tschechen, Jugoslawen) den ihrer Nationalität angehörenden Staatsangestellten, die aus dem deutschösterreichischen Staatsdienst entlassen wurden, zuteil werden ließen. ANTWORT DER KOMMISSION: Staatsamt des Innern empfiehlt die Berücksichtigung dieser Wünsche und erachtet Folgendes als wünschenswert: Alle vom deutschösterr. Staat in Verwendung genommenen ehemals österr. Staatsbediensteten deutscher Nationalität erhalten für die Zeit bis zur definitiven Regelung ihres Dienstverhältnisses für jeden Monat ihrer Verwendung einen Verwendungszuschuss zu ihrer Beihilfe; dieser ist rückwirkend für jeden Monat mit 1/12 des Betrages zu verrechnen, der sich aus folgenden Einzelbeträgen ergibt: 1. Berücksichtigung der Aktivitätszulage ihres jetzigen Verwendungsortes; 2. aus dem Ausmaß der Mehrbezüge, die sie erhalten hätten, wenn sie nach den für deutschösterr. Staatsangestellte geltenden Vorschriften in höhere Bezüge hätten vorrücken können. Praktikanten erhalten unter denselben Voraussetzungen einen Verwendungszuschuss in der Höhe des Unterschiedes zwischen ihrem Adjutum und jenen Bezügen, die ihnen zugekommen wären, wenn sie der Beförderung hätten teilhaftig werden können. Hierbei ist die Aktivitätszulage ihres jeweiligen Verwendungsortes zugrunde zu legen.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-04-15" notAfter="1919-04-15">
+                15. April 1919
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Staatsbedienstetenorganisationen</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Repression</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Pensionierung</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-27 09:03:49.347954+00:00" who="#pbecker"/><change when="2019-10-19 09:11:43.046873+00:00" who="#gsteiner"/><change when="2019-10-02 10:44:57.966220+00:00" who="#pbecker"/><change when="2019-03-12 18:23:02.430775+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         </listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__568"><placeName>umstrittenes Gebiet</placeName><idno type="GEONAMES"/></place><place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__989"><orgName>Bürgerschule</orgName></org><org xml:id="org__1007"><orgName>deutschösterr. Regierung</orgName></org><org xml:id="org__1051"><orgName>fremdnationale Staaten</orgName></org><org xml:id="org__1120"><orgName>Konstituierende Nationalversammlung</orgName></org><org xml:id="org__1220"><orgName>Staatsamt für Finanzen</orgName></org><org xml:id="org__1225"><orgName>Staatsamt des Innern</orgName></org><org xml:id="org__1253"><orgName>Staatskanzlei</orgName></org><org xml:id="org__1290"><orgName>tschechoslowakischer Staat</orgName></org><org xml:id="org__1306"><orgName>Verband vertriebener deutscher Staatsangestellter</orgName></org><org xml:id="org__1322"><orgName>Volksschule</orgName></org><org xml:id="org__3301"><orgName>Deutschösterreichischer Staat</orgName></org><org xml:id="org__3470"><orgName>SHS-Staat</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

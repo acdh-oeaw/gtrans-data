@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0149.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0148.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0150.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Beamtenfragen im Böhmerwald</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/3671</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>ÖStA/AdR, Bundeskanzleramt, Kabinettsratsprotokolle 1. Republik, Protokoll Nr. 1 bis 35, 31. 10. 1918 bis 30. 1. 1919, Kabinettsratsprotokoll Nr. 19 vom 30. November 1918, 7f.</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><p>Eine Telegrammabschrift zum Fall liegt dem Protokoll bei.</p><msItem><author ref="#org__1105">Kabinettsrat</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>StS Roller teilt mit, dass die tschech. Regierung an den Nationalrat in Krumau (Český Krumlov) das Verlangen gestellt habe, dass die Amtsführung bei sämtlichen Ämtern bis Friedensschluss in der bisherigen Weise erfolge, da nur dadurch eine militärische Besetzung von Stadt und Ämtern verhindert werden könne. Demgemäß müssten Bezirksrichter und Richter unverzüglich des Gelöbnisses auf den deutschösterreichischen Staat entbunden werden und die Suspendierung des tschechischen Rates Havel aufgehoben werden. Der Kabinettsrat widersetzt sich diesem Ansinnen; der Widerruf des Gelöbnisses könne nicht erfolgen, die Beamten sollen eher der Gewalt weichen, die Lösung soll in Verhandlungen des StA des Äußern und des StA für Verkehrswesen gesucht werden.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1918-11-30" notAfter="1918-11-30">
+                30. November 1918
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Repression</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">tschechoslowak. Staatsdienst</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">zwischenstaatliche Verhandlung</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-12 11:41:20.753856+00:00" who="#pbecker"/><change when="2019-01-30 16:38:51.056849+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__3670"><persName><surname>Havel</surname><forename/><roleName/></persName><birth/><death/></person><person xml:id="person__826"><persName><surname>Roller</surname><forename>Julius</forename><roleName>Dr.</roleName></persName><birth when="1862-10-28">1862-10-28<placeName key="#place__560">Thomigsdorf</placeName></birth><death when="1946-12-27">1946-12-27<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/1028281269</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__408"><placeName>Böhmerwald-Gebiete</placeName><location><geo decls="#LatLng">49.232940000000 13.107860000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3079146/</idno></place><place xml:id="place__568"><placeName>umstrittenes Gebiet</placeName><idno type="GEONAMES"/></place><place xml:id="place__3668"><placeName>Krumau</placeName><location><geo decls="#LatLng">48.810910000000 14.315210000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3077889/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1105"><orgName>Kabinettsrat</orgName></org><org xml:id="org__1224"><orgName>Staatsamt des Äußern</orgName></org><org xml:id="org__1239"><orgName>Staatsamt für Verkehrswesen</orgName></org><org xml:id="org__1289"><orgName>tschechoslowakische Regierung</orgName></org><org xml:id="org__3301"><orgName>Deutschösterreichischer Staat</orgName></org><org xml:id="org__3669"><orgName>Nationalrat in Krumau</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

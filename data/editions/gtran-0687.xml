@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0687.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0686.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0688.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Anfrage bezüglich der begünstigten Anrechnung von Kriegsdienstzeiten für Hilfsbedienstete</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2558</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>Bestand: Staatskanzlei - BKA/alt Varia 1919  Zwischenstaatliches Komitee; Verhandlungsschriften Nr. 1 - 25 zu den Sitzungen des zwischenstaatsamtlichen Komitees für Staatsbedienstetenangelegenheiten, Nr: 10., Unterpunkt: 06c., Seite: 20</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__3257">Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>Anfrage des StA für Verkehrswesen zu Anträgen des Staatseisenbahnbeirates: Wäre den Hilfsbediensteten die Vergünstigung (begünstigte Anrechnung der Kriegsdienstzeit) nach ihrer Definitivernennung zuzugestehen? ANTWORT DER KOMMISSION: Wäre zuzugestehen.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-01-04" notAfter="1919-01-04">
+                4. Jänner 1919
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-10-27 08:06:59.889599+00:00" who="#pbecker"/><change when="2019-10-18 13:54:12.445387+00:00" who="#gsteiner"/><change when="2019-09-21 22:02:22.640432+00:00" who="#pbecker"/><change when="2019-02-27 16:25:44.132162+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         </listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         </listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1239"><orgName>Staatsamt für Verkehrswesen</orgName></org><org xml:id="org__1250"><orgName>Staatseisenbahnrat</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

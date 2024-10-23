@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0566.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0565.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0567.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Schaffung eines Gesetzes für Zivilkommissäre für die Volkswehr</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2797</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>Bestand: ÖStA/AdR, Bundeskanzleramt, Staatsratsprotokolle 1. Republik, Protokoll Nr. 36 - 50, 18. 11. 1918 - 29. 11. 1918; 38. Sitzung vom 19. Nov. 1918, S. 11., Karton: 2</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__1256">Staatsrat</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>StS Deutsch legt den Entwurf eines Gesetzes über Schaffung von Zivilkommissären für die Volkswehr vor. Man müsse sich gegen die überwuchernde Bürokratie der Generalstabsoffiziere sowie gegen die Despotieversuche der Soldatenräte zur Wehr setzen. Die Zivilkommissäre sollen im StA für Heereswesen angesiedelt sein und dessen Einfluss auf das Heer im demokratischen Staat sicherstellen. Die Vorlage wird der Heereskommission zugewiesen.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1918-11-19" notAfter="1918-11-19">
+                19. Nov. 1918
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Demokratisierung</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-22 08:40:52.643739+00:00" who="#gsteiner"/><change when="2019-10-03 06:21:47.872844+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__634"><persName><surname>Deutsch</surname><forename>Julius</forename><roleName>Dr.</roleName></persName><birth when="1884-02-02">1884-02-02<placeName key="#place__484">Lackenbach</placeName></birth><death when="1968-01-17">1968-01-17<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118678027</idno></person><person xml:id="person__875"><persName><surname>Sylvester</surname><forename>Julius</forename><roleName>Dr.</roleName></persName><birth when="1854-06-30">1854-06-30<placeName key="#place__580">Wien</placeName></birth><death when="1944-07-13">1944-07-13<placeName key="#place__592">Zell am Wallersee</placeName></death><idno>http://d-nb.info/gnd/120148595</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         </listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1063"><orgName>Generalstab</orgName></org><org xml:id="org__1217"><orgName>Soldatenrat</orgName></org><org xml:id="org__1227"><orgName>Staatsamt für Heerwesen</orgName></org><org xml:id="org__1323"><orgName>Volkswehr</orgName></org><org xml:id="org__1337"><orgName>Zivilkommissäre für die Volkswehr</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0316.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0315.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0317.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Sektionschef Dr. Kaup</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#vhelfert">Helfert, Veronika</rs></editor><editor><rs ref="#tgarstenauer">Garstenauer, Therese</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2759</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Wien Bibliothek</repository>
+                    <msName>Bestand: Wien Bibliothek, Tagblatt Sachmappen, TS 2599/1919, Bibliographische Angaben: Sektionschef Dr. Kaup, in: Die Zeit, 1.4.1919</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Zeitungsartikel</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents/></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#vhelfert #tgarstenauer">
+            <p>Die Ernennung des Ministerialrats Dr. Ignaz Kaup zum Sektionschef im Staatsamt für Soziale Verwaltung nimmt der Autor des Artikels zum Anlass darauf hinzuweisen, dass andere Ernennungen nicht unter Berufung auf den Präsidenten und mit Unterschrift des verantwortlichen Staatssekretärs verlautbart worden sind. Der Autor weist darauf hin: "Durch dieses Beispiel gewinnt der Unterschied zwischen einer ordnungsgemäßen Verwaltung und einer Hintertreppenpolitik noch einiges an Anschaulichkeit."</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-04-01" notAfter="1919-04-01">
+                
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Verwaltung</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-02 20:50:00.234800+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__608"><persName><surname>Bauer</surname><forename>Otto</forename><roleName>Dr.</roleName></persName><birth when="1881-09-05">1881-09-05<placeName key="#place__580">Wien</placeName></birth><death when="1938-07-04">1938-07-04<placeName key="#place__518">Paris</placeName></death><idno>http://d-nb.info/gnd/118507346</idno></person><person xml:id="person__3630"><persName><surname>Kaup</surname><forename>Ignaz</forename><roleName>Dr.</roleName></persName><birth when="1870-01-11">1870-01-11<placeName key="#place__3638">Marburg an der Lahn</placeName></birth><death when="1944-03-25">1944-03-25<placeName key="#place__505">München</placeName></death><idno>http://d-nb.info/gnd/117503622</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__430"><placeName>Deutschösterreich</placeName><idno type="GEONAMES"/></place><place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1236"><orgName>Staatsamt für soziale Fürsorge</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

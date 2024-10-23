@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0116.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0115.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0117.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Pflichtgelöbnis gegenüber dem tschechoslowakischen Staat im Falle sonstiger Entlassung (vorläufiges Gelöbnis)</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2550</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>Bestand: Staatskanzlei - BKA/alt Varia 1919  Zwischenstaatliches Komitee; Verhandlungsschriften Nr. 1 - 25 zu den Sitzungen des zwischenstaatsamtlichen Komitees für Staatsbedienstetenangelegenheiten, Nr: 09., Unterpunkt: 01., Seite: 14f</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__3257">Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>StA der Finanzen: Es wird fünf Steuerbeamten und einem Kanzleioffizianten im umstrittenen Gebiet gestattet, für den Fall, dass sie wegen des für den deutschösterr. Staat geleisteten Gelöbnis mit der Entlassung bedroht werden, ein Pflichtgelöbnis gegenüber den tschechoslowakischen Behörden abzugeben, mit dem Bemerk, dass man der Gewalt weiche und dies nur bis zur endgültigen Regelung der Frage gelte. Vor diesem Zeitpunkt könne eine Enthebung vom Gelöbnis für den deutschösterr. Staat nicht erfolgen. ANTWORT DER KOMMISSION: Die Staatskanzlei verweist auf Punkt 2 der Richtlinien und auf den Erlass des StA der Finanzen vom 25. 12. 1918, Z. 9226; zwecks Wahrung eines einheitlichen Vorgehens</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-01-03" notAfter="1919-01-03">
+                3. Jänner 1919
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">tschechoslowak. Staatsdienst</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-26 13:21:35.977454+00:00" who="#pbecker"/><change when="2019-10-18 13:45:50.576218+00:00" who="#gsteiner"/><change when="2019-09-21 18:05:25.549990+00:00" who="#pbecker"/><change when="2019-02-27 14:12:41.855179+00:00" who="#gsteiner"/><change when="2019-02-27 14:12:01.869699+00:00" who="#gsteiner"/><change when="2019-02-27 13:42:20.703085+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         </listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__430"><placeName>Deutschösterreich</placeName><idno type="GEONAMES"/></place><place xml:id="place__568"><placeName>umstrittenes Gebiet</placeName><idno type="GEONAMES"/></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1220"><orgName>Staatsamt für Finanzen</orgName></org><org xml:id="org__1253"><orgName>Staatskanzlei</orgName></org><org xml:id="org__1289"><orgName>tschechoslowakische Regierung</orgName></org><org xml:id="org__1290"><orgName>tschechoslowakischer Staat</orgName></org><org xml:id="org__3257"><orgName>Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</orgName></org><org xml:id="org__3301"><orgName>Deutschösterreichischer Staat</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

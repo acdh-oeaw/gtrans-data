@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0033.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0032.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0034.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Eine neuerliche Provokation der Salinenarbeiter durch den Präsidenten Dr. Pfleger</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#vhelfert">Helfert, Veronika</rs></editor><editor><rs ref="#tgarstenauer">Garstenauer, Therese</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2766</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Wien Bibliothek</repository>
+                    <msName>Bestand: Wien Bibliothek, Tagblatt Sachmappen, TS 2599/1919, Bibliographische Angaben: Eine neuerliche Provokation der Salinenarbeiter durch den Präsidenten Dr. Pfleger, in: Tagblatt (Linz), 7.12.1919</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Zeitungsartikel</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents/></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#vhelfert #tgarstenauer">
+            <p>In der Causa der Salinenarbeiter gegen den Direktor der Finanzdirektion Linz, Dr. Pfleger, wird ein Erlass desselben abgedruckt, in denen den Betriebsräten aufgrund einer - wie der Artikel vertritt - falschen Auslegung des Gesetzes, die Ausübung ihrer Tätigkeit innerhalb der Arbeitsszeit nicht angerechnet wird. Dies wird als Provokation verstanden, Protest angekündigt, indem die Tätigkeit des Betriebsrates eingestellt wird.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-12-07" notAfter="1919-12-07">
+                
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Personalvertretung</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Betriebsrat</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Lohnforderung</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-03 04:45:21.375351+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         </listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__437"><placeName>Ebensee</placeName><location><geo decls="#LatLng">47.807160000000 13.779000000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2780547/</idno></place><place xml:id="place__490"><placeName>Linz</placeName><location><geo decls="#LatLng">48.306390000000 14.286110000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2772400/</idno></place><place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1042"><orgName>Finanzdirektion Linz</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

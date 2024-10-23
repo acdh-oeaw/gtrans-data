@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0701.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0700.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0702.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Aufhebung des Kriegsleistungsgesetzes</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2790</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>ÖStA/AdR, Bundeskanzleramt, Staatsratsprotokolle 1. Republik, Protokoll Nr. 36 - 50, 18. 11. 1918 - 29. 11. 1918; 36. Sitzung vom 18. Nov. 1918, S. 12., Karton: 2</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><p>Das Kriegsleistungsgesetz aus dem Jahre 1912, RGBl. 236/1912, wurde tatsächlich erst mit der Vollzugsanweisung vom 5. Dezember 1919, StGBl. 560/1919 außer Kraft gesetzt. Die Staatsbeamten sind ausdrücklich vom Kriegsleistungsgesetz ausgenommen, vgl. RGBl. 236/1912, § 5.</p><msItem><author ref="#org__1256">Staatsrat</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>StK Renner plädiert dafür, das Kriegsleistungsgesetz aufzuheben und Ersatz dafür zu schaffen. Es sei seiner Meinung nach die größte Notwendigkeit, die Verwaltung zusammenzuhalten und verwalten zu können.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1918-11-18" notAfter="1918-11-18">
+                18. Nov. 1918
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Verwaltung</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-22 07:34:59.691958+00:00" who="#gsteiner"/><change when="2019-10-10 07:34:25.516767+00:00" who="#gsteiner"/><change when="2019-10-03 06:00:33.139169+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__820"><persName><surname>Renner</surname><forename>Karl</forename><roleName>Dr.</roleName></persName><birth when="1870-12-14">1870-12-14<placeName key="#place__570">Unter-Tannowitz</placeName></birth><death when="1950-12-31">1950-12-31<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118599739</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         </listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         </listOrg>
+      </back>
+  </text>
+</TEI>

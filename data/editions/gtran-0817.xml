@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0817.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0816.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0818.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Reform der allgemeinen Dienstpragmatik. Bericht über die Sitzung des Komitees zur Beratung der Maßnahmen zu Gunsten der städtischen Angestellten, am 22. April 1919</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#vhelfert">Helfert, Veronika</rs></editor><editor><rs ref="#tgarstenauer">Garstenauer, Therese</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2484</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Wiener Stadt- und Landesarchiv</repository>
+                    <msName>Bestand: Wiener Stadt- und Landesarchiv, 1.5.3 Magistratsdirektion, Karton: #NR, Aktenzahl: 2621/1919 [3]</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Akt</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents/></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#vhelfert #tgarstenauer">
+            <p>Der Vorsitzende, GR Karl Angermayer berichtet von einem Memorandum des Vereines der Beamten der Stadtbuchhaltung, das bereits vom Stadtrat genehmigt worden ist. Karl Vaugoin berichtet von einem Antrag des Stadtrates zur Besserstellung von Armenärzten. In der restlichen Sitzung werden von weiteren Änderungen der Allgemeinen Dienstordnung berichtet und diese diskutiert: Uneheliche Kinder und Versorgung von Verwandten; Teuerungszulagen; Ruhestand, Heimkehrer, Lehrerschaft, Gebührennormale etc.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-04-22" notAfter="1919-04-22">
+                1919-04-22
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-09-21 10:37:46.112682+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__600"><persName><surname>Ambros</surname><forename>Karoline</forename><roleName/></persName><birth when="1857-03-30">1857-03-30</birth><death/><idno>http://d-nb.info/gnd/138150397</idno></person><person xml:id="person__602"><persName><surname>Angermayer</surname><forename>Karl</forename><roleName/></persName><birth when="1862-11-17">1862-11-17<placeName key="#place__580">Wien</placeName></birth><death when="1941-04-05">1941-04-05<placeName key="#place__580">Wien</placeName></death><idno>https://de.wikipedia.org/wiki/Karl_Angermayer</idno></person><person xml:id="person__620"><persName><surname>Breitner</surname><forename>Hugo</forename><roleName/></persName><birth when="1873-11-09">1873-11-09<placeName key="#place__580">Wien</placeName></birth><death when="1946-03-05">1946-03-05<placeName key="#place__3127">Claremont</placeName></death><idno>http://d-nb.info/gnd/119179504</idno></person><person xml:id="person__668"><persName><surname>Gratzer</surname><forename/><roleName>Mag. Sekretär Dr.</roleName></persName><birth/><death/></person><person xml:id="person__679"><persName><surname>Gsangler</surname><forename/><roleName>Rechn. Ober-Revident</roleName></persName><birth/><death/></person><person xml:id="person__682"><persName><surname>Gussenbauer</surname><forename>Adolf</forename><roleName/></persName><birth/><death/></person><person xml:id="person__689"><persName><surname>Hartl</surname><forename>Karl</forename><roleName>Mag.R. Dr.</roleName></persName><birth when="1878-01-28">1878-01-28<placeName key="#place__580">Wien</placeName></birth><death when="1941-02-21">1941-02-21<placeName key="#place__580">Wien</placeName></death></person><person xml:id="person__731"><persName><surname>Kirner</surname><forename/><roleName>Mag.Ober-Kommissär</roleName></persName><birth/><death/></person><person xml:id="person__752"><persName><surname>Lasch</surname><forename>Eduard</forename><roleName>Bau-Inspektor Dipl.-Ing.</roleName></persName><birth when="1875-05-26">1875-05-26<placeName key="#place__580">Wien</placeName></birth><death when="1942-07-28">1942-07-28<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/1111041954</idno></person><person xml:id="person__775"><persName><surname>Müller</surname><forename>Josef</forename><roleName>Ober-Magistratsrat Dr.</roleName></persName><birth when="1881-06-01">1881-06-01</birth><death when="1961-03-31">1961-03-31<placeName key="#place__580">Wien</placeName></death></person><person xml:id="person__868"><persName><surname>Spindler</surname><forename/><roleName>Veter.R.Dr.</roleName></persName><birth/><death/></person><person xml:id="person__889"><persName><surname>Untermüller</surname><forename>Karl</forename><roleName/></persName><birth/><death/></person><person xml:id="person__891"><persName><surname>Vaugoin</surname><forename>Karl</forename><roleName/></persName><birth/><death/></person><person xml:id="person__902"><persName><surname>Weigl</surname><forename>Karl</forename><roleName/></persName><birth/><death/></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         </listOrg>
+      </back>
+  </text>
+</TEI>

@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0840.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0839.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0841.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Gemeinderat. Protokoll (Stenographischer Bericht) der öffentlichen Sitzung vom 23. Juni 1920. 5 (Z.11701) Arbeitsvertrag mit den Bediensteten und Arbeitern der Straßenbahnen und Erhöhungen der Straßenbahntarife</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#vhelfert">Helfert, Veronika</rs></editor><editor><rs ref="#tgarstenauer">Garstenauer, Therese</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2961</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Wiener Stadt- und Landesarchiv</repository>
+                    <msName>Bestand: Wiener Stadt- und Landesarchiv, Archivbibliothek, BiblM - M - Amtsperiodika, Verwaltungsberichte, Adressbücher, Signatur: M 599 1920/3 , Punkt/Seite: 5; 68-89 (der Teil über den Arbeitsvertrag)</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>ins Amtsblatt eingebundenes Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents/></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#vhelfert #tgarstenauer">
+            <p>5. (Z. 11701) Debatte über  Arbeitsvertrag mit den Bediensteten und Arbeitern der Straßenbahnen und Erhöhungen der Straßenbahntarife, Referent VB Emmerling. Lange Debatten über Zustandekommen des Vertrags (Ausschluss der christlichsozialen Gewerkschafter) und seine Inhalte (Achtstundentag, Überstunden, Zehrgeld, Mutterschutz...)</p>
+        </abstract>
+        <creation>
+            <date notBefore="1920-06-23" notAfter="1920-06-23">
+                
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Gewerkschaft</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Koalitionsfreiheit</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-09 08:27:29.540462+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__601"><persName><surname>Angeli</surname><forename>Hans</forename><roleName/></persName><birth when="1859-09-03">1859-09-03<placeName key="#place__3111">St. Jakob bei Bozen</placeName></birth><death when="1925-06-01">1925-06-01<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/104176913X</idno></person><person xml:id="person__643"><persName><surname>Emmerling</surname><forename>Georg</forename><roleName/></persName><birth when="1870-07-12">1870-07-12<placeName key="#place__580">Wien</placeName></birth><death when="1948-12-12">1948-12-12<placeName key="#place__580">Wien</placeName></death><idno>https://de.wikipedia.org/wiki/Georg_Emmerling</idno></person><person xml:id="person__678"><persName><surname>Grünwald</surname><forename>Julius</forename><roleName/></persName><birth when="1869-02-25">1869-02-25<placeName key="#place__3153">Čáry</placeName></birth><death when="1945-10-07">1945-10-07<placeName key="#place__3154">London</placeName></death><idno>https://de.wikipedia.org/wiki/Julius_Gr%C3%BCnwald</idno></person><person xml:id="person__862"><persName><surname>Skaret</surname><forename>Ferdinand</forename><roleName/></persName><birth/><death/></person><person xml:id="person__897"><persName><surname>Waldsam</surname><forename>Hans</forename><roleName/></persName><birth><placeName key="#place__426">Dellach</placeName></birth><death/></person><person xml:id="person__899"><persName><surname>Walter</surname><forename>Gabriele</forename><roleName/></persName><birth><placeName key="#place__426">Dellach</placeName></birth><death/></person><person xml:id="person__902"><persName><surname>Weigl</surname><forename>Karl</forename><roleName/></persName><birth/><death/></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1277"><orgName>Straßenbahnen (städtische)</orgName></org><org xml:id="org__1301"><orgName>Verband der Handels-, Transport- und Verkehrsarbeiter und -Arbeiterinnen Österreichs</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

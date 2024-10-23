@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0267.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0266.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0268.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Witwe nach einem Ministerialrat des ehemaligen Finanzministeriums italienischer Nationalität, im Aktivstand gestorben am 3. November 1918 bittet um Zuerkennung der Versorgungsgenüssen.</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2533</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>Bestand: Staatskanzlei - BKA/alt Varia 1919  Zwischenstaatliches Komitee; Verhandlungsschriften Nr. 1 - 25 zu den Sitzungen des zwischenstaatsamtlichen Komitees für Staatsbedienstetenangelegenheiten, Nr: 01., Unterpunkt: 09., Seite: 5</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__3257">Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>Witwe nach einem Ministerialrat des ehemaligen Finanzministeriums italienischer Nationalität, im Aktivstand gestorben am 3. November 1918 bittet um Zuerkennung der Versorgungsgenüsse (Sterbequartal, Witwenpension und Erziehungsbeitrag für ihre minderjährige Tochter). ANTWORT DER KOMMISSION: Beihilfe pro Dezember 1918 im Ausmaße der entfallenden Witwenversorgungsgenüsse einschließlich der Teuerungsaushilfen pro Dezember 1918 und des Sterbequartals (und zwar vorschussweise gegen seinerzeitige Abrechnung vorbehaltlich der endgültigen zwischenstaatlichen Regelung).</p>
+        </abstract>
+        <creation>
+            <date notBefore="1918-12-09" notAfter="1918-12-09">
+                9. Dezember 1918
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">zwischenstaatliche Vereinbarung</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Pensionierung</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-26 13:04:39.435277+00:00" who="#pbecker"/><change when="2019-10-18 06:52:04.138238+00:00" who="#gsteiner"/><change when="2019-09-21 16:48:29.085854+00:00" who="#pbecker"/><change when="2019-02-26 16:13:05.774881+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         </listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         </listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1097"><orgName>k.k. Finanzministerium</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

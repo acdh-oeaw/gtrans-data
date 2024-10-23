@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0286.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0285.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0287.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Großdeutsche Volkspartei als Beamtenpartei [Tit.fik.]</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#kmegner">Megner, Karl</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/3333</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichische Nationalbibliothek</repository>
+                    <msName/>
+               <idno>https://books.google.at/books?id=qMnvtAEACAAJ&amp;dq=h%C3%B6belt+Republik&amp;hl=de&amp;sa=X&amp;ved=0ahUKEwjwsf_Kn_7cAhVpx4sKHZZeDcwQ6AEILDAB; https://www.wissen.de/lexikon/grossdeutsche-volkspartei;http://www.erinnerungsort.at/thema8/GDVP.htm</idno></msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Wissenschaftliche Literatur</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><p>Hier S. 97-100; 170-175: Höbelt, Lothar: Die Erste Republik Österreich (1918-1938). Das Provisorium  (= Schriftenreihe des Forschungsinstitutes für Politisch-Historische Studien der Dr.-Wilfried-Haslauer-Bibliothek 64 Wien usw. 2018).</p><msItem><author ref="#person__3317"> Lothar Höbelt</author></msItem><msItem><author ref="#org__3325">Forschungsinstitut für Politisch-Historische Studien der Dr.-Wilfried-Haslauer-Bibliothek Salzburg</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#kmegner">
+            <p>Nach den Wahlen zur Konstituierenden Nationalversammlung 1919 schlossen sich aus verschiedenen Gruppen stammende deutschnationale und deutschliberale Abgeordnete zur Großdeutschen Vereinigung zusammen (führend u.a.: Franz Dinghofer). Die Großdeutsche Volkspartei (GDVP oder GdP) war eine politische Partei in Österreich. Sie entstand am 8. August 1920 in Salzburg aus der Großdeutschen Vereinigung. Zu den Mitgliedern zählten viele hohe Beamte und Lehrer höherer Schulen. "In Wien waren die Großdeutschen fast ausschließlich eine Partei der Beamten." Die Großdeutsche Volkspartei strebte den Anschluss an Deutschland (Weimarer Republik) an, lehnte Materialismus und Klerikalismus ab und war weitgehend antisemitisch. Dennoch prallten im großdeutschen Klub des Parlaments oft die Meinungen von Konsumenten- und Wirtschaftsflügel aufeinander – die Anhänger- und Mitgliederstruktur der Partei war eben inhomogen. 1921–32 war die Großdeutsche Volkspartei Regierungspartei, stellte 1922–27 den Vizekanzler (Dinghofer, Schürff, Waber, Straffner). Hermann Kandl war Obmann der Partei. 
+Die Großdeutsche Volkspartei  brachte viele ihrer beamteten Parteigänger dazu, die rigide internationale Finanzkontrolle (Völkerbund - Zimmermann) und deren Folgen zu akzeptieren, „die bittere Pille“ zu schlucken. Damit platzte zunächst die Koalitionsregierung mit den Christlichsozialen nicht. Unter den Beamten gab es „Sanierungsopfer“, die dann v.a. 1923 nicht mehr die Großdeutsche Volkspartei wählten. Sie erreichte nur mehr 8% der Stimmen (und zehn Mandate). Auch ist hier die politische Anziehungskraft von Seipel zu erwähnen, in gewisser Weise sein Charisma.    
+Nach 1927 traten viele Anhänger zur Heimwehr, nach 1930 immer mehr Mitglieder zu den Nationalsozialisten über. 1933 schloss die Großdeutsche Volkspartei mit den Nationalsozialisten eine Kampfgemeinschaft. Nach der Auflösung des Parlaments 1934 wurde die Partei unter dem Dollfuß-Regime verboten. Nun trat ein Teil ihrer Anhänger zu den ebenfalls illegalen Nationalsozialisten über. Nach 1945 vereinigten sich frühere Anhänger der Großdeutschen Volkspartei mit anderen Gruppen im Verband der Unabhängigen (VdU), später in der Freiheitlichen Partei Österreichs (FPÖ).</p>
+        </abstract>
+        <creation>
+            <date notBefore="1918-01-01" notAfter="1918-01-01">
+                
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Politische Parteien</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Großdeutsche Volkspartei</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-10 20:00:46.051655+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__635"><persName><surname>Dinghofer</surname><forename>Franz</forename><roleName>Dr.</roleName></persName><birth when="1873-04-06">1873-04-06<placeName key="#place__517">Ottensheim</placeName></birth><death when="1956-01-12">1956-01-12<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118902830</idno></person><person xml:id="person__3337"><persName><surname>Kandl</surname><forename>Hermann</forename><roleName/></persName><birth/><death/><idno>http://d-nb.info/gnd/126365792</idno></person><person xml:id="person__3335"><persName><surname>Schürff</surname><forename>Hans</forename><roleName/></persName><birth/><death/><idno>https://de.wikipedia.org/wiki/Hans_Sch%C3%BCrff</idno></person><person xml:id="person__3336"><persName><surname>Straffner</surname><forename>Sepp</forename><roleName/></persName><birth/><death/><idno>https://de.wikipedia.org/wiki/Sepp_Straffner; https://www.parlament.gv.at/WWER/PAD_01908/index.shtml</idno></person><person xml:id="person__3334"><persName><surname>Waber</surname><forename>Leopold</forename><roleName>Dr.</roleName></persName><birth/><death/><idno>https://de.wikipedia.org/wiki/Leopold_Waber http://d-nb.info/gnd/130170429</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         </listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         </listOrg>
+      </back>
+  </text>
+</TEI>

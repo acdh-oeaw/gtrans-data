@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0832.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0831.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0833.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Pensionierungen, Anfragen des GR Rummelhardt</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#vhelfert">Helfert, Veronika</rs></editor><editor><rs ref="#tgarstenauer">Garstenauer, Therese</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2466</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Wiener Stadt- und Landesarchiv</repository>
+                    <msName>Bestand: Wiener Stadt- und Landesarchiv, 1.5.3 Magistratsdirektion, Karton: #NR, Aktenzahl: 1691/1919</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Akt</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><p>Rausfinden: Vorstand des Präsidialbüros</p></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#vhelfert #tgarstenauer">
+            <p>Anfrage von GR Karl Rummelhardt an den Bürgermeister bzgl. der Pensionierung von Lehrern mit einer Dienstzeit von mehr als 35 bzw. 30 Jahren unter Erhalt von Zulagen, bezugnehmend auf einen Antrag von ihm und anderen am 22. November 1918. Der Antrag wurde genehmigt und ein Bericht über die Maßnahmen mit Anfang des Jahres 1919 hätte ergehen sollen. Es gab aber von Seiten des Magistrats budgetäre Bedenken, weswegen die Anträge nicht durchgeführt wurden. Magistratsdirektor Pawelka verweist die Anfrage zur Behandlung an das Komitee zur Beratung von Maßnahmen zu Gunsten der Angestellten. Beilagen: Antrag Rummelhardt im GR, Notiz über telefonische Auskunft von Oberlandesrat Hirtmayer über die Pensionierung von Lehrern (datiert auf 20.12.1918), handschriftliche Notiz zur Anfrage Rummelhardt (ohne Name, ohne Datum); sowie ein Schreiben an den Bürgermeister (gez. Josef Nowak, o.D.), in der gegen die "Zwangspensionierung" von Lehrern argumentiert wird.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-02-28" notAfter="1919-02-28">
+                1918-11-22
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Pensionierung</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-25 08:13:41.854598+00:00" who="#pbecker"/><change when="2019-09-21 05:53:50.192182+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__793"><persName><surname>Pawelka</surname><forename>Karl </forename><roleName>Obermag.R.</roleName></persName><birth><placeName key="#place__440">Eibiswald</placeName></birth><death/></person><person xml:id="person__831"><persName><surname>Rummelhardt</surname><forename>Karl</forename><roleName/></persName><birth/><death/></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1113"><orgName>Komitee zur Beratung über Maßnahmen zu Gunsten der städtischen Angestellten</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

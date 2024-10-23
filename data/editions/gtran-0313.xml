@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0313.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0312.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0314.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Gemeinderat als Landtag. Beschlußprotokoll der öffentlichen Sitzung vom 26. November 1920. 3</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#vhelfert">Helfert, Veronika</rs></editor><editor><rs ref="#tgarstenauer">Garstenauer, Therese</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2986</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Wiener Stadt- und Landesarchiv</repository>
+                    <msName>Bestand: Wiener Stadt- und Landesarchiv, Archivbibliothek, BiblM - M - Amtsperiodika, Verwaltungsberichte, Adressbücher, Signatur: M 599 1920/4, Punkt/Seite: 3; 2465f.</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Amtsblatteintrag</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents/></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#vhelfert #tgarstenauer">
+            <p>Gemeinderat als Landtag 3. (P.Z. 16559), Anmerkungen zur Geschäftsordnung des Landtages.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1920-11-26" notAfter="1920-11-26">
+                
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-10-09 12:38:36.357985+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__631"><persName><surname>Danneberg</surname><forename>Robert</forename><roleName>Dr.</roleName></persName><birth when="1885-07-23">1885-07-23<placeName key="#place__580">Wien</placeName></birth><death when="1942-01-01">1942-01-01<placeName key="#place__3132">Auschwitz (KZ)</placeName></death><idno>http://d-nb.info/gnd/118523643</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__509"><placeName>Niederösterreich</placeName><location><geo decls="#LatLng">48.333330000000 15.750000000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2770542/</idno></place><place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         </listOrg>
+      </back>
+  </text>
+</TEI>

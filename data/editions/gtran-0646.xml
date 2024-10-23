@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0646.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0645.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0647.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Beamter des Postamtes Triest (Trieste) geriet am 4. November 1918 in ital. Kriegsgefangenschaft. Seine Gattin bezieht seit Oktober 1918 keine Gebühren</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2693</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>Bestand: Staatskanzlei - BKA/alt Varia 1919  Zwischenstaatliches Komitee; Verhandlungsschriften Nr. 26 - 50 zu den Sitzungen des zwischenstaatsamtlichen Komitees für Staatsbedienstetenangelegenheiten, Nr: 45., Unterpunkt: 05., Seite: 69f</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__3257">Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>Beamter des Postamtes Triest (Trieste) geriet am 4. November 1918 in ital. Kriegsgefangenschaft. Seine Gattin bezieht seit Oktober 1918 keine Gebühren und bittet, da sie sich mit ihren zwei Kindern in einer Notlage befindet um Auszahlung der Zivilbezüge ihres Gatten. StA für Gewerbe, Industrie und Handel bemerkt, dass eine rechtliche Verpflichtung zur Zahlungsleistung für den deutschösterr. Staat, solange die Frage des Dienstverhältnisses des Genannten nicht geklärt ist, wohl nicht gegeben sei. Es wäre aber zweifellos auch nicht gerechtfertigt, der Familie eines Beamten deutscher Volkszugehörigkeit, dem nur infolge seiner Kriegsgefangenschaft jede Möglichkeit genommen ist, die eigenen und die Rechte seiner Familie zu wahren, ohne weiteres die aus dem früheren Dienstverhältnis gebührende Unterstützung zu untersagen. Das StA beabsichtigt daher, der Gattin des Genannten eine Beihilfe im Ausmaß der zuletzt im Oktober 1918 bezogenen Zivilgenüsse vorschussweise gegen Abrechnung rückwirkend vom 1. November 1918 angefangen flüssig zu machen. ANTWORT DER KOMMISSION: Die Frage, wie kriegsgefangene Staatsbedienstete dienstrechtlich zu behandeln sind, ist in den Richtlinien nicht ausdrücklich vorgesehen. Den Ausführungen und dem Entwurf des StA ist im vorliegenden Fall beizupflichten. Im Übrigen nimmt das zwischenstaatsamtliche Komitee auf seine Anregung vom 3. Februar 1919 (Verhandlungsschrift Nr. 21, Punkt 2) Bezug.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-05-02" notAfter="1919-05-02">
+                2. Mai 1919
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-10-27 09:11:30.025290+00:00" who="#pbecker"/><change when="2019-10-02 12:01:43.670283+00:00" who="#pbecker"/><change when="2019-03-20 14:41:22.586818+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         </listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__473"><placeName>Klagenfurt</placeName><location><geo decls="#LatLng">46.624720000000 14.305280000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2774326/</idno></place><place xml:id="place__564"><placeName>Triest</placeName><location><geo decls="#LatLng">45.649530000000 13.776780000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3165185/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1187"><orgName>Postamt Triest (Trieste)</orgName></org><org xml:id="org__1224"><orgName>Staatsamt des Äußern</orgName></org><org xml:id="org__1226"><orgName>Staatsamt für Gewerbe, Industrie und Handel</orgName></org><org xml:id="org__3257"><orgName>Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</orgName></org><org xml:id="org__3301"><orgName>Deutschösterreichischer Staat</orgName></org><org xml:id="org__3816"><orgName>Postdirektion Klagenfurt</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

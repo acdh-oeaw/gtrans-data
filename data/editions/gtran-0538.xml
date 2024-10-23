@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0538.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0537.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0539.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Gemeinderat. Stenographischer Bericht über die Sitzung vom 6. März 1919. 24 Gemeindeverfassung</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#vhelfert">Helfert, Veronika</rs></editor><editor><rs ref="#tgarstenauer">Garstenauer, Therese</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/3011</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Wiener Stadt- und Landesarchiv</repository>
+                    <msName>Bestand: Wiener Stadt- und Landesarchiv, Archivbibliothek, BiblM - M - Amtsperiodika, Verwaltungsberichte, Adressbücher, Signatur: M 599 28/1 1. Ex., Punkt/Seite: 24; 635-668</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Amtsblatteintrag</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents/></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#vhelfert #tgarstenauer">
+            <p>24. Berichterstatter GR Dr. Kienböck GR Robert Danneberg zur neuen Gemeindeverfassung und Gemeinderatswahl [S. 635 – 645.] Dann Debatte zum Punkt [S. 645 - 667] beinhaltet zB auch die Ersetzung des Stadtrates durch einen Senat etc., und Debatten über den „deutschen Charakter“ der Stadt Wien (Antisemitismus und antitschechische Ressentiments). Abstimmung 667f. Beschluss einer neuen Gemeindewahlordnung und der Durchführung der gemeinsamen Wahlen der GR, Bezirksvertretungen und Landesversammlung.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-03-06" notAfter="1919-03-06">
+                
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Gemeindewahlrecht</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Jude</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Selbstbestimmungsrecht</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-09 16:20:49.813442+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__623"><persName><surname>Broczyner</surname><forename>Alfred</forename><roleName/></persName><birth when="1878-04-20">1878-04-20<placeName key="#place__580">Wien</placeName></birth><death when="1945-01-01">1945-01-01</death></person><person xml:id="person__631"><persName><surname>Danneberg</surname><forename>Robert</forename><roleName>Dr.</roleName></persName><birth when="1885-07-23">1885-07-23<placeName key="#place__580">Wien</placeName></birth><death when="1942-01-01">1942-01-01<placeName key="#place__3132">Auschwitz (KZ)</placeName></death><idno>http://d-nb.info/gnd/118523643</idno></person><person xml:id="person__643"><persName><surname>Emmerling</surname><forename>Georg</forename><roleName/></persName><birth when="1870-07-12">1870-07-12<placeName key="#place__580">Wien</placeName></birth><death when="1948-12-12">1948-12-12<placeName key="#place__580">Wien</placeName></death><idno>https://de.wikipedia.org/wiki/Georg_Emmerling</idno></person><person xml:id="person__652"><persName><surname>Forstner</surname><forename>August</forename><roleName/></persName><birth when="1876-07-29">1876-07-29<placeName key="#place__580">Wien</placeName></birth><death when="1941-02-14">1941-02-14<placeName key="#place__3118">Wolfpassing bei Zeiselmauer</placeName></death><idno>http://d-nb.info/gnd/14403347X</idno></person><person xml:id="person__685"><persName><surname>Haider</surname><forename>Franz</forename><roleName/></persName><birth when="1877-05-15">1877-05-15<placeName key="#place__3162">Friedburg</placeName></birth><death when="1951-10-20">1951-10-20<placeName key="#place__580">Wien</placeName></death><idno>https://de.wikipedia.org/wiki/Franz_Haider_(Politiker,_1877)</idno></person><person xml:id="person__692"><persName><surname>Hein</surname><forename>Oskar</forename><roleName>Dr.</roleName></persName><birth/><death/></person><person xml:id="person__703"><persName><surname>Hödl</surname><forename>Josef</forename><roleName/></persName><birth/><death/></person><person xml:id="person__728"><persName><surname>Kienböck</surname><forename>Viktor</forename><roleName>Dr.</roleName></persName><birth when="1873-01-18">1873-01-18<placeName key="#place__580">Wien</placeName></birth><death when="1956-11-23">1956-11-23<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/129085804</idno></person><person xml:id="person__775"><persName><surname>Müller</surname><forename>Josef</forename><roleName>Ober-Magistratsrat Dr.</roleName></persName><birth when="1881-06-01">1881-06-01</birth><death when="1961-03-31">1961-03-31<placeName key="#place__580">Wien</placeName></death></person><person xml:id="person__821"><persName><surname>Reumann</surname><forename>Jakob</forename><roleName/></persName><birth/><death/></person><person xml:id="person__836"><persName><surname>Schmid</surname><forename>Heinrich</forename><roleName>Ing.</roleName></persName><birth/><death/></person><person xml:id="person__844"><persName><surname>Schreier</surname><forename/><roleName/></persName><birth/><death/></person><person xml:id="person__850"><persName><surname>Schwarz-Hiller</surname><forename>Rudolf</forename><roleName>Dr.</roleName></persName><birth/><death/></person><person xml:id="person__851"><persName><surname>Schwer</surname><forename>Hans Arnold</forename><roleName/></persName><birth/><death/></person><person xml:id="person__852"><persName><surname>Sedlak</surname><forename>Karl</forename><roleName/></persName><birth/><death/></person><person xml:id="person__871"><persName><surname>Stein</surname><forename>Josef </forename><roleName/></persName><birth/><death/></person><person xml:id="person__903"><persName><surname>Weiskirchner</surname><forename>Richard</forename><roleName>DDr.</roleName></persName><birth when="1861-03-24">1861-03-24<placeName key="#place__580">Wien</placeName></birth><death when="1926-04-30">1926-04-30<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/117278602</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1056"><orgName>Gemeinderat (Wien)</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

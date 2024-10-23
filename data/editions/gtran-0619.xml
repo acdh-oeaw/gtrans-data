@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0619.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0618.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0620.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Die Pragmatisierung der Kanzleigehilfen, Aushilfsdiener und Landpostdiener</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/3645</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Beamten-Zeitung. Zeitschrift des Ersten allgemeinen Beamten-Vereines. Organ für die Gesamtinteressen der Beamten aller Klassen, Erster allgemeiner Beamten-Verein (Hg.), Wien, 50. Jahrgang 1919</repository>
+                    <msName>Beamten-Zeitung, 15. 3. 1919, 39.</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Zeitungsartikel</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__3496">Erster allgemeiner Beamten-Verein</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>Darstellung der Vollzugsanweisung des Staatsrates vom 26. Februar 1919, StGBl. 148/1919 betreffend die auf Grund der §§ 6 und 8 des Gesetzes vom 5. Februar 1919, StGBl. 100 [Pragmatisierungsgesetz] erfolgte teilweise Änderung des Dienstverhältnisses der Kanzleioffizianten, Kanzleioffiziantinnen, ständigen Aushilfsdiener und Landpostdiener nach einem Bericht der "Wiener Zeitung" vom 28. Februar 1919.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-03-15" notAfter="1919-03-15">
+                15. März 1919
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-10-12 10:24:33.216632+00:00" who="#pbecker"/><change when="2019-01-25 14:37:50.709065+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         </listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         </listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1256"><orgName>Staatsrat</orgName></org><org xml:id="org__3507"><orgName>Wiener Zeitung</orgName></org><org xml:id="org__3644"><orgName>Post- und Telegraphenanstalt</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

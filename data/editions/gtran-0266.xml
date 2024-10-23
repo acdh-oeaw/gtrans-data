@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0266.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0265.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0267.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ausschuß für Personalangelegenheiten und Verwaltungsreform. Bericht über die Sitzung vom 16. Juni 1920</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#vhelfert">Helfert, Veronika</rs></editor><editor><rs ref="#tgarstenauer">Garstenauer, Therese</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2960</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Wiener Stadt- und Landesarchiv</repository>
+                    <msName>Bestand: Wiener Stadt- und Landesarchiv, Archivbibliothek, BiblM - M - Amtsperiodika, Verwaltungsberichte, Adressbücher, Signatur: M 599 29/1 1. Ex., Punkt/Seite: o.P.; 1683</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Amtsblatteintrag</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents/></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#vhelfert #tgarstenauer">
+            <p>(Aussch., Z.170, M.D.3918) Die Anträge, betreffend die Zuschüsse zur gleitenden Zulage für die städtischen Angestellten im Ruhestande sowie für die versorgungsberechtigten Hinterbliebenen nach städtischen Angestellten, werden genehmigt. Gehen an den StS. und den GR.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1920-06-16" notAfter="1920-06-16">
+                
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Ruhestand</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-09 08:21:09.132939+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__867"><persName><surname>Speiser</surname><forename>Paul</forename><roleName/></persName><birth/><death/></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1056"><orgName>Gemeinderat (Wien)</orgName></org><org xml:id="org__1266"><orgName>Stadtsenat</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

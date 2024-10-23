@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0598.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0597.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0599.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Angelobung von Beamten in Ostböhmen für Deutschösterreich</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/3449</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Gertrude Enderle-Burcel et al. (Hg.), Der österreichische Staatsrat. Protokolle des Vollzugsausschusses, des Staatsrates und des Geschäftsführenden Staatsratsdirektoriums 21. Oktober 1918 bis 14. Marz 1919, Band 1: 21. Oktober 1918 bis 14. November 1918, Wien 2008</repository>
+                    <msName>StRProt Nr. 32 vom 13. November 1918, in: Enderle-Burcel et al. (Hg.), Der österreichische Staatsrat, 405f.</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__1256">Staatsrat</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>StR Wolf berichtet, dass in Ostböhmen die Beamten sich nicht mehr getrauen, im Namen Deutschösterreichs zu amtieren, da die tschechischen Behörden die Macht ergreifen. Er stellt den Antrag, Herrn Karl Ansorge [gemeint wahrscheinlich: August Ansorge, siehe FN 30 auf der Seite 405 der als Signatur ausgewiesenen Publikation] im Namen des deutschösterreichischen Staates die Beamten in Ostböhmen anzugeloben und sie im Falle der Verweigerung des Gelöbnisses abzusetzen. Dies lehnt Präsident Dinghofer ab, da die Beteilung einzelner Personen mit Regierungsvollmachten einen Eingriff in die Kompetenzen der Landesregierungen in Reichenberg (Liberec) und Troppau (Opava) bedeuten würde, woraufhin Wolf seinen Antrag zurückzieht.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1918-11-13" notAfter="1918-11-13">
+                1918-11-13
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">tschechoslowak. Staatsdienst</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-25 10:21:42.991007+00:00" who="#pbecker"/><change when="2019-10-18 11:48:59.824721+00:00" who="#gsteiner"/><change when="2019-10-18 11:03:17.983023+00:00" who="#gsteiner"/><change when="2019-10-11 09:04:18.900019+00:00" who="#pbecker"/><change when="2019-01-07 09:10:21.577098+00:00" who="#gsteiner"/><change when="2019-01-07 08:50:03.456447+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__3451"><persName><surname>Ansorge</surname><forename>August</forename><roleName/></persName><birth when="1851-11-23">1851-11-23<placeName key="#place__3450">Hermsdorf bei Braunau/Böhmen</placeName></birth><death when="1932-04-02">1932-04-02<placeName key="#place__3450">Hermsdorf bei Braunau/Böhmen</placeName></death><idno>https://de.wikipedia.org/wiki/August_Ansorge</idno></person><person xml:id="person__635"><persName><surname>Dinghofer</surname><forename>Franz</forename><roleName>Dr.</roleName></persName><birth when="1873-04-06">1873-04-06<placeName key="#place__517">Ottensheim</placeName></birth><death when="1956-01-12">1956-01-12<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118902830</idno></person><person xml:id="person__916"><persName><surname>Wolf</surname><forename>Karl Hermann</forename><roleName>Dr.</roleName></persName><birth when="1862-01-27">1862-01-27<placeName key="#place__438">Eger</placeName></birth><death when="1941-06-11">1941-06-11<placeName key="#place__580">Wien</placeName></death><idno>https://d-nb.info/gnd/1013678079</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__427"><placeName>Deutschböhmen</placeName><idno type="GEONAMES"/></place><place xml:id="place__527"><placeName>Reichenberg</placeName><location><geo decls="#LatLng">50.767110000000 15.056190000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3071961/</idno></place><place xml:id="place__565"><placeName>Troppau</placeName><location><geo decls="#LatLng">49.938660000000 17.902570000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3068927/</idno></place><place xml:id="place__568"><placeName>umstrittenes Gebiet</placeName><idno type="GEONAMES"/></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1256"><orgName>Staatsrat</orgName></org><org xml:id="org__3280"><orgName>Landesregierung Deutschböhmen</orgName></org><org xml:id="org__3452"><orgName>Landesregierung Sudetenland</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

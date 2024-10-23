@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0562.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0561.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0563.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Enquete über die Schaffung einer Staatsangestelltenkammer</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/3559</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Beamten-Zeitung. Zeitschrift des Ersten allgemeinen Beamten-Vereines. Organ für die Gesamtinteressen der Beamten aller Klassen, Erster allgemeiner Beamten-Verein (Hg.), Wien, 50. Jahrgang 1919</repository>
+                    <msName>Beamten-Zeitung, 31. 1. 1919, 11f.</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Zeitungsartikel</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__3496">Erster allgemeiner Beamten-Verein</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>Bericht über die Enquete zur Beratung über die Errichtung einer Staatsangestelltenkammer vom 17. und 18. Jänner 1919. Im Sinne der neuen demokratischen Zeit wolle die Regierung die Meinung der Staatsangestelltenorganisationen hören. Von Otto Greger vom Verband der Ingenieure im Staatsamt für öffentliche Arbeiten kam der Vorwurf, es läge schon längst ein Gesetzesentwurf vor und die Regierung wolle die Rückversicherung der Staatsangestelltenorganisationen zum Beamtenabbau. Dies wurde von Unterstaatssekretär Otto Glöckel entschieden verneint. Unterstaatssekretär Leopold Waber ergänzte, die Organisationen können auch schriftliche Gutachten und eigene Entwürfe vorlegen. Es wurde beschlossen, die Beratungen fortzusetzen</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-01-31" notAfter="1919-01-31">
+                31. Jänner 1919
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Mitbestimmung</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Staatsangestelltenkammer</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Staatsbedienstetenorganisationen</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Demokratisierung</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Verwaltung</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-24 12:13:42.769067+00:00" who="#pbecker"/><change when="2019-10-11 10:15:22.669128+00:00" who="#pbecker"/><change when="2019-02-21 13:08:57.701588+00:00" who="#gsteiner"/><change when="2019-01-16 12:40:27.798651+00:00" who="#gsteiner"/><change when="2019-01-16 11:47:16.576202+00:00" who="#gsteiner"/><change when="2019-01-16 11:43:44.550972+00:00" who="#gsteiner"/><change when="2019-01-16 10:21:17.301843+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__609"><persName><surname>Beck von Managetta</surname><forename>Eugen</forename><roleName>Dr.</roleName></persName><birth when="1861-06-15">1861-06-15<placeName key="#place__524">Preßburg</placeName></birth><death when="1943-11-07">1943-11-07<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/137693036; https://www.deutsche-biographie.de/pnd137693036.html</idno></person><person xml:id="person__637"><persName><surname>Doppler</surname><forename>Leopold</forename><roleName/></persName><birth when="1870-10-29">1870-10-29<placeName key="#place__580">Wien</placeName></birth><death when="1945-03-13">1945-03-13<placeName key="#place__580">Wien</placeName></death><idno>https://de.wikipedia.org/wiki/Leopold_Doppler</idno></person><person xml:id="person__3569"><persName><surname>Freund</surname><forename>Selma</forename><roleName/></persName><birth/><death/></person><person xml:id="person__664"><persName><surname>Glöckel</surname><forename>Otto</forename><roleName/></persName><birth when="1874-02-08">1874-02-08<placeName key="#place__522">Pottendorf</placeName></birth><death when="1935-07-23">1935-07-23<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118695452</idno></person><person xml:id="person__3561"><persName><surname>Greger</surname><forename>Otto</forename><roleName>Dr.</roleName></persName><birth/><death/></person><person xml:id="person__3563"><persName><surname>Hauenstein</surname><forename/><roleName/></persName><birth/><death/></person><person xml:id="person__3321"><persName><surname>Lutz</surname><forename>Otto</forename><roleName/></persName><birth/><death/><idno>https://de.wikipedia.org/wiki/Otto_Lutz_(Politiker); https://www.parlament.gv.at/WWER/PAD_00972/index.shtml</idno></person><person xml:id="person__3568"><persName><surname>Minich</surname><forename/><roleName/></persName><birth/><death/></person><person xml:id="person__3566"><persName><surname>Pogatschnigg</surname><forename/><roleName/></persName><birth/><death/></person><person xml:id="person__3562"><persName><surname>Pramesberger</surname><forename/><roleName/></persName><birth/><death/></person><person xml:id="person__3567"><persName><surname>Rauch</surname><forename/><roleName/></persName><birth/><death/></person><person xml:id="person__3564"><persName><surname>Schidl</surname><forename>Viktor</forename><roleName/></persName><birth/><death/></person><person xml:id="person__3334"><persName><surname>Waber</surname><forename>Leopold</forename><roleName>Dr.</roleName></persName><birth/><death/><idno>https://de.wikipedia.org/wiki/Leopold_Waber http://d-nb.info/gnd/130170429</idno></person><person xml:id="person__3565"><persName><surname>Wolkan</surname><forename/><roleName/></persName><birth/><death/></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         </listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1007"><orgName>deutschösterr. Regierung</orgName></org><org xml:id="org__1105"><orgName>Kabinettsrat</orgName></org><org xml:id="org__1242"><orgName>Staatsangestelltenkammer</orgName></org><org xml:id="org__3257"><orgName>Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</orgName></org><org xml:id="org__3301"><orgName>Deutschösterreichischer Staat</orgName></org><org xml:id="org__3424"><orgName>Abgeordnetenhaus des Reichsrats</orgName></org><org xml:id="org__3560"><orgName>Verband der Ingenieure im Staatsamt für öffentliche Arbeiten</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

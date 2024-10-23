@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0299.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0298.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0300.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Frage der Herstellung einer Gleichmäßigkeit bei den Beförderungen in den einzelnen Staatsämtern</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/3790</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>ÖStA/AdR, Bundeskanzleramt, Kabinettsratsprotokolle 1. Republik, Protokoll Nr. 36 bis 55, 31. 1. 1919 bis 28. 3. 1919, Kabinettsratsprotokoll Nr. 49 vom 8. März 1919, 2ff.</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__1105">Kabinettsrat</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>Es wird die Frage diskutiert, auf welche Weise eine Gleichmäßigkeit bei den Beförderungen der akademisch vorgebildeten Beamten in den einzelnen Staatsämtern erreicht werden könnte, um den vielfach zutage getretenen vergleichsweisen Unbilligkeiten vorzubeugen. Die Debatte ergibt, dass durch eine Zusammenlegung der einzelnen Personalstände aller Zentralstellen in einem gemeinsamen Status die gerügten Übelstände voraussichtlich beseitigt werden könnten. Der Kabinettsrat setzt dazu ein aus dem Staatssekretär des Innern und den UStS Grimm und Enderes gebildetes Komitee ein, das dem Kabinettsrat Vorschläge zu unterbreiten hat.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-03-08" notAfter="1919-03-08">
+                8. März 1919
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Beförderung</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-12 22:58:25.673934+00:00" who="#pbecker"/><change when="2019-02-12 13:11:37.932386+00:00" who="#gsteiner"/><change when="2019-02-12 13:11:03.972294+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__644"><persName><surname>Enderes</surname><forename>Bruno</forename><roleName>Ing.</roleName></persName><birth when="1871-02-19">1871-02-19<placeName key="#place__580">Wien</placeName></birth><death when="1934-10-17">1934-10-17<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/117500348</idno></person><person xml:id="person__670"><persName><surname>Grimm</surname><forename>Ferdinand</forename><roleName>Dr.</roleName></persName><birth when="1869-02-15">1869-02-15<placeName key="#place__580">Wien</placeName></birth><death when="1948-11-08">1948-11-08<placeName key="#place__401">Bad Kreuzen</placeName></death><idno>http://d-nb.info/gnd/1011184664</idno></person><person xml:id="person__764"><persName><surname>Mataja</surname><forename>Heinrich</forename><roleName>Dr.</roleName></persName><birth when="1877-03-14">1877-03-14<placeName key="#place__580">Wien</placeName></birth><death when="1937-01-23">1937-01-23<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/137937598</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         </listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1105"><orgName>Kabinettsrat</orgName></org><org xml:id="org__1253"><orgName>Staatskanzlei</orgName></org><org xml:id="org__3761"><orgName>k.k. Zentralstellen</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

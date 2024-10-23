@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0564.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0563.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0565.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Übernahme der staatlichen Bergdirektion in Brüx (Most)</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2846</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>Bestand: ÖStA/AdR, Bundeskanzleramt, Staatsratsprotokolle 1. Republik, Protokoll Nr. 51 - 65, 30. 11. 1918 - 13. 1. 1919, 52. Sitzung vom 2. Dezember 1918, S. 17., Karton: 3</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__1256">Staatsrat</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>Es wird berichtet, dass die Stadt Brüx (Most) durch tschechoslowakisches Militär eingenommen wurde und die tschechoslowakische Regierung verlangte, dass die staatliche Bergdirektion in Brüx (Most) die Geschäfte für den tschechoslowakischen Staat weiterführe, was unter Protest bis zur Klärung der endgültigen Verhältnisse geschehen ist.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1918-12-02" notAfter="1918-12-02">
+                2. Dezember 1918
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-10-25 13:54:35.940263+00:00" who="#gsteiner"/><change when="2019-10-13 15:20:01.733639+00:00" who="#pbecker"/><change when="2019-10-03 09:45:58.932976+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__3900"><persName><surname>Markus</surname><forename/><roleName>Hofrat</roleName></persName><birth/><death/></person><person xml:id="person__926"><persName><surname>Zerdik</surname><forename>Johann</forename><roleName>Ing.</roleName></persName><birth when="1878-04-07">1878-04-07<placeName key="#place__580">Wien</placeName></birth><death when="1961-06-11">1961-06-11<placeName key="#place__580">Wien</placeName></death><idno>https://de.wikipedia.org/wiki/Johann_Zerdik</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__417"><placeName>Brüx</placeName><location><geo decls="#LatLng">50.503010000000 13.636170000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3070291/</idno></place><place xml:id="place__568"><placeName>umstrittenes Gebiet</placeName><idno type="GEONAMES"/></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1289"><orgName>tschechoslowakische Regierung</orgName></org><org xml:id="org__1290"><orgName>tschechoslowakischer Staat</orgName></org><org xml:id="org__1291"><orgName>tschechoslowakisches Militär</orgName></org><org xml:id="org__3301"><orgName>Deutschösterreichischer Staat</orgName></org><org xml:id="org__3899"><orgName>staatliche Bergdirektion in Brüx (Most)</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

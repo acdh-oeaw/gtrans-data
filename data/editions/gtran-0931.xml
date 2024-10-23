@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0931.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0930.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0932.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Bedenken gegen Dr. Franz Klein als Gesandter beim Deutschen Reich</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/3339</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Gertrude Enderle-Burcel et al. (Hg.), Der österreichische Staatsrat. Protokolle des Vollzugsausschusses, des Staatsrates und des Geschäftsführenden Staatsratsdirektoriums 21. Oktober 1918 bis 14. Marz 1919, Band 1: 21. Oktober 1918 bis 14. November 1918, Wien 2008</repository>
+                    <msName>StRProt Nr. 27 vom 9. November 1918, in: Enderle-Burcel et al. (Hg.), Der österreichische Staatsrat, 301ff.</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__1256">Staatsrat</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>StR Teufel lehnt die Bestellung von Franz Klein als Gesandten der deutschösterr. Regierung beim Deutschen Reich aus politischen Gründen ab, StR Fink meint, dass es besser wäre, kein Mitglied des Herrenhauses für diesen Posten zu nominieren. StR Ellenbogen verteidigt die Nominierung Kleins als juristische und politische Größe von Weltruf. Staatsnotar Sylvester schlägt vor, sich zuerst mit Klein ins Einvernehmen zu setzen, da er zweifelt, ob Klein die Bestellung annehmen würde. Er schlägt stattdessen StR von Langenhan vor. Präsident Seitz will dem StA des Äußeren über die Bedenken unterrichten.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1918-11-09" notAfter="1918-11-09">
+                1918-11-09
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Ernennung</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Bevollmächtiger</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">deutschösterr. Regierung</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-10 20:02:45.027983+00:00" who="#pbecker"/><change when="2018-12-19 10:48:42.213200+00:00" who="#gsteiner"/><change when="2018-12-18 13:34:45.849492+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__641"><persName><surname>Ellenbogen</surname><forename>Wilhelm</forename><roleName>Dr.</roleName></persName><birth when="1863-07-09">1863-07-09<placeName key="#place__492">Lundenburg</placeName></birth><death when="1951-02-25">1951-02-25<placeName key="#place__508">New York</placeName></death><idno>http://d-nb.info/gnd/118529978</idno></person><person xml:id="person__3341"><persName><surname>Fink</surname><forename>Jodok</forename><roleName>Dr.</roleName></persName><birth when="1853-02-19">1853-02-19<placeName key="#place__3340">Andelsbuch</placeName></birth><death when="1929-07-01">1929-07-01<placeName key="#place__3340">Andelsbuch</placeName></death><idno>http://d-nb.info/gnd/120009889</idno></person><person xml:id="person__3315"><persName><surname>Klein</surname><forename>Franz</forename><roleName>Dr.</roleName></persName><birth when="1854-04-24">1854-04-24<placeName key="#place__580">Wien</placeName></birth><death when="1926-04-06">1926-04-06<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118562878</idno></person><person xml:id="person__751"><persName><surname>Langenhan von</surname><forename>Philipp</forename><roleName>Dr.</roleName></persName><birth when="1878-06-04">1878-06-04<placeName key="#place__424">Czernowitz</placeName></birth><death when="1960-11-14">1960-11-14<placeName key="#place__505">München</placeName></death><idno>http://d-nb.info/gnd/12770017X</idno></person><person xml:id="person__786"><persName><surname>Ofner</surname><forename>Julius</forename><roleName>Dr.</roleName></persName><birth when="1845-08-20">1845-08-20<placeName key="#place__461">Horschenz</placeName></birth><death when="1924-09-26">1924-09-26<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118831240</idno></person><person xml:id="person__820"><persName><surname>Renner</surname><forename>Karl</forename><roleName>Dr.</roleName></persName><birth when="1870-12-14">1870-12-14<placeName key="#place__570">Unter-Tannowitz</placeName></birth><death when="1950-12-31">1950-12-31<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118599739</idno></person><person xml:id="person__856"><persName><surname>Seitz</surname><forename>Karl</forename><roleName/></persName><birth when="1869-09-04">1869-09-04<placeName key="#place__580">Wien</placeName></birth><death when="1950-02-03">1950-02-03<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/119184745</idno></person><person xml:id="person__875"><persName><surname>Sylvester</surname><forename>Julius</forename><roleName>Dr.</roleName></persName><birth when="1854-06-30">1854-06-30<placeName key="#place__580">Wien</placeName></birth><death when="1944-07-13">1944-07-13<placeName key="#place__592">Zell am Wallersee</placeName></death><idno>http://d-nb.info/gnd/120148595</idno></person><person xml:id="person__879"><persName><surname>Teufel</surname><forename>Oskar</forename><roleName/></persName><birth when="1880-10-05">1880-10-05<placeName key="#place__595">Znaim</placeName></birth><death when="1946-01-26">1946-01-26<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/1027122671</idno></person><person xml:id="person__890"><persName><surname>Urban</surname><forename>Karl</forename><roleName/></persName><birth when="1855-09-01">1855-09-01<placeName key="#place__523">Prag</placeName></birth><death when="1940-10-24">1940-10-24<placeName key="#place__523">Prag</placeName></death><idno>http://d-nb.info/gnd/1148771107</idno></person><person xml:id="person__896"><persName><surname>Waldner</surname><forename>Viktor</forename><roleName>Univ.-Prof. Dr.</roleName></persName><birth when="1852-04-01">1852-04-01<placeName key="#place__426">Dellach</placeName></birth><death when="1924-08-30">1924-08-30<placeName key="#place__473">Klagenfurt</placeName></death><idno>https://de.wikipedia.org/wiki/Viktor_Waldner</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__404"><placeName>Berlin</placeName><location><geo decls="#LatLng">52.524370000000 13.410530000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2950159/</idno></place><place xml:id="place__429"><placeName>Deutsches Reich</placeName><idno type="GEONAMES"/></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__991"><orgName>Christlichsoziale Partei (CSP)</orgName></org><org xml:id="org__998"><orgName>Deutschnationale Partei (DnP)</orgName></org><org xml:id="org__1224"><orgName>Staatsamt des Äußern</orgName></org><org xml:id="org__3301"><orgName>Deutschösterreichischer Staat</orgName></org><org xml:id="org__3338"><orgName>Herrenhaus</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

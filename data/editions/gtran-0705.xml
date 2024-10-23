@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0705.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0704.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0706.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lebensmittelbeschaffung für städtische Angestellte</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#vhelfert">Helfert, Veronika</rs></editor><editor><rs ref="#tgarstenauer">Garstenauer, Therese</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2462</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Wiener Stadt- und Landesarchiv</repository>
+                    <msName>Bestand: Wiener Stadt- und Landesarchiv, 1.5.3 Magistratsdirektion, Karton: 273, Aktenzahl: 3086/1919</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Akt</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><p>erledigt zur Registratur: 23. April 1927</p></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#vhelfert #tgarstenauer">
+            <p>Akt der Magistratsdirektion an den Stadtrat und den Gemeinderat beinhaltet einen Antrag aus dem "Komitee zur Beratung von Maßnahmen zu Gunsten der städtischen Angestellten", eine Ausgabe der Wiener Zeitung vom 20. März 1919 mit der "Geschäftsordnung des Wiener Lebensmitellagerbetriebes für deutschösterreichische Staatsbedienstete", sowie den Bericht (Protokoll) einer Sitzung des Komitees vom 7. April 1919. Die Sitzung fand unter Leitung des Vorsitzes des Komitees, Carl Vaugoin, statt. Anwesend die GRe Breitner, Gussenbauer, Moissl, Untermüller und Weigl sowie Vertreter des Verbandes, Fachvereine, Vertreter des Magistrates, Fachreferenten und beigezogene Direktoren der jeweiligen städtischen Unternehmungen. In der Sitzung des Komitees geht es um "Einreihung der Unternehmungsbeamten" (Fürsorgerinnen, Gasarbeiter etc.) und um die Frage von Entlohnungen und Zubußen. Der Vertreter des Fachvereins der Gasarbeiter, Fiedler, teilt mit, dass sich eine Kurie der Beamten der städtischen Unternehmungen gebildet habe, von der die anderen Fachvertreter dieser Unternehmungen offenbar nichts wissen. Weiters wird ein Antrag bzgl. der Errichtung einer "Amtsstelle, die im Einvernehmen mit Vertretern des Verbandes unter Ausschaltung aller Zwischenstellen im Wege der interalliierten Kommissionen und der deutschösterreichischen Wirtschaftszentralen eine ausgiebigere Belieferung der städtischen Angestellten mit Lebensmitteln und Bedarfsartikeln durchzuführen hat." Dies ist der Antrag der an den Gemeinderat geht, die Stadt Wien soll einen Kredit dafür leisten. Im Bericht der Magistratsdirektion ist eine (im Prinzip unterstützende) Stellungnahme des Magistratsdirektors Pawelka zu dieser Frage.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-03-20" notAfter="1919-04-13">
+                1919-03-20
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Ausbildung</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Lohnforderung</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Pensionierung</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-09-21 05:26:40.401711+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__620"><persName><surname>Breitner</surname><forename>Hugo</forename><roleName/></persName><birth when="1873-11-09">1873-11-09<placeName key="#place__580">Wien</placeName></birth><death when="1946-03-05">1946-03-05<placeName key="#place__3127">Claremont</placeName></death><idno>http://d-nb.info/gnd/119179504</idno></person><person xml:id="person__682"><persName><surname>Gussenbauer</surname><forename>Adolf</forename><roleName/></persName><birth/><death/></person><person xml:id="person__793"><persName><surname>Pawelka</surname><forename>Karl </forename><roleName>Obermag.R.</roleName></persName><birth><placeName key="#place__440">Eibiswald</placeName></birth><death/></person><person xml:id="person__845"><persName><surname>Schulz</surname><forename>Hermann</forename><roleName/></persName><birth/><death/></person><person xml:id="person__889"><persName><surname>Untermüller</surname><forename>Karl</forename><roleName/></persName><birth/><death/></person><person xml:id="person__902"><persName><surname>Weigl</surname><forename>Karl</forename><roleName/></persName><birth/><death/></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__985"><orgName>Brauhaus (städtisches)</orgName></org><org xml:id="org__1127"><orgName>Lagerhaus (städtisches)</orgName></org><org xml:id="org__1141"><orgName>Leichenbestattung (städtische)</orgName></org><org xml:id="org__1329"><orgName>Wiener Lebensmittellagerbetriebe</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

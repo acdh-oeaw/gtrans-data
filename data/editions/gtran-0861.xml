@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0861.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0860.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0862.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">StA für Heereswesen will Stellen ausschreiben für die anspruchsberechtigten Unteroffiziere und bittet, die entsprechenden Stellen zu melden.</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2575</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>Bestand: Staatskanzlei - BKA/alt Varia 1919  Zwischenstaatliches Komitee; Verhandlungsschriften Nr. 1 - 25 zu den Sitzungen des zwischenstaatsamtlichen Komitees für Staatsbedienstetenangelegenheiten, Nr: 13., Unterpunkt: 04., Seite: 35f</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__3257">Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>StA für Heereswesen will Stellen ausschreiben für die anspruchsberechtigten Unteroffiziere und bittet, die entsprechenden Stellen zu melden. ANTWORT DER KOMMISSION: In Hinblick auf die geänderten Verhältnisse, das Bedürfnis, Stellen einzusparen und Stellen für vertriebene Staatsbedienstete dt. Nationalität freizuhalten und weil man überhaupt noch nicht sagen könne, wie groß der Stellenbedarf sein wird, besteht derzeit kein Bedürfnis, Personen die bisher nicht im Zivilstaatsdienst gestanden sind, aufzunehmen.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-01-10" notAfter="1919-01-10">
+                10. Jänner 1919
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-10-27 08:13:17.039401+00:00" who="#pbecker"/><change when="2019-09-21 22:39:30.873985+00:00" who="#pbecker"/><change when="2019-03-05 18:50:23.884221+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         </listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__430"><placeName>Deutschösterreich</placeName><idno type="GEONAMES"/></place><place xml:id="place__444"><placeName>fremdnationales Gebiet</placeName><idno type="GEONAMES"/></place><place xml:id="place__568"><placeName>umstrittenes Gebiet</placeName><idno type="GEONAMES"/></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1220"><orgName>Staatsamt für Finanzen</orgName></org><org xml:id="org__1227"><orgName>Staatsamt für Heerwesen</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

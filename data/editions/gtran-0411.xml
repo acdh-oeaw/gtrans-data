@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0411.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0410.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0412.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ein neues Besoldungssystem für die deutschösterreichischen Staatsbeamten</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/3573</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Beamten-Zeitung. Zeitschrift des Ersten allgemeinen Beamten-Vereines. Organ für die Gesamtinteressen der Beamten aller Klassen, Erster allgemeiner Beamten-Verein (Hg.), Wien, 50. Jahrgang 1919</repository>
+                    <msName>Beamten-Zeitung, 31. 1. 1919, 13.</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Zeitungsartikel</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__3496">Erster allgemeiner Beamten-Verein</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>Bericht über die Sitzung des Staatsangestelltenausschusses vom 21. Jänner 1919 zur Reform des Besoldungssystems. Ministerialrat Davy erläutert den Grundgedanken der Reform, das bisherige Rangklassensystem durch ein solches abzulösen, das das Augenmaß auf Verantwortlichkeit und Fähigkeit der Staatsbediensteten legt. Die starren Grenzen des Systems sollen überwunden werden. Vorbild dabei ist das reichsdeutsche System.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-01-31" notAfter="1919-01-31">
+                31. Jänner 1919
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Beförderung</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Vorrückung</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-11 10:26:23.745895+00:00" who="#pbecker"/><change when="2019-01-17 09:22:18.533217+00:00" who="#gsteiner"/><change when="2019-01-17 09:13:05.410728+00:00" who="#gsteiner"/><change when="2019-01-17 08:48:52.065023+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__633"><persName><surname>Davy</surname><forename>Robert Franz Ludwig</forename><roleName>Dr.</roleName></persName><birth when="1867-01-22">1867-01-22<placeName key="#place__478">Königsberg</placeName></birth><death when="1924-04-22">1924-04-22<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/126181365</idno></person><person xml:id="person__652"><persName><surname>Forstner</surname><forename>August</forename><roleName/></persName><birth when="1876-07-29">1876-07-29<placeName key="#place__580">Wien</placeName></birth><death when="1941-02-14">1941-02-14<placeName key="#place__3118">Wolfpassing bei Zeiselmauer</placeName></death><idno>http://d-nb.info/gnd/14403347X</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         </listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__997"><orgName>Deutsches Reich</orgName></org><org xml:id="org__1231"><orgName>Provisorische Nationalversammlung  (Staatsangestelltenausschuss)</orgName></org><org xml:id="org__3257"><orgName>Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

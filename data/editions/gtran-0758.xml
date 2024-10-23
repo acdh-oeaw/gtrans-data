@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0758.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0757.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0759.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Besoldungsübergangsgesetz</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#kmegner">Megner, Karl</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/3210</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichische Nationalbibliothek</repository>
+                    <msName>Bestand: Staatsgesetzblatt für den Staat Deutschösterreich 1918–1920, Signatur: StGBl. Nr. 570/1919 (KNV: 536 AB 580 S. 49.)</msName>
+               <idno>http://alex.onb.ac.at/cgi-content/alex?apm=0&amp;aid=sgb&amp;datum=19190004&amp;seite=00001310&amp;size=45</idno></msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Gesetzblatt</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents/></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#kmegner">
+            <p>Das elfstufige Rangklassensystem (erstmals auf breiter Basis ab dem Jahr 1873 angewendet und später zwar mannigfach adaptiert, aber in den Grundzügen belassen, überlebte zunächst auch den Übergang zur Republik. Die Gehaltsansätze wurden erhöht, die Vorrückungsfristen innerhalb der Rangklassen wurden reduziert (Biennien in den drei untersten Rangklassen, der IX. bis zur XI.). Einführung der Kategorie "Staatsbeamte ohne Rangklassen." Auch die "Zeitbeförderung" wurde definiert, d.h., die Beamten wurden im Rahmen der für ihre Verwendungsgruppe jeweils zutreffenden "Normallaufbahn" über die Grenzen der Rangklassen automatisch befördert. Bis in die jüngste Vergangenheit waren dadurch sogenannte "Schattenlaufbahnen" möglich: Beamte rückten in höhere dienstliche Ränge auch dann vor, wenn ihnen der entsprechende Wirkungskreis, das "Imperium", fehlte. So konnten z.B. in den Zentralstellen auch "einfache" Referenten zu Ministerialräten der VIII. Dienstklasse avancieren u.ä. Auch die Unterbeamten und Diener wurden mit Grundgehältern und Zeitlaufbahnen bedacht. Diverse Zulagen (Ortszulagen, gleitende Zulagen usw.) sollten das Problem der sich verstärkenden Inflation in den Griff bekommen - ein hoffnungsloses Unterfangen.  Es war vorgesehen (§ 10), dass der Staat sämtliche Steuern, Diensttaxen, Pensionsbeiträge usw. bis auf weiteres übernehmen wollte. Die Gagen waren daher Nettobeträge.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-12-18" notAfter="1919-12-18">
+                1919-12-18
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-10-23 16:34:48.234793+00:00" who="#kmegner"/><change when="2019-10-10 10:36:09.951438+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         </listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         </listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         </listOrg>
+      </back>
+  </text>
+</TEI>

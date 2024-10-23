@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0586.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0585.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0587.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Richtlinien für die Behandlung der Beamtenfragen - Furcht vor Repressalien</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2833</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>Bestand: ÖStA/AdR, Bundeskanzleramt, Staatsratsprotokolle 1. Republik, Protokoll Nr. 36 - 50, 18. 11. 1918 - 29. 11. 1918; 44. Sitzung vom 25. November 1918, S. 10f., Karton: 2</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__1256">Staatsrat</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>StK Renner plädiert dafür, keine Furcht vor Repressalien der fremden Nationalstaaten in Bezug auf die Richtlinien zu Beamtenfragen zu haben, da diese in Schwierigkeiten geraten würden, wenn deutsche Staatsangestellte in ihren Ländern den Dienst aufgeben würden. Er spricht ebenfalls vom Millionenvermögen Bosniens, das Bosnien gerne haben möchte und das gewissermaßen ein Unterpfand darstellt.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1918-11-25" notAfter="1918-11-25">
+                25. Nov. 1918
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Repression</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-22 13:18:31.671119+00:00" who="#gsteiner"/><change when="2019-10-03 09:21:31.426005+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__820"><persName><surname>Renner</surname><forename>Karl</forename><roleName>Dr.</roleName></persName><birth when="1870-12-14">1870-12-14<placeName key="#place__570">Unter-Tannowitz</placeName></birth><death when="1950-12-31">1950-12-31<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118599739</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__430"><placeName>Deutschösterreich</placeName><idno type="GEONAMES"/></place><place xml:id="place__536"><placeName>Sarajewo</placeName><location><geo decls="#LatLng">43.848640000000 18.356440000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3191281/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__981"><orgName>Bosnien-Herzegowina (Bosna i Hercegovina)</orgName></org><org xml:id="org__1100"><orgName>k.u.k. Finanzministerium (Abteilung Bosnien-Herzegowina)</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

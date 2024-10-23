@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0771.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0770.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0772.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Trennung des Gerichtssprengels in Troppau in einen tschechischen und einen deutschen Teil</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2851</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>Bestand: ÖStA/AdR, Bundeskanzleramt, Staatsratsprotokolle 1. Republik, Protokoll Nr. 51 - 65, 30. 11. 1918 - 13. 1. 1919, 56. Sitzung vom 9. Dezember 1918, S. 5., Karton: 3</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__1256">Staatsrat</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>StK Renner berichtet über die Situtation in den Sudetengebieten, u. a. über die Trennung des Gerichtssprengels in einen tschechischen und einen deutschen Teil, ebenso wie des Bezirksgerichtes in Troppau (Opava).</p>
+        </abstract>
+        <creation>
+            <date notBefore="1918-12-09" notAfter="1918-12-09">
+                9. Dezember 1918
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-10-25 15:03:23.482134+00:00" who="#gsteiner"/><change when="2019-10-25 15:01:46.516496+00:00" who="#gsteiner"/><change when="2019-10-25 15:01:06.277806+00:00" who="#gsteiner"/><change when="2019-10-03 09:50:46.975608+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__820"><persName><surname>Renner</surname><forename>Karl</forename><roleName>Dr.</roleName></persName><birth when="1870-12-14">1870-12-14<placeName key="#place__570">Unter-Tannowitz</placeName></birth><death when="1950-12-31">1950-12-31<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118599739</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__565"><placeName>Troppau</placeName><location><geo decls="#LatLng">49.938660000000 17.902570000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3068927/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__3901"><orgName>deutsches Bezirksgericht Troppau</orgName></org><org xml:id="org__3902"><orgName>tschechisches Bezirksgericht Troppau</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

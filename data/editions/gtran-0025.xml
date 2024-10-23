@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0025.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0024.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0026.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Vorschläge des Staatsangestelltenrates für Vorarlberg zur Verringerung des Personalstandes</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2612</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>Bestand: Staatskanzlei - BKA/alt Varia 1919  Zwischenstaatliches Komitee; Verhandlungsschriften Nr. 1 - 25 zu den Sitzungen des zwischenstaatsamtlichen Komitees für Staatsbedienstetenangelegenheiten, Nr: 22., Unterpunkt: 08., Seite: 60</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__3257">Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>Die Staatskanzlei ersucht, die Vorschläge des Staatsangestelltenrates für Vorarlberg zu den Maßnahmen, betreffend die Verringerung des Personalstandes der Staatsangestellten und das Ansuchen um amtliche Anerkennung der Staatsangestelltenräte und seiner Funktionen, der Beratung zu unterziehen. ANTWORT DER KOMMISSION: Die Frage der Anerkennung des Staatsangestelltenrates für Vorarlberg mit den von diesem erwarteten Befugnissen der Mitberatung und Mitbestimmung in allen persönlichen und dienstlichen Angelegenheiten unter Ausschaltung der selbständigen Verfügungsrechte der einzelnen Behörden in Personalangelegenheiten kann nicht für einen einzelnen Angestelltenrat entschieden werden, bedürfte vielmehr der allgemeinen Regelung. Maßnahmen in dieser letzteren Hinsicht haben jedoch gegenwärtig zu unterbleiben, da hiedurch den bereits eingeleiteten Verhandlungen wegen Errichtung einer Staatsangestelltenkammer vorgegriffen würde. Hievon wäre die Staatskanzlei in Kenntnis zu setzen.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-02-06" notAfter="1919-02-06">
+                6. Februar 1919
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Mitbestimmung</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Staatsangestelltenkammer</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Staatsangestelltenrat</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Demokratisierung</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-27 08:34:01.259844+00:00" who="#pbecker"/><change when="2019-10-18 14:44:20.742772+00:00" who="#gsteiner"/><change when="2019-10-18 14:43:53.310532+00:00" who="#gsteiner"/><change when="2019-09-25 16:39:19.329886+00:00" who="#pbecker"/><change when="2019-03-08 11:03:32.906160+00:00" who="#gsteiner"/><change when="2019-03-08 11:03:18.097875+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         </listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__576"><placeName>Vorarlberg</placeName><location><geo decls="#LatLng">47.250000000000 9.916670000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2762300/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1242"><orgName>Staatsangestelltenkammer</orgName></org><org xml:id="org__1245"><orgName>Staatsangestelltenrat Vorarlberg</orgName></org><org xml:id="org__1253"><orgName>Staatskanzlei</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

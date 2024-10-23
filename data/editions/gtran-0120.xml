@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0120.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0119.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0121.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Gesetz wegen Bewilligung einer einmaligen, nicht wiederkehrenden Aushilfe an die Staatsangestellten (Staatsangestelltenaushilfegesetz)</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#kmegner">Megner, Karl</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/3220</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichische Nationalbibliothek</repository>
+                    <msName>Bestand: Staatsgesetzblatt für den Staat Deutschösterreich 1918–1920, Signatur: StGBl. Nr. 106/1920 (KNV: 739 AB – S. 65.)</msName>
+               <idno>http://alex.onb.ac.at/cgi-content/alex?aid=sgb&amp;datum=1920&amp;page=271&amp;size=45</idno></msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Gesetzblatt</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents/></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#kmegner">
+            <p>"Einmalige" Teuerungszulagen wurden an die öffentlich Bediensteten in Wien gewährt. (Auch an katholische Geistliche.) Die Höhen der Zulagen richteten sich nicht nach der hierarchischen Stellung, sondern danach, ob der Bedienstete verheiratet war und Kinder zu versorgen hatte oder nicht. Auch Pensionisten konnte (fakultativ) die Zulage gewährt werden.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1920-03-03" notAfter="1920-03-03">
+                1920-03-03
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Mitbestimmung</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Pensionierung</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-10 10:58:09.672967+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         </listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         </listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1083"><orgName>Hochschule</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

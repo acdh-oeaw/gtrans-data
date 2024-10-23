@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0059.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0058.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0060.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Eingabe des Vereines der deutschen Steuerbeamten in Mähren, die deutschsüdmährischen Steuerbeamten, die ein Gelöbnis auf den deutschösterr. Staat</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2692</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>Bestand: Staatskanzlei - BKA/alt Varia 1919  Zwischenstaatliches Komitee; Verhandlungsschriften Nr. 26 - 50 zu den Sitzungen des zwischenstaatsamtlichen Komitees für Staatsbedienstetenangelegenheiten, Nr: 45., Unterpunkt: 04., Seite: 69</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__3257">Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>Eingabe des Vereines der deutschen Steuerbeamten in Mähren, die deutschsüdmährischen Steuerbeamten, die ein Gelöbnis auf den deutschösterr. Staat abgeleistet haben und in den Dienst der niederösterr. Finanzlandesdirektion übernommen worden sind, wollen bei der Beförderung wie die übrigen Beamten der niederösterreichischen Finanzlandesdirektion behandelt werden. ANTWORT DER KOMMISSION: Deutschösterr. Staatsbedienstete, die im Kreis Deutschsüdmähren ihren letzten Amtssitz hatten und dem deutschösterr. Staat tatsächlich Dienst leisten oder nach Besetzung ihrer Dienstorte durch den fremden Nationalstaat des Dienstes enthoben wurden, und sich im Gebiete Deutschösterreichs aufhalten, ohne bisher dem deutschösterr. Staate Dienst zu leisten, können im Bedarfsfall zu einer deutschösterreichischen Behörde versetzt werden. Auch gegen ihre allfällige Beförderung obwaltet kein Anstand.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-05-02" notAfter="1919-05-02">
+                2. Mai 1919
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Beförderung</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-27 09:11:20.809898+00:00" who="#pbecker"/><change when="2019-10-02 11:58:27.410258+00:00" who="#pbecker"/><change when="2019-03-20 14:30:33.144850+00:00" who="#gsteiner"/><change when="2019-03-20 14:29:25.408136+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         </listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__493"><placeName>Mähren</placeName><location><geo decls="#LatLng">49.500000000000 17.000000000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3070359/</idno></place><place xml:id="place__554"><placeName>Südmähren</placeName><idno type="GEONAMES"/></place><place xml:id="place__568"><placeName>umstrittenes Gebiet</placeName><idno type="GEONAMES"/></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1162"><orgName>Niederösterreichische Finanzlandesdirektion</orgName></org><org xml:id="org__1290"><orgName>tschechoslowakischer Staat</orgName></org><org xml:id="org__1308"><orgName>Verein der deutschen Steuerbeamten in Mähren</orgName></org><org xml:id="org__3285"><orgName>Kreis Deutschsüdmähren</orgName></org><org xml:id="org__3301"><orgName>Deutschösterreichischer Staat</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

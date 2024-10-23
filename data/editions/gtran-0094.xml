@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0094.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0093.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0095.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Verwaltungseinteilung in Deutschböhmen</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2823</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>Bestand: ÖStA/AdR, Bundeskanzleramt, Staatsratsprotokolle 1. Republik, Protokoll Nr. 36 - 50, 18. 11. 1918 - 29. 11. 1918; 44. Sitzung vom 25. November 1918, S.1ff., Karton: 2</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__1256">Staatsrat</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>Es werden Gerichtskreise und Berggerichtskreise im umstrittenen Gebiet im Sudentenland und den Einschlussgebieten Znaim (Znojmo) beschlossen. Für die Städte Brünn (Brno), Iglau (Jihlava) und Olmütz (Olomouc) wird aufgrund der Lage keine Vollzugsanweisung erlassen.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1918-11-25" notAfter="1918-11-25">
+                25. Nov. 1918
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Mitbestimmung</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Verwaltung</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Pensionierung</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-22 12:00:23.635987+00:00" who="#gsteiner"/><change when="2019-10-03 08:50:13.926884+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__656"><persName><surname>Freißler</surname><forename>Robert</forename><roleName>Dr.</roleName></persName><birth when="1877-03-23">1877-03-23<placeName key="#place__565">Troppau</placeName></birth><death when="1950-01-07">1950-01-07<placeName key="#place__453">Graz</placeName></death><idno>http://d-nb.info/gnd/1072422069</idno></person><person xml:id="person__826"><persName><surname>Roller</surname><forename>Julius</forename><roleName>Dr.</roleName></persName><birth when="1862-10-28">1862-10-28<placeName key="#place__560">Thomigsdorf</placeName></birth><death when="1946-12-27">1946-12-27<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/1028281269</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__416"><placeName>Brünn</placeName><location><geo decls="#LatLng">49.195220000000 16.607960000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3078610/</idno></place><place xml:id="place__431"><placeName>Deutschsüdböhmen</placeName><idno type="GEONAMES"/></place><place xml:id="place__462"><placeName>Iglau</placeName><location><geo decls="#LatLng">49.396100000000 15.591240000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3074199/</idno></place><place xml:id="place__496"><placeName>Mährisch-Schönberg</placeName><location><geo decls="#LatLng">49.965280000000 16.970610000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3064673/</idno></place><place xml:id="place__506"><placeName>Neubistritz</placeName><location><geo decls="#LatLng">49.019260000000 15.103160000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3069706/</idno></place><place xml:id="place__509"><placeName>Niederösterreich</placeName><location><geo decls="#LatLng">48.333330000000 15.750000000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2770542/</idno></place><place xml:id="place__512"><placeName>Oberösterreich</placeName><location><geo decls="#LatLng">48.250000000000 14.000000000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2769848/</idno></place><place xml:id="place__567"><placeName>Tschechoslowakei</placeName><location><geo decls="#LatLng">50.082920000000 14.466720000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/8505031/</idno></place><place xml:id="place__595"><placeName>Znaim</placeName><location><geo decls="#LatLng">48.855500000000 16.048800000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3061344/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__974"><orgName>Berggericht St. Pölten</orgName></org><org xml:id="org__1123"><orgName>Kreisgericht Znaim (Znojmo)</orgName></org><org xml:id="org__1124"><orgName>Kremsier Sprengel (Kroměříž)</orgName></org><org xml:id="org__1232"><orgName>Staatsamt für Justiz</orgName></org><org xml:id="org__1282"><orgName>Sudetenland</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

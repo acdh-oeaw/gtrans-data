@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0133.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0132.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0134.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Anfrage zu Obmann des Betriebsrates: Enthebung des Dienstes für die Dauer seiner Funktion</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#vhelfert">Helfert, Veronika</rs></editor><editor><rs ref="#tgarstenauer">Garstenauer, Therese</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2500</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Wiener Stadt- und Landesarchiv</repository>
+                    <msName>Bestand: Wiener Stadt- und Landesarchiv, 1.5.3 Magistratsdirektion, Karton: ?, Aktenzahl: 3052/1920</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Akt</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents/></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#vhelfert #tgarstenauer">
+            <p>Die Direktion der städtischen Lagerhäuser gibt der Magistratsdirektion auf Anfrage bekannt, dass bei den städtischen Lagerhäusern bisher noch nie ein Mitglied des Betriebsrates noch irgendeiner Personalvertretung für die Dauer seiner Funktion unter Belassung der Bezüge des Dienstes enthoben worden ist.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1920-05-12" notAfter="1924-01-21">
+                1920-05-12
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Betriebsrat</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-09-21 09:51:47.441161+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         </listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1127"><orgName>Lagerhaus (städtisches)</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

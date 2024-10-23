@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0588.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0587.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0589.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Die Beamten des tschecho-slowakischen Staates</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/3517</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Beamten-Zeitung. Zeitschrift des Ersten allgemeinen Beamten-Vereines. Organ für die Gesamtinteressen der Beamten aller Klassen, Erster allgemeiner Beamten-Verein (Hg.), Wien, 49. Jahrgang 1918</repository>
+                    <msName>Beamten-Zeitung, 30. 11. 1918, 224.</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Zeitungsartikel</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__3496">Erster allgemeiner Beamten-Verein</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>Bericht über die Regierungsvorlage im Národný Výbor, wonach alle Beamten und öffentlich Angestellten der früheren österreichisch-ungarischen Monarchie und der staatlichen Betriebe, soweit sie im Gebiet des tschechoslowakischen Staates im Amt sind, im tschechischen Staatsdienst verbleiben, wenn sie innerhalb von acht Tagen das Gelöbnis auf den tschechischen Staat ablegen. Wer dies nicht tut, verliert seinen Posten und alle Ansprüche für sich und seine Familie.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1918-11-30" notAfter="1918-11-30">
+                30. November 1918
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">tschechoslowak. Staatsdienst</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-11 09:45:42.490655+00:00" who="#pbecker"/><change when="2019-01-16 10:02:42.655288+00:00" who="#gsteiner"/><change when="2019-01-11 14:26:17.509653+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         </listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         </listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1029"><orgName>ehemals österreichisch-ungarische Monarchie</orgName></org><org xml:id="org__1159"><orgName>Národní Výbor (tschechoslowak. Nationalausschuss)</orgName></org><org xml:id="org__1290"><orgName>tschechoslowakischer Staat</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

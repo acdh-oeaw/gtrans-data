@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0042.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0041.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0043.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Reform der allgemeinen Dienstpragmatik. Aufzeichnungen über die Sitzungen des Unterausschusses zur Beratung der einheitlichen Dienstordnung für die Gemeinde-Angestellten. 5. Sitzung am Mittwoch, den 16. April 1919</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#vhelfert">Helfert, Veronika</rs></editor><editor><rs ref="#tgarstenauer">Garstenauer, Therese</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2482</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Wiener Stadt- und Landesarchiv</repository>
+                    <msName>Bestand: Wiener Stadt- und Landesarchiv, 1.5.3 Magistratsdirektion, Karton: #NR, Aktenzahl: 2621/1919 [3]</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Akt</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents/></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#vhelfert #tgarstenauer">
+            <p>Aufzeichnung (Protokoll) der fünften Sitzung des Unter-Ausschusses zur Beratung der einheitlichen Dienstordnung für die Gemeinde-Angestellten am 16. April 1919. Fortsetzung der Beratungen über die Dienstdauer und längere Debatte über die Arbeitszeit von 6 Stunden in den magistratischen Ämtern und die Ungleichbehandlung der Beamten und Unterbeamten der städtischen Unternehmungen ihnen gegenüber, bei denen eine 6 stündige Arbeitszeit nicht machbar sei, aber sie finanziell für Mehrstunden entschädigt werden wollen. Dies wiederum könnte bei den Arbeitern der städtischen Unternehmungen Lohnforderungen und Arbeitszeitforderungen auslösen, was nicht finanzierbar wäre. Die Diskussion endet mit der schwammigen Formulierung: "Die Gemeindeangestellten haben die vorgeschriebenen Dienststunden genau einzuhalten. Die Dauer der täglichen Dienstzeit bestimmen die besonderen, im Einvernehmen mit den Personalvertretungen zu erlassenden Dienst- und Betriebs-Vorschriften. Bis zur Erlassung derartiger Vorschriften gelten die derzeit festgesetzten oder üblichen Dienstzeiten. Jede über die in diesen Vorschriften festzusetzende normale Arbeitszeit hinausgehende Mehrdienstleistung ist grundsätzlich besonders zu entlohnen. Die Entlohnungsgrundsätze bestimmen die Gebühren-Normalien, welche von der hiezu berufenen Stelle einvernehmlich mit den Personalvertretungen bezw. mit der gemeinderätlichen Personal-Kommission feszusetzen sind." Weitere teilweise rege diskutierten Punkte sind Fragen der Urlaubszeit (Breitner setzt sich besonders für den Urlaubsanspruch der Arbeiter ein), Genusszahlungen für pensionierte Angestellte, Vorrückungen und Stellenbesetzungen, Dienstzeit und erneut strittige Fragen bei den Disziplinarausschüssen.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-04-16" notAfter="1919-04-16">
+                1919-04-16
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Disziplinarausschuss</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Ruhestand</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-09-21 08:24:33.911882+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__611"><persName><surname>Beron</surname><forename>Rudolf</forename><roleName>Direktionsrat Dr.</roleName></persName><birth/><death/><idno>http://d-nb.info/gnd/127523618</idno></person><person xml:id="person__619"><persName><surname>Brabbée</surname><forename>Richard</forename><roleName>Baurat</roleName></persName><birth/><death/></person><person xml:id="person__620"><persName><surname>Breitner</surname><forename>Hugo</forename><roleName/></persName><birth when="1873-11-09">1873-11-09<placeName key="#place__580">Wien</placeName></birth><death when="1946-03-05">1946-03-05<placeName key="#place__3127">Claremont</placeName></death><idno>http://d-nb.info/gnd/119179504</idno></person><person xml:id="person__666"><persName><surname>Gmeiner</surname><forename>Wilhelm</forename><roleName>Magistratsrat</roleName></persName><birth/><death/></person><person xml:id="person__688"><persName><surname>Harbich</surname><forename>Josef</forename><roleName>Direktionsrat Dr.</roleName></persName><birth/><death/></person><person xml:id="person__710"><persName><surname>Hradkecky</surname><forename>Ottokar</forename><roleName>Zentral-Inspektor Ing.</roleName></persName><birth/><death/></person><person xml:id="person__723"><persName><surname>Karel</surname><forename>Eugen</forename><roleName/></persName><birth/><death/></person><person xml:id="person__734"><persName><surname>Klein</surname><forename>Karl</forename><roleName>Ober-Kommissär Dr.</roleName></persName><birth/><death/></person><person xml:id="person__752"><persName><surname>Lasch</surname><forename>Eduard</forename><roleName>Bau-Inspektor Dipl.-Ing.</roleName></persName><birth when="1875-05-26">1875-05-26<placeName key="#place__580">Wien</placeName></birth><death when="1942-07-28">1942-07-28<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/1111041954</idno></person><person xml:id="person__763"><persName><surname>Masopust</surname><forename>Josef</forename><roleName>Mag. Koär.Dr.</roleName></persName><birth><placeName key="#place__526">Rann</placeName></birth><death/></person><person xml:id="person__770"><persName><surname>Menzel</surname><forename>Franz</forename><roleName/></persName><birth/><death/></person><person xml:id="person__783"><persName><surname>Nuebel</surname><forename>Heinrich</forename><roleName>Dr. </roleName></persName><birth><placeName key="#place__467">Japons</placeName></birth><death/></person><person xml:id="person__859"><persName><surname>Siegmeth</surname><forename/><roleName>Mag.Sekr.Dr.</roleName></persName><birth/><death/></person><person xml:id="person__886"><persName><surname>Trnka</surname><forename>Leopold</forename><roleName>Oberbaurat</roleName></persName><birth><placeName key="#place__580">Wien</placeName></birth><death/></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1034"><orgName>Elektrizitätswerke (städtische)</orgName></org><org xml:id="org__1041"><orgName>Feuerwehr (städtische)</orgName></org><org xml:id="org__1127"><orgName>Lagerhaus (städtisches)</orgName></org><org xml:id="org__1141"><orgName>Leichenbestattung (städtische)</orgName></org><org xml:id="org__1277"><orgName>Straßenbahnen (städtische)</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

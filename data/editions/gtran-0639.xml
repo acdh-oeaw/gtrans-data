@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0639.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0638.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0640.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Einsetzung der verschiedenen Ämter in der Provinz Deutschböhmen</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/3278</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Gertrude Enderle-Burcel et al. (Hg.), Der österreichische Staatsrat. Protokolle des Vollzugsausschusses, des Staatsrates und des Geschäftsführenden Staatsratsdirektoriums 21. Oktober 1918 bis 14. Marz 1919, Band 1: 21. Oktober 1918 bis 14. November 1918, Wien 2008</repository>
+                    <msName>StRProt. Nr. 13 vom 31. Oktober 1918, in: Enderle-Burcel et al. (Hg.), Der österreichische Staatsrat, 98 ff.</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__1256">Staatsrat</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>Es besteht die Gefahr, dass die tschechische Regierung die Verwaltung in den von Deutschösterreich beanspruchten Gebieten übernimmt. Der Staatsrat diskutiert die Übernahme bzw. Aufrichtung einer deutschösterr. Verwaltung in diesen Gebieten, insbesondere die Einrichtung von Bezirkshauptmannschaften, der Finanzlandesdirektion, der Eisenbahndirektion und der Gerichte in diesen Gebieten, insbesondere im südböhmischen und südmährischen Kreis. Die Frage der Entbindung vom kaiserlichen Diensteid wird berührt. Staatskanzler Renner wird ermächtigt, allen Staatsratsmitgliedern, die zur Übernahme von Landesregierungen in die Provinz reisen, zur Übernahme aller Behörden offene Anweisungen auszustellen. Abgeordneter Lodgman ist als Bevollmächtigter des deutschösterr. Staates vorläufig in Prag (Praha) zu belassen.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1918-10-31" notAfter="1918-10-31">
+                1918-10-31
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Selbstbestimmungsrecht</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">tschechoslowakische Regierung</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Verwaltung</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-25 22:51:10.147596+00:00" who="#kmegner"/><change when="2018-12-19 11:22:18.344891+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__3276"><persName><surname>Banhans von</surname><forename>Karl</forename><roleName>Dr.</roleName></persName><birth when="1861-06-12">1861-06-12<placeName key="#place__3112">Kloster</placeName></birth><death when="1942-07-15">1942-07-15<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/13586237X</idno></person><person xml:id="person__656"><persName><surname>Freißler</surname><forename>Robert</forename><roleName>Dr.</roleName></persName><birth when="1877-03-23">1877-03-23<placeName key="#place__565">Troppau</placeName></birth><death when="1950-01-07">1950-01-07<placeName key="#place__453">Graz</placeName></death><idno>http://d-nb.info/gnd/1072422069</idno></person><person xml:id="person__690"><persName><surname>Hauser</surname><forename>Johann Nepomuk</forename><roleName>Dr.</roleName></persName><birth when="1866-02-24">1866-02-24<placeName key="#place__479">Kopfing im Innkreis</placeName></birth><death when="1927-02-18">1927-02-18<placeName key="#place__490">Linz</placeName></death><idno>http://d-nb.info/gnd/118709178</idno></person><person xml:id="person__705"><persName><surname>Hoheisl</surname><forename>Konrad</forename><roleName>Dr.</roleName></persName><birth when="1862-11-12">1862-11-12<placeName key="#place__400">Alt-Rothwasser</placeName></birth><death when="1930-09-15">1930-09-15<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/131556789</idno></person><person xml:id="person__756"><persName><surname>Lodgman</surname><forename>Rudolf</forename><roleName>Dr.</roleName></persName><birth when="1877-12-21">1877-12-21<placeName key="#place__477">Königgrätz</placeName></birth><death when="1962-12-11">1962-12-11<placeName key="#place__505">München</placeName></death><idno>http://d-nb.info/gnd/118728709</idno></person><person xml:id="person__773"><persName><surname>Miklas</surname><forename>Wilhelm</forename><roleName/></persName><birth when="1872-10-15">1872-10-15<placeName key="#place__481">Krems</placeName></birth><death when="1956-03-20">1956-03-20<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118783882</idno></person><person xml:id="person__786"><persName><surname>Ofner</surname><forename>Julius</forename><roleName>Dr.</roleName></persName><birth when="1845-08-20">1845-08-20<placeName key="#place__461">Horschenz</placeName></birth><death when="1924-09-26">1924-09-26<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118831240</idno></person><person xml:id="person__787"><persName><surname>Pacher</surname><forename>Raphael</forename><roleName>Dr.</roleName></persName><birth when="1857-07-21">1857-07-21<placeName key="#place__464">Iserthal</placeName></birth><death when="1936-03-25">1936-03-25<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/124749275</idno></person><person xml:id="person__820"><persName><surname>Renner</surname><forename>Karl</forename><roleName>Dr.</roleName></persName><birth when="1870-12-14">1870-12-14<placeName key="#place__570">Unter-Tannowitz</placeName></birth><death when="1950-12-31">1950-12-31<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118599739</idno></person><person xml:id="person__3270"><persName><surname>Seliger</surname><forename>Josef</forename><roleName/></persName><birth when="1870-02-16">1870-02-16<placeName key="#place__3269">Schönborn bei Reichenberg</placeName></birth><death when="1920-10-18">1920-10-18<placeName key="#place__3172">Teplitz</placeName></death><idno>http://d-nb.info/gnd/128662638</idno></person><person xml:id="person__3284"><persName><surname>Stöckler</surname><forename>Josef</forename><roleName/></persName><birth when="1866-06-08">1866-06-08<placeName key="#place__3283">St. Valentin (NÖ)</placeName></birth><death when="1936-12-09">1936-12-09<placeName key="#place__3283">St. Valentin (NÖ)</placeName></death><idno>http://d-nb.info/gnd/103681033X</idno></person><person xml:id="person__879"><persName><surname>Teufel</surname><forename>Oskar</forename><roleName/></persName><birth when="1880-10-05">1880-10-05<placeName key="#place__595">Znaim</placeName></birth><death when="1946-01-26">1946-01-26<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/1027122671</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__407"><placeName>Böhmen</placeName><location><geo decls="#LatLng">50.000000000000 14.500000000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3078198/</idno></place><place xml:id="place__408"><placeName>Böhmerwald-Gebiete</placeName><location><geo decls="#LatLng">49.232940000000 13.107860000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3079146/</idno></place><place xml:id="place__427"><placeName>Deutschböhmen</placeName><idno type="GEONAMES"/></place><place xml:id="place__470"><placeName>Karlsbad</placeName><location><geo decls="#LatLng">50.232710000000 12.871170000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3073803/</idno></place><place xml:id="place__512"><placeName>Oberösterreich</placeName><location><geo decls="#LatLng">48.250000000000 14.000000000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2769848/</idno></place><place xml:id="place__523"><placeName>Prag</placeName><location><geo decls="#LatLng">50.088040000000 14.420760000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3067696/</idno></place><place xml:id="place__527"><placeName>Reichenberg</placeName><location><geo decls="#LatLng">50.767110000000 15.056190000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3071961/</idno></place><place xml:id="place__553"><placeName>Sudetenland</placeName><idno type="GEONAMES"/></place><place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place><place xml:id="place__3172"><placeName>Teplitz</placeName><location><geo decls="#LatLng">50.640400000000 13.824510000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3064288/</idno></place><place xml:id="place__3281"><placeName>Jägerndorf</placeName><location><geo decls="#LatLng">50.089670000000 17.703850000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3072656/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1007"><orgName>deutschösterr. Regierung</orgName></org><org xml:id="org__1097"><orgName>k.k. Finanzministerium</orgName></org><org xml:id="org__1128"><orgName>Land Niederösterreich</orgName></org><org xml:id="org__1129"><orgName>Land Oberösterreich</orgName></org><org xml:id="org__1166"><orgName>Oberlandesgericht Reichenberg (Liberec)</orgName></org><org xml:id="org__1256"><orgName>Staatsrat</orgName></org><org xml:id="org__1269"><orgName>Statthalterei Prag (Praha)</orgName></org><org xml:id="org__1280"><orgName>südböhmischer Kreis</orgName></org><org xml:id="org__1289"><orgName>tschechoslowakische Regierung</orgName></org><org xml:id="org__3272"><orgName>k.k. Eisenbahnministerium</orgName></org><org xml:id="org__3277"><orgName>Finanzlandesdirektion für Deutschböhmen</orgName></org><org xml:id="org__3279"><orgName>Eisenbahndirektion für Deutschböhmen</orgName></org><org xml:id="org__3280"><orgName>Landesregierung Deutschböhmen</orgName></org><org xml:id="org__3286"><orgName>k.k. Ministerium des Innern</orgName></org><org xml:id="org__3287"><orgName>k.k. Ministerium für Handel</orgName></org><org xml:id="org__3288"><orgName>südmährischer Kreis</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

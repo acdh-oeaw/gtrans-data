@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0806.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0805.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0807.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Die "Korrespondenz der deutschösterreichischen Nationalversammlung" schreibt</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#vhelfert">Helfert, Veronika</rs></editor><editor><rs ref="#tgarstenauer">Garstenauer, Therese</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2732</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Wien Bibliothek</repository>
+                    <msName>Bestand: Wien Bibliothek, Tagblatt Sachmappen, TS 2599/1918, Bibliographische Angaben: Die "Korrespondenz der deutchösterreichischen Nationalversammlung" schreibt, in: Wiener Zeitung, 8.11.1918, S. 4.</msName>
+               <idno>http://anno.onb.ac.at/cgi-content/anno?aid=wrz&amp;datum=19181108&amp;seite=4&amp;zoom=33</idno></msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Zeitungsartikel</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><p>Fast wortgleich auch in folgendem Artikel abgedruckt: Deutschösterreich. Die Übernahme der k.k. Verwaltung auf den Staat Deutschösterreich, in: Arbeiter-Zeitung, 8.11.1918, S. 3. http://anno.onb.ac.at/cgi-content/anno?aid=aze&amp;datum=19181108&amp;seite=3&amp;zoom=33</p></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#vhelfert #tgarstenauer">
+            <p>Die Übernahme der Ministerien und Zentralstellen, die zwar in Wien ihren Hauptsitz haben, aber für das Staatsgebiet verantwortlich waren, bereitet Probleme, die Bürokratie der Ämter ist "national in sich gespalten" und manche wehren sich gegen eine Umwandlung. Daher wurde beschlossen, dass die Umwandlung der Ministerien in Staatsämter nicht von den Beamten selber, sondern vorübergehend von "parlamentarischen Unterstaatssekretären" geleitet werden sollten. "Nur dort, wo keine Widerstände vermutet wurden oder der Dienst es sonst erforderte, wurden Beamte zu Staatssekretären gemacht." Dies sei, wie der Autor des Artikels versichert, als vorübergehende Maßnahme unproblematisch, da diese Staatssekretäre und Unterstaatssekretäre nur provisorisch eingesetzt wurden, sie nicht in die Beamtenhierarchie aufgenommen würden und auch nicht pensionsberechtigt seien.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1918-11-08" notAfter="1918-11-08">
+                
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Verwaltung</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-02 18:51:40.690610+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         </listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__430"><placeName>Deutschösterreich</placeName><idno type="GEONAMES"/></place><place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1256"><orgName>Staatsrat</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

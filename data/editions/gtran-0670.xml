@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0670.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0669.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0671.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Anrechung der Kriegsdienstzeit für deutschböhmische Beamten im tschechoslowakischen Dienst</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2633</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>Bestand: Staatskanzlei - BKA/alt Varia 1919  Zwischenstaatliches Komitee; Verhandlungsschriften Nr. 26 - 50 zu den Sitzungen des zwischenstaatsamtlichen Komitees für Staatsbedienstetenangelegenheiten, Nr: 28., Unterpunkt: 08., Seite: 10</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__3257">Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>StA für soziale Fürsorge: Anfrage, ob deutschböhmischen Beamten (Gewerbeinspektoren), ab 1. Februar 1919 von der tschechoslowakischen Regierung bezahlt, die in Deutschösterreich geregelte begünstigte Anrechnung der Kriegsdienstzeit zusteht und wie der hierdurch veranlasste Nachtrag an Bezügen bis Ende Jänner 1919 flüssig gemacht werden könne. ANTWORT DER KOMMISSION: Die Regelung der allfälligen Ansprüche wäre vorzubehalten, bis die in Betracht kommenden Beamten wieder in den Machtbereich der deutschösterreichischen Regierung gelangen.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-03-04" notAfter="1919-03-04">
+                4. März 1919
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-10-27 08:45:49.320141+00:00" who="#pbecker"/><change when="2019-10-18 18:58:37.848071+00:00" who="#gsteiner"/><change when="2019-10-01 13:33:45.143223+00:00" who="#pbecker"/><change when="2019-03-09 16:17:19.486277+00:00" who="#gsteiner"/><change when="2019-03-09 16:16:47.225800+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         </listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__427"><placeName>Deutschböhmen</placeName><idno type="GEONAMES"/></place><place xml:id="place__430"><placeName>Deutschösterreich</placeName><idno type="GEONAMES"/></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1007"><orgName>deutschösterr. Regierung</orgName></org><org xml:id="org__1070"><orgName>Gewerbeinspektion</orgName></org><org xml:id="org__1236"><orgName>Staatsamt für soziale Fürsorge</orgName></org><org xml:id="org__1289"><orgName>tschechoslowakische Regierung</orgName></org><org xml:id="org__3301"><orgName>Deutschösterreichischer Staat</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

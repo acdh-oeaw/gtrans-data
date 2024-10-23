@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0151.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0150.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0152.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Vollversammlung am 23. Jänner 1920, 284.</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#vhelfert">Helfert, Veronika</rs></editor><editor><rs ref="#tgarstenauer">Garstenauer, Therese</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2435</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Archiv des Vereins für Geschichte der ArbeiterInnenbewegung</repository>
+                    <msName>Sozialdemokratische Parteistellen, Karton: Kt. 77, M 460, Aktenzahl: keine</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>None</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents/></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#vhelfert #tgarstenauer">
+            <p>Danneberg schlägt vor, zur Beratung der Verwaltungsreform einen Ausschuss von 28 Mitgliedern zu bilden, der sich aus 16 Sozialdemokraten, 8 Christlichsozialen und 4 Vertretern der kleinen Parteien zusammensetzen soll. Vorschlag wird angenommen.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1920-01-23" notAfter="1920-01-23">
+                23. Jänner 1920
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-08-06 19:49:43.154341+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__631"><persName><surname>Danneberg</surname><forename>Robert</forename><roleName>Dr.</roleName></persName><birth when="1885-07-23">1885-07-23<placeName key="#place__580">Wien</placeName></birth><death when="1942-01-01">1942-01-01<placeName key="#place__3132">Auschwitz (KZ)</placeName></death><idno>http://d-nb.info/gnd/118523643</idno></person><person xml:id="person__676"><persName><surname>Grün</surname><forename>Heinrich</forename><roleName>Dr.</roleName></persName><birth/><death/></person><person xml:id="person__749"><persName><surname>Laferl</surname><forename>Gisela</forename><roleName/></persName><birth when="1884-09-07">1884-09-07<placeName key="#place__3180">Neufisching</placeName></birth><death when="1968-04-28">1968-04-28<placeName key="#place__3179">Gars am Kamp</placeName></death><idno>https://de.wikipedia.org/wiki/Gisela_Wozniczak</idno></person><person xml:id="person__837"><persName><surname>Schmid</surname><forename>Karl</forename><roleName/></persName><birth when="1878-02-09">1878-02-09<placeName key="#place__535">Salzburg</placeName></birth><death when="1942-06-09">1942-06-09<placeName key="#place__580">Wien</placeName></death></person><person xml:id="person__858"><persName><surname>Siegel</surname><forename>Franz</forename><roleName/></persName><birth when="1876-06-15">1876-06-15</birth><death/></person><person xml:id="person__862"><persName><surname>Skaret</surname><forename>Ferdinand</forename><roleName/></persName><birth/><death/></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1109"><orgName>Klub der Sozialdemokraten im Wiener Gemeinderate</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

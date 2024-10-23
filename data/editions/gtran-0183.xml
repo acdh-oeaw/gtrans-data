@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0183.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0182.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0184.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Familiengebühren für die Angehörigen von Kriegsgefangenen</title>
+            <title type="sub">Great Transformation App</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2877</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>Bestand: ÖStA/AdR, Bundeskanzleramt, Staatsratsprotokolle 1. Republik, Protokoll Nr. 66 - 77, 15. 1. 1919 - 7. 3. 1919, 69. Sitzung vom 22. Jänner 1919, S. 1f., Karton: 4</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents/></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="">
+            <p>StS Mayer bittet um Genehmigung einer Vollzugsanweisung zur Zahlung von Familiengebühren für die Angehörigen von Kriegsgefangenen</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-01-22" notAfter="1919-01-22">
+                22. Jänner 1919
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">zwischenstaatliche Verhandlung</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-22 15:26:52.658859+00:00" who="#gsteiner"/><change when="2019-10-22 15:26:16.166593+00:00" who="#gsteiner"/><change when="2019-10-03 14:30:42.442479+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__635"><persName><surname>Dinghofer</surname><forename>Franz</forename><roleName>Dr.</roleName></persName><birth when="1873-04-06">1873-04-06<placeName key="#place__517">Ottensheim</placeName></birth><death when="1956-01-12">1956-01-12<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118902830</idno></person><person xml:id="person__767"><persName><surname>Mayer</surname><forename>Josef</forename><roleName/></persName><birth when="1877-04-09">1877-04-09<placeName key="#place__438">Eger</placeName></birth><death when="1938-05-03">1938-05-03<placeName key="#place__438">Eger</placeName></death><idno>http://d-nb.info/gnd/1020242728</idno></person><person xml:id="person__879"><persName><surname>Teufel</surname><forename>Oskar</forename><roleName/></persName><birth when="1880-10-05">1880-10-05<placeName key="#place__595">Znaim</placeName></birth><death when="1946-01-26">1946-01-26<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/1027122671</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         </listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1022"><orgName>k.u.k. Kriegsministerium</orgName></org><org xml:id="org__1051"><orgName>fremdnationale Staaten</orgName></org><org xml:id="org__1227"><orgName>Staatsamt für Heerwesen</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

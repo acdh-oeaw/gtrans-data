@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0702.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0701.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0703.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Übereinkommen mit dem Verband der Handels-, Transport- und Verkehrsarbeiter und -arbeiterinnen Österreichs, betreffend das Lohn- und Arbeitsverhältnis der Bediensteten und Arbeiter und der Funktionäre (derzeitigen Unterbeamten) der städtischen Straßenbahnen</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#vhelfert">Helfert, Veronika</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/3033</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Wiener Stadt- und Landesarchiv</repository>
+                    <msName>Bestand: Wiener Stadt- und Landesarchiv, Archivbibliothek, BiblM - M - Amtsperiodika, Verwaltungsberichte, Adressbücher, Signatur: M 599 28/2 1. Ex.</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Beilage zum Amtsblatt Nr. 44 vom 31.Mai 1919</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents/></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#vhelfert">
+            <p>Beschluß des Gemeinderates vom 23. Mai 1919: Übereinkommen mit dem Verband der Handels-, Transport- und Verkehrsarbeiter und -arbeiterinnen Österreichs, betreffend das Lohn- und Arbeitsverhältnis der Bediensteten und Arbeiter und der Funktionäre (derzeitigen Unterbeamten) der städtischen Straßenbahnen. Referent: Stadtrat Weigl. [12 Seiten, eingebunden] ((Pr.Z. 8230 u. 8766 ex 1919. / St.B.D. 250/Rp. ex 1919)).</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-05-23" notAfter="1919-05-23">
+                
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Lohnforderung</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-23 10:33:44.416190+00:00" who="#vhelfert"/><change when="2019-10-09 19:24:31.456288+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         </listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1277"><orgName>Straßenbahnen (städtische)</orgName></org><org xml:id="org__1301"><orgName>Verband der Handels-, Transport- und Verkehrsarbeiter und -Arbeiterinnen Österreichs</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

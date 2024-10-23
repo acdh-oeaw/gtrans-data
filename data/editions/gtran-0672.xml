@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0672.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0671.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0673.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Maßnahmen zu Gunsten der städtischen Angestellten, Titelfragen</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#vhelfert">Helfert, Veronika</rs></editor><editor><rs ref="#tgarstenauer">Garstenauer, Therese</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2497</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Wiener Stadt- und Landesarchiv</repository>
+                    <msName>Bestand: Wiener Stadt- und Landesarchiv, 1.5.3 Magistratsdirektion, Karton: ?, Aktenzahl: 4982/1920</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Akt</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents/></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#vhelfert #tgarstenauer">
+            <p>"In teilweiser Abänderung des Punktes 5 der h.a. Kurrende vom 18/VIII 1920 (Maßnahmen zu Gunsten der der Dienstordnung unterstehenden Angestellten) wurde vom Herrn Mag. Dir. angeordnet, daß nicht die einzelnen definitiven Leiter ständiger Abteilungen, welche noch nicht den betreffenden Titel führen, dies der Mag. Dion. anzuzeigen haben, sondern daß die Amtsdirektoren diesbezüglich Anträge [in Tabellenform] binnen 3 Tagen der Mag. Dion vorzulegen haben." Der Akt enthält zahlreiche individuelle (keine Tabellen!) Ansuchen um Verleihung eines Titels (z. B. Direktions-Adjunkt, Hauptkassa-Ober-Kontrollor, Oberkontrollor der städt. Hauptkassa etc.), teils in Briefform, teils in Form von Dienstzetteln, teils in Form von vorformulierten vervielfältigten Texten, in die nur der Name, das Datum und andere individuelle Angaben eingetragen wurden.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1920-09-04" notAfter="1920-09-14">
+                1920-09-04
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-09-21 09:42:50.207635+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         </listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1151"><orgName>Magistratsdirektion (Stadt Wien)</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

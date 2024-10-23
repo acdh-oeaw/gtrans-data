@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0813.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0812.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0814.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Gemeinderat. Stenographischer Bericht über die öffentliche Sitzung vom 9. Jänner 1920. 27. Städtische Kranken- und Unfallfürsorge im Jahre 1918</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#vhelfert">Helfert, Veronika</rs></editor><editor><rs ref="#tgarstenauer">Garstenauer, Therese</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2910</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Wiener Stadt- und Landesarchiv</repository>
+                    <msName>Bestand: Wiener Stadt- und Landesarchiv, Archivbibliothek, BiblM - M - Amtsperiodika, Verwaltungsberichte, Adressbücher, Signatur: M 599 29/1 1. Ex., Punkt/Seite: 27; 148–151.</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Amtsblatteintrag</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><p>Bericht in der Beilage 145</p></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#vhelfert #tgarstenauer">
+            <p>27. Post 17. Städtische Kranken- und Unfallfürsorge. Berichterstatter GR. Dr. Winter [148 – 151]. Bericht über die Maßnahmen 1918, das Mehrerfordernisse in der Krankenfürsorge, aber auch Unfallfürsorge, notwendig machte. Debatte (GR Grünwald: zeigt eine fortlaufende Verschlechterung des Gesundheitszustandes der städtischen Bediensteten. 1917: 12.500 versicherte Bedienstete, 1918: 11.500 Versicherte. Debatte darum, ob die Gemeinde der Träger der Versicherung ist, oder diese in eine allgemeine Versicherungsanstalt übergeleitet werden. Auswirkung der Versicherungsgesetze (Familienversicherung). Stadtratbeschluss vom 15.10.1919 Krankenversicherung auszulagern, aber lt. Grünwald nur halbe Lösung. Antrag: Unter Zuziehung der Organisation der Bediensteten soll der Stadtrat prüfen, ob eine Versicherung in einem allgemeinen Versicherungsinstitut nicht besser wäre, wenn nicht, dann Gründung eines eigenen Versicherungsinstituts für die städtischen Angestellten. Der Antrag wird genügend unterstützt und geht an den StR.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1920-01-09" notAfter="1920-01-09">
+                
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Personalvertretung</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Pensionierung</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-03 20:56:29.225693+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__643"><persName><surname>Emmerling</surname><forename>Georg</forename><roleName/></persName><birth when="1870-07-12">1870-07-12<placeName key="#place__580">Wien</placeName></birth><death when="1948-12-12">1948-12-12<placeName key="#place__580">Wien</placeName></death><idno>https://de.wikipedia.org/wiki/Georg_Emmerling</idno></person><person xml:id="person__678"><persName><surname>Grünwald</surname><forename>Julius</forename><roleName/></persName><birth when="1869-02-25">1869-02-25<placeName key="#place__3153">Čáry</placeName></birth><death when="1945-10-07">1945-10-07<placeName key="#place__3154">London</placeName></death><idno>https://de.wikipedia.org/wiki/Julius_Gr%C3%BCnwald</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         </listOrg>
+      </back>
+  </text>
+</TEI>

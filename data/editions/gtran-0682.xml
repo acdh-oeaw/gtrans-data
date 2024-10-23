@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0682.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0681.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0683.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Übernahme der Heilkosten für bei Republiksausrufung verletzten Beamten Brügel</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/3419</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Gertrude Enderle-Burcel et al. (Hg.), Der österreichische Staatsrat. Protokolle des Vollzugsausschusses, des Staatsrates und des Geschäftsführenden Staatsratsdirektoriums 21. Oktober 1918 bis 14. Marz 1919, Band 1: 21. Oktober 1918 bis 14. November 1918, Wien 2008</repository>
+                    <msName>StRProt Nr. 31 vom 13. November 1918, in: Enderle-Burcel et al. (Hg.), Der österreichische Staatsrat, 388 u. 393.</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__1256">Staatsrat</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>Der Staatsrat beschließt, die Heilkosten für den bei der Republiksausrufung am 12. November 1918 verletzten Pressechef der Staatskanzlei Ludwig Brügel - er verlor ein Auge - zu übernehmen.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1918-11-13" notAfter="1918-11-13">
+                1918-11-13
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-10-25 10:17:30.922129+00:00" who="#pbecker"/><change when="2019-10-18 10:29:17.297668+00:00" who="#gsteiner"/><change when="2019-10-11 08:36:39.908341+00:00" who="#pbecker"/><change when="2019-01-07 14:42:41.397871+00:00" who="#gsteiner"/><change when="2019-01-07 14:40:13.118344+00:00" who="#gsteiner"/><change when="2018-12-21 15:53:05.284331+00:00" who="#gsteiner"/><change when="2018-12-21 15:30:14.706137+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__624"><persName><surname>Brügel</surname><forename>Ludwig</forename><roleName/></persName><birth when="1866-02-06">1866-02-06<placeName key="#place__455">Großmeseritsch</placeName></birth><death when="1942-08-30">1942-08-30<placeName key="#place__3115">Theresienstadt (KZ)</placeName></death><idno>http://d-nb.info/gnd/1047396122</idno></person><person xml:id="person__635"><persName><surname>Dinghofer</surname><forename>Franz</forename><roleName>Dr.</roleName></persName><birth when="1873-04-06">1873-04-06<placeName key="#place__517">Ottensheim</placeName></birth><death when="1956-01-12">1956-01-12<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118902830</idno></person><person xml:id="person__690"><persName><surname>Hauser</surname><forename>Johann Nepomuk</forename><roleName>Dr.</roleName></persName><birth when="1866-02-24">1866-02-24<placeName key="#place__479">Kopfing im Innkreis</placeName></birth><death when="1927-02-18">1927-02-18<placeName key="#place__490">Linz</placeName></death><idno>http://d-nb.info/gnd/118709178</idno></person><person xml:id="person__856"><persName><surname>Seitz</surname><forename>Karl</forename><roleName/></persName><birth when="1869-09-04">1869-09-04<placeName key="#place__580">Wien</placeName></birth><death when="1950-02-03">1950-02-03<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/119184745</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         </listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1253"><orgName>Staatskanzlei</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

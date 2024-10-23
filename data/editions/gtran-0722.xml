@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0722.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0721.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0723.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Wie werden sich die andersnationalen Staaten gegen die in den Punkten 1 bis 6 vorgebrachten Wünsche verhalten?</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2648</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>Bestand: Staatskanzlei - BKA/alt Varia 1919  Zwischenstaatliches Komitee; Verhandlungsschriften Nr. 26 - 50 zu den Sitzungen des zwischenstaatsamtlichen Komitees für Staatsbedienstetenangelegenheiten, Nr: 31., Unterpunkt: 02/7., Seite: 20</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__3257">Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>Wie werden sich die andersnationalen Staaten gegen die in den Punkten 1 bis 6 vorgebrachten Wünsche verhalten? ANTWORT DER KOMMISSION: Insoweit in den vorstehenden Punkten bereits auf zwischenstaatliche Vereinbarungen Bezug genommen wurde, lässt sich die Stellungnahme der Nationalstaaten zu den vorgebrachten Wünschen im dermaligen Zeitpunkte nicht beurteilen.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-03-14" notAfter="1919-03-14">
+                14. März 1919
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">zwischenstaatliche Vereinbarung</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-27 08:50:38.439400+00:00" who="#pbecker"/><change when="2019-10-02 07:03:19.896479+00:00" who="#pbecker"/><change when="2019-03-12 12:36:52.980175+00:00" who="#gsteiner"/><change when="2019-03-12 12:34:39.009047+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__910"><persName><surname>Wilfling</surname><forename>August</forename><roleName>Dr.</roleName></persName><birth/><death/></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__420"><placeName>Bukowina</placeName><location><geo decls="#LatLng">48.000000000000 25.500000000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/571096/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__963"><orgName>Ausschuss der Bukowinaer Staatsangestellten</orgName></org><org xml:id="org__1051"><orgName>fremdnationale Staaten</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

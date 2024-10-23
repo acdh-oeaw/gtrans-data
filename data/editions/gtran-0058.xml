@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0058.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0057.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0059.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Gesetze betreffend einmalige Anschaffungsbeiträge bzw. Teuerungszulagen für Lehrer</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2860</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>Bestand: ÖStA/AdR, Bundeskanzleramt, Staatsratsprotokolle 1. Republik, Protokoll Nr. 51 - 65, 30. 11. 1918 - 13. 1. 1919, 60. Sitzung vom 20. Dezember 1918, S. 1f., Karton: 3</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__1256">Staatsrat</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>StR Fink berichtet über die Gesetzesvorlagen betreffend die Gewährung eines Anschaffungsbeitrages sowie die Gewährung von Teuerungszulagen für Lehrer. StK Renner beantragt, mit der Auszahlung der Beträge nicht bis zur Gesetzwerdung zu warten und bittet um entsprechende Ermächtigung, welche ihm gegeben wird.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1918-12-20" notAfter="1918-12-20">
+                20. Dezember 1918
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-10-03 10:20:36.174042+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__3341"><persName><surname>Fink</surname><forename>Jodok</forename><roleName>Dr.</roleName></persName><birth when="1853-02-19">1853-02-19<placeName key="#place__3340">Andelsbuch</placeName></birth><death when="1929-07-01">1929-07-01<placeName key="#place__3340">Andelsbuch</placeName></death><idno>http://d-nb.info/gnd/120009889</idno></person><person xml:id="person__820"><persName><surname>Renner</surname><forename>Karl</forename><roleName>Dr.</roleName></persName><birth when="1870-12-14">1870-12-14<placeName key="#place__570">Unter-Tannowitz</placeName></birth><death when="1950-12-31">1950-12-31<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118599739</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         </listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__989"><orgName>Bürgerschule</orgName></org><org xml:id="org__1043"><orgName>Finanzkommission</orgName></org><org xml:id="org__1322"><orgName>Volksschule</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

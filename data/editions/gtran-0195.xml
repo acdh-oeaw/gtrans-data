@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0195.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0194.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0196.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Abgrenzung des deutschösterreichischen Postgebietes</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/3653</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>ÖStA/AdR, Bundeskanzleramt, Kabinettsratsprotokolle 1. Republik, Protokoll Nr. 1 bis 35, 31. 10. 1918 bis 30. 1. 1919, Kabinettsratsprotokoll Nr. 18 vom 29. November 1918, 5.</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__1105">Kabinettsrat</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>Staatssekretär Urban teilt mit, dass die tschechoslowakische Republik die vom Staatsrat festgesetzte Umgrenzung des Postgebietes in Böhmen, Mähren und Schlesien nicht zur Kenntnis genommen und diese Gebiete als zu ihrem Wirkungsbereich gehörig beansprucht hat. StS Urban beabsichtigt, das Ministerium für Post und Telegraphenwesen in Prag (Praha) zu verständigen, dass die deutschösterreichische Regierung alle ihre Verfügungen aufrecht erhalte. Dies wird vom Kabinettsrat mit Zustimmung zur Kenntnis genommen.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1918-11-29" notAfter="1918-11-29">
+                29. November 1918
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-10-12 11:38:20.343076+00:00" who="#pbecker"/><change when="2019-10-12 11:13:15.734528+00:00" who="#pbecker"/><change when="2019-01-28 13:52:18.095721+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__820"><persName><surname>Renner</surname><forename>Karl</forename><roleName>Dr.</roleName></persName><birth when="1870-12-14">1870-12-14<placeName key="#place__570">Unter-Tannowitz</placeName></birth><death when="1950-12-31">1950-12-31<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118599739</idno></person><person xml:id="person__890"><persName><surname>Urban</surname><forename>Karl</forename><roleName/></persName><birth when="1855-09-01">1855-09-01<placeName key="#place__523">Prag</placeName></birth><death when="1940-10-24">1940-10-24<placeName key="#place__523">Prag</placeName></death><idno>http://d-nb.info/gnd/1148771107</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__407"><placeName>Böhmen</placeName><location><geo decls="#LatLng">50.000000000000 14.500000000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3078198/</idno></place><place xml:id="place__430"><placeName>Deutschösterreich</placeName><idno type="GEONAMES"/></place><place xml:id="place__493"><placeName>Mähren</placeName><location><geo decls="#LatLng">49.500000000000 17.000000000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3070359/</idno></place><place xml:id="place__523"><placeName>Prag</placeName><location><geo decls="#LatLng">50.088040000000 14.420760000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3067696/</idno></place><place xml:id="place__538"><placeName>Schlesien</placeName><location><geo decls="#LatLng">51.000000000000 18.000000000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3066138/</idno></place><place xml:id="place__568"><placeName>umstrittenes Gebiet</placeName><idno type="GEONAMES"/></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1007"><orgName>deutschösterr. Regierung</orgName></org><org xml:id="org__1051"><orgName>fremdnationale Staaten</orgName></org><org xml:id="org__1105"><orgName>Kabinettsrat</orgName></org><org xml:id="org__1185"><orgName>Post</orgName></org><org xml:id="org__1224"><orgName>Staatsamt des Äußern</orgName></org><org xml:id="org__1256"><orgName>Staatsrat</orgName></org><org xml:id="org__1290"><orgName>tschechoslowakischer Staat</orgName></org><org xml:id="org__3652"><orgName>Ministerium für Post- und Telegraphenwesen (Tschechoslowakei)</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

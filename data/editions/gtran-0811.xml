@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0811.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0810.xml" xml:base="https://gtrans.acdh.oeaw.ac.at" next="https://gtrans.acdh.oeaw.ac.at/gtran-0812.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Weitere Behandlung der im Küstenlande tätig gewesenen Beamten der politischen Verwaltung deutscher Stammesangehörigkeit</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#kmegner">Megner, Karl</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/3865</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>Deutschösterreichische Staatskanzlei Zahl 330/1918</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Akt</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><p>Fries-Skene führt in einem Schreiben an das Präsidium des Deutschösterreichischen Staatsrates in Wien aus, dass er nach seiner Bestellung zum Statthalter des Küstenlandes den italienischen und südslawischen Einfluss durch das Heranziehen deutscher Beamter zurückdrängen wollte. Er besetzte die Posten im Präsidialbüro der Statthalterei "durchwegs mit deutschen Beamten".  Das k.k. Ministerium des Inneren verfügt zu Kriegsende die Evakuierung der Statthalterei. Ein großer Teil der Beamtenschaft blieb in Triest. Die Beamten deutscher Nationalität verließen Triest, weil sie weder im italienischen Triest noch im südslawischen Staat eine berufliche Zukunft sahen. Die Liste umfasst die Namen von 14 Beamten.</p><msItem><author ref="#person__820">Dr. Karl Renner</author></msItem><msItem><author ref="#org__1253">Staatskanzlei</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#kmegner">
+            <p>Der k. k. Statthalter in Triest (Trieste) und im Küstenland Alfred Freiherr von Fries-Skene ersucht um die Übernahme von vierzehn Beamten deutscher Nationalität seiner Statthalterei in den deutschösterreichischen Staatsdienst. Karl Renner empfiehlt dem Unterstaatssekretär im Staatsamt für Finanzen Eugen Beck von Mannagetta und Lerchenau die "wohlwollende Würdigung" des Gesuches.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1918-11-22" notAfter="1918-11-22">
+                22. November 1918
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-11-03 23:33:51.163838+00:00" who="#kmegner"/><change when="2019-10-21 21:09:54.281834+00:00" who="#kmegner"/><change when="2019-10-21 20:32:35.844397+00:00" who="#kmegner"/><change when="2019-10-21 20:02:05.311363+00:00" who="#kmegner"/><change when="2019-10-21 19:57:13.795803+00:00" who="#kmegner"/><change when="2019-10-21 19:07:06.626042+00:00" who="#kmegner"/><change when="2019-10-21 11:02:12.788781+00:00" who="#gsteiner"/><change when="2019-10-21 10:47:14.659653+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__609"><persName><surname>Beck von Managetta</surname><forename>Eugen</forename><roleName>Dr.</roleName></persName><birth when="1861-06-15">1861-06-15<placeName key="#place__524">Preßburg</placeName></birth><death when="1943-11-07">1943-11-07<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/137693036; https://www.deutsche-biographie.de/pnd137693036.html</idno></person><person xml:id="person__3866"><persName><surname>Eicha</surname><forename>Egon</forename><roleName>Dr.</roleName></persName><birth/><death/></person><person xml:id="person__3880"><persName><surname>Fries-Skene</surname><forename>Alfred</forename><roleName>Dr.</roleName></persName><birth when="1870-06-17">1870-06-17</birth><death when="1947-12-16">1947-12-16</death><idno>https://www.biographien.ac.at/oebl/oebl_F/Fries-Skene_Alfred_1870_1947.xml</idno></person><person xml:id="person__3872"><persName><surname>Hirsch</surname><forename>Karl</forename><roleName>Dr.</roleName></persName><birth/><death/></person><person xml:id="person__3868"><persName><surname>Hohenbruck</surname><forename>Oskar</forename><roleName>Dr.</roleName></persName><birth>1876</birth><death>1972</death><idno>https://www.myheritage.at/search-records?action=person&amp;siteId=124879041&amp;indId=37000083&amp;origin=profile</idno></person><person xml:id="person__3870"><persName><surname>Huber</surname><forename>Otto</forename><roleName/></persName><birth/><death/></person><person xml:id="person__3869"><persName><surname>Karminski</surname><forename>Bernhard</forename><roleName>Dr.</roleName></persName><birth/><death/></person><person xml:id="person__3878"><persName><surname>Kauer</surname><forename>Robert</forename><roleName>Dr.</roleName></persName><birth/><death/></person><person xml:id="person__3874"><persName><surname>Ledochowski</surname><forename>Karl</forename><roleName/></persName><birth/><death/></person><person xml:id="person__3877"><persName><surname>Lund</surname><forename>Egon</forename><roleName>Dr.</roleName></persName><birth/><death/></person><person xml:id="person__3873"><persName><surname>Maselle</surname><forename>Egon</forename><roleName>Dr.</roleName></persName><birth/><death/></person><person xml:id="person__776"><persName><surname>Müller</surname><forename>Rudolf</forename><roleName/></persName><birth/><death/></person><person xml:id="person__3867"><persName><surname>Pipitz</surname><forename>Ernst</forename><roleName>Dr.</roleName></persName><birth/><death/></person><person xml:id="person__3871"><persName><surname>Schlögl</surname><forename>Georg</forename><roleName>Dr.</roleName></persName><birth/><death/></person><person xml:id="person__3879"><persName><surname>Skokan</surname><forename>Franz</forename><roleName/></persName><birth/><death/></person><person xml:id="person__3875"><persName><surname>Stern</surname><forename>Georg</forename><roleName>Dr.</roleName></persName><birth/><death/></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__483"><placeName>Küstenland</placeName><idno type="GEONAMES"/></place><place xml:id="place__564"><placeName>Triest</placeName><location><geo decls="#LatLng">45.649530000000 13.776780000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3165185/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1015"><orgName>Statthalterei Küstenland</orgName></org><org xml:id="org__1220"><orgName>Staatsamt für Finanzen</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

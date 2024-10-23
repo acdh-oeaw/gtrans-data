@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0559.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0558.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0560.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Übernahme eines ehemaligen österr. Beamten der politischen Verwaltung in Krain</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2572</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>Bestand: Staatskanzlei - BKA/alt Varia 1919  Zwischenstaatliches Komitee; Verhandlungsschriften Nr. 1 - 25 zu den Sitzungen des zwischenstaatsamtlichen Komitees für Staatsbedienstetenangelegenheiten, Nr: 12., Unterpunkt: 11., Seite: 29f</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__3257">Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>Ein Beamter der politischen Verwaltung in Krain, der seit 12 Jahren in Wien im Unterrichtsressort in Verwendung stand, wird zur Übernahme in den deutschösterr. Dienst im Ressort des Staatsamtes des Innern beantragt. Dieses urteilt, dass dieser Beamte zweifelsohne zum Ressort des bestandenen k.k. Ministeriums für Kultus gehöre und für ihn in Bezug auf die Durchführung der Richtlinien das StA für Unterricht zuständig sei. Das StA des Innern könne auch nicht über Beamte der politischen Verwaltung eines Fremdstaates verfügen. Außerdem benötige man - auch im Sinne des Kabinettsratsbeschlusses vom Abbau der Beamten - keine zusätzliche administrative Kraft. Die unter Verweisung des ohne vorherige hierortige Fühlungnahme ausgefertigten Enthebungsdekretes erstattete Meldung des genannten Landesregierungssekretärs zum Dienstantritt konnte daher nicht entgegengenommen werden. ANTWORT DER KOMMISSION: Der Erledigung wird zugestimmt.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-01-09" notAfter="1919-01-09">
+                9. Jänner 1919
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-10-27 08:12:37.571344+00:00" who="#pbecker"/><change when="2019-10-18 14:09:21.325832+00:00" who="#gsteiner"/><change when="2019-09-21 22:33:49.753100+00:00" who="#pbecker"/><change when="2019-03-05 18:29:20.340322+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         </listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__480"><placeName>Krain</placeName><idno type="GEONAMES"/></place><place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1027"><orgName>k.k. Ministerium für Kultus und Unterricht</orgName></org><org xml:id="org__1051"><orgName>fremdnationale Staaten</orgName></org><org xml:id="org__1225"><orgName>Staatsamt des Innern</orgName></org><org xml:id="org__1238"><orgName>Staatsamt für Unterricht</orgName></org><org xml:id="org__1267"><orgName>statistische Zentralkommission</orgName></org><org xml:id="org__3798"><orgName>Zentraldirektion für Schulbuchverläge</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

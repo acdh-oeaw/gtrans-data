@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0784.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0783.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0785.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Reform der allgemeinen Dienstpragmatik</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#vhelfert">Helfert, Veronika</rs></editor><editor><rs ref="#tgarstenauer">Garstenauer, Therese</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2475</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Wiener Stadt- und Landesarchiv</repository>
+                    <msName>Bestand: Wiener Stadt- und Landesarchiv, 1.5.3 Magistratsdirektion, Karton: #NR, Aktenzahl: 2621/1919 [1]</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Akt</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><p>Aufbewahrt mit Akt 791/1919</p></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#vhelfert #tgarstenauer">
+            <p>Schreiben des Vorstandes des Verbands der Angestellten der Gemeinde Wien vom 29. März 1919 an die Magistratsdirektion, in der dieser einen Entwurf für eine allgemeine Dienstordnung überreicht, mit der Bitte, dieselbe durch die zuständigen Ämter überprüfen zu lassen und dem Komitee eine Stellungnahme von der Magistratsdirektion vorzulegen. Der Verband betont, dass es sich mit ihrem Vorschlag um eine "Verhandlungsgrundlage" handelt. Beilage: Entwurf einer allgemeinen Dienstordnung für die Angestellten der Stadt Wien. Dem liegen Stellungnahmen einzelner städtischer Unternehmungen und Ämter zum Entwurf bei, wie beispielsweise: ein Schreiben an Magistratsrat W. Gmeiner von der Magistratsdirektion (Ober-Magistratsrat Dr. Josef Müller) vom 7. April 1919 mit Hinweis darauf, die Heiratsbeschränkungen der Angestellten der Unternehmungen, die in der jetzigen Dienstpragmatik festgeschrieben sind, zu überdenken; eine "Anregung" des Direktors der städtischen Leichenbestattung, Dr. Rauscher, zum Konkurrenzverbot der Leichenbestattung; vom Gesundheitsamt (Schreiben vom 10. April 1919) Anmerkungen zu fachlichen Voraussetzungen; des Vereins der Beamten der Wiener Stadtbuchhaltung (14. April 1919), die u.a. darauf aufmerksam machen, dass die Stadtbuchhaltung als Kontrollorgan unabhängig bleiben muss etc. Letztes Stück ist ein gedrucktes zweiseitiges programmatisches Papier des Verbandsausschusses für die Ausarbeitung einer allgemeinen Dienstordnung mit dem Titel "Reform der allgem. Dienstordnung".</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-03-29" notAfter="1919-04-14">
+                1919-03-29
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-09-21 07:09:02.910094+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__666"><persName><surname>Gmeiner</surname><forename>Wilhelm</forename><roleName>Magistratsrat</roleName></persName><birth/><death/></person><person xml:id="person__775"><persName><surname>Müller</surname><forename>Josef</forename><roleName>Ober-Magistratsrat Dr.</roleName></persName><birth when="1881-06-01">1881-06-01</birth><death when="1961-03-31">1961-03-31<placeName key="#place__580">Wien</placeName></death></person><person xml:id="person__811"><persName><surname>Rauscher</surname><forename>Leopold</forename><roleName/></persName><birth/><death/></person><person xml:id="person__859"><persName><surname>Siegmeth</surname><forename/><roleName>Mag.Sekr.Dr.</roleName></persName><birth/><death/></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         </listOrg>
+      </back>
+  </text>
+</TEI>

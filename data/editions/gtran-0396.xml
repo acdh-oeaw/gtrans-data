@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0396.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0395.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0397.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Begünstigungen für Lehrpersonen, die an der Realschule in Marburg bleiben wollen, die von der jugoslaw. Regierung weiterbetrieben wird</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2715</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>Bestand: Staatskanzlei - BKA/alt Varia 1919  Zwischenstaatliches Komitee; Verhandlungsschriften, Nr: 58., Unterpunkt: 01., Seite: 01f</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__3257">Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>Professoren an der deutschen Realschule in Marburg (Maribor) beabsichtigen, sich von der jugoslaw. Regierung, die diese Anstalt weiterführen will, nur vertragsmäßig, zunächst auf 3 Jahre zur Dienstleistung an der deutschen Realschule in Marburg bestellen zu lassen, jedoch nur gegen die Zusicherung verschiedener Begünstigungen durch die deutschösterr. Unterrichtsverwaltung und zwar vor allem Verbleib im deutschösterr. Dienst, sofortige Verleihung einer Lehrstelle an einer deutschösterr. Mittelschule, Gewährung einer Personalzulage und der Übersiedlungskosten. Es handelt sich um solche Staatslehrpersonen, die seinerzeit das Gelöbnis auf den deutschösterr. Staat abgelegt haben. Das StA für Unterricht beabsichtigt, diesen Mittelschullehrern dekretmäßig ihre Eigenschaft als deutschösterr. Staatslehrpersonen und ihre Bestellung zu wirklichen Lehrern in Deutschösterreich mit Vorbehalt des Dienstortes, im Fall Marburg (Maribor) aus dem Gebiet Deutschösterreichs endgültig ausscheiden sollte, zu bestätigen. Außerdem soll ihnen die Dienstzeit in Jugoslawien voll eingerechnet werden. ANTWORT DER KOMMISSION: Mit dem notwendigen Bestreben der deutschösterr. Regierung, der deutschen Bevölkerung der an fremde Nationalstaaten verloren gegangenen Gebiete ihre deutschen Lehrer und Beamten zu erhalten, erscheint es ganz unvereinbar, wenn deutsche Staatslehrpersonen, die von der jugoslawischen Regierung vorläufig auf ihren Dienstposten belassen werden und aller Wahrscheinlichkeit auch in Hinkunft werden gebraucht werden, durch derartige Zusicherungen bewogen würden, allenfalls ihre Dienstposten ohne zwingenden Grund zu verlassen. Äußerstenfalls könnte diesen Lehrpersonen die Bestellung zu wirklichen Lehrern im deutschösterr. Staatsgebiete für den Fall zugesichert werden, dass sie ohne ihr Verschulden, lediglich wegen ihrer Zugehörigkeit zur deutschen Nation von der südslaw. Regierung zum Verlassen ihrer Dienstposten gezwungen würden. Das Eingehen einer weiteren Verpflichtung entspricht nicht den Interessen der deutschösterr. Republik.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-09-13" notAfter="1919-09-13">
+                13. September 1919
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-10-27 09:20:02.021979+00:00" who="#pbecker"/><change when="2019-10-24 12:20:38.961688+00:00" who="#pbecker"/><change when="2019-10-20 06:34:35.985632+00:00" who="#gsteiner"/><change when="2019-10-02 14:42:03.342685+00:00" who="#pbecker"/><change when="2019-03-28 10:40:41.015663+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         </listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__430"><placeName>Deutschösterreich</placeName><idno type="GEONAMES"/></place><place xml:id="place__499"><placeName>Marburg</placeName><location><geo decls="#LatLng">46.554720000000 15.646670000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3195506/</idno></place><place xml:id="place__544"><placeName>SHS-Staat</placeName><location><geo decls="#LatLng">44.000000000000 19.750000000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/7500737/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__996"><orgName>Deutsche Realschule Marburg (Maribor)</orgName></org><org xml:id="org__1007"><orgName>deutschösterr. Regierung</orgName></org><org xml:id="org__1051"><orgName>fremdnationale Staaten</orgName></org><org xml:id="org__1156"><orgName>Mittelschule</orgName></org><org xml:id="org__1200"><orgName>Regierung des SHS-Staates</orgName></org><org xml:id="org__1238"><orgName>Staatsamt für Unterricht</orgName></org><org xml:id="org__3301"><orgName>Deutschösterreichischer Staat</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

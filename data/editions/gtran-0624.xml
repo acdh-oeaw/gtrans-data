@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0624.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0623.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0625.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Angelobung der Zionistin Anna Muschl</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2618</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>Bestand: Staatskanzlei - BKA/alt Varia 1919  Zwischenstaatliches Komitee; Verhandlungsschriften Nr. 1 - 25 zu den Sitzungen des zwischenstaatsamtlichen Komitees für Staatsbedienstetenangelegenheiten, Nr: 24., Unterpunkt: 05., Seite: 68</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__3257">Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>StA für öffentliche Arbeiten: Die Assistentin der Staatsgewerbeschule in Wien, Anna Muschl bekennt sich ausdrücklich zur jüdischen Nation. Die Genannte ist in Wien geboren, dorthin zuständig, hat deutsche Schulen besucht und bei der Volkszählung im Jahr 1910 die deutsche Sprache als Umgangssprache angegeben. Kann die Genannte im Sinn der Kabinettsbeschlüsse vom 23. November 1918 für den deutschösterr. Staatsdienst angelobt werden? ANTWORT DER KOMMISSION: Die Genannte kann im Sinne der Richtlinien zum Gelöbnis für den deutschösterr. Staat nicht zugelassen werden, wenn sie sich nicht ausdrücklich zur "deutschen Nation" bekennt. (Siehe auch Beschluss Punkt 3 der Verhandlungsschrift Nr. 20).</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-02-11" notAfter="1919-02-11">
+                11. Februar 1919
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-10-27 08:36:31.493509+00:00" who="#pbecker"/><change when="2019-10-18 18:26:07.278831+00:00" who="#gsteiner"/><change when="2019-09-25 18:09:43.811692+00:00" who="#pbecker"/><change when="2019-03-08 14:49:53.008985+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__778"><persName><surname>Muschl</surname><forename>Anna</forename><roleName/></persName><birth/><death/></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1235"><orgName>Staatsamt für öffentliche Arbeiten</orgName></org><org xml:id="org__1251"><orgName>Staatsgewerbeschule Wien</orgName></org><org xml:id="org__3301"><orgName>Deutschösterreichischer Staat</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

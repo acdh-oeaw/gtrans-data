@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0318.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0317.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0319.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Allgemeine Nachrichten. Komitee zur Beratung über Maßnahmen zugunsten der städtischen Angestellten</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#vhelfert">Helfert, Veronika</rs></editor><editor><rs ref="#tgarstenauer">Garstenauer, Therese</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/3007</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Wiener Stadt- und Landesarchiv</repository>
+                    <msName>Bestand: Wiener Stadt- und Landesarchiv, Archivbibliothek, BiblM - M - Amtsperiodika, Verwaltungsberichte, Adressbücher, Signatur: M 599 28/1 1. Ex., Punkt/Seite: o.P.; 498</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Amtsblatteintrag</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents/></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#vhelfert #tgarstenauer">
+            <p>„Komitee zur Beratung über Maßnahmen zugunsten der städtischen Angestellten“. Folgende Personen wurden in der GR-Sitzung am 19.2.1919 hineingewählt: GR Karl Angermayer, Hugo Breitner, Adolf Gussenbauer, Josef Hellmann, Alois Moißl, Karl Untermüller, Karl Vaugoin, Karl Weigl.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-02-19" notAfter="1919-02-19">
+                
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-10-09 15:09:51.575191+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__602"><persName><surname>Angermayer</surname><forename>Karl</forename><roleName/></persName><birth when="1862-11-17">1862-11-17<placeName key="#place__580">Wien</placeName></birth><death when="1941-04-05">1941-04-05<placeName key="#place__580">Wien</placeName></death><idno>https://de.wikipedia.org/wiki/Karl_Angermayer</idno></person><person xml:id="person__620"><persName><surname>Breitner</surname><forename>Hugo</forename><roleName/></persName><birth when="1873-11-09">1873-11-09<placeName key="#place__580">Wien</placeName></birth><death when="1946-03-05">1946-03-05<placeName key="#place__3127">Claremont</placeName></death><idno>http://d-nb.info/gnd/119179504</idno></person><person xml:id="person__682"><persName><surname>Gussenbauer</surname><forename>Adolf</forename><roleName/></persName><birth/><death/></person><person xml:id="person__695"><persName><surname>Hellmann</surname><forename>Josef</forename><roleName/></persName><birth when="1865-10-18">1865-10-18</birth><death when="1939-05-11">1939-05-11</death></person><person xml:id="person__774"><persName><surname>Moißl</surname><forename>Alois</forename><roleName/></persName><birth><placeName key="#place__481">Krems</placeName></birth><death/></person><person xml:id="person__889"><persName><surname>Untermüller</surname><forename>Karl</forename><roleName/></persName><birth/><death/></person><person xml:id="person__891"><persName><surname>Vaugoin</surname><forename>Karl</forename><roleName/></persName><birth/><death/></person><person xml:id="person__902"><persName><surname>Weigl</surname><forename>Karl</forename><roleName/></persName><birth/><death/></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1113"><orgName>Komitee zur Beratung über Maßnahmen zu Gunsten der städtischen Angestellten</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

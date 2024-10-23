@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0489.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0488.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0490.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Reform der allgemeinen Dienstpragmatik : Forderung nach Außerkraftsetzung der Regelungen, die öffentlichen Bediensteten die Fortsetzung ihrer Studien und die Ablegung von Prüfungen erschweren oder unmöglich machen</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#vhelfert">Helfert, Veronika</rs></editor><editor><rs ref="#tgarstenauer">Garstenauer, Therese</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2508</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Wiener Stadt- und Landesarchiv</repository>
+                    <msName>Bestand: Wiener Stadt- und Landesarchiv, 1.5.3 Magistratsdirektion, Karton: ?, Aktenzahl: 2621/1919</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Akt</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents/></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#vhelfert #tgarstenauer">
+            <p>In der Gemeinderatssitzung vom 24. 4. 1919 wurde ein Antrag an die Regierung gestellt, "zu veranlassen, daß die veralteten Bestimmungen ehestens außer Kraft gesetzt werden, die den im öffentlichen Dienst stehenden Beamten und Angestellten die Fortsetzung ihrer Studien und die Ablegung von Prüfungen an Hochschulen erschweren oder unmöglich machen." Der Stadtbaudirektor [Unterschrift unleserlich, (noch) nicht Franz Siegel] antwortet darauf in einem ausführlichen Schreiben vom 10. Juni 1919, dass aufgrund des zeitlichen Aufwands eines Hochschulstudiums (Hauptvorlesungen an Vormittagen...) ein solches Studium nur in Ausnahmefällen oder bloß für Angestellte niedrigerer Gruppen zuzulassen ist, also die bisherigen Regelungen beizubehalten sind.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-05-01" notAfter="1919-08-11">
+                1919-05-01
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-09-21 10:17:18.732617+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         </listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         </listOrg>
+      </back>
+  </text>
+</TEI>

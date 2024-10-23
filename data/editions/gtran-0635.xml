@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0635.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0634.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0636.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Gemeinderat. Stenographischer Bericht über die Sitzung vom 23. Mai 1919. 17</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#vhelfert">Helfert, Veronika</rs></editor><editor><rs ref="#tgarstenauer">Garstenauer, Therese</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/3036</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Wiener Stadt- und Landesarchiv</repository>
+                    <msName>Bestand: Wiener Stadt- und Landesarchiv, Archivbibliothek, BiblM - M - Amtsperiodika, Verwaltungsberichte, Adressbücher, Signatur: M 599 28/2 1. Ex., Punkt/Seite: 17; 1232-1269</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Amtsblatteintrag</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents/></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#vhelfert #tgarstenauer">
+            <p>17. Berichterstatter GR Weigl: Vorlage zur Verbesserung der Bezüge der Straßenbahnbediensteten und der damit zusammenhängenden Tariferhöhung. Bericht [1232–1240]; Debatte [1240 – 1266]: u.a. Einwand der cs. GR, dass nicht alle Berufsorganisationen (die cs. Straßenbahner nämlich) bei der Aushandlung des Kollektivvertrages miteinbezogen worden sind. Verweis von Berichterstatter Weigl, dass die mit der großen Mehrheit (nämlich: die Organisation der Handels- und Transportarbeiter) einbezogen wurde und das zukünftig diese Frage mit dem Betriebsrätegesetz geregelt wird; Abstimmung [1266 – 1268]; Beschluß [1268f.].</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-05-23" notAfter="1919-05-23">
+                
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Personalvertretung</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Betriebsrat</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Koalitionsfreiheit</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Lohnverhandlung</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Jude</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Ruhestand</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-09 19:43:26.517479+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__620"><persName><surname>Breitner</surname><forename>Hugo</forename><roleName/></persName><birth when="1873-11-09">1873-11-09<placeName key="#place__580">Wien</placeName></birth><death when="1946-03-05">1946-03-05<placeName key="#place__3127">Claremont</placeName></death><idno>http://d-nb.info/gnd/119179504</idno></person><person xml:id="person__632"><persName><surname>David</surname><forename>Anton</forename><roleName/></persName><birth when="1849-04-23">1849-04-23<placeName key="#place__3135">Smichow</placeName></birth><death when="1924-12-21">1924-12-21<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/1055020055</idno></person><person xml:id="person__643"><persName><surname>Emmerling</surname><forename>Georg</forename><roleName/></persName><birth when="1870-07-12">1870-07-12<placeName key="#place__580">Wien</placeName></birth><death when="1948-12-12">1948-12-12<placeName key="#place__580">Wien</placeName></death><idno>https://de.wikipedia.org/wiki/Georg_Emmerling</idno></person><person xml:id="person__647"><persName><surname>Feldmann</surname><forename>Johann</forename><roleName/></persName><birth/><death/></person><person xml:id="person__652"><persName><surname>Forstner</surname><forename>August</forename><roleName/></persName><birth when="1876-07-29">1876-07-29<placeName key="#place__580">Wien</placeName></birth><death when="1941-02-14">1941-02-14<placeName key="#place__3118">Wolfpassing bei Zeiselmauer</placeName></death><idno>http://d-nb.info/gnd/14403347X</idno></person><person xml:id="person__663"><persName><surname>Glasauer</surname><forename>Oswald</forename><roleName>Dr.</roleName></persName><birth/><death/></person><person xml:id="person__685"><persName><surname>Haider</surname><forename>Franz</forename><roleName/></persName><birth when="1877-05-15">1877-05-15<placeName key="#place__3162">Friedburg</placeName></birth><death when="1951-10-20">1951-10-20<placeName key="#place__580">Wien</placeName></death><idno>https://de.wikipedia.org/wiki/Franz_Haider_(Politiker,_1877)</idno></person><person xml:id="person__709"><persName><surname>Hoß</surname><forename>Franz</forename><roleName/></persName><birth when="1866-11-04">1866-11-04<placeName key="#place__3167">Floridsdorf</placeName></birth><death when="1947-08-12">1947-08-12<placeName key="#place__580">Wien</placeName></death><idno>https://de.wikipedia.org/wiki/Franz_Ho%C3%9F</idno></person><person xml:id="person__728"><persName><surname>Kienböck</surname><forename>Viktor</forename><roleName>Dr.</roleName></persName><birth when="1873-01-18">1873-01-18<placeName key="#place__580">Wien</placeName></birth><death when="1956-11-23">1956-11-23<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/129085804</idno></person><person xml:id="person__735"><persName><surname>Klimeš</surname><forename>Johann</forename><roleName/></persName><birth when="1881-01-01">1881-01-01</birth><death/></person><person xml:id="person__746"><persName><surname>Kunschak</surname><forename>Leopold</forename><roleName/></persName><birth when="1871-11-11">1871-11-11<placeName key="#place__580">Wien</placeName></birth><death when="1953-03-13">1953-03-13<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118725432</idno></person><person xml:id="person__760"><persName><surname>Machat</surname><forename>Anton</forename><roleName/></persName><birth when="1880-11-05">1880-11-05<placeName key="#place__3245">Lomnička</placeName></birth><death when="1967-02-26">1967-02-26<placeName key="#place__523">Prag</placeName></death><idno>http://d-nb.info/gnd/126564442</idno></person><person xml:id="person__775"><persName><surname>Müller</surname><forename>Josef</forename><roleName>Ober-Magistratsrat Dr.</roleName></persName><birth when="1881-06-01">1881-06-01</birth><death when="1961-03-31">1961-03-31<placeName key="#place__580">Wien</placeName></death></person><person xml:id="person__821"><persName><surname>Reumann</surname><forename>Jakob</forename><roleName/></persName><birth/><death/></person><person xml:id="person__833"><persName><surname>Scheu</surname><forename>Gustav</forename><roleName>Dr.</roleName></persName><birth/><death/></person><person xml:id="person__877"><persName><surname>Täubler</surname><forename>Alexander</forename><roleName/></persName><birth><placeName key="#place__462">Iglau</placeName></birth><death/></person><person xml:id="person__889"><persName><surname>Untermüller</surname><forename>Karl</forename><roleName/></persName><birth/><death/></person><person xml:id="person__891"><persName><surname>Vaugoin</surname><forename>Karl</forename><roleName/></persName><birth/><death/></person><person xml:id="person__901"><persName><surname>Weber</surname><forename>Anton</forename><roleName/></persName><birth when="1878-11-05">1878-11-05</birth><death when="1950-12-28">1950-12-28<placeName key="#place__580">Wien</placeName></death></person><person xml:id="person__902"><persName><surname>Weigl</surname><forename>Karl</forename><roleName/></persName><birth/><death/></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1176"><orgName>Organisation der christlichsozialen Straßenbahnbediensteten</orgName></org><org xml:id="org__1277"><orgName>Straßenbahnen (städtische)</orgName></org><org xml:id="org__1301"><orgName>Verband der Handels-, Transport- und Verkehrsarbeiter und -Arbeiterinnen Österreichs</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

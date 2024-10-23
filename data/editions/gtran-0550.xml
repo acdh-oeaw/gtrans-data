@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0550.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0549.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0551.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Behandlung der enthobenen ehemals österr. Staatsbediensteten ital. Nationalität: Eventualantrag Dr. Bugatto.</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2532</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>Bestand: Staatskanzlei - BKA/alt Varia 1919  Zwischenstaatliches Komitee; Verhandlungsschriften Nr. 1 - 25 zu den Sitzungen des zwischenstaatsamtlichen Komitees für Staatsbedienstetenangelegenheiten, Nr: 01.,Unterpunkt: 08., Seite: 4</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__3257">Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>Behandlung der enthobenen ehemals österr. Staatsbediensteten ital. Nationalität. Eventualantrag Dr. Bugatto: Für Staatsbedienstete italienischer Nationalität, deren Nationalstaat auf der Gesandtenkonferenz nicht vertreten ist, sind bis zur Erzielung einer Vereinbarung ebensolche Beihilfen seitens der Staaten, in deren Bereiche sie sich derzeit aufhalten, und zwar gegen seinerzeitige Verrechnung anlässlich der zwischenstaatlichen Liquidierung der gegenseitigen Verpflichtungsverhältnisse, vorschussweise zu gewähren. ANTWORT DER KOMMISSION: Sachlich ja, zwischenstaatlich zu regeln.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1918-12-09" notAfter="1918-12-09">
+                9. Dezember 1918
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">zwischenstaatliche Vereinbarung</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-26 12:53:53.168400+00:00" who="#pbecker"/><change when="2019-10-18 06:51:28.541836+00:00" who="#gsteiner"/><change when="2019-09-21 16:45:33.953880+00:00" who="#pbecker"/><change when="2019-02-26 16:03:01.009791+00:00" who="#gsteiner"/><change when="2019-02-26 16:02:11.684847+00:00" who="#gsteiner"/><change when="2019-02-26 16:01:56.798147+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__625"><persName><surname>Bugatto</surname><forename/><roleName/></persName><birth/><death/></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         </listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1066"><orgName>Gesandtenkonferenz</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

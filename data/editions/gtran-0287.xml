@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0287.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0286.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0288.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Landesregierungen und Staatsmacht</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/3722</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>ÖStA/AdR, Bundeskanzleramt, Kabinettsratsprotokolle 1. Republik, Protokoll Nr. 1 bis 35, 31. 10. 1918 bis 30. 1. 1919, Kabinettsratsprotokoll Nr. 27 vom 3. Jänner 1919</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__1105">Kabinettsrat</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>UStS Riedl berichtet über die Vorstellung des Kabinetts an den Staatsrat betreffend die Eigenmächtigkeit der Landesregierungen. Er sieht die Gefahr, dass diese oft aus der Not der Zeit erwachsenen Eigenmächtigkeiten ein Dauerzustand und eine Gefahr für den Gesamtstaat werden. Er erinnert an das Schlagwort "Los von Wien". Er sieht die Lösung darin, dass einerseits die breite Öffentlichkeit überzeugt werden müsse, dass solcher Regionalismus zum Zerfall führe, zweitens müssten den berechtigten Wünschen der Länder Rechnung getragen werden und drittens müsste die Zentralregierung ihre Befehle wirksam durchsetzen können. StS Steinwender plädiert für die Schaffung einer Länderkammer als zweite Kammer des Parlaments. Die Diskutanten sprechen sich für eine stärkere Zusammenarbeit mit den Ländern aus. StK Renner will die Thematik in einer Denkschrift darstellen. Den Landesregierungen solle der größte Teil an Selbstregierung durch die Nationalversammlung eingeräumt werden, ein bestimmtes Maß von Gewalt der Zentralregierung müsse jedoch gesichert bleiben. Dem stimmt der Kabinettsrat zu.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-01-03" notAfter="1919-01-03">
+                3. Jänner 1919
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Autonomie</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Bundesländer</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Föderalismus</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Verwaltung</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-12 21:13:13.454457+00:00" who="#pbecker"/><change when="2019-02-06 12:48:09.462253+00:00" who="#gsteiner"/><change when="2019-02-06 12:37:23.503820+00:00" who="#gsteiner"/><change when="2019-02-06 12:35:15.736227+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__3305"><persName><surname>Hanusch</surname><forename>Ferdinand</forename><roleName/></persName><birth when="1866-11-09">1866-11-09<placeName key="#place__3304">Wigstadtl</placeName></birth><death when="1923-09-28">1923-09-28<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118701460</idno></person><person xml:id="person__797"><persName><surname>Pflügl</surname><forename>Egon</forename><roleName>Dr.</roleName></persName><birth when="1869-09-09">1869-09-09<placeName key="#place__490">Linz</placeName></birth><death when="1960-06-18">1960-06-18<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/103933921</idno></person><person xml:id="person__820"><persName><surname>Renner</surname><forename>Karl</forename><roleName>Dr.</roleName></persName><birth when="1870-12-14">1870-12-14<placeName key="#place__570">Unter-Tannowitz</placeName></birth><death when="1950-12-31">1950-12-31<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118599739</idno></person><person xml:id="person__824"><persName><surname>Riedl</surname><forename>Richard</forename><roleName>Dr.</roleName></persName><birth when="1865-12-08">1865-12-08<placeName key="#place__580">Wien</placeName></birth><death when="1944-03-09">1944-03-09<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/117532541</idno></person><person xml:id="person__872"><persName><surname>Steinwender</surname><forename>Otto</forename><roleName>Dr.</roleName></persName><birth when="1847-02-17">1847-02-17<placeName key="#place__473">Klagenfurt</placeName></birth><death when="1921-03-20">1921-03-20<placeName key="#place__575">Villach</placeName></death><idno>http://d-nb.info/gnd/120148269</idno></person><person xml:id="person__3284"><persName><surname>Stöckler</surname><forename>Josef</forename><roleName/></persName><birth when="1866-06-08">1866-06-08<placeName key="#place__3283">St. Valentin (NÖ)</placeName></birth><death when="1936-12-09">1936-12-09<placeName key="#place__3283">St. Valentin (NÖ)</placeName></death><idno>http://d-nb.info/gnd/103681033X</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__404"><placeName>Berlin</placeName><location><geo decls="#LatLng">52.524370000000 13.410530000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2950159/</idno></place><place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1007"><orgName>deutschösterr. Regierung</orgName></org><org xml:id="org__1029"><orgName>ehemals österreichisch-ungarische Monarchie</orgName></org><org xml:id="org__1030"><orgName>k.k. Regierung</orgName></org><org xml:id="org__1105"><orgName>Kabinettsrat</orgName></org><org xml:id="org__1120"><orgName>Konstituierende Nationalversammlung</orgName></org><org xml:id="org__1131"><orgName>Länderkammer</orgName></org><org xml:id="org__1133"><orgName>Landesregierung</orgName></org><org xml:id="org__1256"><orgName>Staatsrat</orgName></org><org xml:id="org__1323"><orgName>Volkswehr</orgName></org><org xml:id="org__3301"><orgName>Deutschösterreichischer Staat</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0896.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0895.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0897.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Rückführung von Staats- und Staatsbahnbeamten deutscher Nation aus dem slowenischen Machtbereich</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2620</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>Bestand: Staatskanzlei - BKA/alt Varia 1919  Zwischenstaatliches Komitee; Verhandlungsschriften Nr. 1 - 25 zu den Sitzungen des zwischenstaatsamtlichen Komitees für Staatsbedienstetenangelegenheiten, Nr: 24., Unterpunkt: 12., Seite: 73f</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__3257">Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>UStS Dr. Ritter von Beck teilt mit, dass in der heutigen Sitzung des Kabinettsrates vom UStS Marckhl der nachstehende Beschlussantrag eingebracht wurde. "Die Staatsämter werden angewiesen, ungesäumt zugunsten jener deutschen Staats- und Staatsbahnangestellten, die im slowenischen Machtbereich zurückgeblieben sind und nun durch die bekannten grausamen Kündigungsmaßnahmen vor der unmittelbaren Gefahr der Delogierung und des Verlustes ihres Mobiliars stehen, alles Nötige vorzukehren, damit diese Angestellten so schnell als nur irgend möglich für sich, ihre Angehörigen und vor allem auch für ihr Hab und Gut ein Unterkunftsziel im deutschösterr. Staat angewiesen erhalten. Zu diesem Zweck wären solchen Angestellten alle mit den Richtlinien nur irgend verträgliche Erleichterungen zu gewähren, um ihnen eine dienstliche Verwendung in Deutschösterreich zu ermöglichen und ihnen somit sofort den hierländigen Verwendungsort bekanntgeben zu können, damit sie schon vor dem Verlassen des slowenischen Gebietes ein festes Ziel für die Übersiedlung haben. ANTWORT DER KOMMISSION: Im Sinne des Beschlussantrages werden die Staatsämter des Innern und für Verkehrswesen ersucht, zur Beschleunigung und Vereinfachung des Verfahrens die Regelung dieser Sache in die Hand zu nehmen und vor allem dafür zu sorgen, dass die flüchtigen deutschen Staatsbediensteten mit ihren Familien und ihrem Mobiliar rechtzeitig auf deutschösterr. Gebiet befördert und vorläufig an einem geeigneten Ort gesammelt werden. Das StA der Finanzen ist bereit, für die Bedeckung etwa notwendiger Auslagen zu sorgen.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-02-11" notAfter="1919-02-11">
+                11. Februar 1919
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Kündigung</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-27 08:41:53.820790+00:00" who="#pbecker"/><change when="2019-10-27 08:37:20.814052+00:00" who="#pbecker"/><change when="2019-10-18 18:30:07.435809+00:00" who="#gsteiner"/><change when="2019-09-25 18:34:06.122506+00:00" who="#pbecker"/><change when="2019-03-08 16:45:37.294956+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__609"><persName><surname>Beck von Managetta</surname><forename>Eugen</forename><roleName>Dr.</roleName></persName><birth when="1861-06-15">1861-06-15<placeName key="#place__524">Preßburg</placeName></birth><death when="1943-11-07">1943-11-07<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/137693036; https://www.deutsche-biographie.de/pnd137693036.html</idno></person><person xml:id="person__762"><persName><surname>Marckhl</surname><forename>Richard</forename><roleName/></persName><birth when="1861-05-10">1861-05-10<placeName key="#place__526">Rann</placeName></birth><death when="1939-04-27">1939-04-27<placeName key="#place__580">Wien</placeName></death><idno>https://de.wikipedia.org/wiki/Richard_Marckhl</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__430"><placeName>Deutschösterreich</placeName><idno type="GEONAMES"/></place><place xml:id="place__546"><placeName>Slowenien</placeName><location><geo decls="#LatLng">46.083330000000 15.000000000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3190538/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1105"><orgName>Kabinettsrat</orgName></org><org xml:id="org__1215"><orgName>slowenische Regierung; Slowenien (Slovenija)</orgName></org><org xml:id="org__1220"><orgName>Staatsamt für Finanzen</orgName></org><org xml:id="org__1225"><orgName>Staatsamt des Innern</orgName></org><org xml:id="org__1239"><orgName>Staatsamt für Verkehrswesen</orgName></org><org xml:id="org__3257"><orgName>Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

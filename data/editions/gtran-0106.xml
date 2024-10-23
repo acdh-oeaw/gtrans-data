@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0106.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0105.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0107.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Sitzung des Ausschusses für Personalangelegenheiten und Verwaltungsreform: Gründung einer Wirtschaftsgenossenschaft mbH der Bediensteten der Gemeinde Wien mit 28 000 Mitgliedern</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#vhelfert">Helfert, Veronika</rs></editor><editor><rs ref="#tgarstenauer">Garstenauer, Therese</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2980</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Wiener Stadt- und Landesarchiv</repository>
+                    <msName>Bestand: Wiener Stadt- und Landesarchiv, Archivbibliothek, BiblM - M - Amtsperiodika, Verwaltungsberichte, Adressbücher, Signatur: M 599 1920/4, Punkt/Seite: o.P.; 2351</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Amtsblatteintrag</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><p>(CHECK: was tun diese Genossenschaften?)</p></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#vhelfert #tgarstenauer">
+            <p>(Aussch. Z. 1571) Gründung einer Wirtschaftsgenossenschaft mbH der Bediensteten der Gemeinde Wien mit 28 000 Mitgliedern [S. 2351]</p>
+        </abstract>
+        <creation>
+            <date notBefore="1920-10-27" notAfter="1920-10-27">
+                
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Lebensumstände</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-09 12:29:35.928381+00:00" who="#pbecker"/><change when="2019-10-09 12:29:08.545600+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__614"><persName><surname>Bock</surname><forename/><roleName>Mag.R.</roleName></persName><birth><placeName key="#place__580">Wien</placeName></birth><death/></person><person xml:id="person__636"><persName><surname>Dokaupil</surname><forename/><roleName>Mag.R. Dr.</roleName></persName><birth><placeName key="#place__517">Ottensheim</placeName></birth><death/></person><person xml:id="person__637"><persName><surname>Doppler</surname><forename>Leopold</forename><roleName/></persName><birth when="1870-10-29">1870-10-29<placeName key="#place__580">Wien</placeName></birth><death when="1945-03-13">1945-03-13<placeName key="#place__580">Wien</placeName></death><idno>https://de.wikipedia.org/wiki/Leopold_Doppler</idno></person><person xml:id="person__671"><persName><surname>Gröbner</surname><forename>Johann</forename><roleName/></persName><birth/><death/></person><person xml:id="person__678"><persName><surname>Grünwald</surname><forename>Julius</forename><roleName/></persName><birth when="1869-02-25">1869-02-25<placeName key="#place__3153">Čáry</placeName></birth><death when="1945-10-07">1945-10-07<placeName key="#place__3154">London</placeName></death><idno>https://de.wikipedia.org/wiki/Julius_Gr%C3%BCnwald</idno></person><person xml:id="person__685"><persName><surname>Haider</surname><forename>Franz</forename><roleName/></persName><birth when="1877-05-15">1877-05-15<placeName key="#place__3162">Friedburg</placeName></birth><death when="1951-10-20">1951-10-20<placeName key="#place__580">Wien</placeName></death><idno>https://de.wikipedia.org/wiki/Franz_Haider_(Politiker,_1877)</idno></person><person xml:id="person__735"><persName><surname>Klimeš</surname><forename>Johann</forename><roleName/></persName><birth when="1881-01-01">1881-01-01</birth><death/></person><person xml:id="person__802"><persName><surname>Pokorny</surname><forename>Johann</forename><roleName/></persName><birth><placeName key="#place__490">Linz</placeName></birth><death/></person><person xml:id="person__862"><persName><surname>Skaret</surname><forename>Ferdinand</forename><roleName/></persName><birth/><death/></person><person xml:id="person__867"><persName><surname>Speiser</surname><forename>Paul</forename><roleName/></persName><birth/><death/></person><person xml:id="person__877"><persName><surname>Täubler</surname><forename>Alexander</forename><roleName/></persName><birth><placeName key="#place__462">Iglau</placeName></birth><death/></person><person xml:id="person__899"><persName><surname>Walter</surname><forename>Gabriele</forename><roleName/></persName><birth><placeName key="#place__426">Dellach</placeName></birth><death/></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         </listOrg>
+      </back>
+  </text>
+</TEI>

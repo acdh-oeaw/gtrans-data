@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0113.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0112.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0114.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Sitzung des Klubvorstandes, der Gewerkschaftskommission und der Parteivertretung am 13. Oktober 1919, 182-187</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#vhelfert">Helfert, Veronika</rs></editor><editor><rs ref="#tgarstenauer">Garstenauer, Therese</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2424</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Archiv des Vereins für Geschichte der ArbeiterInnenbewegung</repository>
+                    <msName>Sozialdemokratische Parteistellen, Karton: Kt. 77, M 459, Aktenzahl: keine</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents/></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#vhelfert #tgarstenauer">
+            <p>Protokoll einer Sitzung des Klubvorstandes mit der Gewerkschaftskommission und der Parteivertretung, in der auch ein Arbeiter der städtischen Gaswerke anwesend ist. Tagesordnungspunkt "Lohnforderungen der Gasarbeiter". Hugo Breitner berichtet darüber, dass der Einzug von Lebensmittelzubussen, die "seit Juni 1919 durch den Druck der Kommunisten gewährt werden mussten", die allgemeinen Forderungen ausgelöst habe. Allen Gemeindebediensteten aber Lebensmittelzubussen zu gewähren, sei finanziell nicht möglich. Beschluss der Sitzung: Zur Beratung der Forderungen wird ein Komitee eingesetzt bestehend aus drei Parteivertretern (Weber, Widholz und Proft), zwei Vertretern der Gewerkschaftskommission (Gion, Hueber) und zwei Gaswerksarbeitern (Ratzenberger, Wallner).</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-10-13" notAfter="1929-10-13">
+                13. Oktober 1919
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Lohnforderung</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2021-06-11 12:26:40.424062+00:00" who="#pandorfer"/><change when="2019-10-04 09:53:28.604040+00:00" who="#pbecker"/><change when="2019-08-06 19:08:05.290776+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__617"><persName><surname>Bombek</surname><forename>Josef</forename><roleName/></persName><birth when="1881-04-02">1881-04-02<placeName key="#place__3124">Tattendorf</placeName></birth><death when="1923-06-17">1923-06-17<placeName key="#place__580">Wien</placeName></death></person><person xml:id="person__620"><persName><surname>Breitner</surname><forename>Hugo</forename><roleName/></persName><birth when="1873-11-09">1873-11-09<placeName key="#place__580">Wien</placeName></birth><death when="1946-03-05">1946-03-05<placeName key="#place__3127">Claremont</placeName></death><idno>http://d-nb.info/gnd/119179504</idno></person><person xml:id="person__662"><persName><surname>Gion</surname><forename>Johann</forename><roleName/></persName><birth when="1864-09-01">1864-09-01</birth><death when="1962-07-14">1962-07-14<placeName key="#place__580">Wien</placeName></death><idno>https://de.wikipedia.org/wiki/Johann_Gion</idno></person><person xml:id="person__711"><persName><surname>Hueber</surname><forename>Anton</forename><roleName/></persName><birth when="1861-09-26">1861-09-26<placeName key="#place__3243">Taus</placeName></birth><death when="1935-07-09">1935-07-09<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118707663</idno></person><person xml:id="person__813"><persName><surname>Ratzenberger</surname><forename/><roleName/></persName><birth/><death/></person><person xml:id="person__862"><persName><surname>Skaret</surname><forename>Ferdinand</forename><roleName/></persName><birth/><death/></person><person xml:id="person__898"><persName><surname>Wallner</surname><forename/><roleName/></persName><birth><placeName key="#place__426">Dellach</placeName></birth><death/></person><person xml:id="person__901"><persName><surname>Weber</surname><forename>Anton</forename><roleName/></persName><birth when="1878-11-05">1878-11-05</birth><death when="1950-12-28">1950-12-28<placeName key="#place__580">Wien</placeName></death></person><person xml:id="person__902"><persName><surname>Weigl</surname><forename>Karl</forename><roleName/></persName><birth/><death/></person><person xml:id="person__928"><persName><surname>Weiss</surname><forename/><roleName/></persName><birth><placeName key="#place__580">Wien</placeName></birth><death/></person><person xml:id="person__908"><persName><surname>Widholz</surname><forename>Laurenz</forename><roleName/></persName><birth when="1861-05-02">1861-05-02</birth><death when="1926-11-19">1926-11-19<placeName key="#place__580">Wien</placeName></death></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1109"><orgName>Klub der Sozialdemokraten im Wiener Gemeinderate</orgName></org><org xml:id="org__1259"><orgName>Gaswerke (städtische)</orgName></org><org xml:id="org__1277"><orgName>Straßenbahnen (städtische)</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0119.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0118.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0120.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Differenzen zwischen dem StA der Finanzen und dem liquidierenden Kriegsministerium</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2879</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>Bestand: ÖStA/AdR, Bundeskanzleramt, Staatsratsprotokolle 1. Republik, Protokoll Nr. 66 - 77, 15. 1. 1919 - 7. 3. 1919, 69. Sitzung vom 22. Jänner 1919, S. 13f., Karton: 4</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__1256">Staatsrat</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>UStS. Grimm berichtet von Widerständen im ehemaligen k.u.k. Kriegsministerium gegen die Kontrolle des StA der Finanzen. Er beantragt, das StA des Äußern möge beauftragt werden, sich mit den Regierungen der Nachfolgestaaten ins Einvernehmen zu setzen, damit der Leiter des liquidierenden Kriegsministeriums angewiesen werde, die erforderlichen Personalverschiebungen und Enthebungen vorzunehmen, die Kontrolle zuzulassen und schließlich der Übertragung der Leitung an zivile Behörden zu entsprechen. Der Antrag wird angenommen.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-01-22" notAfter="1919-01-22">
+                22. Jänner 1919
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Demokratisierung</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">zwischenstaatliche Verhandlung</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-03 14:33:11.836567+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__670"><persName><surname>Grimm</surname><forename>Ferdinand</forename><roleName>Dr.</roleName></persName><birth when="1869-02-15">1869-02-15<placeName key="#place__580">Wien</placeName></birth><death when="1948-11-08">1948-11-08<placeName key="#place__401">Bad Kreuzen</placeName></death><idno>http://d-nb.info/gnd/1011184664</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         </listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1022"><orgName>k.u.k. Kriegsministerium</orgName></org><org xml:id="org__1220"><orgName>Staatsamt für Finanzen</orgName></org><org xml:id="org__1224"><orgName>Staatsamt des Äußern</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0079.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0078.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0080.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Behandlung deutschösterreichischer Staatsangestellter in umstrittenen Gebieten</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2549</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>Bestand: Staatskanzlei - BKA/alt Varia 1919  Zwischenstaatliches Komitee; Verhandlungsschriften Nr. 1 - 25 zu den Sitzungen des zwischenstaatsamtlichen Komitees für Staatsbedienstetenangelegenheiten, Nr: 05., Unterpunkt: 02., Seite: 12</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__3257">Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>Wie ist hinsichtlich der Behandlung deutschösterr. Staatsbediensteter bei Ämtern in Gebieten vorzugehen, die vom deutschösterr. Staate in Anspruch genommen werden, aber von einem anderen Staate besetzt werden? ANTWORT DER KOMMISSION: 1. Die deutschösterr. Staatsbediensteten haben im Interesse des deutschösterr. Staates und der deutschen Bevölkerung an ihrem Amtssitze solange als nur irgend möglich auszuharren. 2. Ein deutschösterr. Staatsbediensteter hört deshalb, weil er im Sinne des Punktes 1 dem fremden Staate provisorisch Dienste leistet, ob angelobt oder nicht, nicht auf, deutschösterr. Staatsbediensteter zu sein, und darf hiebei 3. jedenfalls auch - selbstverständlich unter Vermeidung von Doppelzahlungen - in seinen Bezügen keine Schädigung erfahren.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1918-12-18" notAfter="1918-12-18">
+                18. Dezember 1918
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-10-26 13:21:20.720101+00:00" who="#pbecker"/><change when="2019-10-18 13:44:26.831826+00:00" who="#gsteiner"/><change when="2019-09-21 18:03:11.361768+00:00" who="#pbecker"/><change when="2019-02-27 13:43:15.633005+00:00" who="#gsteiner"/><change when="2019-02-27 10:49:12.005399+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         </listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__568"><placeName>umstrittenes Gebiet</placeName><idno type="GEONAMES"/></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1051"><orgName>fremdnationale Staaten</orgName></org><org xml:id="org__3301"><orgName>Deutschösterreichischer Staat</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

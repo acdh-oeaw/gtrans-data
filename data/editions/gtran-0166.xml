@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0166.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0165.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0167.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Schaffung einer Parlamentswache</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2839</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>Bestand: ÖStA/AdR, Bundeskanzleramt, Staatsratsprotokolle 1. Republik, Protokoll Nr. 36 - 50, 18. 11. 1918 - 29. 11. 1918; 44. Sitzung vom 25. November 1918, S. 20f., Karton: 2</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__1256">Staatsrat</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>StK Renner berichtet von der Errichtung einer Parlamentswache, um einen Anschlag auf den deutschösterreichischen Staatsrat von konterrevolutionären Kräften, die die Monarchie wieder einsetzen wollen, zu verhindern. Diese Wache setzt sich aus Mitgliedern der Burgwache und der Volkswehr zusammen.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1918-11-25" notAfter="1918-11-25">
+                25. Nov. 1918
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Konterrevolution</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-24 12:20:59.000822+00:00" who="#pbecker"/><change when="2019-10-22 13:43:36.715616+00:00" who="#gsteiner"/><change when="2019-10-03 09:33:28.320992+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__724"><persName><surname>Habsburg-Lothringen</surname><forename>Karl</forename><roleName>ehemaliger Kaiser</roleName></persName><birth when="1887-08-17">1887-08-17<placeName key="#place__519">Persenbeug</placeName></birth><death when="1922-04-01">1922-04-01<placeName key="#place__446">Funchal</placeName></death><idno>http://d-nb.info/gnd/118560077</idno></person><person xml:id="person__820"><persName><surname>Renner</surname><forename>Karl</forename><roleName>Dr.</roleName></persName><birth when="1870-12-14">1870-12-14<placeName key="#place__570">Unter-Tannowitz</placeName></birth><death when="1950-12-31">1950-12-31<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118599739</idno></person><person xml:id="person__873"><persName><surname>Sternberg (?)</surname><forename>Adalbert Wenzel (?)</forename><roleName/></persName><birth when="1868-01-14">1868-01-14<placeName key="#place__3142">Pohrlitz</placeName></birth><death when="1930-04-25">1930-04-25<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/117232416</idno></person><person xml:id="person__924"><persName><surname>von Boog</surname><forename>Adolf</forename><roleName>Feldmarschallleutnant</roleName></persName><birth when="1866-04-27">1866-04-27<placeName key="#place__3146">Belluno</placeName></birth><death when="1929-02-15">1929-02-15<placeName key="#place__580">Wien</placeName></death><idno>https://de.wikipedia.org/wiki/Adolf_von_Boog</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         </listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__990"><orgName>Burgwache</orgName></org><org xml:id="org__1029"><orgName>ehemals österreichisch-ungarische Monarchie</orgName></org><org xml:id="org__1194"><orgName>Provisorische Nationalversammlung</orgName></org><org xml:id="org__1227"><orgName>Staatsamt für Heerwesen</orgName></org><org xml:id="org__1253"><orgName>Staatskanzlei</orgName></org><org xml:id="org__1256"><orgName>Staatsrat</orgName></org><org xml:id="org__1323"><orgName>Volkswehr</orgName></org><org xml:id="org__3301"><orgName>Deutschösterreichischer Staat</orgName></org><org xml:id="org__3886"><orgName>Parlamentswache</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

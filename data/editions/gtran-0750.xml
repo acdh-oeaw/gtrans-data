@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0750.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0749.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0751.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Die Vereinigung der Staatsämter</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#vhelfert">Helfert, Veronika</rs></editor><editor><rs ref="#tgarstenauer">Garstenauer, Therese</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2750</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Wien Bibliothek</repository>
+                    <msName>Bestand: Wien Bibliothek, Tagblatt Sachmappen, TS 2599/1919, Bibliographische Angaben: Die Vereinigung der Staatsämter. Protest der Wiener Hochschulen; Protest der Baubeamten, in: Die Zeit, 12.3.1919.</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Zeitungsartikel</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents/></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#vhelfert #tgarstenauer">
+            <p>Der akademische Senat der Universität Wien erlässt eine Protestkundgebung gegen die Zusammenlegung des Staatsamtes für Unterricht und des Staatsamtes des Innern. Auf einem Baubeamtentag vom 7. bis 10. März 1919 in Linz wird ebenfalls gegen eine Zusammenlegung von zwei Staatsämtern protestiert: des Staatsamtes für öffentliche Arbeiten und des Staatsamtes für Verkehrswesen; die Baubeamten halten daneben fest, dass die Leitung von technisch-wirtschaftlichen Stellen von Fachmännern, also Ingenieuren besetzt werden müssen.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-03-12" notAfter="1919-03-12">
+                
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Protest</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-02 20:33:52.127786+00:00" who="#pbecker"/><change when="2019-10-02 20:31:37.520506+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         </listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__490"><placeName>Linz</placeName><location><geo decls="#LatLng">48.306390000000 14.286110000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2772400/</idno></place><place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1225"><orgName>Staatsamt des Innern</orgName></org><org xml:id="org__1235"><orgName>Staatsamt für öffentliche Arbeiten</orgName></org><org xml:id="org__1238"><orgName>Staatsamt für Unterricht</orgName></org><org xml:id="org__1239"><orgName>Staatsamt für Verkehrswesen</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

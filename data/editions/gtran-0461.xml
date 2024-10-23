@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0461.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0460.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0462.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Übernahme weiblicher Hilfskräfte zur Straßenbahn</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#vhelfert">Helfert, Veronika</rs></editor><editor><rs ref="#tgarstenauer">Garstenauer, Therese</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2467</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Wiener Stadt- und Landesarchiv</repository>
+                    <msName>Bestand: Wiener Stadt- und Landesarchiv, 1.5.3 Magistratsdirektion, Karton: #NR, Aktenzahl: 1198/1919</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Akt</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents/></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#vhelfert #tgarstenauer">
+            <p>Schreiben der Straßenbahndirektion an die Magistratsdirektion vom 13. Februar 1919 mit dem Ersuchen, weibliche Hilfsschreibkräfte darüber zu verständigen, dass die städtischen Straßenbahnen 25 weibliche Kanzleihilfskräfte suchen. Aufnahmebedingungen sind: deutschösterreichische Staatsbürgerschaft (Bevorzugung von in Wien Heimatberechtigten), eine bahnärztliche Feststellung der gesundheitlichen Voraussetzung; zwischen 22 und 30 Jahren und eine erfolgreiche Absolvierung einer Handelsschule (mind. 2 Jahre "Tageskurse"). Die Bewerberinnen müssen darüber hinausgehend eine Prüfung in folgenden Fächern ablegen: "Schönschreiben, Maschinenschreiben, Stenografie, Rechtschreibung, schriftlichen Gedankenaustausch und Lösung entsprechender Rechenaufgaben". Im Schreiben wird ebenfalls ein Bewerbungsvorgang empfohlen. Beigelegt ist die Kurrende der Magistratsdirektion an die Direktoren und Leiter der städtischen Ämter mit der Bitte das Gesuch auf dem Dienstwege zu erledigen.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-02-13" notAfter="1919-02-18">
+                13. Feber 1919
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-09-21 05:58:00.556033+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         </listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1277"><orgName>Straßenbahnen (städtische)</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

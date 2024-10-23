@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0294.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0293.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0295.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Kuriere von Reichenberg (Liberec) nach Wien</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/3394</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Gertrude Enderle-Burcel et al. (Hg.), Der österreichische Staatsrat. Protokolle des Vollzugsausschusses, des Staatsrates und des Geschäftsführenden Staatsratsdirektoriums 21. Oktober 1918 bis 14. Marz 1919, Band 1: 21. Oktober 1918 bis 14. November 1918, Wien 2008</repository>
+                    <msName>StRProt Nr. 26 vom 8. November 1918, in: Enderle-Burcel et al. (Hg.), Der österreichische Staatsrat, 285f.</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__1256">Staatsrat</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>StS Pacher fordert einen Kurierdienst zwischen Reichenberg (Liberec) und Wien, da der Post- und Telegraphenverkehr über tschechisches Gebiet nicht sicher sei und kontrolliert bzw. unterbunden werde. Wichtige Depeschen würden daher über das Deutsche Reich geleitet.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1918-11-08" notAfter="1918-11-08">
+                1918-11-08
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Internationales Postrecht</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Zensur</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-13 16:24:47.656420+00:00" who="#pbecker"/><change when="2019-10-11 08:05:24.471159+00:00" who="#pbecker"/><change when="2018-12-19 13:05:34.467757+00:00" who="#gsteiner"/><change when="2018-12-19 12:59:08.314088+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__787"><persName><surname>Pacher</surname><forename>Raphael</forename><roleName>Dr.</roleName></persName><birth when="1857-07-21">1857-07-21<placeName key="#place__464">Iserthal</placeName></birth><death when="1936-03-25">1936-03-25<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/124749275</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__429"><placeName>Deutsches Reich</placeName><idno type="GEONAMES"/></place><place xml:id="place__527"><placeName>Reichenberg</placeName><location><geo decls="#LatLng">50.767110000000 15.056190000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3071961/</idno></place><place xml:id="place__567"><placeName>Tschechoslowakei</placeName><location><geo decls="#LatLng">50.082920000000 14.466720000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/8505031/</idno></place><place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__3393"><orgName>Post- und Telegraphen-Betriebsleitung in Reichenberg</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0426.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0425.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0427.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Übernahme von Staatsämtern</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#vhelfert">Helfert, Veronika</rs></editor><editor><rs ref="#tgarstenauer">Garstenauer, Therese</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2730</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Wien Bibliothek</repository>
+                    <msName>Bestand: Wien Bibliothek, Tagblatt Sachmappen, TS 2599/1918, Bibliographische Angaben: Uebernahme von Staatsämtern, in: Fremdenblatt, 7.11.1918</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Zeitungsartikel</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><p>ad Kanik: http://www.biographien.ac.at/oebl/oebl_K/Kanik_Franz_1863_1931.xml; Landesgendarmeriekommandant von Schuschnigg (der Vater von Kurt von Schuschnigg? https://www.oecv.at/biolex/Detail/10401146)</p></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#vhelfert #tgarstenauer">
+            <p>Neben mehreren Nachrichten aus unterschiedlichen Staatsämtern und Stellen, wie etwa die Angelobung der Gendarmerie, die Beschreibung der Ansprache des Staatssekretärs für Heereswesen Dr. Freiherr von Lehne, dass "sowohl die Offiziere und Beamten der Landwehr als auch die politischen Beamten des Ministeriums für Landesverteidigung von s c h w e r e n   S o r g en   u m   i h r e   Z u k u n f t   b e u n r u h i g t seien", aber dass diese "zweifellos die Dienste, welche dem Staat und damit der Allgemeinheit geleistet worden sind, a u c h   d e m   n e u e n   S t a a t   h o n o r i e r t werden würden." Ähnlich appelliert auch der Staatssekretär für Verkehrswesen Karl Jukel in seiner Ansprache an die leitenden Beamten in seinem Ressort, als diese ihr Gelöbnis ablegten.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1918-11-07" notAfter="1918-11-07">
+                
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-10-02 18:36:24.926177+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__720"><persName><surname>Jukel</surname><forename>Carl</forename><roleName>Ing.</roleName></persName><birth when="1865-01-21">1865-01-21<placeName key="#place__580">Wien</placeName></birth><death when="1931-08-20">1931-08-20<placeName key="#place__540">Schönau an der Triesting</placeName></death><idno>http://d-nb.info/gnd/1012922529</idno></person><person xml:id="person__941"><persName><surname>Kanik</surname><forename>Franz</forename><roleName/></persName><birth><placeName key="#place__580">Wien</placeName></birth><death/></person><person xml:id="person__939"><persName><surname>Lehne von</surname><forename>Friedrich</forename><roleName>Dr.</roleName></persName><birth when="1870-01-08">1870-01-08<placeName key="#place__580">Wien</placeName></birth><death when="1951-07-07">1951-07-07<placeName key="#place__3499">Grundlsee</placeName></death><idno>https://tools.wmflabs.org/persondata/p/Friedrich_Lehne_von_Lehnsheim</idno></person><person xml:id="person__767"><persName><surname>Mayer</surname><forename>Josef</forename><roleName/></persName><birth when="1877-04-09">1877-04-09<placeName key="#place__438">Eger</placeName></birth><death when="1938-05-03">1938-05-03<placeName key="#place__438">Eger</placeName></death><idno>http://d-nb.info/gnd/1020242728</idno></person><person xml:id="person__940"><persName><surname>Waiß</surname><forename>Erwin</forename><roleName/></persName><birth><placeName key="#place__580">Wien</placeName></birth><death/></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__430"><placeName>Deutschösterreich</placeName><idno type="GEONAMES"/></place><place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1060"><orgName>Gendarmerie</orgName></org><org xml:id="org__1256"><orgName>Staatsrat</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

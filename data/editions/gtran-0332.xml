@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0332.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0331.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0333.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Das k.u.k. Ministerium des Aeußern und das deutschösterreichische Staatsamt für Aeußeres</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#vhelfert">Helfert, Veronika</rs></editor><editor><rs ref="#tgarstenauer">Garstenauer, Therese</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2731</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Wien Bibliothek</repository>
+                    <msName>Bestand: Wien Bibliothek, Tagblatt Sachmappen, TS 2599/1918, Bibliographische Angaben: Das k.u.k. Ministerium des Aeußern und das deutschösterreichische Staatsamt für Aeußeres, in: Die Zeit, 7.11.1918</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Zeitungsartikel</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents/></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#vhelfert #tgarstenauer">
+            <p>Sektionschef Ludwig von Flotow, mit der Leitung des Minsteriums des Äußern beauftragt, sagte vor dem Staatsrat zur Frage der Aufteilung von Verwaltungsmaterial aus. "Wie wir erfahren, handelte es sich um das Verlangen, daß alle Mitteilungen, Einläufe und Aktenstücke des Ministeriums unbedingt und ohne Ausnahme auch dem deutschösterreichischen Staatsamt, respektive dem Staatssekretär Dr. Viktor A d l e r  zur E i n s i c h t  und K e n n t n i  s gebracht werden." Daher sollten die Beamten des Chiffrendepartements auf den neuen Staat angelobt werden, diese erklärten sich dafür bereit, "vertraten aber gleichzeitig den Standpunkt, daß das Ministerium des Aeußern vorläufig als eine gemeinsame Institution aller Nationalstaaten des früheren Österreich-Ungarn zu betrachten sei."</p>
+        </abstract>
+        <creation>
+            <date notBefore="1918-11-07" notAfter="1918-11-07">
+                
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-10-02 18:46:23.115715+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__597"><persName><surname>Adler</surname><forename>Victor</forename><roleName>Dr. med.</roleName></persName><birth when="1852-06-24">1852-06-24<placeName key="#place__523">Prag</placeName></birth><death when="1918-11-11">1918-11-11<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118647075</idno></person><person xml:id="person__942"><persName><surname>von Flotow</surname><forename>Ludwig</forename><roleName/></persName><birth><placeName key="#place__580">Wien</placeName></birth><death/></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__430"><placeName>Deutschösterreich</placeName><idno type="GEONAMES"/></place><place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1256"><orgName>Staatsrat</orgName></org><org xml:id="org__3310"><orgName>k.u.k. Ministerium des Äußern</orgName></org><org xml:id="org__3404"><orgName>k.u.k. Ministerium des Äußern (Dechiffrierungsdepartement)</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

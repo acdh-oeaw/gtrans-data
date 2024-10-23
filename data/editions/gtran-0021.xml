@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0021.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0020.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0022.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Streik der Post- und Eisenbahnbediensteten und Arbeiter in Marburg (Maribor)</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2847</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>Bestand: ÖStA/AdR, Bundeskanzleramt, Staatsratsprotokolle 1. Republik, Protokoll Nr. 51 - 65, 30. 11. 1918 - 13. 1. 1919, 52. Sitzung vom 2. Dezember 1918, S. 19ff., Karton: 3</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__1256">Staatsrat</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>Der Staatsrat diskutiert darüber, ob der Streik der Eisenbahner und Postbediensteten in Marburg (Maribor) unterstützt werden soll oder ob dieser Deutschösterreich letztlich sogar schaden würde. Schließlich wird der Beschluss gefasst, zwei Vertrauensmänner der Fachorganisationen nach Marburg (Maribor) zu schicken, die über die Lage Auskunft geben sollen.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1918-12-02" notAfter="1918-12-02">
+                2. Dezember 1918
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Streik</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Bevollmächtiger</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-25 14:13:13.735917+00:00" who="#gsteiner"/><change when="2019-10-03 09:47:17.229334+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__608"><persName><surname>Bauer</surname><forename>Otto</forename><roleName>Dr.</roleName></persName><birth when="1881-09-05">1881-09-05<placeName key="#place__580">Wien</placeName></birth><death when="1938-07-04">1938-07-04<placeName key="#place__518">Paris</placeName></death><idno>http://d-nb.info/gnd/118507346</idno></person><person xml:id="person__635"><persName><surname>Dinghofer</surname><forename>Franz</forename><roleName>Dr.</roleName></persName><birth when="1873-04-06">1873-04-06<placeName key="#place__517">Ottensheim</placeName></birth><death when="1956-01-12">1956-01-12<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118902830</idno></person><person xml:id="person__693"><persName><surname>Heine</surname><forename>Rudolf</forename><roleName>Dipl.-Ing.</roleName></persName><birth when="1877-12-14">1877-12-14<placeName key="#place__532">Rumburg</placeName></birth><death when="1949-12-10">1949-12-10<placeName key="#place__580">Wien</placeName></death><idno>https://de.wikipedia.org/wiki/Rudolf_Heine</idno></person><person xml:id="person__754"><persName><surname>Licht</surname><forename>Stefan</forename><roleName>Dr.</roleName></persName><birth when="1860-10-28">1860-10-28<placeName key="#place__416">Brünn</placeName></birth><death when="1932-03-04">1932-03-04<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/124297870</idno></person><person xml:id="person__762"><persName><surname>Marckhl</surname><forename>Richard</forename><roleName/></persName><birth when="1861-05-10">1861-05-10<placeName key="#place__526">Rann</placeName></birth><death when="1939-04-27">1939-04-27<placeName key="#place__580">Wien</placeName></death><idno>https://de.wikipedia.org/wiki/Richard_Marckhl</idno></person><person xml:id="person__820"><persName><surname>Renner</surname><forename>Karl</forename><roleName>Dr.</roleName></persName><birth when="1870-12-14">1870-12-14<placeName key="#place__570">Unter-Tannowitz</placeName></birth><death when="1950-12-31">1950-12-31<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118599739</idno></person><person xml:id="person__879"><persName><surname>Teufel</surname><forename>Oskar</forename><roleName/></persName><birth when="1880-10-05">1880-10-05<placeName key="#place__595">Znaim</placeName></birth><death when="1946-01-26">1946-01-26<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/1027122671</idno></person><person xml:id="person__884"><persName><surname>Tomschik</surname><forename>Josef</forename><roleName/></persName><birth when="1867-12-27">1867-12-27<placeName key="#place__580">Wien</placeName></birth><death when="1945-07-06">1945-07-06<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/1113900385</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__453"><placeName>Graz</placeName><location><geo decls="#LatLng">47.066670000000 15.450000000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2778067/</idno></place><place xml:id="place__466"><placeName>Italien</placeName><location><geo decls="#LatLng">42.833330000000 12.833330000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3175395/</idno></place><place xml:id="place__485"><placeName>Laibach</placeName><location><geo decls="#LatLng">46.051080000000 14.505130000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3196359/</idno></place><place xml:id="place__499"><placeName>Marburg</placeName><location><geo decls="#LatLng">46.554720000000 15.646670000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3195506/</idno></place><place xml:id="place__569"><placeName>Untersteiermark</placeName><idno type="GEONAMES"/></place><place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1032"><orgName>Eisenbahnerorganisation</orgName></org><org xml:id="org__1033"><orgName>Eisenbahnrat</orgName></org><org xml:id="org__1037"><orgName>Ententetruppen</orgName></org><org xml:id="org__1052"><orgName>Friedenskonferenz</orgName></org><org xml:id="org__1091"><orgName>italienische Regierung</orgName></org><org xml:id="org__1185"><orgName>Post</orgName></org><org xml:id="org__1214"><orgName>slawische Truppen</orgName></org><org xml:id="org__1215"><orgName>slowenische Regierung; Slowenien (Slovenija)</orgName></org><org xml:id="org__1239"><orgName>Staatsamt für Verkehrswesen</orgName></org><org xml:id="org__1256"><orgName>Staatsrat</orgName></org><org xml:id="org__1278"><orgName>Südbahndirektion</orgName></org><org xml:id="org__1279"><orgName>Südbahn-Gesellschaft</orgName></org><org xml:id="org__3470"><orgName>SHS-Staat</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0262.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0261.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0263.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">StA der Finanzen: Wilfling: Äußerung des Dept. XVII für die deutsch-österr. paritätische Kommission zum Zwecke der Übernahme deutschösterr. Beamter in den deutschen Reichsdienst</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2676</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>Bestand: Staatskanzlei - BKA/alt Varia 1919  Zwischenstaatliches Komitee; Verhandlungsschriften Nr. 26 - 50 zu den Sitzungen des zwischenstaatsamtlichen Komitees für Staatsbedienstetenangelegenheiten, Nr: 41., Unterpunkt: 03., Seite: 54f; 55f</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__3257">Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>StA der Finanzen: Wilfling: Äußerung des Dept. XVII für die deutsch-österr. paritätische Kommission zum Zwecke der Übernahme deutschösterr. Beamter in den deutschen Reichsdienst. ANTWORT DER KOMMISSION: Es wird der Wunsch ausgesprochen, eine ziffernmäßige Gegenüberstellung des Ausmaßes der Pensionen in jedem Jahr nach dem reichsdeutschen RBG. bzw. dem Beamtenhinterbliebenengesetz und nach den geltenden deutschösterr. Pensionsvorschriften ausarbeiten zu lassen.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-04-16" notAfter="1919-04-16">
+                16. April 1919
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-10-27 09:05:39.750994+00:00" who="#pbecker"/><change when="2019-10-19 09:14:52.438236+00:00" who="#gsteiner"/><change when="2019-10-02 13:01:42.881588+00:00" who="#pbecker"/><change when="2019-10-02 11:18:20.372340+00:00" who="#pbecker"/><change when="2019-03-20 09:05:37.006336+00:00" who="#gsteiner"/><change when="2019-03-20 09:02:30.448091+00:00" who="#gsteiner"/><change when="2019-03-20 09:02:07.873673+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__3814"><persName><surname>Gärtner</surname><forename/><roleName/></persName><birth/><death/></person><person xml:id="person__814"><persName><surname>Redinger</surname><forename/><roleName/></persName><birth/><death/></person><person xml:id="person__910"><persName><surname>Wilfling</surname><forename>August</forename><roleName>Dr.</roleName></persName><birth/><death/></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__404"><placeName>Berlin</placeName><location><geo decls="#LatLng">52.524370000000 13.410530000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2950159/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__997"><orgName>Deutsches Reich</orgName></org><org xml:id="org__1001"><orgName>deutsch-österr. Paritätische Kommission</orgName></org><org xml:id="org__1007"><orgName>deutschösterr. Regierung</orgName></org><org xml:id="org__1031"><orgName>ehemals österr. Staat</orgName></org><org xml:id="org__1220"><orgName>Staatsamt für Finanzen</orgName></org><org xml:id="org__3301"><orgName>Deutschösterreichischer Staat</orgName></org><org xml:id="org__3346"><orgName>Regierung des Deutschen Reichs</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

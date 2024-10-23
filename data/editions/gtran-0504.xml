@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0504.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0503.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0505.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Unruhe</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/3698</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Beamten-Zeitung. Zeitschrift des Ersten allgemeinen Beamten-Vereines. Organ für die Gesamtinteressen der Beamten aller Klassen, Erster allgemeiner Beamten-Verein (Hg.), Wien, 50. Jahrgang 1919</repository>
+                    <msName>Beamten-Zeitung, 15. 4. 1919, 56f.</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Zeitungsartikel</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#person__3575"> K. Sch.</author></msItem><msItem><author ref="#org__3496">Erster allgemeiner Beamten-Verein</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>Der Artikel berichtet über die Unruhe der Staatsangestellten angesichts der Inflation, die es ihnen kaum ermöglicht, die nötigsten Lebensmittel zu erwerben und von einer Vorsprache des Zentralverbandes der deutschösterreichischen Staatsbeamtenvereine bei der Regierung sowie vom Streik der Eisenbahner; beide fordern eine Notstandsaktion zur Verbesserung der Lebensbedingungen der Staatsangestellten.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-04-15" notAfter="1919-04-15">
+                15. April 1919
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Staatsbedienstetenorganisationen</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Streik</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2021-06-25 15:29:08.602460+00:00" who="#pandorfer"/><change when="2019-10-23 14:37:45.326742+00:00" who="#gsteiner"/><change when="2019-10-23 14:32:38.646547+00:00" who="#gsteiner"/><change when="2019-10-12 12:19:08.003655+00:00" who="#pbecker"/><change when="2019-02-01 15:21:04.544846+00:00" who="#gsteiner"/><change when="2019-02-01 15:14:57.850947+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__3341"><persName><surname>Fink</surname><forename>Jodok</forename><roleName>Dr.</roleName></persName><birth when="1853-02-19">1853-02-19<placeName key="#place__3340">Andelsbuch</placeName></birth><death when="1929-07-01">1929-07-01<placeName key="#place__3340">Andelsbuch</placeName></death><idno>http://d-nb.info/gnd/120009889</idno></person><person xml:id="person__820"><persName><surname>Renner</surname><forename>Karl</forename><roleName>Dr.</roleName></persName><birth when="1870-12-14">1870-12-14<placeName key="#place__570">Unter-Tannowitz</placeName></birth><death when="1950-12-31">1950-12-31<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118599739</idno></person><person xml:id="person__846"><persName><surname>Schumpeter</surname><forename>Joseph</forename><roleName>Univ.-Prof. Dr.</roleName></persName><birth when="1883-02-08">1883-02-08</birth><death when="1950-01-08">1950-01-08<placeName key="#place__557">Taconic</placeName></death></person><person xml:id="person__856"><persName><surname>Seitz</surname><forename>Karl</forename><roleName/></persName><birth when="1869-09-04">1869-09-04<placeName key="#place__580">Wien</placeName></birth><death when="1950-02-03">1950-02-03<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/119184745</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         </listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1007"><orgName>deutschösterr. Regierung</orgName></org><org xml:id="org__1032"><orgName>Eisenbahnerorganisation</orgName></org><org xml:id="org__1185"><orgName>Post</orgName></org><org xml:id="org__1333"><orgName>Zentralverband der deutschösterr. Staatsbeamtenvereine</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

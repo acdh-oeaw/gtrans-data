@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0300.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0299.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0301.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Frage der Angelobung zweier, seit Jahren bei einem Kriegsinstitut verwendeter, gegen Verzicht auf ihre Bezüge bis auf weiteres beurlaubter Beamter deutscher Nationalität</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2587</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>Bestand: Staatskanzlei - BKA/alt Varia 1919  Zwischenstaatliches Komitee; Verhandlungsschriften Nr. 1 - 25 zu den Sitzungen des zwischenstaatsamtlichen Komitees für Staatsbedienstetenangelegenheiten, Nr: 16., Unterpunkt: 02., Seite: 41</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__3257">Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>Frage der Angelobung zweier, seit Jahren bei einem Kriegsinstitut verwendeter, gegen Verzicht auf ihre Bezüge bis auf weiteres beurlaubter Beamter deutscher Nationalität einer ehemals österr. Zentralstelle, für den deutschösterr. Staatsdienst. ANTWORT DER KOMMISSION: Gegen die Angelobung besteht kein Bedenken.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-01-21" notAfter="1919-01-21">
+                21. Jänner 1919
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-10-27 08:20:46.491645+00:00" who="#pbecker"/><change when="2019-10-18 14:17:03.008077+00:00" who="#gsteiner"/><change when="2019-09-25 08:53:36.087676+00:00" who="#pbecker"/><change when="2019-03-06 13:17:35.117931+00:00" who="#gsteiner"/><change when="2019-03-06 13:17:02.261913+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         </listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         </listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1031"><orgName>ehemals österr. Staat</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

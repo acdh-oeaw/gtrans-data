@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0003.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0002.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0004.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Agenden des Kriegsfürsorgeamtes zum Staatsamt für soziale Fürsorge</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/3445</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Gertrude Enderle-Burcel et al. (Hg.), Der österreichische Staatsrat. Protokolle des Vollzugsausschusses, des Staatsrates und des Geschäftsführenden Staatsratsdirektoriums 21. Oktober 1918 bis 14. Marz 1919, Band 1: 21. Oktober 1918 bis 14. November 1918, Wien 2008</repository>
+                    <msName>StRProt Nr 30 vom 11. November 1918, in: Enderle-Burcel et al. (Hg.), Der österreichische Staatsrat, 372.</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__1256">Staatsrat</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>StS Hanusch beantragt, die Agenden des Kriegsfürsorgeamtes im Kriegsministerium vorbehaltlich der Auseinandersetzungen mit den beteiligten fremdnationalen Staaten dem Staatsamt für soziale Fürsorge zu übertragen. Das StA für Heerwesen belässt bis auf weiteres das erforderliche Hilfspersonal in seiner gegenwärtigen Verwendung. Dies wird angenommen.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1918-11-11" notAfter="1918-11-11">
+                1918-11-11
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Verwaltung</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-25 10:20:25.962401+00:00" who="#pbecker"/><change when="2019-10-18 10:47:22.907163+00:00" who="#gsteiner"/><change when="2019-10-11 08:58:10.526727+00:00" who="#pbecker"/><change when="2019-01-04 14:33:42.789635+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__3305"><persName><surname>Hanusch</surname><forename>Ferdinand</forename><roleName/></persName><birth when="1866-11-09">1866-11-09<placeName key="#place__3304">Wigstadtl</placeName></birth><death when="1923-09-28">1923-09-28<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118701460</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         </listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1051"><orgName>fremdnationale Staaten</orgName></org><org xml:id="org__1227"><orgName>Staatsamt für Heerwesen</orgName></org><org xml:id="org__1236"><orgName>Staatsamt für soziale Fürsorge</orgName></org><org xml:id="org__3444"><orgName>Kriegsfürsorgeamt</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

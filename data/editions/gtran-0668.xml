@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0668.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0667.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0669.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Gemeinderat. Stenographischer Bericht über die Sitzung vom 2. Juli 1919. 6. Anfrage GR Haider</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#vhelfert">Helfert, Veronika</rs></editor><editor><rs ref="#tgarstenauer">Garstenauer, Therese</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/3049</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Wiener Stadt- und Landesarchiv</repository>
+                    <msName>Bestand: Wiener Stadt- und Landesarchiv, Archivbibliothek, BiblM - M - Amtsperiodika, Verwaltungsberichte, Adressbücher, Signatur: M 599 28/3 1. Ex., Punkt/Seite: 6; 1748</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Amtsblatteintrag</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents/></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#vhelfert #tgarstenauer">
+            <p>6. Anfrage GR Haider: Angeblich wurden Schaffner und Fahrer, die Mitglieder in den christlichen Berufsorganisationen nicht zur Unterbeamtenprüfung zugelassen, nur Mitglieder des (sd.) Handels- und Transportarbeiterverbandes. Antwort BM Reumann: Das ist eine Falschinformation, es wurde die Auswahl der Anwärter zurückgestellt, bis zur Fertigstellung der zur Beratung stehenden Dienstordnung für die Bediensteten und Angestellten der städtischen Straßenbahnen (beruhend auf der allg. Dienstordnung). Auch hier soll bei Beförderungen der „Personalausschuß der Bediensteten“ mitwirken, der ja noch nicht gewählt ist.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-07-02" notAfter="1919-07-02">
+                
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Koalitionsfreiheit</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-09 20:10:07.674304+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__685"><persName><surname>Haider</surname><forename>Franz</forename><roleName/></persName><birth when="1877-05-15">1877-05-15<placeName key="#place__3162">Friedburg</placeName></birth><death when="1951-10-20">1951-10-20<placeName key="#place__580">Wien</placeName></death><idno>https://de.wikipedia.org/wiki/Franz_Haider_(Politiker,_1877)</idno></person><person xml:id="person__821"><persName><surname>Reumann</surname><forename>Jakob</forename><roleName/></persName><birth/><death/></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place><place xml:id="place__587"><placeName>Wien-Speising</placeName><location><geo decls="#LatLng">48.170320000000 16.284660000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2764831/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1277"><orgName>Straßenbahnen (städtische)</orgName></org><org xml:id="org__1301"><orgName>Verband der Handels-, Transport- und Verkehrsarbeiter und -Arbeiterinnen Österreichs</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

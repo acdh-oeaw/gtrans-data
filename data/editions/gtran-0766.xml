@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0766.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0765.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0767.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Umgestaltung der Militärerziehungsanstalten in zivile Anstalten</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2811</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>Bestand: ÖStA/AdR, Bundeskanzleramt, Staatsratsprotokolle 1. Republik, Protokoll Nr. 36 - 50, 18. 11. 1918 - 29. 11. 1918; 41. Sitzung vom 21. Nov. 1918, S. 10f., Karton: 2</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__1256">Staatsrat</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>Verhandlungen über die Umgestaltung von Militärakademien und -bildungsanstalten in zivile Realschulen</p>
+        </abstract>
+        <creation>
+            <date notBefore="1918-11-21" notAfter="1918-11-21">
+                21. Nov. 1918
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Ausbildung</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Militarismus</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-22 10:49:32.079458+00:00" who="#gsteiner"/><change when="2019-10-03 07:38:53.371986+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__895"><persName><surname>Waiss</surname><forename>Erwin</forename><roleName>Dr.</roleName></persName><birth when="1880-08-03">1880-08-03<placeName key="#place__580">Wien</placeName></birth><death when="1959-07-05">1959-07-05<placeName key="#place__398">Aich am Attersee</placeName></death><idno>https://de.wikipedia.org/wiki/Erwin_Waihs</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         </listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1106"><orgName>Kadettenschule</orgName></org><org xml:id="org__1153"><orgName>Militärakademie</orgName></org><org xml:id="org__1154"><orgName>Militärerziehungsanstalt</orgName></org><org xml:id="org__1227"><orgName>Staatsamt für Heerwesen</orgName></org><org xml:id="org__1238"><orgName>Staatsamt für Unterricht</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

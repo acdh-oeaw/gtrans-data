@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0655.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0654.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0656.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Allgemeine Nachrichten. Antrag auf Neuregelung der Arbeits-, Lohn- und Gehaltsverhältnisse der städtischen Beamten und Bediensteten</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#vhelfert">Helfert, Veronika</rs></editor><editor><rs ref="#tgarstenauer">Garstenauer, Therese</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/3109</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Wiener Stadt- und Landesarchiv</repository>
+                    <msName>Bestand: Wiener Stadt- und Landesarchiv, Archivbibliothek, BiblM - M - Amtsperiodika, Verwaltungsberichte, Adressbücher, Signatur: M 599 27/4 2. Ex., Punkt/Seite: o.P.; 2528-2540</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Amtsblatteintrag</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents/></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#vhelfert #tgarstenauer">
+            <p>Abgedruckter Antrag des GR Rudolf Solterer zur Neuregelegung der Arbeits-, Lohn- und Gehaltsverhältnisse der städtischen Beamten und Bediensteten in der GR-Sitzung am 11. Dezember 1918. Er definierte die Gruppe der Fixbesoldeten als besonders verwundbar durch die Teuerungskrise. Grundlage der Reform müsse Gerechtigkeit sein, aber nicht nach dem Grundsatz "Jedem das Gleiche", sondern Entlohnung entsprechend von "Größe und Gewichtigkeit der Arbeitsleistung" etc. sowie der Dienstdauer. Beamtenarbeit müsse daher höher entlohnt werden als Fabriksarbeit. Die Entlohnung müsse ein auskömmliches Einkommen sein und auch ein Familienleben ermöglichen (also ein Familienlohn sein). Er führte weiters das System der Bezugsleitern aus, das es den Beamten in den "mannesstarken Lebensjahren", wenn Familiengründung usw. anstehe, ermöglichen müsse, ein standesgemäßes Leben zu führen. Als Grundlage für sein Besoldungsschema führte Solterer eine Unterteilung in Beamte, Unterbeamte, Diener und Arbeiter durch, die er wieder in Gruppen aufteilt. Beamtinnen etwa sind in der Gruppe I der Unterbeamten zu finden. Im Rest des Antrages führt er die verschiedenen Gruppen aus und berechnet einen Besoldungsvorschlag, unterteilt in ein monatliches Gehalt und andere Bezüge, und weist diesen auch in umfassenden Tabellen aus. Um der zeitgenössischen "'demokratischen' Strömung" [S. 2535] entgegenzukommen, könnten die Rangklassen der Beamten als bloße Bezugsklassen geführt werden und alle nach außen sichtbaren Zeichen wie Titel und Uniformdistinktionen abschaffen. Eine Beibehaltung von Rangklassen hielt Solterer aber für nötig, um die Vorrückungen zu organisieren. Als letzten Punkt führte er aus, wie die Idee des Familienlohns in Form von Zulagen für Verheiratete und Väter gestaltet werden könnte. Weibliche Arbeitskräfte wären den unverheirateten Bediensteten gleichzusetzen.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1918-12-11" notAfter="1918-12-11">
+                
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Beförderung</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Lohnforderung</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Demokratisierung</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-10 06:51:54.039435+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__864"><persName><surname>Solterer</surname><forename>Rudolf</forename><roleName/></persName><birth/><death/></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         </listOrg>
+      </back>
+  </text>
+</TEI>

@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0870.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0869.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0871.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Beamtenschaft, städtische, Regelung der Dienstverhältnisse (Antrag Breitner u. Angermayer, Regelung der Dienstverhältnisse der st. Beamtenschaft)</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#vhelfert">Helfert, Veronika</rs></editor><editor><rs ref="#tgarstenauer">Garstenauer, Therese</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2464</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Wiener Stadt- und Landesarchiv</repository>
+                    <msName>Bestand: Wiener Stadt- und Landesarchiv, 1.5.3 Magistratsdirektion, Karton: #Nr, Aktenzahl: 1860/1919</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Akt</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><p>Der Antrag Pawelkas hat die Aktennummer des Präsidiums : Pr.-Z.4361/ex1919</p></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#vhelfert #tgarstenauer">
+            <p>Antrag von GR Hugo Breitner aus dem Komitee zur Beratung der Maßnahmen zu Gunsten der städtischen Angestellten an den Stadtrat vom 13. März 1919, in dem er beantragt bis zur Errichtung der Personal-Kommission Personalangelgenheiten wie "außertourliche Beförderung von Einzelpersonen" oder bei Angelegenheiten betreffend ganzer Angestelltenkategorien in ebenjenem Komitee zu behandeln. Darauf bezugnehmend findet sich im Akt ein Schreiben des Magistratsdirektors Pawelka an den Stadtrat, der den Antrag des GR Hugo Breitner nicht unterstützt: In seiner Stellungnahme führt er u.a. aus: "Ich halte es daher nicht für zulässig, dem Komitee auch jene Angelegenheiten zur Beratung zu überweisen, die in dem Antrage des Herrn Gemeinderates Breitner bezeichnet sind. Ich halte es aber auch nicht für tunlich, diesem Antrage zu entsprechen, weil es doch nicht angeht, daß über individuelle Personalangelegenheiten oder aber auch über Angelegenheiten, die eine ganze Angestelltengruppe (Status) betreffen, Angestellte zu Rate gezogen werden, die einem anderen Status angehören. Schon aus dienstlichen Gründen müßte ein derartiger Vorgang vermieden werden." Der Direktionsantrag wurde vom Stadtrat am 20.3.1919 genehmigt. Außerdem im Akt: ein Memorandum des Verbands der Fachvereine der Angestellten der Gemeinde Wien an den Bürgermeister zu Fragen der Gehaltsregulierung, Vorrückungsfragen, Dienstpragmatik, Personalvertretung, Verwaltungsreform und Gruppeneinteilung, in dem der Verband umfangreiche (12-seitige) Vorschläge macht.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-03-13" notAfter="1919-03-26">
+                13.III.1919
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Vorrückung</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Personalvertretung</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-09-21 05:42:18.834590+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__602"><persName><surname>Angermayer</surname><forename>Karl</forename><roleName/></persName><birth when="1862-11-17">1862-11-17<placeName key="#place__580">Wien</placeName></birth><death when="1941-04-05">1941-04-05<placeName key="#place__580">Wien</placeName></death><idno>https://de.wikipedia.org/wiki/Karl_Angermayer</idno></person><person xml:id="person__620"><persName><surname>Breitner</surname><forename>Hugo</forename><roleName/></persName><birth when="1873-11-09">1873-11-09<placeName key="#place__580">Wien</placeName></birth><death when="1946-03-05">1946-03-05<placeName key="#place__3127">Claremont</placeName></death><idno>http://d-nb.info/gnd/119179504</idno></person><person xml:id="person__793"><persName><surname>Pawelka</surname><forename>Karl </forename><roleName>Obermag.R.</roleName></persName><birth><placeName key="#place__440">Eibiswald</placeName></birth><death/></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1113"><orgName>Komitee zur Beratung über Maßnahmen zu Gunsten der städtischen Angestellten</orgName></org><org xml:id="org__1151"><orgName>Magistratsdirektion (Stadt Wien)</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

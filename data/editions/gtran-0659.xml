@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0659.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0658.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0660.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Die Vorgänge in Österreich-Ungarn</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#vhelfert">Helfert, Veronika</rs></editor><editor><rs ref="#tgarstenauer">Garstenauer, Therese</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2729</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Wien Bibliothek</repository>
+                    <msName>Bestand: Wien Bibliothek, Tagblatt Sachmappen, TS 2599/1918, Bibliographische Angaben: Die Vorgänge in Österreich-Ungarn, in: Wiener Zeitung Nr. 256, 6.11.1918, S. 7f.</msName>
+               <idno>http://anno.onb.ac.at/cgi-content/anno?aid=wrz&amp;datum=19181106&amp;seite=7&amp;zoom=33 und http://anno.onb.ac.at/cgi-content/anno?aid=wrz&amp;datum=19181106&amp;seite=8&amp;zoom=33</idno></msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Zeitungsartikel</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents/></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#vhelfert #tgarstenauer">
+            <p>Hervorgehoben werden in diesem Artikel besonders zwei Vorkommnisse in Bezug auf Beamte: Im Staatsamt für Volksernährung forderte Staatssekretär Dr. Johann Loewenfeld-Russ die Beamten auf, mit all ihrer Kraft für das Beheben der Versorgungsschwierigkeiten zu arbeiten. Die Beamtenschaft deutscher Nationalität wurde durch "Gelöbnis und Handschlag zur Befolgung der Gesetze und Weisungen des Staatsrates verpflichtet". Im Staatsamt für Finanzen empfang der neue Leiter Dr. Otto Steinwender die Beamtenschaft, der rangälteste Sektionschef, von Beck, hielt ebenso eine Ansprache wie Steinwender. "Er [Steinwender; Anm.] versicherte sodann den Beamten, daß der Staat die von den Beamten erworbenen Rechte in keiner Weise vernachlässigen werde, durch zielbewußte Arbeit das Vertrauen zum neuen Staat im Volke zu stärken und in ihm vor allem das Gefühl der Beruhigung hinsichtlich der ihm gegenüber dem Staate zustehenden Forderungen zu erhöhen." Die rangältesten Beamten legten das Gelöbnis "in die Hände des Staatssekretärs ab". [S.7.]</p>
+        </abstract>
+        <creation>
+            <date notBefore="1918-11-06" notAfter="1918-11-06">
+                
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Nachkriegskrise</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-02 18:29:12.962001+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__936"><persName><surname>Loewenfeld-Russ</surname><forename>Johann</forename><roleName/></persName><birth when="1873-10-29">1873-10-29<placeName key="#place__580">Wien</placeName></birth><death when="1940-01-12">1940-01-12<placeName key="#place__580">Wien</placeName></death><idno>https://de.wikipedia.org/wiki/Johann_L%C3%B6wenfeld-Russ</idno></person><person xml:id="person__872"><persName><surname>Steinwender</surname><forename>Otto</forename><roleName>Dr.</roleName></persName><birth when="1847-02-17">1847-02-17<placeName key="#place__473">Klagenfurt</placeName></birth><death when="1921-03-20">1921-03-20<placeName key="#place__575">Villach</placeName></death><idno>http://d-nb.info/gnd/120148269</idno></person><person xml:id="person__938"><persName><surname>Stöger-Steiner von Steinstätten</surname><forename>Rudolf</forename><roleName/></persName><birth><placeName key="#place__580">Wien</placeName></birth><death/></person><person xml:id="person__937"><persName><surname>von Beck</surname><forename/><roleName/></persName><birth><placeName key="#place__580">Wien</placeName></birth><death/></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__430"><placeName>Deutschösterreich</placeName><idno type="GEONAMES"/></place><place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1256"><orgName>Staatsrat</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

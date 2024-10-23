@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0039.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0038.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0040.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Gehalt und Remuneration eines Marineingenieurs an der Technischen Hochschule Graz</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2685</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>Bestand: Staatskanzlei - BKA/alt Varia 1919  Zwischenstaatliches Komitee; Verhandlungsschriften Nr. 26 - 50 zu den Sitzungen des zwischenstaatsamtlichen Komitees für Staatsbedienstetenangelegenheiten, Nr: 44., Unterpunkt: 05., Seite: 66</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__3257">Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>StA für Unterricht: Ein Marineingenieur wurde als Assistent an der Technischen Hochschule in Graz vom 1. Jänner 1919 bis 31. Dezember 1921 bestellt. Er bezieht derzeit den Gehalt als Marineingenieur bis zur Regelung seines militärischen Verhältnisses. Die steiermärkische Landesregierung stellt den Antrag, diesem Bediensteten die Assistentenremuneration für die Zeit vom 1. Jänner 1919 an grundsätzlich zuzusprechen und sonach aufgrund des Gesetzes vom 22. Juni 1878, RGBl. 59, sich ergebende Mobilisierungsgebühr anzuweisen. ANTWORT DER KOMMISSION: Das Gesetz 59/1878 findet keine Anwendung, da dieser Staatsbedienstete derzeit noch aktiver Militärgagist ist. Im Übrigen kann er nur einen Dienst versehen, entweder den des Marineingenieurs oder den des Hochschulassistenten und ist daher nur in einem dieser Dienste zu entlohnen. Doppelbezüge sind unbedingt zu vermeiden.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-04-29" notAfter="1919-04-29">
+                29. April 1919
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-10-27 09:08:16.142980+00:00" who="#pbecker"/><change when="2019-10-19 11:08:54.528213+00:00" who="#gsteiner"/><change when="2019-10-02 11:43:07.795866+00:00" who="#pbecker"/><change when="2019-03-20 13:26:57.084745+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         </listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__453"><placeName>Graz</placeName><location><geo decls="#LatLng">47.066670000000 15.450000000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2778067/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1238"><orgName>Staatsamt für Unterricht</orgName></org><org xml:id="org__1271"><orgName>Steiermärkische Landesregierung</orgName></org><org xml:id="org__1285"><orgName>Technische Hochschule Graz</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

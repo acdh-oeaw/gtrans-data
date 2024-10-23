@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0371.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0370.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0372.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Staatsbürgerschaft der Angestellten</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#vhelfert">Helfert, Veronika</rs></editor><editor><rs ref="#tgarstenauer">Garstenauer, Therese</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2468</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Wiener Stadt- und Landesarchiv</repository>
+                    <msName>Bestand: Wiener Stadt- und Landesarchiv, 1.5.3 Magistratsdirektion, Karton: #NR, Aktenzahl: 132/1919</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Akt</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents/></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#vhelfert #tgarstenauer">
+            <p>Die Straßenbahndirektion fragt bei der Magistratsdirektion in einem Schreiben vom 3. Jänner 1919 an, wie mit der Frage von Staatsbürgerschaft von Angestellten der städtischen Unternehmungen umzugehen ist und weist darauf hin, dass bereits jetzt in den bestehenden Dienstordnungen etwa eine österreichische Staatsbürgerschaft und Heimatberechtigung in Wien, dann erst Heimatberechtigung in anderen Teilen der deutschsprachigen Gebiete bzw. in Ausnahmsfällen die deutsche Umgangssprache verpflichtend war. Eine Ausnahme stellten Saisonarbeiter (Bauarbeiter, "die mit Rücksicht darauf, daß Wiener, bzw. Deutsch-Oesterreicher schwer für diese Arbeiten zu bekommen waren" beschäftigt wurden) und fallweise Werkstättenarbeiter in "stabilen Dienstverhältnissen" dar. Bei einer Besprechung vom 25. Jänner 1919 in der die Magistratsdirektion die Lage in allen städtischen Unternehmungen klärt, wird beschlossen, dass "bezüglich der Beamten und Beamtinnen die Frage der deutschösterreichischen Staatsbürgerschaft gegenstandslos sein dürfte; bei den Arbeitern kann die d.ö. Staatsbürgerschaft nicht ausnahmslos verlangt werden. Insoweit die bestehenden Dienstvorschriften die österr. Staatsbürgerschaft verlangen und Angestellte die Abgabe der Erklärung zur deutschösterreichischen Staatsbürgerschaft verweigern, wäre auf sie entsprechend einzuwirken; äußersten Falles müssten dann die entsprechenden Konsequenzen gezogen werden. Jedenfalls müsste eine gewisse Zeit zugewartet werden. Die von solchen Angestellten etwa bereits erworbenen Pensionsansprüche können hiedurch nicht in Frage gestellt werden." So die Auskunft der Magistratsdirektion am 29. Jänner 1919 an die Straßenbahndirektion.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-01-03" notAfter="1919-01-29">
+                1919-01-03
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Pensionierung</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-09-21 06:07:51.696969+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         </listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1277"><orgName>Straßenbahnen (städtische)</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

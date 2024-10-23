@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0506.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0505.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0507.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Weiterverwendung des Hofrates Dr. Hnidey im deutschösterreichischen Staatsdienst</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/3673</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>ÖStA/AdR, Bundeskanzleramt, Kabinettsratsprotokolle 1. Republik, Protokoll Nr. 1 bis 35, 31. 10. 1918 bis 30. 1. 1919, Kabinettsratsprotokoll Nr. 19 vom 30. November 1918, 8 f.</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>None</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><p>Der Entwurf für den Vortrag an den Kabinettsrat liegt dem Protokoll bei.</p><msItem><author ref="#org__1105">Kabinettsrat</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>Unterstaatssekretär Enderes erbittet die Ermächtigung zur Weiterverwendung des Hofrates Dr. Hnidey, der der rumänischen Nationalität angehört, im Staatsamt für Verkehrswesen, weil er aufgrund seiner Spezialkenntnisse und seiner langjährigen Erfahrung nur schwer zu ersetzen wäre. Der Kabinettsrat stellt grundsätzlich fest, dass die ausnahmsweise Zulassung von ehemals österreichischen Staatsbediensteten nichtdeutscher Nationalität im deutschösterreichischen Staatsdienst zwar in die Kompetenz des Kabinettsrates falle, dass jedoch die Verwendung solcher Bediensteten auf selbständigen und verantwortungsvollen Posten an die Genehmigung des Staatsratsdirektoriums gebunden sei.
+Angeführt wird in dem Ansuchen, dass Hnidey, obwohl der rumänischen Nationalität zugehörig, von der Volksschule angefangen nur Lehranstalten mit deutscher Unterrichtssprache besucht habe, dass seine Loyalität im Sinne des Deutschtums bewiesen habe, dass seine Frau der rumänischen Sprache nicht mächtig sei und die Umgangssprache in der Familie immer deutsch gewesen sei. Im Übrigen habe Hnidey die Fähigkeit, in rumänischer Sprache zu konzipieren, verloren.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1918-11-30" notAfter="1918-11-30">
+                30. November 1918
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-10-12 11:56:12.341887+00:00" who="#pbecker"/><change when="2019-01-31 11:24:27.287733+00:00" who="#gsteiner"/><change when="2019-01-31 11:13:40.348329+00:00" who="#gsteiner"/><change when="2019-01-31 11:09:24.751256+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__644"><persName><surname>Enderes</surname><forename>Bruno</forename><roleName>Ing.</roleName></persName><birth when="1871-02-19">1871-02-19<placeName key="#place__580">Wien</placeName></birth><death when="1934-10-17">1934-10-17<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/117500348</idno></person><person xml:id="person__3672"><persName><surname>Hnidey</surname><forename>Viktor</forename><roleName>Dr.</roleName></persName><birth when="1867-06-26">1867-06-26<placeName key="#place__3674">Korczestie</placeName></birth><death/></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         </listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1105"><orgName>Kabinettsrat</orgName></org><org xml:id="org__1239"><orgName>Staatsamt für Verkehrswesen</orgName></org><org xml:id="org__1257"><orgName>Staatsratsdirektorium</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

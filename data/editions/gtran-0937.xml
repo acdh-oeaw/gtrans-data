@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0937.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0936.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0938.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Gesetz über die Staats- und Regierungsform von Deutschösterreich</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#kmegner">Megner, Karl</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/3183</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichische Nationalbibliothek</repository>
+                    <msName>Bestand: Staatsgesetzblatt für den Staat Deutschösterreich 1918–1920, Signatur: StGBl. Nr. 5/1918 (PNV: 8 AB – S. 3.) Artikel 6</msName>
+               <idno>http://alex.onb.ac.at/cgi-content/alex?apm=0&amp;aid=sgb&amp;datum=19180004&amp;seite=00000004&amp;size=45</idno></msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Gesetzblatt</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents/></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#kmegner">
+            <p>Der in der Einleitung des Gesetzes zitierte Beschluss der Prov. Nationalversammlung war die Ermächtigung für die Vorgangsweise des Staatsrats. "Anders als der deutsche Kaiser Wilhelm hat [Kaiser Karl] nicht abgedankt und die Beamten und Offiziere nicht ihres Treueids entbunden. Das besorgte der Staatsrat im einen Tag später beschlossenen 'Gesetz über die Staats- und Regierungsform von Deutsch-Österreich'. Es gab zwar einige wenige Beamte, die aus Treue zum Kaiser ihr Amt zurücklegten oder ihr Pensionsgesuch einreichten. Grundsätzlich aber wurden alle Staatsbediensteten der Monarchie in den Dienst der Republik übernommen, wiewohl sie darauf keinen Rechtsanspruch hatten. Schon am 23. November 1918 hatte der Kabinettsrat 'Richtlinien für die vorläufige Behandlung einiger Staatsbedienstetenfragen'  beschlossen. Darin wurde eingangs das Gelöbnis auf den neuen Staat, das nur Beamte deutscher Nation ablegen durften, angesprochen. Wer den Eid nicht leistete, wurde unter Einstellung der Bezüge des Dienstes enthoben. Vereidigte Beamte wurden in den Dienst der Republik übernommen, wobei das Dienstverhältnis  noch nicht endgültig geregelt war." Garstenauer (2018) Diensteide.  Als ein Beispiel für einen „Eidverweigerer“ sei der Oberösterreichische Statthalter Erasmus von Handel genannt, der sich auch auf "deutsche Tugenden" berief: „Wir haben einen Eid abgelegt, Seiner k.u.k. Apostolischen Majestät … treu und gehorsam zu sein. Deutsch sein heißt treu sein! … Eine Republik Deutschösterreich [wäre] ein unglückliches, von innerem Hader zerrissenes Gebilde“ Zit. nach  Burker (1919) Welt, 206f.</p>
+        </abstract>
+        <creation>
+            <date notBefore="2018-11-12" notAfter="2018-11-12">
+                1918-11-12
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-11-04 08:18:56.884564+00:00" who="#kmegner"/><change when="2019-10-20 22:38:25.554417+00:00" who="#kmegner"/><change when="2019-10-13 14:23:36.269868+00:00" who="#pbecker"/><change when="2019-10-10 06:57:11.454424+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__3859"><persName><surname>(von) Handel</surname><forename>Erasmus</forename><roleName/></persName><birth when="1860-06-02">1860-06-02</birth><death when="1928-06-06">1928-06-06<placeName key="#place__535">Salzburg</placeName></death><idno>http://d-nb.info/gnd/133568644</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__430"><placeName>Deutschösterreich</placeName><idno type="GEONAMES"/></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         </listOrg>
+      </back>
+  </text>
+</TEI>

@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0063.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0062.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0064.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Sodann verlas Staatskanzler Dr. Renner die Gelöbnisformel</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#vhelfert">Helfert, Veronika</rs></editor><editor><rs ref="#tgarstenauer">Garstenauer, Therese</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2733</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Wien Bibliothek</repository>
+                    <msName>Bestand: Wien Bibliothek, Tagblatt Sachmappen, TS 2599/1918, Bibliographische Angaben: Sodann verlas Staatskanzler Dr. Renner die Gelöbnisformel, in: Reichspost, 9.11.1918</msName>
+               <idno>http://anno.onb.ac.at/cgi-content/anno?aid=rpt&amp;datum=19181109&amp;seite=4&amp;zoom=33</idno></msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Zeitungsartikel</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><p>Der Ausschnitt im Tagblattbestand fängt mit der Gelöbnisformel von Boog an, wie der Reichspost auf anno entnommen werden kann, fängt der Abschnitt mit dem Titel "Angelobung des obersten Befehlshabers der deutschösterreichischen Wehrmacht" an.</p></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#vhelfert #tgarstenauer">
+            <p>Angelobung des obersten Befehlshabers der Wehrmacht Deutschösterreichs und von Unterstaatssekretären. Präsident Karl Seitz geht noch einmal darauf ein, dass diese nur vorübergehend bestellt wurden und die Aufgabe hätten, die Verwaltung der beschränkten Größe des Staates anzupassen.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1918-11-09" notAfter="1918-11-09">
+                
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-10-02 18:58:09.911093+00:00" who="#pbecker"/><change when="2019-10-02 18:53:32.836471+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__820"><persName><surname>Renner</surname><forename>Karl</forename><roleName>Dr.</roleName></persName><birth when="1870-12-14">1870-12-14<placeName key="#place__570">Unter-Tannowitz</placeName></birth><death when="1950-12-31">1950-12-31<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118599739</idno></person><person xml:id="person__856"><persName><surname>Seitz</surname><forename>Karl</forename><roleName/></persName><birth when="1869-09-04">1869-09-04<placeName key="#place__580">Wien</placeName></birth><death when="1950-02-03">1950-02-03<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/119184745</idno></person><person xml:id="person__924"><persName><surname>von Boog</surname><forename>Adolf</forename><roleName>Feldmarschallleutnant</roleName></persName><birth when="1866-04-27">1866-04-27<placeName key="#place__3146">Belluno</placeName></birth><death when="1929-02-15">1929-02-15<placeName key="#place__580">Wien</placeName></death><idno>https://de.wikipedia.org/wiki/Adolf_von_Boog</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__430"><placeName>Deutschösterreich</placeName><idno type="GEONAMES"/></place><place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1256"><orgName>Staatsrat</orgName></org><org xml:id="org__1323"><orgName>Volkswehr</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

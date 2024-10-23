@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0416.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0415.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0417.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Obmänner-Konferenz. Bericht über die 102. Sitzung vom 7. Oktober 1918. Streik bei der Straßenbahn</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#vhelfert">Helfert, Veronika</rs></editor><editor><rs ref="#tgarstenauer">Garstenauer, Therese</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2996</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Wiener Stadt- und Landesarchiv</repository>
+                    <msName>Bestand: Wiener Stadt- und Landesarchiv, Archivbibliothek, BiblM - M - Amtsperiodika, Verwaltungsberichte, Adressbücher, Signatur: M 599 28/1 1. Ex., Punkt/Seite: o.P.; 98-100</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Amtsblatteintrag</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents/></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#vhelfert #tgarstenauer">
+            <p>Während der Obmännerkonferenz wurde am 7. und 8. Oktober 1918 gestreikt, mehrere Delegierte beraten sich untereinander dazu und telephonieren unter anderem auch über den Stand der Dinge. Ausgelöst wurde der Streik wie von den Anwesenden vermutet von der Ungeduld der Straßenbahnarbeiter und -bediensteten über die Behandlung ihrer vielfältigen Lohnforderungen, die bereits im September 1918 gestellt wurden und schlussendlich am 15. Oktober 1918 in der Gemeinderatssitzung abschließend behandelt werden.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1918-10-07" notAfter="1918-10-07">
+                
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Lohnforderung</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Streik</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-09 14:38:28.998990+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__692"><persName><surname>Hein</surname><forename>Oskar</forename><roleName>Dr.</roleName></persName><birth/><death/></person><person xml:id="person__706"><persName><surname>Hohensinner</surname><forename>Oswald</forename><roleName/></persName><birth/><death/></person><person xml:id="person__810"><persName><surname>Rain</surname><forename>Josef</forename><roleName/></persName><birth/><death/></person><person xml:id="person__821"><persName><surname>Reumann</surname><forename>Jakob</forename><roleName/></persName><birth/><death/></person><person xml:id="person__862"><persName><surname>Skaret</surname><forename>Ferdinand</forename><roleName/></persName><birth/><death/></person><person xml:id="person__894"><persName><surname>von Steiner</surname><forename/><roleName/></persName><birth/><death/></person><person xml:id="person__903"><persName><surname>Weiskirchner</surname><forename>Richard</forename><roleName>DDr.</roleName></persName><birth when="1861-03-24">1861-03-24<placeName key="#place__580">Wien</placeName></birth><death when="1926-04-30">1926-04-30<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/117278602</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1277"><orgName>Straßenbahnen (städtische)</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

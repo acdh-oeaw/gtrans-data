@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0826.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0825.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0827.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Wünsche der organisierten Beamten des Stenographenamtes der deutschösterr. Nationalversammlung und der Staatskorrespondenz</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2674</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>Bestand: Staatskanzlei - BKA/alt Varia 1919  Zwischenstaatliches Komitee; Verhandlungsschriften Nr. 26 - 50 zu den Sitzungen des zwischenstaatsamtlichen Komitees für Staatsbedienstetenangelegenheiten, Nr: 40., Unterpunkt: 05., Seite: 51ff</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__3257">Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>Wünsche der organisierten Beamten des Stenographenamtes der deutschösterr. Nationalversammlung und der Staatskorrespondenz, die an das Präsidium der deutschösterr. Nationalversammlung herangetragen wurden: 1. Anrechnung der gesamten in der Verwendung als Kammerstenograph zugebrachten Dienstzeit für Vorrückung und Pension sowie Umwandlung der provisorischen Stellen in definitive; 2. Umwandlung der Zeitvorrückung in die Zeitbeförderung; 3. Systemisierung einer Anzahl von Dienststellen in der VI. und eine Stelle in der V. Rangklasse für den Amtsvorstand; 4. Regelung der Titelfrage; 5. Einflussnahme der organisierten Beamten des Stenographenamtes bei Neubesetzung leitender Stellen. ANTWORT DER KOMMISSION: a) Anrechnung der Vorrückung: Die Anrechnung der gesamten Zeit als Kammerstenograph könne nur durch Gesetz erfolgen. Das Komitee ist der Ansicht, dass über das 1917 vom Ministerium des Innern im Einvernehmen mit dem Finanzministerium gemachte Zugeständnis, wonach den im Zeitpunkt des Inkrafttretens der Dienstpragmatik schon angestellt gewesenen Kammerstenographen die drei Jahre vorbereitender Dienst nach Absolvierung der Hochschulstudien wie die Fachprüfung nachgesehen wurde, nicht hinausgegangen werden könne. Es könne aber in Anbetracht des kleinen Personalstandes der Kammerstenographen ein Ausweg dahingehend gefunden werden, dass man die betreffenden Beamten, die sich geschädigt fühlen, durch Zulagen oder Beförderung entschädigt. b) Ruhegenuss: Vollbeschäftigte Bedienstete haben kein Hindernis, die als Kammerstenograph zugebrachte Dienstzeit bei der Bemessung des Ruhegenusses in Anrechnung zu bringen. c) Die Ernennung eines provisorischen Beamten zum definitiven könnte nur nach Erfüllung der Anstellungserfordernisse in Frage kommen. Zu Punkt 2: Dies steht mit der Dienstpragmatik in Widerspruch und kann auch in Hinblick auf die bestehende Besoldungsreform nicht in Aussicht genommen werden. Dagegen können Zeitvorgerückte über den systemisierten Stand in die entsprechende Rangklasse befördert werden, wofür es jedoch die generelle Zustimmung des StA der Finanzen bedarf. Zu Punkt 3: Das Komitee muss sich prinzipiell gegen derartige Systemisierung aussprechen, weil es die Abschaffung der Rangklassen überhaupt bereits beschlossen hat. Überdies würde eine Systemisierung mehrerer so hoher Stellen in dem in Betracht kommenden Dienste nicht angemessen erscheinen, weil dieser Dienst nicht als höherer Verwaltungsdienst gewertet werden kann. Zu Punkt 4: Angesichts der unmittelbar bevorstehenden Änderung des Rangklassensystems und der Vereinfachung des Titelwesens erachtet es das Komitee für wenig zeitgemäß, neue Titel an eine bestimmte rangklassenmäßige Stellung zu binden. Außerdem können Titel, die zu Verwechslungen mit Titeln des Konzeptfachs führen können, nicht als der wirklichen Verwendung entsprechend bezeichnet werden. Zu Punkt 5: Diese Frage kann nicht aus dem Komplex der Fragen um Schaffung einer Staatsbeamtenkammer und von Personalkommissionen herausgelöst und für eine einzelne Staatsbedienstetengruppe gesondert gelöst werden.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-04-15" notAfter="1919-04-15">
+                15. April 1919
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Beförderung</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Vorrückung</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Beamtenorganisation</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Mitbestimmung</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Personalkommission</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Staatsangestelltenkammer</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Staatsangestelltenrat</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Vertrauensmänner</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Pensionierung</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-27 09:05:19.698322+00:00" who="#pbecker"/><change when="2019-10-19 09:12:38.439198+00:00" who="#gsteiner"/><change when="2019-10-02 11:09:10.113443+00:00" who="#pbecker"/><change when="2019-03-20 08:27:30.479589+00:00" who="#gsteiner"/><change when="2019-03-12 18:56:18.316368+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         </listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         </listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1097"><orgName>k.k. Finanzministerium</orgName></org><org xml:id="org__1178"><orgName>Organisierte Beamte des Stenographenamtes der deutschösterr. Nationalversammlung und der Staatskorrespondenz</orgName></org><org xml:id="org__1191"><orgName>Präsidium der deutschösterr. Nationalversammlung</orgName></org><org xml:id="org__1220"><orgName>Staatsamt für Finanzen</orgName></org><org xml:id="org__1242"><orgName>Staatsangestelltenkammer</orgName></org><org xml:id="org__3257"><orgName>Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</orgName></org><org xml:id="org__3286"><orgName>k.k. Ministerium des Innern</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0897.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0896.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0898.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Pensionierung bei den deutschösterreichischen Staatsbahnen</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2866</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>Bestand: ÖStA/AdR, Bundeskanzleramt, Staatsratsprotokolle 1. Republik, Protokoll Nr. 66 - 77, 15. 1. 1919 - 7. 3. 1919, 66. Sitzung vom 15. Jänner 1919, S. 7ff., Karton: 4</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__1256">Staatsrat</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>StR Kroy und Genossen stellen einen Antrag, dass die Pensionierungen und Außerdienststellungen erst nach drei Monaten gelten sollen. Die Außerdienststellung mit 1. Jänner 1919 sei ein zu großer Schnitt, auf den die altgedienten Staatsbahnbediensteten nicht vorbereitet seien. UStS Beck argumentiert, dass man zwischen pragmatischen Beamten und provisorischen Bediensteten unterscheiden müsse, der Termin 1. Jänner 1919 beruhe auf zwischenstaatlichen Verhandlungen. Er warnt vor Folgewirkungen für andere Ressorts. Präsident Seitz regt eine generelle Neudiskussion der Beamtenfrage an. Der Antrag Kroy und Genossen wird in seinen Grundsätzen gebilligt.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-01-15" notAfter="1919-01-15">
+                15. Jänner 1919
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">zwischenstaatliche Verhandlung</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Pensionierung</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-24 14:21:30.653114+00:00" who="#gsteiner"/><change when="2019-10-03 13:30:23.442825+00:00" who="#pbecker"/><change when="2019-03-06 15:30:33.679604+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__609"><persName><surname>Beck von Managetta</surname><forename>Eugen</forename><roleName>Dr.</roleName></persName><birth when="1861-06-15">1861-06-15<placeName key="#place__524">Preßburg</placeName></birth><death when="1943-11-07">1943-11-07<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/137693036; https://www.deutsche-biographie.de/pnd137693036.html</idno></person><person xml:id="person__641"><persName><surname>Ellenbogen</surname><forename>Wilhelm</forename><roleName>Dr.</roleName></persName><birth when="1863-07-09">1863-07-09<placeName key="#place__492">Lundenburg</placeName></birth><death when="1951-02-25">1951-02-25<placeName key="#place__508">New York</placeName></death><idno>http://d-nb.info/gnd/118529978</idno></person><person xml:id="person__744"><persName><surname>Kroy</surname><forename>Otto</forename><roleName/></persName><birth when="1874-11-16">1874-11-16<placeName key="#place__489">Libochowan</placeName></birth><death when="1937-11-16">1937-11-16<placeName key="#place__580">Wien</placeName></death><idno>https://de.wikipedia.org/wiki/Otto_Kroy</idno></person><person xml:id="person__786"><persName><surname>Ofner</surname><forename>Julius</forename><roleName>Dr.</roleName></persName><birth when="1845-08-20">1845-08-20<placeName key="#place__461">Horschenz</placeName></birth><death when="1924-09-26">1924-09-26<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118831240</idno></person><person xml:id="person__840"><persName><surname>Schoiswohl</surname><forename>Michael</forename><roleName/></persName><birth when="1858-09-20">1858-09-20<placeName key="#place__457">Gußwerk</placeName></birth><death when="1924-02-28">1924-02-28<placeName key="#place__457">Gußwerk</placeName></death><idno>http://d-nb.info/gnd/1032213760</idno></person><person xml:id="person__856"><persName><surname>Seitz</surname><forename>Karl</forename><roleName/></persName><birth when="1869-09-04">1869-09-04<placeName key="#place__580">Wien</placeName></birth><death when="1950-02-03">1950-02-03<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/119184745</idno></person><person xml:id="person__879"><persName><surname>Teufel</surname><forename>Oskar</forename><roleName/></persName><birth when="1880-10-05">1880-10-05<placeName key="#place__595">Znaim</placeName></birth><death when="1946-01-26">1946-01-26<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/1027122671</idno></person><person xml:id="person__884"><persName><surname>Tomschik</surname><forename>Josef</forename><roleName/></persName><birth when="1867-12-27">1867-12-27<placeName key="#place__580">Wien</placeName></birth><death when="1945-07-06">1945-07-06<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/1113900385</idno></person><person xml:id="person__896"><persName><surname>Waldner</surname><forename>Viktor</forename><roleName>Univ.-Prof. Dr.</roleName></persName><birth when="1852-04-01">1852-04-01<placeName key="#place__426">Dellach</placeName></birth><death when="1924-08-30">1924-08-30<placeName key="#place__473">Klagenfurt</placeName></death><idno>https://de.wikipedia.org/wiki/Viktor_Waldner</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         </listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1007"><orgName>deutschösterr. Regierung</orgName></org><org xml:id="org__1105"><orgName>Kabinettsrat</orgName></org><org xml:id="org__1220"><orgName>Staatsamt für Finanzen</orgName></org><org xml:id="org__1227"><orgName>Staatsamt für Heerwesen</orgName></org><org xml:id="org__1246"><orgName>Staatsbahn</orgName></org><org xml:id="org__1256"><orgName>Staatsrat</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

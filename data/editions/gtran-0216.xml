@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0216.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0215.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0217.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Anfrage wegen Ermächtigung, die Kündigung von Kanzleiaushilfskräften der statistischen Zentralkommission widerrufen zu dürfen</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2604</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>Bestand: Staatskanzlei - BKA/alt Varia 1919  Zwischenstaatliches Komitee; Verhandlungsschriften Nr. 1 - 25 zu den Sitzungen des zwischenstaatsamtlichen Komitees für Staatsbedienstetenangelegenheiten, Nr: 20., Unterpunkt: 08., Seite: 53</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__3257">Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>Anfrage wegen Ermächtigung, die Kündigung von Kanzleiaushilfskräften der statistischen Zentralkommission widerrufen zu dürfen; die Bestellung dieser Kanzleihilfskräfte steht mit dem Krieg nur in entfernter Beziehung. ANTWORT DER KOMMISSION: Die Weiterverwendung kann durch das Staatsamt bewilligt werden.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-01-31" notAfter="1919-02-01">
+                31. Jänner 1919 und 1. Februar 1919
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Kündigung</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-27 08:31:34.714413+00:00" who="#pbecker"/><change when="2019-10-18 14:37:56.905369+00:00" who="#gsteiner"/><change when="2019-09-25 10:02:44.959891+00:00" who="#pbecker"/><change when="2019-03-06 16:02:36.417467+00:00" who="#gsteiner"/><change when="2019-03-06 16:01:10.455731+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         </listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         </listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1267"><orgName>statistische Zentralkommission</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

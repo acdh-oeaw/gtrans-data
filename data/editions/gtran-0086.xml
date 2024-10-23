@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0086.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0085.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0087.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Eidesstättiges Gelöbnis der städtischen Angestellten</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#vhelfert">Helfert, Veronika</rs></editor><editor><rs ref="#tgarstenauer">Garstenauer, Therese</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2512</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Wiener Stadt- und Landesarchiv</repository>
+                    <msName>Bestand: Wiener Stadt- und Landesarchiv, 1.5.3 Magistratsdirektion, Karton: 275, Aktenzahl: 4215/1919</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Akt</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents/></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#vhelfert #tgarstenauer">
+            <p>Erlaß der Magistratsdirektion an die Vorstände der städtischen Ämter, Anstalten und Unternehmungen: Hinweis auf die neue Dienstordnung (§ 17): Bisherige "Angelobung" entfällt, an ihre Stelle tritt das "Gelöbnis"; diese finden regelmäßig am zweiten Donnerstag jedes Monats statt. Anlässlich der ersten definitiven Anstellung findet eine Erinnerung an das Gelöbnis statt. "Zur nächsten Gelöbnis-Abnahme sind jene Angestellten heranzuziehen, die bisher lediglich die 'Angelobung' geleistet haben, ferner die, welche in der letzten Zeit die definitive Anstellung erlangt, den früher vorgeschriebenen Diensteid aber noch nicht abgelegt haben. Das Gleiche gilt für die während ihrer Kriegsdienstleistung gegen nachträgliche Beeidigung zu Praktikanten beförderten Angestellten [...], die den Diensteid noch nicht abgelegt haben."</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-05-30" notAfter="1919-05-30">
+                1919-05-30
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-09-21 10:25:49.076105+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         </listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1151"><orgName>Magistratsdirektion (Stadt Wien)</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

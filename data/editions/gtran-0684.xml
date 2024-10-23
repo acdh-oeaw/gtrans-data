@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0684.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0683.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0685.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Übernahme der Krongüter</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/3448</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Gertrude Enderle-Burcel et al. (Hg.), Der österreichische Staatsrat. Protokolle des Vollzugsausschusses, des Staatsrates und des Geschäftsführenden Staatsratsdirektoriums 21. Oktober 1918 bis 14. Marz 1919, Band 1: 21. Oktober 1918 bis 14. November 1918, Wien 2008</repository>
+                    <msName>StRProt Nr. 32 vom 13. November 1918, in: Enderle-Burcel et al. (Hg.), Der österreichische Staatsrat, 404.</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__1256">Staatsrat</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>StS Stöckler stellt den Antrag, sämtliches Inventar der Krongüter in Wien, Schönbrunn, Laxenburg etc. für den deutschösterreichischen Staat zu beschlagnahmen. Das StA für Landwirtschaft soll beauftragt werden, dieses zu übernehmen und darüber zu verfügen. Der Antrag wird angenommen.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1918-11-13" notAfter="1918-11-13">
+                1918-11-13
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-10-25 10:21:17.257360+00:00" who="#pbecker"/><change when="2019-10-18 10:48:42.635839+00:00" who="#gsteiner"/><change when="2019-10-11 08:59:11.428035+00:00" who="#pbecker"/><change when="2019-10-11 08:59:11.255185+00:00" who="#pbecker"/><change when="2019-01-07 08:42:51.685024+00:00" who="#gsteiner"/><change when="2019-01-07 08:40:39.853071+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__3284"><persName><surname>Stöckler</surname><forename>Josef</forename><roleName/></persName><birth when="1866-06-08">1866-06-08<placeName key="#place__3283">St. Valentin (NÖ)</placeName></birth><death when="1936-12-09">1936-12-09<placeName key="#place__3283">St. Valentin (NÖ)</placeName></death><idno>http://d-nb.info/gnd/103681033X</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place><place xml:id="place__3446"><placeName>Schönbrunn</placeName><location><geo decls="#LatLng">48.184940000000 16.312290000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/6354998/</idno></place><place xml:id="place__3447"><placeName>Laxenburg</placeName><location><geo decls="#LatLng">48.068330000000 16.356070000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2772810/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1234"><orgName>Staatsamt für Landwirtschaft</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0862.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0861.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0863.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Verhandlungsschrift über die Sitzung des Klubs der christlichsozialen Wiener Gemeinderäte vom 13. November 1919</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#vhelfert">Helfert, Veronika</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/3845</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Karl von Vogelsang-Institut</repository>
+                    <msName>Christlichsoziale Partei-Wien, Kt. 37, M. Bürgerklub-Protokolle 1919</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__3826">Bürgerklub</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#vhelfert">
+            <p>In dieser Sitzung der christlichsozialen Gemeinderäte wird über die Aufrechterhaltung der "Absenzpolitik" (GR Wawerka) diskutiert. Der Vorstand empfiehlt eine Aufrechterhaltung des Boykotts der Gemeinderats- und Stadtratssitzungen, obwohl die Wohnungsaufnahmskommissionen ihre Arbeit unter Einbezug von Arbeiterräten aufgenommen haben. Die Angelegenheit zieht zudem Kreise in die Wiener Landtagssitzungen sowie in den Nationalrat. Nach langer Debatte wird eine Fortsetzung des Boykotts beschlossen.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-11-13" notAfter="1919-11-13">
+                13. November 1919
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Arbeiterrätin</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Demokratisierung</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-12 23:32:57.397319+00:00" who="#pbecker"/><change when="2019-06-18 12:10:27.955870+00:00" who="#vhelfert"/><change when="2019-06-18 12:10:04.887114+00:00" who="#vhelfert"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__728"><persName><surname>Kienböck</surname><forename>Viktor</forename><roleName>Dr.</roleName></persName><birth when="1873-01-18">1873-01-18<placeName key="#place__580">Wien</placeName></birth><death when="1956-11-23">1956-11-23<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/129085804</idno></person><person xml:id="person__746"><persName><surname>Kunschak</surname><forename>Leopold</forename><roleName/></persName><birth when="1871-11-11">1871-11-11<placeName key="#place__580">Wien</placeName></birth><death when="1953-03-13">1953-03-13<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118725432</idno></person><person xml:id="person__831"><persName><surname>Rummelhardt</surname><forename>Karl</forename><roleName/></persName><birth/><death/></person><person xml:id="person__874"><persName><surname>Strobl</surname><forename>Anna</forename><roleName/></persName><birth><placeName key="#place__473">Klagenfurt</placeName></birth><death/></person><person xml:id="person__891"><persName><surname>Vaugoin</surname><forename>Karl</forename><roleName/></persName><birth/><death/></person><person xml:id="person__900"><persName><surname>Wawerka</surname><forename>Karl</forename><roleName/></persName><birth><placeName key="#place__426">Dellach</placeName></birth><death/></person><person xml:id="person__921"><persName><surname>Zimmerl</surname><forename>Franz</forename><roleName/></persName><birth/><death/></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         </listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         </listOrg>
+      </back>
+  </text>
+</TEI>

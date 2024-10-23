@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0430.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0429.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0431.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ausfolgung der Standesausweise richterlicher Beamter an die tschechoslowakische Justizverwaltung</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/3725</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>ÖStA/AdR, Bundeskanzleramt, Kabinettsratsprotokolle 1. Republik, Protokoll Nr. 1 bis 35, 31. 10. 1918 bis 30. 1. 1919, Kabinettsratsprotokoll Nr. 29 vom 9. Jänner 1919, 3ff.</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><p>Siehe auch: Vollzugsanweisung vom 25. November 1918, StGBl. 58 u. 61 (deutsches Gebiet des Prager Oberlandesgerichtssprengels)</p><msItem><author ref="#org__1105">Kabinettsrat</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>StS Roller berichtet, dass die tschechoslowakische Justizverwaltung die Ausfolgung der Standesausweise aller Beamten im deutschböhmischen Gebiet verlange. Roller hat dazu folgenden Standpunkt: 
+1. Die Standesausweise der tschechischen Beamten im tschechischen Gebiet sind auszufolgen.
+2. Die Standesausweise der deutschen Beamten im tschechischen Gebiet sind ebenfalls auszufolgen, jedoch sind davon Abschriften zu machen, weil später vielleicht auf sie zurückgegriffen wird.
+3. Die Standesausweise deutscher Beamte aus deutschen Gebieten sind zurückzubehalten.
+4. Die Standesausweise tschechischer Beamte aus deutschen Gebieten sind nach dem Territorialprinzip ebenfalls zurückzubehalten. Roller vermutet, dass die Tschechen damit einen Vorwand konstruieren wollen, dass Deutschösterreich die tschechische Oberhoheit über diese Gebiete anerkenne.
+5. Die Standesausweise der Sprengelrichter wären ohne Rücksicht auf die Zugehörigkeit des Gebietes auszufolgen, mit Ausnahme der drei letzten Ernennungen, weil dies Tschechen waren.
+6. Standesausweise der deutschen Beamten des Oberlandesgerichts Prag (Praha) sind zurückzubehalten.
+Der Kabinettsrat stimmt diesen Ausführen zu.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-01-09" notAfter="1919-01-09">
+                9. Jänner 1919
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">tschechoslowak. Staatsdienst</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-12 21:22:12.633553+00:00" who="#pbecker"/><change when="2019-02-07 08:48:31.950282+00:00" who="#gsteiner"/><change when="2019-02-07 08:29:50.982894+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__826"><persName><surname>Roller</surname><forename>Julius</forename><roleName>Dr.</roleName></persName><birth when="1862-10-28">1862-10-28<placeName key="#place__560">Thomigsdorf</placeName></birth><death when="1946-12-27">1946-12-27<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/1028281269</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__407"><placeName>Böhmen</placeName><location><geo decls="#LatLng">50.000000000000 14.500000000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3078198/</idno></place><place xml:id="place__427"><placeName>Deutschböhmen</placeName><idno type="GEONAMES"/></place><place xml:id="place__523"><placeName>Prag</placeName><location><geo decls="#LatLng">50.088040000000 14.420760000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3067696/</idno></place><place xml:id="place__567"><placeName>Tschechoslowakei</placeName><location><geo decls="#LatLng">50.082920000000 14.466720000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/8505031/</idno></place><place xml:id="place__568"><placeName>umstrittenes Gebiet</placeName><idno type="GEONAMES"/></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1007"><orgName>deutschösterr. Regierung</orgName></org><org xml:id="org__1165"><orgName>Oberlandesgericht Prag (Praha)</orgName></org><org xml:id="org__1287"><orgName>tschechoslowak. Justizministerium</orgName></org><org xml:id="org__1289"><orgName>tschechoslowakische Regierung</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

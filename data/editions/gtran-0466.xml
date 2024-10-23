@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0466.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0465.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0467.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Zusammenbruch der Verwaltung und Versorgung in Deutschböhmen</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2841</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>Bestand: ÖStA/AdR, Bundeskanzleramt, Staatsratsprotokolle 1. Republik, Protokoll Nr. 36 - 50, 18. 11. 1918 - 29. 11. 1918; 46. Sitzung vom 26. November 1918, S. 1ff., Karton: 2</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__1256">Staatsrat</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>Landeshauptmann Lodgman berichtet, das die deutschösterreichischen Gesetze und Verfügungen in Deutschböhmen nicht mehr exekutierbar sind. Auch sei die Versorgung mit Nahrung kurz vor dem Zusammenbruch. Der westliche Landesteil sei vom östlichen vollständig abgeschnitten. Lebensmittel werden vom tschechischen Militär beschlagnahmt und nur freigegeben, wenn sich die Bewohner zum tschechoslowakischen Staat bekennen.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1918-11-26" notAfter="1918-11-26">
+                26. November 1918, vorm.
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Repression</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-24 12:21:20.623578+00:00" who="#pbecker"/><change when="2019-10-22 14:19:31.127253+00:00" who="#gsteiner"/><change when="2019-10-22 14:14:56.187964+00:00" who="#gsteiner"/><change when="2019-10-03 09:35:53.447592+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__608"><persName><surname>Bauer</surname><forename>Otto</forename><roleName>Dr.</roleName></persName><birth when="1881-09-05">1881-09-05<placeName key="#place__580">Wien</placeName></birth><death when="1938-07-04">1938-07-04<placeName key="#place__518">Paris</placeName></death><idno>http://d-nb.info/gnd/118507346</idno></person><person xml:id="person__750"><persName><surname>Lammasch</surname><forename>Heinrich</forename><roleName>Prof. Dr.</roleName></persName><birth when="1853-05-21">1853-05-21<placeName key="#place__3181">Seitenstetten</placeName></birth><death when="1920-01-06">1920-01-06<placeName key="#place__535">Salzburg</placeName></death><idno>http://d-nb.info/gnd/118726110</idno></person><person xml:id="person__756"><persName><surname>Lodgman</surname><forename>Rudolf</forename><roleName>Dr.</roleName></persName><birth when="1877-12-21">1877-12-21<placeName key="#place__477">Königgrätz</placeName></birth><death when="1962-12-11">1962-12-11<placeName key="#place__505">München</placeName></death><idno>http://d-nb.info/gnd/118728709</idno></person><person xml:id="person__887"><persName><surname>Tusar</surname><forename>Vlastimil</forename><roleName/></persName><birth when="1880-10-18">1880-10-18<placeName key="#place__523">Prag</placeName></birth><death when="1924-03-22">1924-03-22<placeName key="#place__404">Berlin</placeName></death><idno>http://d-nb.info/gnd/133790649</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__402"><placeName>Bayern</placeName><location><geo decls="#LatLng">49.000000000000 11.500000000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2951839/</idno></place><place xml:id="place__409"><placeName>Böhmisch-Leipa</placeName><location><geo decls="#LatLng">50.685510000000 14.537640000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3077929/</idno></place><place xml:id="place__410"><placeName>Bösig (?)</placeName><location><geo decls="#LatLng">50.584480000000 16.002050000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3079415/</idno></place><place xml:id="place__427"><placeName>Deutschböhmen</placeName><idno type="GEONAMES"/></place><place xml:id="place__438"><placeName>Eger</placeName><location><geo decls="#LatLng">50.079630000000 12.373920000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3077835/</idno></place><place xml:id="place__448"><placeName>Georgswalde</placeName><location><geo decls="#LatLng">50.995140000000 14.569100000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3074119/</idno></place><place xml:id="place__458"><placeName>Halbstadt</placeName><location><geo decls="#LatLng">50.624610000000 16.242070000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3070774/</idno></place><place xml:id="place__488"><placeName>Libenau</placeName><location><geo decls="#LatLng">50.651680000000 16.110270000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3071924/</idno></place><place xml:id="place__491"><placeName>Lobositz</placeName><location><geo decls="#LatLng">50.515040000000 14.051030000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3071480/</idno></place><place xml:id="place__500"><placeName>Marienbad</placeName><location><geo decls="#LatLng">49.964590000000 12.701180000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3071024/</idno></place><place xml:id="place__503"><placeName>Mies</placeName><location><geo decls="#LatLng">49.755650000000 12.997000000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3064919/</idno></place><place xml:id="place__521"><placeName>Polen</placeName><location><geo decls="#LatLng">52.000000000000 20.000000000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/798544/</idno></place><place xml:id="place__523"><placeName>Prag</placeName><location><geo decls="#LatLng">50.088040000000 14.420760000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3067696/</idno></place><place xml:id="place__532"><placeName>Rumburg</placeName><location><geo decls="#LatLng">50.951510000000 14.556990000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3066578/</idno></place><place xml:id="place__538"><placeName>Schlesien</placeName><location><geo decls="#LatLng">51.000000000000 18.000000000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3066138/</idno></place><place xml:id="place__539"><placeName>Schluckenau</placeName><location><geo decls="#LatLng">51.003690000000 14.452580000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3065768/</idno></place><place xml:id="place__558"><placeName>Tannenberg</placeName><idno type="GEONAMES"/></place><place xml:id="place__559"><placeName>Theresienstadt</placeName><location><geo decls="#LatLng">50.511000000000 14.150550000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3064268/</idno></place><place xml:id="place__568"><placeName>umstrittenes Gebiet</placeName><idno type="GEONAMES"/></place><place xml:id="place__578"><placeName>Warnsdorf</placeName><location><geo decls="#LatLng">50.911540000000 14.618240000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3063375/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1030"><orgName>k.k. Regierung</orgName></org><org xml:id="org__1060"><orgName>Gendarmerie</orgName></org><org xml:id="org__1126"><orgName>Kriegsgetreide-Verkehrsanstalt Prag (Praha)</orgName></org><org xml:id="org__1159"><orgName>Národní Výbor (tschechoslowak. Nationalausschuss)</orgName></org><org xml:id="org__1182"><orgName>Pilsner Výbor</orgName></org><org xml:id="org__1227"><orgName>Staatsamt für Heerwesen</orgName></org><org xml:id="org__1256"><orgName>Staatsrat</orgName></org><org xml:id="org__1291"><orgName>tschechoslowakisches Militär</orgName></org><org xml:id="org__1292"><orgName>Turnauer Výbor</orgName></org><org xml:id="org__3280"><orgName>Landesregierung Deutschböhmen</orgName></org><org xml:id="org__3301"><orgName>Deutschösterreichischer Staat</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

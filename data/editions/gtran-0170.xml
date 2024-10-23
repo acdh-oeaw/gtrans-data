@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0170.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0169.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0171.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Entschädigung für verletzte Staatsbeamte des 12. November 1918</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2861</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>Bestand: ÖStA/AdR, Bundeskanzleramt, Staatsratsprotokolle 1. Republik, Protokoll Nr. 51 - 65, 30. 11. 1918 - 13. 1. 1919, 60. Sitzung vom 20. Dezember 1918, S. 2., Karton: 3</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__1256">Staatsrat</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>Der Staatsrat beschließt, den beiden bei den Unruhen anlässlich der Republiksausrufung am 12. November 1918 zu Schaden gekommenen Beamten eine Entschädigung zuzuerkennen.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1918-12-20" notAfter="1918-12-20">
+                20. Dezember 1918
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-10-03 10:21:25.820114+00:00" who="#pbecker"/><change when="2018-12-21 15:53:27.731366+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__624"><persName><surname>Brügel</surname><forename>Ludwig</forename><roleName/></persName><birth when="1866-02-06">1866-02-06<placeName key="#place__455">Großmeseritsch</placeName></birth><death when="1942-08-30">1942-08-30<placeName key="#place__3115">Theresienstadt (KZ)</placeName></death><idno>http://d-nb.info/gnd/1047396122</idno></person><person xml:id="person__669"><persName><surname>Griesler</surname><forename>Josef</forename><roleName/></persName><birth/><death/></person><person xml:id="person__718"><persName><surname>Jerzabek</surname><forename>Anton</forename><roleName>Dr.</roleName></persName><birth when="1867-04-28">1867-04-28<placeName key="#place__580">Wien</placeName></birth><death when="1939-03-26">1939-03-26<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/127743820</idno></person><person xml:id="person__856"><persName><surname>Seitz</surname><forename>Karl</forename><roleName/></persName><birth when="1869-09-04">1869-09-04<placeName key="#place__580">Wien</placeName></birth><death when="1950-02-03">1950-02-03<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/119184745</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         </listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         </listOrg>
+      </back>
+  </text>
+</TEI>

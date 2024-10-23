@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0765.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0764.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0766.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Verlegung der Staatsbahndirektion Jägerndorf (Krnov) nach Oberösterreich</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/3715</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>ÖStA/AdR, Bundeskanzleramt, Kabinettsratsprotokolle 1. Republik, Protokoll Nr. 1 bis 35, 31. 10. 1918 bis 30. 1. 1919, Kabinettsratsprotokoll Nr. 25 vom 21. Dezember 1918, 2f.</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__1105">Kabinettsrat</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>UStS Enderes berichtet, dass die Staatsbahndirektion Jägerndorf (Krnov) infolge der Unterordnung aller dortigen Behörden und Ämter unter die tschech. Regierung ihren Betrieb nicht fortführen könne. Das Staatsamt für Verkehrswesen habe die Staatsbahndirektion Jägerndorf (Krnov) angewiesen, sich nach Oberösterreich zu begeben und von dort die Geschäfte abzuwickeln. Außerdem habe sie bei der Staatsbahndirektion Olmütz (Olomouc) zu protestieren.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1918-12-21" notAfter="1918-12-21">
+                21. Dezember 1918
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">tschechoslowak. Staatsdienst</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-12 20:42:47.461138+00:00" who="#pbecker"/><change when="2019-02-05 15:56:45.235872+00:00" who="#gsteiner"/><change when="2019-02-05 15:55:44.951952+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__644"><persName><surname>Enderes</surname><forename>Bruno</forename><roleName>Ing.</roleName></persName><birth when="1871-02-19">1871-02-19<placeName key="#place__580">Wien</placeName></birth><death when="1934-10-17">1934-10-17<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/117500348</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__429"><placeName>Deutsches Reich</placeName><idno type="GEONAMES"/></place><place xml:id="place__512"><placeName>Oberösterreich</placeName><location><geo decls="#LatLng">48.250000000000 14.000000000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2769848/</idno></place><place xml:id="place__515"><placeName>Olmütz</placeName><location><geo decls="#LatLng">49.595520000000 17.251750000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3069011/</idno></place><place xml:id="place__3281"><placeName>Jägerndorf</placeName><location><geo decls="#LatLng">50.089670000000 17.703850000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3072656/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1105"><orgName>Kabinettsrat</orgName></org><org xml:id="org__1239"><orgName>Staatsamt für Verkehrswesen</orgName></org><org xml:id="org__1289"><orgName>tschechoslowakische Regierung</orgName></org><org xml:id="org__3469"><orgName>Staatsbahndirektion für das Sudetenland</orgName></org><org xml:id="org__3714"><orgName>Staatsbahndirektion Olmütz</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0428.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0427.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0429.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">StA für Justiz bringt über Auftrag des Kabinettsrates vom 27. Mai 1919 einen Gesetzentwurf betreffend die Ernennung von Gerichtsdienern (Gerichtsunterbeamten)</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2704</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>Bestand: Staatskanzlei - BKA/alt Varia 1919  Zwischenstaatliches Komitee; Verhandlungsschriften Nr. 26 - 50 zu den Sitzungen des zwischenstaatsamtlichen Komitees für Staatsbedienstetenangelegenheiten, Nr: 50., Unterpunkt: 01., Seite: 78</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__3257">Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>StA für Justiz bringt über Auftrag des Kabinettsrates vom 27. Mai 1919 einen Gesetzentwurf betreffend die Ernennung von Gerichtsdienern (Gerichtsunterbeamten) mit Kanzleiprüfung zu Kanzleibeamten der XI. Rangklasse zur Verhandlung. Wilfling regt an, dass diese Frage nicht im Wege eines Gesetzes, sondern im Wege von durch das StA für Justiz zu vollziehende Ernennungen zu regeln wäre. Das Zertifikatistengesetz würde hierbei kein Hindernis bilden, weil nicht eine Stellenbesetzung, sondern eine Ernennung ad personam vollzogen würde. Weiters beantragt Wilfling, bis zur Erledigung der Besoldungsreform keine Diener (Unterbeamte) zur Kanzleiprüfung zuzulassen. ANTWORT DER KOMMISSION: Das Komitee stimmt dieser Auffassung zu.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-05-28" notAfter="1919-05-28">
+                28. Mai 1919
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Systemisierung</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-27 09:16:42.536896+00:00" who="#pbecker"/><change when="2019-10-02 12:50:15.177092+00:00" who="#pbecker"/><change when="2019-03-28 08:53:45.831823+00:00" who="#gsteiner"/><change when="2019-03-20 17:49:44.379237+00:00" who="#gsteiner"/><change when="2019-03-20 17:49:26.281530+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__910"><persName><surname>Wilfling</surname><forename>August</forename><roleName>Dr.</roleName></persName><birth/><death/></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         </listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1105"><orgName>Kabinettsrat</orgName></org><org xml:id="org__1232"><orgName>Staatsamt für Justiz</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0285.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0284.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0286.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Beschluss des Staatsrats: Verordnung betreffend die teilweise Anrechnung der Kriegsjahre in der Vorrückung in höhere Bezüge</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/3403</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Gertrude Enderle-Burcel et al. (Hg.), Der österreichische Staatsrat. Protokolle des Vollzugsausschusses, des Staatsrates und des Geschäftsführenden Staatsratsdirektoriums 21. Oktober 1918 bis 14. Marz 1919, Band 1: 21. Oktober 1918 bis 14. November 1918, Wien 2008</repository>
+                    <msName>StRProt Nr. 28 vom 9. November 1918, in: Enderle-Burcel et al. (Hg.), Der österreichische Staatsrat, 326.</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><p>vgl. ÖStA/FHKA, StAF. Zl. 1.461/1918 vom 28. November 1918 Begünstigte Anrechnung der Dienstzeit während des Krieges für die Vorrückung der d. ö. Zivilstaatsbediensteten in höhere Bezüge bzw. Zl. 1.848 vom 28. November 1918 Begünstigte Anrechnung der Dienstzeit der d. ö. Zivilstaatsbediensteten während des Krieges bei der Bemessung der Ruhegenüsse.</p><msItem><author ref="#org__1256">Staatsrat</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>UStS Beck teilt mit, dass die Genehmigung der Verordnung betreffend die teilweise Anrechnung der Kriegsjahre in die Vorrückung für höhere Bezüge, bzw. in eine höhere Gehaltsstufe vom Staatsamt für Finanzen eingelangt sei. Er ersucht den Staatsrat, die Verordnung zum Beschluss zu erheben, da die Verordnung der alten Regierung für den deutschösterreichischen Staat nicht bindend sei und es wünschenswert erscheine, den Beamten diese Vergünstigung zukommen zu lassen. Geschieht.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1918-11-09" notAfter="1918-11-09">
+                1918-11-09
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Vorrückung</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-25 10:15:08.082900+00:00" who="#pbecker"/><change when="2019-10-18 10:18:53.291668+00:00" who="#gsteiner"/><change when="2019-10-11 08:16:43.903250+00:00" who="#pbecker"/><change when="2018-12-20 12:00:38.764582+00:00" who="#gsteiner"/><change when="2018-12-20 11:49:13.301755+00:00" who="#gsteiner"/><change when="2018-12-20 10:50:51.167049+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__609"><persName><surname>Beck von Managetta</surname><forename>Eugen</forename><roleName>Dr.</roleName></persName><birth when="1861-06-15">1861-06-15<placeName key="#place__524">Preßburg</placeName></birth><death when="1943-11-07">1943-11-07<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/137693036; https://www.deutsche-biographie.de/pnd137693036.html</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         </listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1030"><orgName>k.k. Regierung</orgName></org><org xml:id="org__1220"><orgName>Staatsamt für Finanzen</orgName></org><org xml:id="org__1256"><orgName>Staatsrat</orgName></org><org xml:id="org__3301"><orgName>Deutschösterreichischer Staat</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

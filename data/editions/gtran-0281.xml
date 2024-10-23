@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0281.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0280.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0282.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Gesetz über die Dienstbezüge und Dienstzulagen der vom Volke betrauten Staatsorgane</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#kmegner">Megner, Karl</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/3186</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichische Nationalbibliothek</repository>
+                    <msName>Bestand: Staatsgesetzblatt für den Staat Deutschösterreich 1918–1920, Signatur: StGBl. Nr. 42/1918; (PNV: 12 AB 15 S. 5.)</msName>
+               <idno>http://alex.onb.ac.at/cgi-content/alex?apm=0&amp;aid=sgb&amp;datum=19180004&amp;seite=00000052&amp;size=45</idno></msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Gesetzblatt</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents/></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#kmegner">
+            <p>Der zisleithanische Ministerpräsident und seine Minister galten formal als Beamte (1. und 2. Rangklasse). Ihre Bezüge blieben aber jahrzehntelang gleich, teilweise auch dann, als die Gehaltsansätze der übrigen Beamten angehoben wurden. Wenige Tage nach der Ausrufung der Republik legten der Kanzler, die Abgeordneten, die Staatssekretäre usw. ihre steuer- und exekutionsfreien Bezüge fest, auf die zudem nicht verzichtet werden durfte.  Dieses Gesetz ist eines der ersten, das den öffentlichen Dienst nach dem Ende der Monarchie betrifft, wenn man den Begriff "öffentlicher Dienst" weit fasst. Die monatlichen Bezüge betrugen entweder 1000 K oder ein Vielfaches davon (z.B. für Staatssekretäre, die auch Beamte waren). Hier wurden die im RGBl. Nr. 2523/1917 §§ 18 und 19 normierten Sätze fortgeschrieben. Die Ansätze sind hoch. Allerdings setzte bald eine Hyperinflation ein. Freilich machte es schon einen Unterschied, ob bei der Inflation von einem hohen oder einem niedrigen Gehaltsansatz ausgegangen wurde.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1918-11-22" notAfter="1918-11-22">
+                1918-11-22
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-10-25 22:44:16.434836+00:00" who="#kmegner"/><change when="2019-10-10 07:55:06.424498+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         </listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         </listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         </listOrg>
+      </back>
+  </text>
+</TEI>

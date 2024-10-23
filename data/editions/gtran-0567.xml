@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0567.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0566.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0568.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Gesetz betr. die definitive Anstellung der Bezirksschulinspektoren</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#kmegner">Megner, Karl</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/3198</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichische Nationalbibliothek</repository>
+                    <msName>Bestand: Staatsgesetzblatt für den Staat Deutschösterreich 1918–1920, Signatur: StGBl. Nr. 291/1919 (KNV: 163 AB 216 S. 15.)</msName>
+               <idno>http://alex.onb.ac.at/cgi-content/alex?apm=0&amp;aid=sgb&amp;datum=19190004&amp;seite=00000665&amp;size=45</idno></msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Gesetzblatt</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents/></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#kmegner">
+            <p>Das Gesetz betraf Inspektoren von Volks- und Bürgerschulen (in etwa Hauptschulen). Ausschreibung der Position, Besetzungsvorschlag durch Landesschulbehörden, Bestellung durch das Staatsamt für Inneres und Unterricht. Spätere Definitivstellung als Staatsbeamter war vorgesehen. Landeslehrerkammern, die in die Ausschreibung eingebunden werden sollten, wurden nicht eingerichtet (ebenso nicht Beamtenkammern).</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-05-14" notAfter="1919-05-14">
+                1919-05-14
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-10-10 09:33:30.608512+00:00" who="#pbecker"/><change when="2019-10-10 09:30:42.474242+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         </listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         </listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__989"><orgName>Bürgerschule</orgName></org><org xml:id="org__1225"><orgName>Staatsamt des Innern</orgName></org><org xml:id="org__1238"><orgName>Staatsamt für Unterricht</orgName></org><org xml:id="org__1322"><orgName>Volksschule</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

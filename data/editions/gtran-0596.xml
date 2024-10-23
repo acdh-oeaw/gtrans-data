@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0596.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0595.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0597.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Enthebung der deutschösterr. Beamten in der Bezirkshauptmannschaft Kaplitz (Kaplice)</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2799</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>Bestand: ÖStA/AdR, Bundeskanzleramt, Staatsratsprotokolle 1. Republik, Protokoll Nr. 36 - 50, 18. 11. 1918 - 29. 11. 1918; 39. Sitzung vom 20. Nov. 1918, S. 8f., Karton: 2</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__1256">Staatsrat</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>Die Statthalterei in Prag (Praha) beabsichtigt, alle auf den deutschösterreichischen Staat angelobten Beamten der Bezirkshauptmannschaft in Kaplitz (Kaplice) zu entheben. StR Teufel beantragt, die schärfste Verwahrung dagegen einzulegen und einen Bevollmächtigten nach Kaplitz (Kaplice) zu senden, um beruhigend zu wirken.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1918-11-20" notAfter="1918-11-20">
+                20. Nov. 1918
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Bevollmächtiger</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-24 12:10:13.093351+00:00" who="#pbecker"/><change when="2019-10-22 08:49:31.573671+00:00" who="#gsteiner"/><change when="2019-10-13 16:17:04.547528+00:00" who="#pbecker"/><change when="2019-10-03 07:16:31.975775+00:00" who="#pbecker"/><change when="2019-10-03 07:16:07.082538+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__635"><persName><surname>Dinghofer</surname><forename>Franz</forename><roleName>Dr.</roleName></persName><birth when="1873-04-06">1873-04-06<placeName key="#place__517">Ottensheim</placeName></birth><death when="1956-01-12">1956-01-12<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118902830</idno></person><person xml:id="person__879"><persName><surname>Teufel</surname><forename>Oskar</forename><roleName/></persName><birth when="1880-10-05">1880-10-05<placeName key="#place__595">Znaim</placeName></birth><death when="1946-01-26">1946-01-26<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/1027122671</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__469"><placeName>Kaplitz</placeName><location><geo decls="#LatLng">48.738810000000 14.494490000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3073862/</idno></place><place xml:id="place__490"><placeName>Linz</placeName><location><geo decls="#LatLng">48.306390000000 14.286110000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2772400/</idno></place><place xml:id="place__523"><placeName>Prag</placeName><location><geo decls="#LatLng">50.088040000000 14.420760000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3067696/</idno></place><place xml:id="place__567"><placeName>Tschechoslowakei</placeName><location><geo decls="#LatLng">50.082920000000 14.466720000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/8505031/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__978"><orgName>Bezirkshauptmannschaft Kaplitz (Kaplice)</orgName></org><org xml:id="org__1129"><orgName>Land Oberösterreich</orgName></org><org xml:id="org__1159"><orgName>Národní Výbor (tschechoslowak. Nationalausschuss)</orgName></org><org xml:id="org__1167"><orgName>Oberösterreichische Landesregierung</orgName></org><org xml:id="org__1269"><orgName>Statthalterei Prag (Praha)</orgName></org><org xml:id="org__1280"><orgName>südböhmischer Kreis</orgName></org><org xml:id="org__3301"><orgName>Deutschösterreichischer Staat</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

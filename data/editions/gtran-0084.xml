@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0084.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0083.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0085.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Vermeidung des Weiterbezuges von Beihilfen von ehemals österreichischen Beamten in Triest</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2599</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>Bestand: Staatskanzlei - BKA/alt Varia 1919  Zwischenstaatliches Komitee; Verhandlungsschriften Nr. 1 - 25 zu den Sitzungen des zwischenstaatsamtlichen Komitees für Staatsbedienstetenangelegenheiten, Nr: 20., Unterpunkt: 02., Seite: 50</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__3257">Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>In welcher Weise könnte in Anbetracht dessen, dass mit dem italienischen Staat hinsichtlich der von ihm derzeit besetzten Gebiete (Triest (Trieste)) mangels einer Vertretung dieses Staates in Deutschösterreich keine Vereinbarung getroffen werden kann, Vorsorgen getroffen werden, daß ehemals österreichische Staatsbedienstete (deutscher Nationalität), die ihren letzten Amtssitz in Triest (Trieste) hatten und sich dermalen in Deutschösterreich aufhalten, obwohl sie das 35. Dienstjahr und das 60. Lebensjahr überschritten haben und selbst um Versetzung in den Ruhestand dringend ansuchen, nicht auf unbestimmte Zeit weiterhin die Beihilfe vom deutschösterreichischen Staate im vollen Ausmaße der bisherigen Aktivitätsbezüge erhalten müssen? ANTWORT DER KOMMISSION: Die einstweilige Weiterzahlung der Beihilfe im Ausmaße der bisherigen Bezüge kann nicht umgangen werden.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-01-31" notAfter="1919-02-01">
+                31. Jänner 1919 und 1. Februar 1919
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">zwischenstaatliche Vereinbarung</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Pensionierung</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-27 08:26:24.917759+00:00" who="#pbecker"/><change when="2019-10-18 14:30:21.735303+00:00" who="#gsteiner"/><change when="2019-09-25 09:43:40.280464+00:00" who="#pbecker"/><change when="2019-03-06 15:20:36.278271+00:00" who="#gsteiner"/><change when="2019-03-06 14:44:01.004829+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         </listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__430"><placeName>Deutschösterreich</placeName><idno type="GEONAMES"/></place><place xml:id="place__564"><placeName>Triest</placeName><location><geo decls="#LatLng">45.649530000000 13.776780000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3165185/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1090"><orgName>italien. Staat</orgName></org><org xml:id="org__3301"><orgName>Deutschösterreichischer Staat</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

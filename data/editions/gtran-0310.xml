@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0310.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0309.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0311.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Gemeinderat. Stenographischer Bericht über die öffentliche Sitzung vom 6. Februar 1920. 19. Erhöhung der Tarife bei den städtischen Unternehmungen</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#vhelfert">Helfert, Veronika</rs></editor><editor><rs ref="#tgarstenauer">Garstenauer, Therese</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2930</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Wiener Stadt- und Landesarchiv</repository>
+                    <msName>Bestand: Wiener Stadt- und Landesarchiv, Archivbibliothek, BiblM - M - Amtsperiodika, Verwaltungsberichte, Adressbücher, Signatur: M 599 29/1 1. Ex., Punkt/Seite: 19; 438-466</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Amtsblatteintrag</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents/></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#vhelfert #tgarstenauer">
+            <p>19. Erhöhung der Tarife bei den städtischen Unternehmungen [438-466] Z. 2391, 2542, 2543, 2477, 2540. Betroffen sind die Straßenbahntarife und Strompreise. Berichterstatter VB Emmerling. Bericht über geplante Tariferhöhungen und Beschlussfassung darüber. Sehr lange Debatte, die u.a. Auswirkungen auf städtische Angestellte (zB bei den Straßenbahntarifen) thematisiert.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1920-02-06" notAfter="1920-02-06">
+                
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-10-04 06:23:11.926422+00:00" who="#pbecker"/><change when="2019-10-04 06:22:31.476746+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__620"><persName><surname>Breitner</surname><forename>Hugo</forename><roleName/></persName><birth when="1873-11-09">1873-11-09<placeName key="#place__580">Wien</placeName></birth><death when="1946-03-05">1946-03-05<placeName key="#place__3127">Claremont</placeName></death><idno>http://d-nb.info/gnd/119179504</idno></person><person xml:id="person__621"><persName><surname>Breuer</surname><forename>Johann Alfred</forename><roleName/></persName><birth when="1866-11-02">1866-11-02<placeName key="#place__580">Wien</placeName></birth><death when="1932-01-21">1932-01-21<placeName key="#place__580">Wien</placeName></death><idno>https://de.wikipedia.org/wiki/Johann_Alfred_Breuer</idno></person><person xml:id="person__643"><persName><surname>Emmerling</surname><forename>Georg</forename><roleName/></persName><birth when="1870-07-12">1870-07-12<placeName key="#place__580">Wien</placeName></birth><death when="1948-12-12">1948-12-12<placeName key="#place__580">Wien</placeName></death><idno>https://de.wikipedia.org/wiki/Georg_Emmerling</idno></person><person xml:id="person__646"><persName><surname>Erntner</surname><forename>Josef</forename><roleName/></persName><birth/><death/></person><person xml:id="person__676"><persName><surname>Grün</surname><forename>Heinrich</forename><roleName>Dr.</roleName></persName><birth/><death/></person><person xml:id="person__709"><persName><surname>Hoß</surname><forename>Franz</forename><roleName/></persName><birth when="1866-11-04">1866-11-04<placeName key="#place__3167">Floridsdorf</placeName></birth><death when="1947-08-12">1947-08-12<placeName key="#place__580">Wien</placeName></death><idno>https://de.wikipedia.org/wiki/Franz_Ho%C3%9F</idno></person><person xml:id="person__735"><persName><surname>Klimeš</surname><forename>Johann</forename><roleName/></persName><birth when="1881-01-01">1881-01-01</birth><death/></person><person xml:id="person__746"><persName><surname>Kunschak</surname><forename>Leopold</forename><roleName/></persName><birth when="1871-11-11">1871-11-11<placeName key="#place__580">Wien</placeName></birth><death when="1953-03-13">1953-03-13<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118725432</idno></person><person xml:id="person__800"><persName><surname>Plaschkes</surname><forename>Leopold</forename><roleName>Dr.</roleName></persName><birth><placeName key="#place__490">Linz</placeName></birth><death/></person><person xml:id="person__807"><persName><surname>Preyer</surname><forename>Hans</forename><roleName/></persName><birth/><death/></person><person xml:id="person__821"><persName><surname>Reumann</surname><forename>Jakob</forename><roleName/></persName><birth/><death/></person><person xml:id="person__831"><persName><surname>Rummelhardt</surname><forename>Karl</forename><roleName/></persName><birth/><death/></person><person xml:id="person__850"><persName><surname>Schwarz-Hiller</surname><forename>Rudolf</forename><roleName>Dr.</roleName></persName><birth/><death/></person><person xml:id="person__877"><persName><surname>Täubler</surname><forename>Alexander</forename><roleName/></persName><birth><placeName key="#place__462">Iglau</placeName></birth><death/></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1034"><orgName>Elektrizitätswerke (städtische)</orgName></org><org xml:id="org__1277"><orgName>Straßenbahnen (städtische)</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

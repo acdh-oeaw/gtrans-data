@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0827.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0826.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0828.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Gesetz über die Beitragsleistung des Staates zu dem Aufwand der autonomen Körperschaften für die Bezüge der aktiven und pensionierten Lehrpersonen der öffentlichen Volks- und Bürgerschulen sowie der Witwen und Waisen nach solchen Lehrpersonen für das Jahr 1920</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#kmegner">Megner, Karl</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/3238</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichische Nationalbibliothek</repository>
+                    <msName>Bestand: Staatsgesetzblatt für den Staat Deutschösterreich 1918–1920, Signatur: StGBl. Nr. 465/1920 (KNV: 981 AB 1026 S. 102.)</msName>
+               <idno>http://alex.onb.ac.at/cgi-content/alex?apm=0&amp;aid=sgb&amp;datum=19200004&amp;seite=00001830&amp;size=45</idno></msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Gesetzblatt</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents/></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#kmegner">
+            <p>Der Bund leistete für den Bezüge des aktiven und pensionierten Lehrpersonals (auch der Witwen und Waisen) der Bundesländer und der Gemeinde Wien (war 1920 noch kein Bundesland) Beiträge. Damit begann eine Entwicklung, die in der Gegenwart zu einer veritablen Belastung des Bundesbudgets geführt hat ("Landeslehrer vom Bund bezahlt"). Es hat sich aus gesamtstaatlicher Sicht als nachteilig herausgestellt, dass der Bund  im Rahmen des Finanzausgleichs als bloßer Zahler auftrat und die Bundesländer die Personalhoheit ausüben. Die Länder kümmerten sich nur bedingt darum, mit diesem Budgetposten auszukommen: mitunter wurden mehr Stellen geschaffen, als finanziell bedeckt waren. Die Länder wußten - zumindest bis in die jüngere Vergangenheit -, dass der Bund letztlich seiner Rolle als Zahlmeister nachkommen würde. Künftig könnte aber der Bund stärker darauf achten, dass er von seiner durch die bisherige Realverfassung aufgezwungenen Sponsorenrolle etwas entlastet wird: "Ein Entwurf des Bildungsministeriums, wonach Länder künftig für zusätzliche Lehrer tiefer in die Tasche greifen sollen, sorgt für einen Streit zwischen Bund und Ländern. Klare Ablehnung gegenüber den Plänen kommt aus Niederösterreich. Für Bundesländer, die über den Stellenplan hinaus Lehrer beschäftigen, dürften sich die Kosten künftig erhöhen. Der vom Bildungsministerium vorgelegte Entwurf einer neuen Landeslehrer - Controllingverordnung - sieht vor, dass die Länder künftig mehr für „Überhang-Lehrer“ bezahlen. Diese zeigen sich angesichts der Pläne nicht erfreut, das Ministerium verweist auf den laufenden Abstimmungsprozess." (18.07.2018 Zitat ORF) https://noe.orf.at/news/stories/2925045/. Ähnlich: (24.9.2018 Wiener Zeitung)  https://www.wienerzeitung.at/themen_channel/bildung/schule/977309_Laender-sollen-fuer-Ueberhang-Lehrer-tiefer-in-die-Tasche-greifen.html</p>
+        </abstract>
+        <creation>
+            <date notBefore="1920-10-01" notAfter="1920-10-01">
+                1920-10-01
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Bundesländer</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-10 11:54:03.762302+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         </listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         </listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__989"><orgName>Bürgerschule</orgName></org><org xml:id="org__1322"><orgName>Volksschule</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

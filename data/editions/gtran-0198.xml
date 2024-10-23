@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0198.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0197.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0199.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Behandlung von Kriegsaushilfskräften</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/3746</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>ÖStA/AdR, Bundeskanzleramt, Kabinettsratsprotokolle 1. Republik, Protokoll Nr. 1 bis 35, 31. 10. 1918 bis 30. 1. 1919, Kabinettsratsprotokoll Nr. 35 vom 30. Jänner 1919, 2f.</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__1105">Kabinettsrat</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>StS Urban teilt mit, dass eine Deputation weiblicher Kriegsaushilfskräfte bei ihm Forderungen erhoben und für den Fall der Nichterfüllung mit Streik in allen Ressorts gedroht habe. UStS Beck meint, dass ein Nachgeben gefährliche Beispielfolgen haben könnte. Angesichts von Unklarheiten beschließt der Kabinettsrat, dass StK Renner StS Urban und UStS zwecks Klärung von Vorfragen mit der Organisation der Kriegsaushelferinnen in Fühlung treten.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-01-30" notAfter="1919-01-30">
+                30. Jänner 1919
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Kündigung</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Streik</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-12 21:56:17.485366+00:00" who="#pbecker"/><change when="2019-02-07 14:11:50.138121+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__609"><persName><surname>Beck von Managetta</surname><forename>Eugen</forename><roleName>Dr.</roleName></persName><birth when="1861-06-15">1861-06-15<placeName key="#place__524">Preßburg</placeName></birth><death when="1943-11-07">1943-11-07<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/137693036; https://www.deutsche-biographie.de/pnd137693036.html</idno></person><person xml:id="person__670"><persName><surname>Grimm</surname><forename>Ferdinand</forename><roleName>Dr.</roleName></persName><birth when="1869-02-15">1869-02-15<placeName key="#place__580">Wien</placeName></birth><death when="1948-11-08">1948-11-08<placeName key="#place__401">Bad Kreuzen</placeName></death><idno>http://d-nb.info/gnd/1011184664</idno></person><person xml:id="person__3630"><persName><surname>Kaup</surname><forename>Ignaz</forename><roleName>Dr.</roleName></persName><birth when="1870-01-11">1870-01-11<placeName key="#place__3638">Marburg an der Lahn</placeName></birth><death when="1944-03-25">1944-03-25<placeName key="#place__505">München</placeName></death><idno>http://d-nb.info/gnd/117503622</idno></person><person xml:id="person__890"><persName><surname>Urban</surname><forename>Karl</forename><roleName/></persName><birth when="1855-09-01">1855-09-01<placeName key="#place__523">Prag</placeName></birth><death when="1940-10-24">1940-10-24<placeName key="#place__523">Prag</placeName></death><idno>http://d-nb.info/gnd/1148771107</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         </listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1007"><orgName>deutschösterr. Regierung</orgName></org><org xml:id="org__1105"><orgName>Kabinettsrat</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

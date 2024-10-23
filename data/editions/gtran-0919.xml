@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0919.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0918.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0920.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Die verfassungsrechtliche Umgestaltung Österreichs (Erlass des Ministerpräsidenten)</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/3480</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Beamten-Zeitung. Zeitschrift des Ersten allgemeinen Beamten-Vereines der österr.-ungarischen Monarchie. Organ für die Gesamtinteressen der Beamten aller Klassen, Erste allgemeiner Beamten-Verein (Hg.), Wien, 49. Jahrgang 1918</repository>
+                    <msName>Beamten-Zeitung, 31. 10. 1918, 203.</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Zeitungsartikel</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__3496">Erster allgemeiner Beamten-Verein</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>Ministerpräsident Lammasch gemahnt in einem Erlass an die staatlichen Behörden, dass, solange die staatsrechtliche Umgestaltung aufgrund des Manifestes des Kaisers nicht durchgeführt sei, die bisherigen Einrichtungen und Vorschriften weiterhin bestehen und in Gültigkeit seien. Dies sei als Grundsatz des eigenen Handelns heranzuziehen. Es wäre falsch, schon jetzt eine künftige Ordnung, die sich erst abzeichne, vorwegnehmen zu wollen.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1918-10-31" notAfter="1918-10-31">
+                31. Oktober 1918
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Verwaltung</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-11 09:30:03.054294+00:00" who="#pbecker"/><change when="2019-01-10 12:14:13.270226+00:00" who="#gsteiner"/><change when="2019-01-10 09:44:12.597773+00:00" who="#gsteiner"/><change when="2019-01-09 09:08:51.675405+00:00" who="#gsteiner"/><change when="2019-01-08 13:35:15.566444+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__724"><persName><surname>Habsburg-Lothringen</surname><forename>Karl</forename><roleName>ehemaliger Kaiser</roleName></persName><birth when="1887-08-17">1887-08-17<placeName key="#place__519">Persenbeug</placeName></birth><death when="1922-04-01">1922-04-01<placeName key="#place__446">Funchal</placeName></death><idno>http://d-nb.info/gnd/118560077</idno></person><person xml:id="person__750"><persName><surname>Lammasch</surname><forename>Heinrich</forename><roleName>Prof. Dr.</roleName></persName><birth when="1853-05-21">1853-05-21<placeName key="#place__3181">Seitenstetten</placeName></birth><death when="1920-01-06">1920-01-06<placeName key="#place__535">Salzburg</placeName></death><idno>http://d-nb.info/gnd/118726110</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         </listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1031"><orgName>ehemals österr. Staat</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

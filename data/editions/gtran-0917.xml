@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0917.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0916.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0918.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Übersiedlungshilfe für aus dem Staatsdienst tretende und in einen der neuen Staaten der ehemaligen Monarchie übersiedelnde Staatsangestellte und ihre Familien</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2646</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>Bestand: Staatskanzlei - BKA/alt Varia 1919  Zwischenstaatliches Komitee; Verhandlungsschriften Nr. 26 - 50 zu den Sitzungen des zwischenstaatsamtlichen Komitees für Staatsbedienstetenangelegenheiten, Nr: 31.,Unterpunkt: 02/4., Seite: 19f</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__3257">Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>Für aus dem Staatsdienst tretende und in einen der neuen Staaten der ehemaligen Monarchie übersiedelnde Staatsangestellte sowie für deren Familienmitglieder wäre die erstmalige freie Fahrt und der freie Sachtransport nach dem neuen Dienstorte im Einvernehmen mit dem gewählten Staate zu erwirken; überdies wäre eine Übersiedlungsgebühr in der Höhe der dreimonatigen Bezüge samt Zulagen auszuzahlen. ANTWORT DER KOMMISSION: Die Erfüllung dieses Wunsches wird im Wege der zwischenstaatlichen Verhandlungen bzw. der Friedensverhandlungen angestrebt. Nach den derzeitigen Vorschriften können Übersiedlungsgebühren nur dann zugestanden werden, wenn die vorgeschriebenen Voraussetzungen gegeben sind. Diese Voraussetzungen können überhaupt erst dann eintreten, wenn ein solcher Staatsbediensteter endgültig in den deutschösterreichischen Staatsdienst übernommen wurde. Jedoch wird gestattet, daß dann, wenn die sonstigen Voraussetzungen für die Gewährung von Übersiedlungsgebühren zutreffen, insbesondere, wenn eine Übersiedlung auch tatsächlich stattgefunden hat, den Bediensteten angemessene Vorschüsse bis zum vollen Ausmaß der normalmäßigen Übersiedlungsgebühren gegen Abrechnung flüssig gemacht werden. Gegen die Flüssigmachung der wahren Fahrtauslagen von dem bisherigen Dienstorte in den durch die Verwendung im deutschösterreichischen Staatsdienste bestimmten Dienstort wird, sofern eine solche Reise tatsächlich stattgefunden hat, eine Einwendung nicht erhoben.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-03-14" notAfter="1919-03-14">
+                14. März 1919
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Friedensverhandlungen</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">zwischenstaatliche Verhandlung</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-27 08:50:07.240070+00:00" who="#pbecker"/><change when="2019-10-19 08:24:27.900276+00:00" who="#gsteiner"/><change when="2019-10-02 06:59:40.921589+00:00" who="#pbecker"/><change when="2019-03-12 11:51:03.034493+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__910"><persName><surname>Wilfling</surname><forename>August</forename><roleName>Dr.</roleName></persName><birth/><death/></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__420"><placeName>Bukowina</placeName><location><geo decls="#LatLng">48.000000000000 25.500000000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/571096/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__963"><orgName>Ausschuss der Bukowinaer Staatsangestellten</orgName></org><org xml:id="org__1029"><orgName>ehemals österreichisch-ungarische Monarchie</orgName></org><org xml:id="org__1051"><orgName>fremdnationale Staaten</orgName></org><org xml:id="org__3301"><orgName>Deutschösterreichischer Staat</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

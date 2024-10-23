@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0666.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0665.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0667.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Stellung des Militärgeographischen Instituts</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/3758</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>ÖStA/AdR, Bundeskanzleramt, Kabinettsratsprotokolle 1. Republik, Protokoll Nr. 36 bis 55, 31. 1. 1919 bis 28. 3. 1919, Kabinettsratsprotokoll Nr. 39 vom 12. Februar 1919, 9.</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__1105">Kabinettsrat</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>Sektionschef Reich berichtet, dass das Militärgeographische Institut dem Staatsamt für öffentliche Arbeiten zu unterstellen sei.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-02-12" notAfter="1919-02-12">
+                12. Februar 1919
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Militarismus</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Verwaltung</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-12 22:03:42.632568+00:00" who="#pbecker"/><change when="2019-02-11 12:01:42.570147+00:00" who="#gsteiner"/><change when="2019-02-11 11:39:40.820140+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__3755"><persName><surname>Reich</surname><forename/><roleName>Ing.</roleName></persName><birth/><death/></person><person xml:id="person__926"><persName><surname>Zerdik</surname><forename>Johann</forename><roleName>Ing.</roleName></persName><birth when="1878-04-07">1878-04-07<placeName key="#place__580">Wien</placeName></birth><death when="1961-06-11">1961-06-11<placeName key="#place__580">Wien</placeName></death><idno>https://de.wikipedia.org/wiki/Johann_Zerdik</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         </listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1105"><orgName>Kabinettsrat</orgName></org><org xml:id="org__1235"><orgName>Staatsamt für öffentliche Arbeiten</orgName></org><org xml:id="org__3756"><orgName>zwischenstaatsamtliches Komitee für die einheitliche Behandlung des Vermessungswesen</orgName></org><org xml:id="org__3757"><orgName>Militärgeographisches Institut</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

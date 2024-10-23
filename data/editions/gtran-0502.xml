@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0502.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0501.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0503.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Vollversammlung am 17. Mai 1920, S. 377ff</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#vhelfert">Helfert, Veronika</rs></editor><editor><rs ref="#tgarstenauer">Garstenauer, Therese</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2448</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Archiv des Vereins für Geschichte der ArbeiterInnenbewegung</repository>
+                    <msName>Sozialdemokratische Parteistellen, Karton: Kt. 77, M 460, Aktenzahl: keine</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents/></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#vhelfert #tgarstenauer">
+            <p>Wahl der 8 amtsführenden Stadträte; Einteilung der Ausschussmitglieder; Konsumverein der Bediensteten der Stadt Wien: "Breitner teilt mit, dass die verschiedenen Konsumvereine der Arbeiter und Angestellten der Gemeinde einheitlich arbeiten sollen und dass die Verhandlungen zu einem günstigen Ergebnis geführt haben. Die Betriebe werden dieser neuen Konsumentenorganisation 10 Millionen Kronen zu 3 % Zinsen vorstrecken." (Antrag angenommen).</p>
+        </abstract>
+        <creation>
+            <date notBefore="1920-05-17" notAfter="1920-05-17">
+                17. Mai 1920
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Ausschuss</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-08-06 20:16:06.904425+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__620"><persName><surname>Breitner</surname><forename>Hugo</forename><roleName/></persName><birth when="1873-11-09">1873-11-09<placeName key="#place__580">Wien</placeName></birth><death when="1946-03-05">1946-03-05<placeName key="#place__3127">Claremont</placeName></death><idno>http://d-nb.info/gnd/119179504</idno></person><person xml:id="person__676"><persName><surname>Grün</surname><forename>Heinrich</forename><roleName>Dr.</roleName></persName><birth/><death/></person><person xml:id="person__677"><persName><surname>Grünfeld</surname><forename>Leopold</forename><roleName/></persName><birth/><death/></person><person xml:id="person__687"><persName><surname>Hammerschmid</surname><forename>Josef</forename><roleName/></persName><birth when="1880-03-05">1880-03-05<placeName key="#place__3163">Kainraths</placeName></birth><death when="1945-10-27">1945-10-27<placeName key="#place__580">Wien</placeName></death><idno>https://de.wikipedia.org/wiki/Josef_Hammerschmid</idno></person><person xml:id="person__821"><persName><surname>Reumann</surname><forename>Jakob</forename><roleName/></persName><birth/><death/></person><person xml:id="person__862"><persName><surname>Skaret</surname><forename>Ferdinand</forename><roleName/></persName><birth/><death/></person><person xml:id="person__876"><persName><surname>Tandler</surname><forename>Julius</forename><roleName>Dr.</roleName></persName><birth when="1869-02-16">1869-02-16<placeName key="#place__462">Iglau</placeName></birth><death/></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1109"><orgName>Klub der Sozialdemokraten im Wiener Gemeinderate</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

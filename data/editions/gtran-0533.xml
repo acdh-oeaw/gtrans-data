@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0533.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0532.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0534.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Der Beamten-Verein im Jahre 1918. b) Standesinteressenvertretung und Beamtenbeweggung im allgemeinen - Humanitäre Tätigkeit</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/3553</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Beamten-Zeitung. Zeitschrift des Ersten allgemeinen Beamten-Vereines. Organ für die Gesamtinteressen der Beamten aller Klassen, Erster allgemeiner Beamten-Verein (Hg.), Wien, 50. Jahrgang 1919</repository>
+                    <msName>Beamten-Zeitung, 31. 1. 1919, 9f.</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Zeitungsartikel</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><p>vgl. Vollzugsanweisungen des Staatsamtes der Finanzen vom 28. November 1918, StGBl. Nr. 68 u. 69.</p><msItem><author ref="#org__3496">Erster allgemeiner Beamten-Verein</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>Bericht über die Tätigkeit des Beamten-Vereines im Jahr 1918, der sich vor allem auf den Kampf gegen die Teuerung bezieht. Dementsprechende waren auch die Forderungen des Vereins, die sich auch auf eine große Besoldungsreform bezogen. U. a. forderte der Verein die Doppeltrechnung der Kriegsjahre für die Berechnung der Besoldung. Der Bericht erläutert die Verhandlungen der Forderungen im Reichsrat. Er beleuchtet die Probleme durch den Zusammenbruch der Habsburgermonarchie im Zusammenhang mit der Schaffung neuer Nationalstaaten und der Zugehörigkeit der Beamten und spricht von der Notwendigkeit des Beamtenabbaues in der Republik Deutschösterreich und den Maßnahmen der Regierung.
+Offen sei durch den Zusammenbruch der Monarchie auch die Neuorganisation des Staatsbeamtenorganisationen.
+Schließlich erwähnt der Bericht noch die Teuerungszulage für die Lehrerschaft.
+Man berichtet über die Einschränkungen des Erscheinens der Zeitschrift aufgrund des Krieges und über die humanitäre Tätigkeit des Vereins.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-01-31" notAfter="1919-01-31">
+                31. Jänner 1919
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Vorrückung</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Beamtenorganisation</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Mitbestimmung</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Demokratisierung</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Nachkriegskrise</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">zwischenstaatliche Vereinbarung</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-24 12:12:49.381408+00:00" who="#pbecker"/><change when="2019-10-11 10:09:39.657917+00:00" who="#pbecker"/><change when="2019-01-16 08:53:11.028403+00:00" who="#gsteiner"/><change when="2019-01-15 17:08:51.265583+00:00" who="#gsteiner"/><change when="2019-01-15 16:48:20.864734+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__3552"><persName><surname>Demel</surname><forename>Harold</forename><roleName/></persName><birth/><death/></person><person xml:id="person__3554"><persName><surname>Höfenmayer</surname><forename>Franz</forename><roleName>Dr.</roleName></persName><birth/><death/></person><person xml:id="person__820"><persName><surname>Renner</surname><forename>Karl</forename><roleName>Dr.</roleName></persName><birth when="1870-12-14">1870-12-14<placeName key="#place__570">Unter-Tannowitz</placeName></birth><death when="1950-12-31">1950-12-31<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118599739</idno></person><person xml:id="person__3555"><persName><surname>Riehl</surname><forename>Anton S.</forename><roleName>Dr.</roleName></persName><birth/><death/></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__3509"><placeName>Österreich-Ungarn</placeName><idno type="GEONAMES"/></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1029"><orgName>ehemals österreichisch-ungarische Monarchie</orgName></org><org xml:id="org__1030"><orgName>k.k. Regierung</orgName></org><org xml:id="org__1031"><orgName>ehemals österr. Staat</orgName></org><org xml:id="org__1032"><orgName>Eisenbahnerorganisation</orgName></org><org xml:id="org__1097"><orgName>k.k. Finanzministerium</orgName></org><org xml:id="org__1220"><orgName>Staatsamt für Finanzen</orgName></org><org xml:id="org__3301"><orgName>Deutschösterreichischer Staat</orgName></org><org xml:id="org__3424"><orgName>Abgeordnetenhaus des Reichsrats</orgName></org><org xml:id="org__3477"><orgName>ständige Vertretung der deutschösterreichischen Staatsangestelltenvereine</orgName></org><org xml:id="org__3482"><orgName>Abgeordnetenhaus des Reichsrats (Staatsangestelltenausschuss)</orgName></org><org xml:id="org__3496"><orgName>Erster allgemeiner Beamten-Verein</orgName></org><org xml:id="org__3527"><orgName>ständige Vertretung der österreichischen Staatsbeamtenvereine</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

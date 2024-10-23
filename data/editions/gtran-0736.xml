@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0736.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0735.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0737.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Gesetz über die Übernahme von Angestellten der Militärjustiz in den Ziviljustizdienst</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#kmegner">Megner, Karl</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/3231</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichische Nationalbibliothek</repository>
+                    <msName>Bestand: Staatsgesetzblatt für den Staat Deutschösterreich 1918–1920, Signatur: StGBl. Nr. 322/1920 (KNV: 858 AB 886 S. 95.)</msName>
+               <idno>http://alex.onb.ac.at/cgi-content/alex?apm=0&amp;aid=sgb&amp;datum=19200004&amp;seite=00001338&amp;size=45</idno></msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Gesetzblatt</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents/></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#kmegner">
+            <p>"Justizoffiziere" - das waren ehemalige Militärrichter - wurden unter genau festgelegten Bedingungen in den zivilen Justizdienst übernommmen, somit zu Richtern ernannt. Diese Liquidierung des Militärjustizdienstes war eine wichtige Forderung der Sozialdemokratie, aber auch anderer gesellschaftlicher Gruppen, gewesen. Es gab nun kein Sonderstrafrecht für Offiziere mehr. Zu denken ist zum Beispiel an das Recht (und die Pflicht!) der sogenannten "Ehrennotwehr." Unter Umständen gingen Militärangehörige, die behauptetermaßen "Ehrennotwehr" ausübten und Kontrahenten mit ihrem Säbel niederschlugen, straffrei aus. Laut Karl Kraus - ein Beispiel unter vielen - "säbelte" ein Offizier einen groben Kutscher nieder, weil er diesen wegen fehlender Ebenbürtigkeit nicht zum Duell fordern konnte und sozial gezwungen war, Ehrennotwehr zu üben - sonst hätte er seine Charge verloren. (Die Fackel Nr. 132/ 4. Jg 1903, S. 10) Auch mit dem (selten, aber doch) geübten  (willkürlichen) Begnadigungsrecht der Regimentsinhaber war es vorbei.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1920-07-15" notAfter="1920-07-15">
+                1920-07-15
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-10-10 11:38:50.915873+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         </listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         </listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__3508"><orgName>k.u.k. gemeinsame Armee</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

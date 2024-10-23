@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0349.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0348.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0350.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Richtlinien für die Behandlung der Beamtenfragen</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2825</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>Bestand: ÖStA/AdR, Bundeskanzleramt, Staatsratsprotokolle 1. Republik, Protokoll Nr. 36 - 50, 18. 11. 1918 - 29. 11. 1918; 44. Sitzung vom 25. November 1918, S. 4ff., Karton: 2</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__1256">Staatsrat</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>Staatskanzler Renner erläutert das Zustandekommen der Richtlinien für Beamtenfragen; dabei seien die Beamtenorganisationen eingebunden gewesen. Es gehe auch darum, wie die Aufteilung der Zahlungen an die Staatsbediensteten nach dem 1. Dezember 1918 zu erfolgen habe. Dazu müsse man die fremden Nationalstaaten zu Verhandlungen zwingen. Karl Seitz moniert, dass diese Bestimmungen früheren Beschlüssen des deutschösterreichischen Staatsrates widersprechen würden und auch dem, was man den Staatsangestellten zugesichert habe. Er plädiert dafür, die Bezüge bis zu einer endgültigen Lösung der Neubildung der Staaten weiterzuzahlen, da man die Staatsangestellten nicht auf die Straße setzen könne.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1918-11-25" notAfter="1918-11-25">
+                25. Nov. 1918
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Friedensverhandlungen</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Staatsvertrag (St. Germain)</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Staatsbedienstetenorganisationen</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">zwischenstaatliche Verhandlung</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-22 12:50:48.884756+00:00" who="#gsteiner"/><change when="2019-10-22 12:04:23.536389+00:00" who="#gsteiner"/><change when="2019-10-03 09:05:15.423825+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__609"><persName><surname>Beck von Managetta</surname><forename>Eugen</forename><roleName>Dr.</roleName></persName><birth when="1861-06-15">1861-06-15<placeName key="#place__524">Preßburg</placeName></birth><death when="1943-11-07">1943-11-07<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/137693036; https://www.deutsche-biographie.de/pnd137693036.html</idno></person><person xml:id="person__693"><persName><surname>Heine</surname><forename>Rudolf</forename><roleName>Dipl.-Ing.</roleName></persName><birth when="1877-12-14">1877-12-14<placeName key="#place__532">Rumburg</placeName></birth><death when="1949-12-10">1949-12-10<placeName key="#place__580">Wien</placeName></death><idno>https://de.wikipedia.org/wiki/Rudolf_Heine</idno></person><person xml:id="person__751"><persName><surname>Langenhan von</surname><forename>Philipp</forename><roleName>Dr.</roleName></persName><birth when="1878-06-04">1878-06-04<placeName key="#place__424">Czernowitz</placeName></birth><death when="1960-11-14">1960-11-14<placeName key="#place__505">München</placeName></death><idno>http://d-nb.info/gnd/12770017X</idno></person><person xml:id="person__820"><persName><surname>Renner</surname><forename>Karl</forename><roleName>Dr.</roleName></persName><birth when="1870-12-14">1870-12-14<placeName key="#place__570">Unter-Tannowitz</placeName></birth><death when="1950-12-31">1950-12-31<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118599739</idno></person><person xml:id="person__856"><persName><surname>Seitz</surname><forename>Karl</forename><roleName/></persName><birth when="1869-09-04">1869-09-04<placeName key="#place__580">Wien</placeName></birth><death when="1950-02-03">1950-02-03<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/119184745</idno></person><person xml:id="person__875"><persName><surname>Sylvester</surname><forename>Julius</forename><roleName>Dr.</roleName></persName><birth when="1854-06-30">1854-06-30<placeName key="#place__580">Wien</placeName></birth><death when="1944-07-13">1944-07-13<placeName key="#place__592">Zell am Wallersee</placeName></death><idno>http://d-nb.info/gnd/120148595</idno></person><person xml:id="person__884"><persName><surname>Tomschik</surname><forename>Josef</forename><roleName/></persName><birth when="1867-12-27">1867-12-27<placeName key="#place__580">Wien</placeName></birth><death when="1945-07-06">1945-07-06<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/1113900385</idno></person><person xml:id="person__896"><persName><surname>Waldner</surname><forename>Viktor</forename><roleName>Univ.-Prof. Dr.</roleName></persName><birth when="1852-04-01">1852-04-01<placeName key="#place__426">Dellach</placeName></birth><death when="1924-08-30">1924-08-30<placeName key="#place__473">Klagenfurt</placeName></death><idno>https://de.wikipedia.org/wiki/Viktor_Waldner</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__411"><placeName>Bosnien-Herzegowina</placeName><location><geo decls="#LatLng">44.250000000000 17.833330000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3277605/</idno></place><place xml:id="place__430"><placeName>Deutschösterreich</placeName><idno type="GEONAMES"/></place><place xml:id="place__444"><placeName>fremdnationales Gebiet</placeName><idno type="GEONAMES"/></place><place xml:id="place__536"><placeName>Sarajewo</placeName><location><geo decls="#LatLng">43.848640000000 18.356440000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3191281/</idno></place><place xml:id="place__544"><placeName>SHS-Staat</placeName><location><geo decls="#LatLng">44.000000000000 19.750000000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/7500737/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__981"><orgName>Bosnien-Herzegowina (Bosna i Hercegovina)</orgName></org><org xml:id="org__982"><orgName>bosnische Regierung</orgName></org><org xml:id="org__1007"><orgName>deutschösterr. Regierung</orgName></org><org xml:id="org__1032"><orgName>Eisenbahnerorganisation</orgName></org><org xml:id="org__1051"><orgName>fremdnationale Staaten</orgName></org><org xml:id="org__1067"><orgName>Geschäftsstelle der Personalreferenten</orgName></org><org xml:id="org__1100"><orgName>k.u.k. Finanzministerium (Abteilung Bosnien-Herzegowina)</orgName></org><org xml:id="org__1105"><orgName>Kabinettsrat</orgName></org><org xml:id="org__1218"><orgName>Sozialdemokratische Arbeiterpartei Deutschösterreichs (SDAP)</orgName></org><org xml:id="org__1248"><orgName>Staatsbedienstetenorganisationen</orgName></org><org xml:id="org__1253"><orgName>Staatskanzlei</orgName></org><org xml:id="org__1256"><orgName>Staatsrat</orgName></org><org xml:id="org__3257"><orgName>Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</orgName></org><org xml:id="org__3301"><orgName>Deutschösterreichischer Staat</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

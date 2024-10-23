@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0508.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0507.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0509.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Schaffung einer Generaldirektion für Post-, Telegraphen- und Fernmeldewesen</title>
+            <title type="sub">Great Transformation App</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2871</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>Bestand: ÖStA/AdR, Bundeskanzleramt, Staatsratsprotokolle 1. Republik, Protokoll Nr. 66 - 77, 15. 1. 1919 - 7. 3. 1919, 67. Sitzung vom 17. Jänner 1919, S. 2ff., Karton: 4</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__1256">Staatsrat</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="">
+            <p>Diskussion um den Antrag der Schaffung einer Generaldirektion für Post-, Telegraphen- und Fernmeldewesen und die Ansiedlung dieser bzw. die Installierung eines eigenen Unterstaatssekretärs. Es wird beschlossen, eine Enquete abzuhalten.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-01-17" notAfter="1919-01-17">
+                
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Ernennung</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Streik</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Bundesländer</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Politische Parteien</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-05 10:06:08.774899+00:00" who="#gsteiner"/><change when="2019-10-03 14:22:28.674959+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__635"><persName><surname>Dinghofer</surname><forename>Franz</forename><roleName>Dr.</roleName></persName><birth when="1873-04-06">1873-04-06<placeName key="#place__517">Ottensheim</placeName></birth><death when="1956-01-12">1956-01-12<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118902830</idno></person><person xml:id="person__690"><persName><surname>Hauser</surname><forename>Johann Nepomuk</forename><roleName>Dr.</roleName></persName><birth when="1866-02-24">1866-02-24<placeName key="#place__479">Kopfing im Innkreis</placeName></birth><death when="1927-02-18">1927-02-18<placeName key="#place__490">Linz</placeName></death><idno>http://d-nb.info/gnd/118709178</idno></person><person xml:id="person__705"><persName><surname>Hoheisl</surname><forename>Konrad</forename><roleName>Dr.</roleName></persName><birth when="1862-11-12">1862-11-12<placeName key="#place__400">Alt-Rothwasser</placeName></birth><death when="1930-09-15">1930-09-15<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/131556789</idno></person><person xml:id="person__751"><persName><surname>Langenhan von</surname><forename>Philipp</forename><roleName>Dr.</roleName></persName><birth when="1878-06-04">1878-06-04<placeName key="#place__424">Czernowitz</placeName></birth><death when="1960-11-14">1960-11-14<placeName key="#place__505">München</placeName></death><idno>http://d-nb.info/gnd/12770017X</idno></person><person xml:id="person__773"><persName><surname>Miklas</surname><forename>Wilhelm</forename><roleName/></persName><birth when="1872-10-15">1872-10-15<placeName key="#place__481">Krems</placeName></birth><death when="1956-03-20">1956-03-20<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118783882</idno></person><person xml:id="person__786"><persName><surname>Ofner</surname><forename>Julius</forename><roleName>Dr.</roleName></persName><birth when="1845-08-20">1845-08-20<placeName key="#place__461">Horschenz</placeName></birth><death when="1924-09-26">1924-09-26<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118831240</idno></person><person xml:id="person__856"><persName><surname>Seitz</surname><forename>Karl</forename><roleName/></persName><birth when="1869-09-04">1869-09-04<placeName key="#place__580">Wien</placeName></birth><death when="1950-02-03">1950-02-03<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/119184745</idno></person><person xml:id="person__879"><persName><surname>Teufel</surname><forename>Oskar</forename><roleName/></persName><birth when="1880-10-05">1880-10-05<placeName key="#place__595">Znaim</placeName></birth><death when="1946-01-26">1946-01-26<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/1027122671</idno></person><person xml:id="person__890"><persName><surname>Urban</surname><forename>Karl</forename><roleName/></persName><birth when="1855-09-01">1855-09-01<placeName key="#place__523">Prag</placeName></birth><death when="1940-10-24">1940-10-24<placeName key="#place__523">Prag</placeName></death><idno>http://d-nb.info/gnd/1148771107</idno></person><person xml:id="person__926"><persName><surname>Zerdik</surname><forename>Johann</forename><roleName>Ing.</roleName></persName><birth when="1878-04-07">1878-04-07<placeName key="#place__580">Wien</placeName></birth><death when="1961-06-11">1961-06-11<placeName key="#place__580">Wien</placeName></death><idno>https://de.wikipedia.org/wiki/Johann_Zerdik</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1000"><orgName>deutschösterr. Generaldirektion für Post-, Telegraphen- und Fernsprechwesen</orgName></org><org xml:id="org__1018"><orgName>k. k. Ministerium für Handel</orgName></org><org xml:id="org__1120"><orgName>Konstituierende Nationalversammlung</orgName></org><org xml:id="org__1226"><orgName>Staatsamt für Gewerbe, Industrie und Handel</orgName></org><org xml:id="org__1239"><orgName>Staatsamt für Verkehrswesen</orgName></org><org xml:id="org__3686"><orgName>Konstituierende Nationalversammlung (Staatsangestelltenausschuss)</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

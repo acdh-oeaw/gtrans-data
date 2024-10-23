@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0815.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0814.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0816.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Antrag: Bestellung eines Gesandten Deutschösterreichs beim Deutschen Reich</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/3313</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Gertrude Enderle-Burcel et al. (Hg.), Der österreichische Staatsrat. Protokolle des Vollzugsausschusses, des Staatsrates und des Geschäftsführenden Staatsratsdirektoriums 21. Oktober 1918 bis 14. Marz 1919, Band 1: 21. Oktober 1918 bis 14. November 1918, Wien 2008</repository>
+                    <msName>StRProt Nr. 24 vom 8. November 1918, in: Enderle-Burcel et al. (Hg.), Der österreichische Staatsrat, 255, 267.</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><p>Das StA des Äußern erstattete die Vorschläge zur Besetzung der Gesandtenstelle in Berlin im StRProt Nr. 27 vom 9. November 1918; da gegen die Vorschläge Einwendungen erhoben wurden, wurde die Entscheidung vertagt, vgl. StRProt Nr. 33 vom 14. November 1918 und StRProt. Nr. 19 vom 5. November 1918.</p><msItem><author ref="#org__1256">Staatsrat</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>StR Teufel beantragt, sofort einen Gesandten der deutschösterreichischen Regierung für das Deutsche Reich zu bestellen und eine Person dafür namhaft zu machen.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1918-11-08" notAfter="1918-11-08">
+                1918-11-08
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Bevollmächtiger</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">deutschösterr. Regierung</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-10 19:45:18.742104+00:00" who="#pbecker"/><change when="2018-12-19 10:50:04.228465+00:00" who="#gsteiner"/><change when="2018-12-18 13:36:28.007209+00:00" who="#gsteiner"/><change when="2018-12-18 13:36:12.234292+00:00" who="#gsteiner"/><change when="2018-12-18 13:35:54.674554+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__879"><persName><surname>Teufel</surname><forename>Oskar</forename><roleName/></persName><birth when="1880-10-05">1880-10-05<placeName key="#place__595">Znaim</placeName></birth><death when="1946-01-26">1946-01-26<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/1027122671</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__404"><placeName>Berlin</placeName><location><geo decls="#LatLng">52.524370000000 13.410530000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2950159/</idno></place><place xml:id="place__429"><placeName>Deutsches Reich</placeName><idno type="GEONAMES"/></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__997"><orgName>Deutsches Reich</orgName></org><org xml:id="org__1007"><orgName>deutschösterr. Regierung</orgName></org><org xml:id="org__1224"><orgName>Staatsamt des Äußern</orgName></org><org xml:id="org__3312"><orgName>Gesandtschaft Deutschösterreichs beim Deutschen Reich</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

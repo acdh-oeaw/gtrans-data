@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0228.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0227.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0229.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Fortsetzung und Beendigung der Beratung über den Entwurf betreffend die Einrichtung einer Personalvermittlungsstelle.</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2617</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>Bestand: Staatskanzlei - BKA/alt Varia 1919  Zwischenstaatliches Komitee; Verhandlungsschriften Nr. 1 - 25 zu den Sitzungen des zwischenstaatsamtlichen Komitees für Staatsbedienstetenangelegenheiten, Nr: 24., Unterpunkt: 01., Seite: 67; 74ff</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__3257">Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>Fortsetzung und Beendigung der Beratung über den Entwurf betreffend die Einrichtung einer Personalvermittlungsstelle. ANTWORT DER KOMMISSION: Beilage A Z. 8481/19. Diese beschäftigt sich mit den Aufgaben einer Personalvermittlungsstelle, die in der Hauptsache in der Führung einer einheitlichen Personalstatistik und bei individuellen Personalmaßnahmen, die über den Wirkungskreis eines Ressorts hinausgehen.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-02-11" notAfter="1919-02-11">
+                11. Februar 1919
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Personalpolitik</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-27 08:36:11.441642+00:00" who="#pbecker"/><change when="2019-09-25 18:07:14.952307+00:00" who="#pbecker"/><change when="2019-03-08 14:39:32.213213+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         </listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__444"><placeName>fremdnationales Gebiet</placeName><idno type="GEONAMES"/></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1051"><orgName>fremdnationale Staaten</orgName></org><org xml:id="org__1181"><orgName>Personalvermittlungsstelle</orgName></org><org xml:id="org__1220"><orgName>Staatsamt für Finanzen</orgName></org><org xml:id="org__1227"><orgName>Staatsamt für Heerwesen</orgName></org><org xml:id="org__1253"><orgName>Staatskanzlei</orgName></org><org xml:id="org__3257"><orgName>Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</orgName></org><org xml:id="org__3301"><orgName>Deutschösterreichischer Staat</orgName></org><org xml:id="org__3802"><orgName>Deutschösterreichischer Staatsrechnungshof</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

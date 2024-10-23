@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0754.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0753.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0755.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Resolution der Betriebsräte des Salzbergbaus, der Südhütte und der Cellulose</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#vhelfert">Helfert, Veronika</rs></editor><editor><rs ref="#tgarstenauer">Garstenauer, Therese</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2769</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Wien Bibliothek</repository>
+                    <msName>Bestand: Wien Bibliothek, Tagblatt Sachmappen, TS 2599/1919, Bibliographische Angaben: Resolution, Maschine, mit Unterschriften der Betriebsräte des Salzbergbaus, der Südhütte und der Cellulose, sowie mit stenographischen Notizen in Bleistift, 6 S. Resolution, 1 S. Notizen, 4 Doppelbögen, geheftet, Vermerk auf der 1. Seite in Bleistift "Herrn Ministerpräsidenten"</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Resolution (Manuskript)</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents/></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#vhelfert #tgarstenauer">
+            <p>Die Arbeiter des Salzbergwerkes Dürnberg, der Saline Hallein und der Cellulosefabrik Burgfried (Hallein) verlangen in einer von den jeweiligen Betriebsräten gezeichneten Resolution die "Aufhebung der Finanzlandesdirektion Linz". Anstoß sind Vesäumnisse dieser, adäquate medizinische Versorgung durch die Besetzung einer Werksarztstelle sicherzustellen, nach Streikandrohung und eingeschränktem Arbeiten und Verhandlungen mit Dr. Pfleger konnte lange keine befriedigende Lösung herbeigeführt werden. "Die gefertigten Betriebsräte bitten daher im Interesse des Staates, die hohe Staatsregierung möge dieses schädliche und gänzlich überflüssige Amt entfernen und zwar umso eher desto besser; überhaupt würde die Verwaltungsreform bei den alpinen Salinen ein sehr dankbares Feld vorfinden. / Gleichzeitig ersuchen wir denselben aber, dass sämtliche Beamte dieses Amtes gänzlich unschädlich gemacht werden, damit nicht auch andere Aemter von diesem ungesunden Geiste verseucht werden [.]"</p>
+        </abstract>
+        <creation>
+            <date notBefore="1918-01-01" notAfter="1918-01-01">
+                o.D. [1920]
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Streik</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-03 04:56:58.464158+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         </listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__402"><placeName>Bayern</placeName><location><geo decls="#LatLng">49.000000000000 11.500000000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2951839/</idno></place><place xml:id="place__421"><placeName>Burgfried (Hallein)</placeName><location><geo decls="#LatLng">47.680040000000 13.111750000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2781184/</idno></place><place xml:id="place__435"><placeName>Dürnberg</placeName><idno type="GEONAMES"/></place><place xml:id="place__459"><placeName>Hallein</placeName><location><geo decls="#LatLng">47.683330000000 13.100000000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2776951/</idno></place><place xml:id="place__490"><placeName>Linz</placeName><location><geo decls="#LatLng">48.306390000000 14.286110000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2772400/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1042"><orgName>Finanzdirektion Linz</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

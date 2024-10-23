@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0843.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0842.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0844.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Verhandlungen über Personalsachen; Vorbehalt der Führung durch den Bürgermeister</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#vhelfert">Helfert, Veronika</rs></editor><editor><rs ref="#tgarstenauer">Garstenauer, Therese</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2522</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Wiener Stadt- und Landesarchiv</repository>
+                    <msName>Bestand: Wiener Stadt- und Landesarchiv, 1.5.3 Magistratsdirektion, Karton: 280a, Aktenzahl: 1694/1920</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Akt</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents/></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#vhelfert #tgarstenauer">
+            <p>Schreiben vom 18. März 1920 des Magistratsdirektors Dr. Hartl an die Personalreferenten, in dem er diese darüber informiert, dass Verhandlungen in Personalangelegenheiten - etwa wie im Anlassfall über die Erhöhung der Bezüge zwischen Magistratsabteilung, Personalvertreter und dem Stadtbauamt bzw. der Stadtbuchhaltung - nicht nur vom Magistrat allein geführt werden dürfen, sondern mit dem Bürgermeister rechtzeitig abgesprochen werden müssen, so dass dieser die Verhandlungen auch selber oder durch einen von ihm bestimmten Stellvertreter leiten kann.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1920-03-18" notAfter="1920-03-18">
+                Wien, 18. März 1920
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Lohnverhandlung</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-09-21 15:56:40.227638+00:00" who="#pbecker"/><change when="2019-09-21 15:29:58.645192+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__689"><persName><surname>Hartl</surname><forename>Karl</forename><roleName>Mag.R. Dr.</roleName></persName><birth when="1878-01-28">1878-01-28<placeName key="#place__580">Wien</placeName></birth><death when="1941-02-21">1941-02-21<placeName key="#place__580">Wien</placeName></death></person><person xml:id="person__821"><persName><surname>Reumann</surname><forename>Jakob</forename><roleName/></persName><birth/><death/></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         </listOrg>
+      </back>
+  </text>
+</TEI>

@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0872.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0871.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0873.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Forderung nach Aufrichtung der Verwaltung in den Sudetengebieten und politischen Verhandlungen</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/3399</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Gertrude Enderle-Burcel et al. (Hg.), Der österreichische Staatsrat. Protokolle des Vollzugsausschusses, des Staatsrates und des Geschäftsführenden Staatsratsdirektoriums 21. Oktober 1918 bis 14. Marz 1919, Band 1: 21. Oktober 1918 bis 14. November 1918, Wien 2008</repository>
+                    <msName>StRProt Nr. 26 vom 8. November 1918, in: Enderle-Burcel et al. (Hg,), Der österreichische Staatsrat, 287ff.</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__1256">Staatsrat</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>StR Teufel fordert dringend die Aufrichtung einer Verwaltung in den Sudetengebieten. In den Sudetenländern bekämen die Beamten täglich Telegramme vom Národní Výbor und Weisungen von der Statthalterei in Brünn (Brno). Die Beamtenschaft würde dem deutschösterreichischen Staat in wenigen Tagen den Rücken kehren und sich aus Not dem tschechischen Staat anschließen. Man müsse daher auch Klarheit in der Frage der Staatsform schaffen. Es gehe nicht an, dass der Kaiser Beamte ernenne, es eine k.k. Regierung und daneben einen österreichischen Staatsrat gebe. Wenn der Staatsrat seine Aufgaben nicht erfülle, müsse man von der Straße gegen ihn vorgehen. Auch StR Wolf drängt darauf, Deutschböhmen effektiv in Besitz zu nehmen, bevor es an den tschechischen Staat verloren gehe. Teufel stellt den Antrag, sofort in politische Verhandlungen mit dem Národní Výbor zu treten. StR Ellenbogen spricht sich gegen eine leidenschaftliche nationalistische Politik aus und für pragmatische Verhandlungen, um die Bevölkerung vor Hunger zu bewahren.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1918-11-08" notAfter="1918-11-08">
+                1918-11-08
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Verwaltung</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-25 10:14:42.835668+00:00" who="#pbecker"/><change when="2019-10-18 10:17:26.045209+00:00" who="#gsteiner"/><change when="2019-10-13 16:44:47.393620+00:00" who="#pbecker"/><change when="2019-10-11 08:14:27.539448+00:00" who="#pbecker"/><change when="2018-12-19 15:07:24.284801+00:00" who="#gsteiner"/><change when="2018-12-19 14:56:05.044432+00:00" who="#gsteiner"/><change when="2018-12-19 14:36:42.078427+00:00" who="#gsteiner"/><change when="2018-12-19 14:33:31.216016+00:00" who="#gsteiner"/><change when="2018-12-19 14:30:49.923117+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__597"><persName><surname>Adler</surname><forename>Victor</forename><roleName>Dr. med.</roleName></persName><birth when="1852-06-24">1852-06-24<placeName key="#place__523">Prag</placeName></birth><death when="1918-11-11">1918-11-11<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118647075</idno></person><person xml:id="person__641"><persName><surname>Ellenbogen</surname><forename>Wilhelm</forename><roleName>Dr.</roleName></persName><birth when="1863-07-09">1863-07-09<placeName key="#place__492">Lundenburg</placeName></birth><death when="1951-02-25">1951-02-25<placeName key="#place__508">New York</placeName></death><idno>http://d-nb.info/gnd/118529978</idno></person><person xml:id="person__724"><persName><surname>Habsburg-Lothringen</surname><forename>Karl</forename><roleName>ehemaliger Kaiser</roleName></persName><birth when="1887-08-17">1887-08-17<placeName key="#place__519">Persenbeug</placeName></birth><death when="1922-04-01">1922-04-01<placeName key="#place__446">Funchal</placeName></death><idno>http://d-nb.info/gnd/118560077</idno></person><person xml:id="person__820"><persName><surname>Renner</surname><forename>Karl</forename><roleName>Dr.</roleName></persName><birth when="1870-12-14">1870-12-14<placeName key="#place__570">Unter-Tannowitz</placeName></birth><death when="1950-12-31">1950-12-31<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118599739</idno></person><person xml:id="person__842"><persName><surname>Schoepfer</surname><forename>Aemilian</forename><roleName>Dr.</roleName></persName><birth when="1858-04-29">1858-04-29<placeName key="#place__415">Brixen</placeName></birth><death when="1936-03-24">1936-03-24<placeName key="#place__463">Innsbruck</placeName></death><idno>http://d-nb.info/gnd/119034913</idno></person><person xml:id="person__879"><persName><surname>Teufel</surname><forename>Oskar</forename><roleName/></persName><birth when="1880-10-05">1880-10-05<placeName key="#place__595">Znaim</placeName></birth><death when="1946-01-26">1946-01-26<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/1027122671</idno></person><person xml:id="person__916"><persName><surname>Wolf</surname><forename>Karl Hermann</forename><roleName>Dr.</roleName></persName><birth when="1862-01-27">1862-01-27<placeName key="#place__438">Eger</placeName></birth><death when="1941-06-11">1941-06-11<placeName key="#place__580">Wien</placeName></death><idno>https://d-nb.info/gnd/1013678079</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__407"><placeName>Böhmen</placeName><location><geo decls="#LatLng">50.000000000000 14.500000000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3078198/</idno></place><place xml:id="place__427"><placeName>Deutschböhmen</placeName><idno type="GEONAMES"/></place><place xml:id="place__429"><placeName>Deutsches Reich</placeName><idno type="GEONAMES"/></place><place xml:id="place__493"><placeName>Mähren</placeName><location><geo decls="#LatLng">49.500000000000 17.000000000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3070359/</idno></place><place xml:id="place__515"><placeName>Olmütz</placeName><location><geo decls="#LatLng">49.595520000000 17.251750000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3069011/</idno></place><place xml:id="place__528"><placeName>Republik Ungarn</placeName><location><geo decls="#LatLng">47.000000000000 20.000000000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/719819/</idno></place><place xml:id="place__552"><placeName>Sudetengebiete</placeName><idno type="GEONAMES"/></place><place xml:id="place__561"><placeName>Trautenau</placeName><location><geo decls="#LatLng">50.561010000000 15.912700000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3063907/</idno></place><place xml:id="place__567"><placeName>Tschechoslowakei</placeName><location><geo decls="#LatLng">50.082920000000 14.466720000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/8505031/</idno></place><place xml:id="place__568"><placeName>umstrittenes Gebiet</placeName><idno type="GEONAMES"/></place><place xml:id="place__3401"><placeName>Braunau in Böhmen</placeName><location><geo decls="#LatLng">50.585660000000 16.331810000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3078577/</idno></place><place xml:id="place__3402"><placeName>Liebau</placeName><location><geo decls="#LatLng">49.721620000000 17.520130000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3070816/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__991"><orgName>Christlichsoziale Partei (CSP)</orgName></org><org xml:id="org__994"><orgName>Provinz Deutschböhmen</orgName></org><org xml:id="org__997"><orgName>Deutsches Reich</orgName></org><org xml:id="org__998"><orgName>Deutschnationale Partei (DnP)</orgName></org><org xml:id="org__1030"><orgName>k.k. Regierung</orgName></org><org xml:id="org__1159"><orgName>Národní Výbor (tschechoslowak. Nationalausschuss)</orgName></org><org xml:id="org__1194"><orgName>Provisorische Nationalversammlung</orgName></org><org xml:id="org__1218"><orgName>Sozialdemokratische Arbeiterpartei Deutschösterreichs (SDAP)</orgName></org><org xml:id="org__1230"><orgName>Staatsamt für Volksernährung</orgName></org><org xml:id="org__1256"><orgName>Staatsrat</orgName></org><org xml:id="org__1290"><orgName>tschechoslowakischer Staat</orgName></org><org xml:id="org__3301"><orgName>Deutschösterreichischer Staat</orgName></org><org xml:id="org__3395"><orgName>Österreichisch-ungarische Bank</orgName></org><org xml:id="org__3400"><orgName>Statthalterei Brünn</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

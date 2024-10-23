@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0030.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0029.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0031.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Angelobung der Beamten deutscher Nationalität</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/3591</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>ÖStA/AdR, Bundeskanzleramt, Kabinettsratsprotokolle 1. Republik, Protokoll Nr. 1  bis 35, 31. 10. 1918 bis 30. 1. 1919, Kabinettsratsprotokoll Nr. 2 vom 2. November 1918, 1.</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__1105">Kabinettsrat</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>StS Urban regt an, dass die Angelobung der Beamten deutscher Nationalität zu erfolgen hat "vorbehaltlich der späteren allgemeinen Regelung des Dienstverhältnisses zum deutschösterr. Staat". Unter diesem Vorbehalt können alle deutschen Beamten provisorisch angelobt werden. Die Angelobungsformel ist bei Dr. Schachermayer, der den Präsidenten zugeteilt ist, zu beheben.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1918-11-02" notAfter="1918-11-02">
+                2. November 1918
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-10-11 10:57:47.777002+00:00" who="#pbecker"/><change when="2019-01-22 09:41:16.221844+00:00" who="#gsteiner"/><change when="2019-01-22 09:24:25.043447+00:00" who="#gsteiner"/><change when="2019-01-21 15:29:10.741535+00:00" who="#gsteiner"/><change when="2019-01-21 15:25:43.022507+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__3590"><persName><surname>Schachermayer</surname><forename/><roleName>Dr.</roleName></persName><birth/><death/></person><person xml:id="person__890"><persName><surname>Urban</surname><forename>Karl</forename><roleName/></persName><birth when="1855-09-01">1855-09-01<placeName key="#place__523">Prag</placeName></birth><death when="1940-10-24">1940-10-24<placeName key="#place__523">Prag</placeName></death><idno>http://d-nb.info/gnd/1148771107</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         </listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__3301"><orgName>Deutschösterreichischer Staat</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

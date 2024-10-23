@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0075.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0074.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0076.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Die Uebernahme der Staatsbediensteten</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#vhelfert">Helfert, Veronika</rs></editor><editor><rs ref="#tgarstenauer">Garstenauer, Therese</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2735</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Wien Bibliothek</repository>
+                    <msName>Bestand: Wien Bibliothek, Tagblatt Sachmappen, TS 2599/1918, Bibliographische Angaben: Die Uebernahme der Staatsbediensteten, in: Reichspost, 9.11.1918, S. 5.</msName>
+               <idno>http://anno.onb.ac.at/cgi-content/anno?aid=rpt&amp;datum=19181109&amp;seite=5&amp;zoom=33</idno></msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Zeitungsartikel</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents/></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#vhelfert #tgarstenauer">
+            <p>Anfrage von Beamtenvertretern verschiedener Organisationen im Staatsrat über die Zukunft der Staatsangestellten. Staatssekretär Heinrich Mataja gibt die Antwort, dass deutsche Beamte und Staatsbedienstete bei Bekenntnis zum deutschösterreichischen Staat übernommen und ihren materiellen Bedürfnisse vom neuen Nationalrat ohne Schmälerung nachgekommen wird.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1918-11-09" notAfter="1918-11-09">
+                
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Personalvertretung</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Nationalität</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-02 19:05:26.863679+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__764"><persName><surname>Mataja</surname><forename>Heinrich</forename><roleName>Dr.</roleName></persName><birth when="1877-03-14">1877-03-14<placeName key="#place__580">Wien</placeName></birth><death when="1937-01-23">1937-01-23<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/137937598</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__430"><placeName>Deutschösterreich</placeName><idno type="GEONAMES"/></place><place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1256"><orgName>Staatsrat</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

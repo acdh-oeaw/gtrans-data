@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0503.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0502.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0504.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Eingabe des Zentralverbandes der deutschösterreichischen Staatsbeamtenvereine in Wien und anderer Organisationen an die Regierung zwecks Notstandsaushilfen und Besoldungsreform</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2660</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>Bestand: Staatskanzlei - BKA/alt Varia 1919  Zwischenstaatliches Komitee; Verhandlungsschriften Nr. 26 - 50 zu den Sitzungen des zwischenstaatsamtlichen Komitees für Staatsbedienstetenangelegenheiten, Nr: 38., Unterpunkt: 01., Seite: 42f</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__3257">Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>a) Ministerialrat Dr. Davy: 1. Eingabe des Zentralverbandes der deutschösterreichischen Staatsbeamtenvereine in Wien und anderer Organisationen an die Regierung: Forderung der mit 15. April 1919 befristete Gewährung einer Notstandsaushilfe an alle Staatsbeamten ohne Unterschied der Rangklasse, im Ausmaße von 800 K für Ledige, 1000 K für Verheiratete und 200 K für jedes Kind sowie 2. Durchführung der endgültigen Besoldungsreform bis spätestens 1. Juli 1919 unter Zuziehung von Vertrauensmännern der Organisationen b) Ministerialrat Dr. Hödl berichtet von Forderungen eines Richters des Grazer Oberlandesgerichtssprengels im Namen der Vereinigungen der Enquete: 1. Übergangsbeitrag von 100 K monatlich für jeden Staatsbediensteten und 20 K monatlich für jedes Familienmitglied für fünf Monate wie für Staatsbahnbedienstete; 2. Zusicherung der Flüssigmachung des Anschaffungsbeitrages für Mai 1919 im bisherigen Ausmaß; Ministerialrat Pesta regt an, im Falle der Bewilligung die Beträge der Notstandsaushilfen nach Dienstorten abzustufen. ANTWORT DER KOMMISSION: Das Komitee betrachtet es als selbstverständlich, daß die bei den Verhandlungen mit den Staatseisenbahn- und Postbediensteten von diesen Kategorien erzielten Zugeständnisse betreffs des Übergangsbeitrages auch allen übrigen, nach ihrer Verwendung in Betracht kommenden Staatsangestellten in gleicher Weise zukommt. im Hinblick auf die herrschende Teuerung und der unter der gesamten Staatsangestelltenschaft bemerkbaren Erregung erachtet es das Komitee weiters für ein unabweisliches Gebot, daß den Staatsangestellten, die mit voller Sicherheit auf den Anschaffungsbeitrag pro Mai 1919 rechnen, und zwar aus Gründen der technischen Durchführung so bald als möglich eine diesbezügliche beruhigende Zusicherung zuteil wird.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-04-10" notAfter="1919-04-10">
+                10. April 1919
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Mitbestimmung</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Staatsbedienstetenorganisationen</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-27 08:59:42.940777+00:00" who="#pbecker"/><change when="2019-10-19 08:50:46.725830+00:00" who="#gsteiner"/><change when="2019-10-19 08:50:24.584854+00:00" who="#gsteiner"/><change when="2019-10-19 08:50:02.268729+00:00" who="#gsteiner"/><change when="2019-10-02 09:22:36.262959+00:00" who="#pbecker"/><change when="2019-03-12 15:57:56.287240+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__633"><persName><surname>Davy</surname><forename>Robert Franz Ludwig</forename><roleName>Dr.</roleName></persName><birth when="1867-01-22">1867-01-22<placeName key="#place__478">Königsberg</placeName></birth><death when="1924-04-22">1924-04-22<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/126181365</idno></person><person xml:id="person__704"><persName><surname>Hödl</surname><forename>Richard</forename><roleName>Dr.</roleName></persName><birth/><death/></person><person xml:id="person__795"><persName><surname>Pesta</surname><forename>Karl</forename><roleName>Dr.</roleName></persName><birth when="1871-11-15">1871-11-15<placeName key="#place__460">Hard bei Bregenz</placeName></birth><death when="1945-12-03">1945-12-03<placeName key="#place__463">Innsbruck</placeName></death><idno>http://d-nb.info/gnd/1025804953</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__430"><placeName>Deutschösterreich</placeName><idno type="GEONAMES"/></place><place xml:id="place__453"><placeName>Graz</placeName><location><geo decls="#LatLng">47.066670000000 15.450000000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2778067/</idno></place><place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1007"><orgName>deutschösterr. Regierung</orgName></org><org xml:id="org__1164"><orgName>Oberlandesgericht Graz</orgName></org><org xml:id="org__1333"><orgName>Zentralverband der deutschösterr. Staatsbeamtenvereine</orgName></org><org xml:id="org__3257"><orgName>Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

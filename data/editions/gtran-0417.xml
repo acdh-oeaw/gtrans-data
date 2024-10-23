@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0417.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0416.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0418.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Beamtenfragen - Ausfolgung von Personaldokumenten an fremde Nationalstaaten</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/3789</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>ÖStA/AdR, Bundeskanzleramt, Kabinettsratsprotokolle 1. Republik, Protokoll Nr. 36 bis 55, 31. 1. 1919 bis 28. 3. 1919, Kabinettsratsprotokoll Nr. 48 vom 6. März 1919, 20f.</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><p>siehe Kabinettsratsbeschluss vom 9. Jänner 1919</p><msItem><author ref="#org__1105">Kabinettsrat</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>UStS Beck begehrt eine Abänderung des Beschlusses bezüglich Ausfolgung der Personaldokumente von Staatsbediensteten an fremde Nationalstaaten: "Wenn Dienstesdokumente solcher Staatsbediensteter, deren Dienstort in strittigem Gebiete liegt, von jenem Nationalstaate abverlangt werden, welcher tatsächlich die Herrschaft in diesem strittigen Gebiete ausübt, so sind Abschriften dieser Personaldokumente von dem das Gebiet in Anspruch nehmenden Nationalstaate - jedoch unter ausdrücklicher Betonung, dass dies ohne Präjudiz für den vom deutschösterreichischen Staate eingenommenen Rechtsstandpunkte geschieht - dem anzusuchenden Nationalstaate auszufolgen." Der Kabinettsrat erhebt diesen Antrag zum Beschluss.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-03-06" notAfter="1919-03-06">
+                6. März 1919
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-10-12 22:51:43.890652+00:00" who="#pbecker"/><change when="2019-02-12 12:12:50.408648+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__609"><persName><surname>Beck von Managetta</surname><forename>Eugen</forename><roleName>Dr.</roleName></persName><birth when="1861-06-15">1861-06-15<placeName key="#place__524">Preßburg</placeName></birth><death when="1943-11-07">1943-11-07<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/137693036; https://www.deutsche-biographie.de/pnd137693036.html</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         </listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1051"><orgName>fremdnationale Staaten</orgName></org><org xml:id="org__1105"><orgName>Kabinettsrat</orgName></org><org xml:id="org__1290"><orgName>tschechoslowakischer Staat</orgName></org><org xml:id="org__3301"><orgName>Deutschösterreichischer Staat</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

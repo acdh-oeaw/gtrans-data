@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0189.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0188.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0190.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Zweifelhafte Fälle im Bezug auf die Nationszugehörigkeit betreffend die Angelobung von Staatsbediensteten</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2607</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>Bestand: Staatskanzlei - BKA/alt Varia 1919  Zwischenstaatliches Komitee; Verhandlungsschriften Nr. 1 - 25 zu den Sitzungen des zwischenstaatsamtlichen Komitees für Staatsbedienstetenangelegenheiten, Nr: 21., Unterpunkt: 01., Seite: 56</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__3257">Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>Zweifelhafte Fälle im Bezug auf die Nationszugehörigkeit betreffend die Angelobung von Staatsbediensteten; dass die Angaben zur Umgangssprache aus 1910 nicht verlässlich festgestellt werden können; dass einige Merkmale zweifellos für deutsche Nationalität sprechen, der Betreffende von seiner Umgebung aber als Fremdnationaler bezeichnet wird; dass ein eindeutig der deutschen Nation Zugehöriger durch sein Verhalten eine fremde Nation begünstigt und damit den Eindruck erweckt, er sei kein Deutscher. ANTWORT DER KOMMISSION: Es hat bei der Beurteilung der Zugehörigkeit zur deutschen Nation die 1910 gemachte Angabe über die Umgangssprache entscheidend zu sein. Dessen ungeachtet gilt die freie Beweiswürdigung. Ein an und für sich der deutschen Nation zugehöriger Angestellter, der durch sein Dienstverhältnis die Interessen eines fremden Nationalstaates, aus welchen Motiven immer, praktisch fördert, kann deswegen allein noch nicht als nichtdeutscher Angestellter behandelt werden, jedoch ist es als dringend wünschenswert zu bezeichnen, einem solchen Angestellten sowohl im eigenen wie im Interesse des Dienstes einen Wirkungskreis zu geben, der ihm die Möglichkeit solcher Betätigung benimmt.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-02-03" notAfter="1919-02-03">
+                3. Februar 1919
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-10-27 08:32:28.200838+00:00" who="#pbecker"/><change when="2019-10-18 14:40:02.393548+00:00" who="#gsteiner"/><change when="2019-09-25 16:21:09.545320+00:00" who="#pbecker"/><change when="2019-03-06 17:07:31.674997+00:00" who="#gsteiner"/><change when="2019-03-06 16:59:23.788847+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         </listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         </listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1051"><orgName>fremdnationale Staaten</orgName></org><org xml:id="org__1225"><orgName>Staatsamt des Innern</orgName></org><org xml:id="org__3301"><orgName>Deutschösterreichischer Staat</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

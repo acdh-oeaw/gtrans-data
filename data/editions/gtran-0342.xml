@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0342.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0341.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0343.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Anfrage von Staatsangestellten in Deutschböhmen bezüglich der Folgen der Unterzeichnung einer Erklärung für den tschechoslowakischen Staat</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2551</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>Bestand: Staatskanzlei - BKA/alt Varia 1919  Zwischenstaatliches Komitee; Verhandlungsschriften Nr. 1 - 25 zu den Sitzungen des zwischenstaatsamtlichen Komitees für Staatsbedienstetenangelegenheiten, Nr: 09., Unterpunkt: 02., Seite: 15</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__3257">Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>Die Beamten und Angestellten eines Steuerreferates in Deutschböhmen fragen an, ob die nachfolgende Erklärung "ohne nachteilige Folgen für die weitere Existenz im Hinblick auf das Verhältnis zum deutschösterr. Staate ohne weiteres unterschrieben werden kann oder nicht". Die von der tschechoslowakischen Regierung den Beamten und sonstigen Angestellten abgeforderte Erklärung lautet: "Die Gefertigten geben freiwillig und ohne jedewede Beeinflussung folgende Erklärung ab: "Wir verpflichten uns mit Handschlag mit Rücksicht auf die geänderten Verhältnisse bis auf weiteres der Finanz-Landesdirektion in Prag (Praha) treu und redlich zu dienen, die geltenden Gesetze der tschechoslowakischen Republik sowie die Anordnungen der Finanz-Landesdirektion in Prag (Praha) genau zu beobachten, nach Anlaß amtszuhandeln und das Amtsgeheimnis strenge zu wahren." ANTWORT DER KOMMISSION: Gegen die Abgabe dieser Erklärung besteht keine Einwendung.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-01-03" notAfter="1919-01-03">
+                3. Jänner 1919
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">tschechoslowak. Staatsdienst</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-26 13:22:06.698909+00:00" who="#pbecker"/><change when="2019-10-18 13:47:42.259469+00:00" who="#gsteiner"/><change when="2019-09-21 18:08:04.784364+00:00" who="#pbecker"/><change when="2019-02-27 14:24:15.474830+00:00" who="#gsteiner"/><change when="2019-02-27 14:17:24.643384+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         </listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__427"><placeName>Deutschböhmen</placeName><idno type="GEONAMES"/></place><place xml:id="place__523"><placeName>Prag</placeName><location><geo decls="#LatLng">50.088040000000 14.420760000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3067696/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1046"><orgName>Finanzlandesdirektion Prag (Praha)</orgName></org><org xml:id="org__1275"><orgName>Steueramt</orgName></org><org xml:id="org__1289"><orgName>tschechoslowakische Regierung</orgName></org><org xml:id="org__1290"><orgName>tschechoslowakischer Staat</orgName></org><org xml:id="org__3301"><orgName>Deutschösterreichischer Staat</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

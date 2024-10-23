@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0706.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0705.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0707.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Denkschrift des StA für Verkehrswesen betreffend die Lage der von den Tschechen enthobenen deutschen Bediensteten in Iglau (Jihlava) und Znaim (Znojmo)</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2650</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>Bestand: Staatskanzlei - BKA/alt Varia 1919  Zwischenstaatliches Komitee; Verhandlungsschriften Nr. 26 - 50 zu den Sitzungen des zwischenstaatsamtlichen Komitees für Staatsbedienstetenangelegenheiten, Nr: 32., Unterpunkt: 02., Seite: 22f</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__3257">Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>Denkschrift des StA für Verkehrswesen betreffend die Lage der von den Tschechen enthobenen deutschen Bediensteten in Iglau (Jihlava) und Znaim (Znojmo): Die enthobenen definitiven Bediensteten bekamen bisher die Bezüge für März nicht ausbezahlt, den Taglohnbediensteten wurden sämtliche, seit ihrer Enthebung Ende Dezember fälligen Bezüge vorenthalten. Ebenso ist der normale Anschaffungsbeitrag bisher keinem Bediensteten ausgezahlt worden. Sämtliche Mahnungen, sämtliche Hinweise darauf, daß die betreffenden Bediensteten laut Zuschrift der Prager (Praha) Generaldirektion bzw. der Dienststelle, der sie früher angehörten, unter Fortbezug ihrer gesamten Gebühren beurlaubt wurden, blieben nutzlos. Was die definitiven Bediensteten anbelangt, so haben die Dienststellen die enthobenen Bediensteten in die Gehaltslisten aufgenommen. Die Direktion Königgrätz (Hradec Králové) hat sie jedoch aus den Listen gestrichen. Was die Taglohnbediensteten anbelangt, so erklären die Dienststellen, von irgendwelchen Vereinbarungen darüber, daß denselben die Bezüge seit ihrer Entlassung nachzuzahlen sind, nichts zu wissen. Ungemein wichtig für die enthobenen Bediensteten ist die Wohnungsfrage. In Iglau (Jihlava) wurden sämtliche Inhaber von Naturalwohnungen bereits gekündigt. In Schlappenz (Šlapanov) ist der Posten des Oberrevidenten bereits besetzt und der Nachfolger dringt auf eheste Räumung. Auch in Schönwald-Frain (Šumná), Wolframskirchen (Olbramkostel) und Znaim (Znojmo) wird die Frage in der nächsten Zeit brennend. Die aus den Wohnungen gekündigten Bediensteten sind nicht in der Lage, sich angesichts der herrschenden Wohnungsnot irgendwo Wohnung zu beschaffen, um so mehr als die Tschechen in den von ihnen besetzten Gebieten sämtliche leerstehenden Wohnungen für ihre Bediensteten in Anspruch genommen haben und so weit gehen, daß sie auch alle Wohnräume, die über die Zahl von vier hinausgehen, beanspruchen. StA für Verkehrswesen telegraphiert an das Eisenbahnministerium in Prag (Praha) um "eheste Abhilfe", da dies den zwischenstaatlichen Vereinbarungen widerspreche.  ANTWORT DER KOMMISSION: Wird zur Kenntnis genommen.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-03-18" notAfter="1919-03-18">
+                18. März 1919
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Repression</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-27 08:55:27.900334+00:00" who="#pbecker"/><change when="2019-10-02 08:04:08.627583+00:00" who="#pbecker"/><change when="2019-03-12 13:34:04.483715+00:00" who="#gsteiner"/><change when="2019-03-12 13:33:55.280767+00:00" who="#gsteiner"/><change when="2019-03-12 13:33:32.561245+00:00" who="#gsteiner"/><change when="2019-01-31 11:58:09.493050+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__3804"><persName><surname>Bittner</surname><forename/><roleName/></persName><birth/><death/></person><person xml:id="person__3808"><persName><surname>Huber</surname><forename>Josef</forename><roleName/></persName><birth/><death/></person><person xml:id="person__3807"><persName><surname>Jung</surname><forename/><roleName/></persName><birth/><death/></person><person xml:id="person__3809"><persName><surname>Röder</surname><forename/><roleName/></persName><birth/><death/></person><person xml:id="person__3805"><persName><surname>Salomon</surname><forename/><roleName/></persName><birth/><death/></person><person xml:id="person__3806"><persName><surname>Schink</surname><forename/><roleName/></persName><birth/><death/></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__430"><placeName>Deutschösterreich</placeName><idno type="GEONAMES"/></place><place xml:id="place__462"><placeName>Iglau</placeName><location><geo decls="#LatLng">49.396100000000 15.591240000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3074199/</idno></place><place xml:id="place__492"><placeName>Lundenburg</placeName><location><geo decls="#LatLng">48.758970000000 16.882030000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3078773/</idno></place><place xml:id="place__493"><placeName>Mähren</placeName><location><geo decls="#LatLng">49.500000000000 17.000000000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3070359/</idno></place><place xml:id="place__515"><placeName>Olmütz</placeName><location><geo decls="#LatLng">49.595520000000 17.251750000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3069011/</idno></place><place xml:id="place__523"><placeName>Prag</placeName><location><geo decls="#LatLng">50.088040000000 14.420760000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3067696/</idno></place><place xml:id="place__537"><placeName>Schlappenz</placeName><location><geo decls="#LatLng">49.542420000000 15.657680000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3065898/</idno></place><place xml:id="place__541"><placeName>Schönwald-Frain</placeName><location><geo decls="#LatLng">48.922430000000 15.870950000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3064675/</idno></place><place xml:id="place__568"><placeName>umstrittenes Gebiet</placeName><idno type="GEONAMES"/></place><place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place><place xml:id="place__591"><placeName>Wolframitzkirchen</placeName><location><geo decls="#LatLng">48.905900000000 15.963090000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3069084/</idno></place><place xml:id="place__595"><placeName>Znaim</placeName><location><geo decls="#LatLng">48.855500000000 16.048800000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3061344/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1003"><orgName>Direktion Königgrätz (Hradec Králové)</orgName></org><org xml:id="org__1062"><orgName>Generaldirektion der tschechoslowakischen Staatsbahnen</orgName></org><org xml:id="org__1142"><orgName>Liqudierungskommissär</orgName></org><org xml:id="org__1149"><orgName>Liquidierungskommission</orgName></org><org xml:id="org__1239"><orgName>Staatsamt für Verkehrswesen</orgName></org><org xml:id="org__1286"><orgName>tschechoslowak. Eisenbahnministerium</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

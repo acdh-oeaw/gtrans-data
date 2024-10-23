@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0605.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0604.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0606.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Gelöbnisformel [für Beamte in strittigen Gebieten]</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/3680</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>ÖStA/AdR, Bundeskanzleramt, Kabinettsratsprotokolle 1. Republik, Protokoll Nr. 1 bis 35, 31. 10. 1918 bis 30. 1. 1919, Kabinettsratsprotokoll Nr. 21 vom 6. Dezember 1918, 2f.</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__1105">Kabinettsrat</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>StK Renner macht darauf aufmerksam, dass die Gelöbnisformel für höhere Beamte bezüglich der im umstrittenen Gebiet tätigen Beamten etwa ab der VII. Rangklasse abwärts sich als zu weitgehend erwiesen habe, da darin vorbehaltlose Hingabe an den Dienst "ohne Ansehen der Opfer" verlangt werde. Diese Fassung habe aufgrund der vielfach bedrohten Existenz der Beamten in Fällen der Besetzung der deutschen Gebiete berechtigte Bedenken hervorgerufen. Er beabsichtigt daher, eine entsprechend abgeänderte Gelöbnisformel in Zirkulation zu setzen.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1918-12-06" notAfter="1918-12-06">
+                6. Dezember 1918
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-10-12 12:06:54.310011+00:00" who="#pbecker"/><change when="2019-01-31 12:52:13.651695+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__820"><persName><surname>Renner</surname><forename>Karl</forename><roleName>Dr.</roleName></persName><birth when="1870-12-14">1870-12-14<placeName key="#place__570">Unter-Tannowitz</placeName></birth><death when="1950-12-31">1950-12-31<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118599739</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__568"><placeName>umstrittenes Gebiet</placeName><idno type="GEONAMES"/></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1051"><orgName>fremdnationale Staaten</orgName></org><org xml:id="org__1105"><orgName>Kabinettsrat</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

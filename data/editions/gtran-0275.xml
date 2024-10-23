@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0275.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0274.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0276.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Frage der Angelobung einer Lehrperson des staatlichen Eötvös-Kollegium in Budapest für den deutschösterreichischen Staatsdienst</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2631</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>Bestand: Staatskanzlei - BKA/alt Varia 1919 Zwischenstaatliches Komitee; Verhandlungsschriften Nr. 26 - 50 zu den Sitzungen des zwischenstaatsamtlichen Komitees für Staatsbedienstetenangelegenheiten, Nr: 28., Unterpunkt: 06., Seite: 9</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__3257">Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>Eine seit 1912 behufs Dienstleistung an dem staatlichen Eötvös-Kollegium in Budapest beurlaubte Lehrperson aus dem Personalstande einer Mittelschule im umstrittenen Gebiete Südmährens strebt ihre Angelobung für den deutschösterreichischen Staat an und ersucht um Zuwendung des Gehaltes pro Dezember 1918, Jänner 1919 und die folgenden Monate. ANTWORT DER KOMMISSION: Über das Gesuch kann nicht entschieden werden, solange der Gesuchsteller sich dauernd außerhalb des territorialen Machtbereichs der deutschösterreichischen Regierung aufhält.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-03-04" notAfter="1919-03-04">
+                4. März 1919
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-10-27 08:44:10.729695+00:00" who="#pbecker"/><change when="2019-10-18 18:49:47.845155+00:00" who="#gsteiner"/><change when="2019-10-01 13:26:19.512078+00:00" who="#pbecker"/><change when="2019-03-09 16:02:52.766268+00:00" who="#gsteiner"/><change when="2019-03-09 16:02:29.092828+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         </listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__418"><placeName>Budapest</placeName><location><geo decls="#LatLng">47.498010000000 19.039910000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3054643/</idno></place><place xml:id="place__430"><placeName>Deutschösterreich</placeName><idno type="GEONAMES"/></place><place xml:id="place__444"><placeName>fremdnationales Gebiet</placeName><idno type="GEONAMES"/></place><place xml:id="place__554"><placeName>Südmähren</placeName><idno type="GEONAMES"/></place><place xml:id="place__568"><placeName>umstrittenes Gebiet</placeName><idno type="GEONAMES"/></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1007"><orgName>deutschösterr. Regierung</orgName></org><org xml:id="org__1038"><orgName>Eötvös-Kollegium (Budapest)</orgName></org><org xml:id="org__1156"><orgName>Mittelschule</orgName></org><org xml:id="org__3301"><orgName>Deutschösterreichischer Staat</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

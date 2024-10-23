@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0676.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0675.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0677.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Finanzielles von den Wiener Gaswerken, in: Wiener Stimmen, 5.IV.1919</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#vhelfert">Helfert, Veronika</rs></editor><editor><rs ref="#tgarstenauer">Garstenauer, Therese</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2458</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Wiener Stadt- und Landesarchiv</repository>
+                    <msName>Bestand: VGA, Sozialdemokratische Parteistellen, Karton: Kt. 187, M 1346, Aktenzahl: keine</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Zeitungsartikel (Schnittarchiv)</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents/></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#vhelfert #tgarstenauer">
+            <p>In diesem Artikel der Wiener Stimmen wird von dem Beschluss einer Lohnerhöhung für die Gasarbeiter im Gemeinderat berichtet, die sich in Zukunft auf eine Tariferhöhung der Gaspreise auswirken wird. Der Autor des Artikels schließt mit Kritik am "kaufmännischen Talent" der zukünftigen sozialdemokratischen Stadtverwaltung.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-04-05" notAfter="1919-04-05">
+                5.IV.19
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-09-21 05:15:34.751714+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         </listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1259"><orgName>Gaswerke (städtische)</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

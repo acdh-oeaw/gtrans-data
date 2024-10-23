@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0603.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0602.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0604.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Angelobung)</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#vhelfert">Helfert, Veronika</rs></editor><editor><rs ref="#tgarstenauer">Garstenauer, Therese</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2736</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Wien Bibliothek</repository>
+                    <msName>Bestand: Wien Bibliothek, Tagblatt Sachmappen, TS 2599/1918, Bibliographische Angaben: (Angelobung), in: Wiener Zeitung, Nr. 260, 10.11.1918, S. 1.</msName>
+               <idno>http://anno.onb.ac.at/cgi-content/anno?aid=wrz&amp;datum=19181110&amp;seite=1&amp;zoom=33</idno></msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Zeitungsartikel</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents/></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#vhelfert #tgarstenauer">
+            <p>Angelobung des Staatssekretärs für Justiz, Dr. Koller, und Versicherung des Sektionschefs Dr. von Bratusch, dass die Beamtenschaft sich in den Dienst des neuen Staates stellt.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1918-11-10" notAfter="1918-11-10">
+                
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-10-02 19:07:03.464863+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__945"><persName><surname>Koller</surname><forename/><roleName>Dr.</roleName></persName><birth><placeName key="#place__580">Wien</placeName></birth><death/></person><person xml:id="person__944"><persName><surname>von Bratusch</surname><forename>Richard</forename><roleName>Dr.</roleName></persName><birth when="1861-04-03">1861-04-03</birth><death when="1949-08-11">1949-08-11<placeName key="#place__453">Graz</placeName></death></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__430"><placeName>Deutschösterreich</placeName><idno type="GEONAMES"/></place><place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         </listOrg>
+      </back>
+  </text>
+</TEI>

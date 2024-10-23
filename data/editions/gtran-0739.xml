@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0739.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0738.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0740.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Nachrichten aus Deutschböhmen</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2788</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>Bestand: ÖStA/AdR, Bundeskanzleramt, Staatsratsprotokolle 1. Republik, Protokoll Nr. 36 - 50, 18. 11. 1918 - 29. 11. 1918; 36. Sitzung vom 18. Nov. 1918, S. 2f.,Karton: 2</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__1256">Staatsrat</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>Bericht über die Situation in Deutschböhmen: es wird damit gerechnet, dass immer mehr Orte von den Tschechen besetzt werden. Die administrative Situation war schwierig, weil keine Banknoten vorhanden waren. Nunmehr konnten fürs Erste Gehälter und Unterhalte wieder ausbezahlt werden. Die tschechoslowakische Regierung hat per Erlass die Zensur der Post nach Deutschböhmen verfügt, Auch Depechen über Nürnberg und Karlsbad (Karlovy Vary) werden von tschech. Beamten nicht weitergeleitet; auch die Buschtehraderbahn steht in Gefahr, von den Tschechen besetzt zu werden.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1918-11-18" notAfter="1918-11-18">
+                18. Nov. 1918
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Internationales Postrecht</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Zensur</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Verwaltung</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-22 07:27:52.218362+00:00" who="#gsteiner"/><change when="2019-10-13 15:42:58.991337+00:00" who="#pbecker"/><change when="2019-10-03 05:52:48.470361+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__635"><persName><surname>Dinghofer</surname><forename>Franz</forename><roleName>Dr.</roleName></persName><birth when="1873-04-06">1873-04-06<placeName key="#place__517">Ottensheim</placeName></birth><death when="1956-01-12">1956-01-12<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118902830</idno></person><person xml:id="person__705"><persName><surname>Hoheisl</surname><forename>Konrad</forename><roleName>Dr.</roleName></persName><birth when="1862-11-12">1862-11-12<placeName key="#place__400">Alt-Rothwasser</placeName></birth><death when="1930-09-15">1930-09-15<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/131556789</idno></person><person xml:id="person__820"><persName><surname>Renner</surname><forename>Karl</forename><roleName>Dr.</roleName></persName><birth when="1870-12-14">1870-12-14<placeName key="#place__570">Unter-Tannowitz</placeName></birth><death when="1950-12-31">1950-12-31<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118599739</idno></person><person xml:id="person__890"><persName><surname>Urban</surname><forename>Karl</forename><roleName/></persName><birth when="1855-09-01">1855-09-01<placeName key="#place__523">Prag</placeName></birth><death when="1940-10-24">1940-10-24<placeName key="#place__523">Prag</placeName></death><idno>http://d-nb.info/gnd/1148771107</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__402"><placeName>Bayern</placeName><location><geo decls="#LatLng">49.000000000000 11.500000000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2951839/</idno></place><place xml:id="place__427"><placeName>Deutschböhmen</placeName><idno type="GEONAMES"/></place><place xml:id="place__470"><placeName>Karlsbad</placeName><location><geo decls="#LatLng">50.232710000000 12.871170000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3073803/</idno></place><place xml:id="place__510"><placeName>Nürnberg</placeName><location><geo decls="#LatLng">49.454210000000 11.077520000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2861650/</idno></place><place xml:id="place__523"><placeName>Prag</placeName><location><geo decls="#LatLng">50.088040000000 14.420760000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3067696/</idno></place><place xml:id="place__527"><placeName>Reichenberg</placeName><location><geo decls="#LatLng">50.767110000000 15.056190000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3071961/</idno></place><place xml:id="place__552"><placeName>Sudetengebiete</placeName><idno type="GEONAMES"/></place><place xml:id="place__567"><placeName>Tschechoslowakei</placeName><location><geo decls="#LatLng">50.082920000000 14.466720000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/8505031/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1185"><orgName>Post</orgName></org><org xml:id="org__1256"><orgName>Staatsrat</orgName></org><org xml:id="org__1289"><orgName>tschechoslowakische Regierung</orgName></org><org xml:id="org__3633"><orgName>Buschtehrader Eisenbahn</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

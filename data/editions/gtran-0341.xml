@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0341.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0340.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0342.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Die zukünftige Beamtenorganisation in Deutschösterreich</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#vhelfert">Helfert, Veronika</rs></editor><editor><rs ref="#tgarstenauer">Garstenauer, Therese</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2741</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Wien Bibliothek</repository>
+                    <msName>Bestand: Wien Bibliothek, Tagblatt Sachmappen, TS 2599/1918, Bibliographische Angaben: Die zukünftige Beamtenorganisation in Deutschösterreich. Vom Ersten Staatsanwalt Hofrat Dr. Erwin Ritter von Höpler, Wien, 24. Dezember, in: Neue Freie Presse, Nr. 19518, 25.12.1918, S. 8.</msName>
+               <idno>http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19181225&amp;seite=8&amp;zoom=33</idno></msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Zeitungsartikel</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#person__947"> Erwin Höpfler</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#vhelfert #tgarstenauer">
+            <p>Artikel des Ersten Staatsanwaltes, Hofrat Dr. Erwin Ritter von Höpler, zu anstehenden Reformen in der Verwaltung und damit verbundenen Schwierigkeiten.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1918-12-25" notAfter="1918-12-25">
+                
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Beamtenorganisation</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-02 19:29:16.200449+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__947"><persName><surname>Höpfler</surname><forename>Erwin</forename><roleName/></persName><birth><placeName key="#place__580">Wien</placeName></birth><death/></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         </listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         </listOrg>
+      </back>
+  </text>
+</TEI>

@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0711.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0710.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0712.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ist jenen Bukowinaer Staatsangestellten, welche ihr pensionspflichtiges Alter erreicht haben und in den Ruhestand treten wollen, ihre Pension gesichert</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2641</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>Bestand: Staatskanzlei - BKA/alt Varia 1919  Zwischenstaatliches Komitee; Verhandlungsschriften Nr. 26 - 50 zu den Sitzungen des zwischenstaatsamtlichen Komitees für Staatsbedienstetenangelegenheiten, Nr: 31., Unterpunkt: 02/1b., Seite: 18</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__3257">Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>Ist jenen Bukowinaer Staatsangestellten, welche ihr pensionspflichtiges Alter erreicht haben und in den Ruhestand treten wollen, ihre Pension gesichert? In welchem Ausmaße? ANTWORT DER KOMMISSION: Nach den mit dem Vertreter des rumänischen Nationalrates in der Bukowina (Bucovina) getroffenen Vereinbarungen ist hinsichtlich der Anweisung und Auszahlung von Ruhe- und Versorgungsgenüssen jener ehemals österreichischen Zivilstaatsbediensteten, die bis Ende Dezember 1918 in den Ruhestand versetzt worden sind, der bisherige Vorgang der Auszahlung nach den bisherigen Liquidierungsgebieten einzuhalten. Die von keinem Nationalstaat übernommenen Zivilstaatsbediensteten können auf ihr Ansuchen oder von Amts wegen von jenem Nationalstaaate, in welchem sie ihren letzten Amtssitz gehabt haben, unter Berufung auf die zwischenstaatliche Vereinbarung in den dauernden Ruhestand versetzt werden. Die Kosten sind aufzuteilen und belasten die allgemeinen Pensionen des ehemals österreichischen Staates. Hinsichtlich der Versetzung in den Ruhestand gelten die Vorschriften der ehemals österreichischen Dienstpragmatik und die ehemals österreichischen allgemeinen Pensionsvorschriften. Eine begünstigte Anrechnung der Dienstzeit während des Krieges findet nach dem dermaligen Stande der zwischenstaatlichen Verhandlungen auf die Staatsbediensteten der Bukowina (Bucovina) keine Anwendung.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-03-14" notAfter="1919-03-14">
+                14. Märzt 1919
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">zwischenstaatliche Vereinbarung</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Pensionierung</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-27 08:48:34.457794+00:00" who="#pbecker"/><change when="2019-10-01 14:13:18.232546+00:00" who="#pbecker"/><change when="2019-03-12 11:22:39.156811+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__910"><persName><surname>Wilfling</surname><forename>August</forename><roleName>Dr.</roleName></persName><birth/><death/></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__420"><placeName>Bukowina</placeName><location><geo decls="#LatLng">48.000000000000 25.500000000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/571096/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__963"><orgName>Ausschuss der Bukowinaer Staatsangestellten</orgName></org><org xml:id="org__1031"><orgName>ehemals österr. Staat</orgName></org><org xml:id="org__1051"><orgName>fremdnationale Staaten</orgName></org><org xml:id="org__1206"><orgName>rumän. Staat</orgName></org><org xml:id="org__1207"><orgName>rumänischer Nationalrat</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0302.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0301.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0303.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Angelobung eines ehemals österreichischen Zollbeamten für den deutschösterreichischen Staatsdienst, dessen Nationalität unklar scheint</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2635</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>Bestand: Staatskanzlei - BKA/alt Varia 1919  Zwischenstaatliches Komitee; Verhandlungsschriften Nr. 26 - 50 zu den Sitzungen des zwischenstaatsamtlichen Komitees für Staatsbedienstetenangelegenheiten, Nr: 29., Unterpunkt: 05., Seite: 13</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__3257">Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>Ein Staatsangestelltenrat eines Landes nimmt Stellung gegen die Zulassung zur Angelobung eines ehemals österreichischen Zollbeamten für den deutschösterreichischen Staat, weil er einen in italienischer Sprache ausgefertigten Taufschein habe, sich stets als Italiener benommen, insbesondere mit den Kollegen italienischer Nationalität in italienischer Sprache verkehrt habe, weil er einen nichtdeutschen Vorgesetzten um die Vermittlung wegen Anerkennung als deutschösterreichischer Beamter gebeten und weil er mit seiner Gattin zumeist französisch gesprochen habe. Auch habe er gelegentlich der Bemerkung, dass nichtdeutsche Beamte aus dem deutschösterreichischen Staatsdienste ausscheiden müssten, erklärt, er werde gehen, wolle aber seine Pension haben. Durch behördliche Erhebung wurde festgestellt, dass dieser Beamte von deutschen Eltern abstamme, deutsche Schulbildung genossen habe, im Jahre 1910 zur Volkszählung die deutsche Sprache als Umgangssprache angegeben habe, dass er deutscher Gesinnung und seine Gattin eine Bregenzerin sei. Die Ausstellung des Taufscheines in italienischer Sprache sei gänzlich belanglos. ANTWORT DER KOMMISSION: Der in Betracht kommende Beamte hat als der deutschen Nation zugehörig zu gelten.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-03-07" notAfter="1919-03-07">
+                7. März 1919
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Staatsangestelltenrat</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-27 08:46:27.942673+00:00" who="#pbecker"/><change when="2019-10-18 19:01:39.580300+00:00" who="#gsteiner"/><change when="2019-10-01 13:38:54.049072+00:00" who="#pbecker"/><change when="2019-03-09 17:16:52.680601+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         </listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         </listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1243"><orgName>Staatsangestelltenrat (eines Landes)</orgName></org><org xml:id="org__3301"><orgName>Deutschösterreichischer Staat</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

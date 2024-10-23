@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0162.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0161.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0163.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Staatsamt für Unterricht: Der Direktor des Staatsgymnasiums in Marburg (Maribor), eindeutig slowenischer Nationalität, ersucht um Ersatz für Kosten für Dienstreisen</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2661</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>Bestand: Staatskanzlei - BKA/alt Varia 1919  Zwischenstaatliches Komitee; Verhandlungsschriften Nr. 26 - 50 zu den Sitzungen des zwischenstaatsamtlichen Komitees für Staatsbedienstetenangelegenheiten, Nr: 38., Unterpunkt: 02., Seite: 43</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__3257">Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>Staatsamt für Unterricht: Der Direktor des Staatsgymnasiums in Marburg (Maribor), eindeutig slowenischer Nationalität, war Mitglied des steiermärkischen Landesschulrates und hat im Juli 1918 an einer Sitzung der Qualifikationskommission in Graz und im November und Dezember 1918 an Beratungen des steiermärkischen Landesschulrates in Graz teilgenommen. Er wurde erst mit dem Zeitpunkt der Einstellung der Bezüge der südslawischen Bediensteten in Marburg (Maribor) Ende Dezember 1918 seiner Stellung enthoben. Er ersucht um Flüssigmachung der Reisekosten für diese drei Dienstreisen. ANTWORT DER KOMMISSION: Die Rechnung über die Dienstreise vom Juli 1918 ist dem Liquidierungskommissär beim Staatsamt für Unterricht anzutreten. Die Auslagen für die im November und Dezember 1918 unternommenen Dienstreisen sind aus deutschösterreichischen Mitteln zu bestreiten.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-04-10" notAfter="1919-04-10">
+                10. April 1919
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-10-27 09:00:00.190584+00:00" who="#pbecker"/><change when="2019-10-19 08:52:05.775335+00:00" who="#gsteiner"/><change when="2019-10-02 09:25:43.514659+00:00" who="#pbecker"/><change when="2019-03-12 16:01:30.356049+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         </listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__453"><placeName>Graz</placeName><location><geo decls="#LatLng">47.066670000000 15.450000000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2778067/</idno></place><place xml:id="place__499"><placeName>Marburg</placeName><location><geo decls="#LatLng">46.554720000000 15.646670000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3195506/</idno></place><place xml:id="place__546"><placeName>Slowenien</placeName><location><geo decls="#LatLng">46.083330000000 15.000000000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3190538/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1145"><orgName>Liquidierungskommissär beim Staatsamt für Unterricht</orgName></org><org xml:id="org__1196"><orgName>Qualifikationskommission</orgName></org><org xml:id="org__1238"><orgName>Staatsamt für Unterricht</orgName></org><org xml:id="org__1252"><orgName>Staatsgymnasium Marburg (Maribor)</orgName></org><org xml:id="org__1272"><orgName>steiermärkischer Landesschulrat</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0014.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0013.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0015.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Entwurf: Errichtung eines Oberlandesgerichtes in Reichenberg (Liberec) und Errichtung des Kreisgerichtes in Trautenau (Trutnov)</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/3432</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Gertrude Enderle-Burcel et al. (Hg.), Der österreichische Staatsrat. Protokolle des Vollzugsausschusses, des Staatsrates und des Geschäftsführenden Staatsratsdirektoriums 21. Oktober 1918 bis 14. Marz 1919, Band 1: 21. Oktober 1918 bis 14. November 1918, Wien 2008</repository>
+                    <msName>StRProt Nr. 27 vom 9. November 1918, in: Enderle-Burcel et al. (Hg.), Der österreichische Staatsrat, 307ff.</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><p>Vollzugsanweisung des Deutschösterreichischen Staatsrates vom 8. November 1918 über die Errichtung des Oberlandesgerichtes für Deutschböhmen, StGBl. 15/1918, Vollzugsanweisung des Deutschösterreichischen Staatsrates  vom 9. November 1918 über die Zuweisung der Provinz Sudetenland zum Oberlandesgerichtssprengel Reichenberg; Kabinettsratsprotokoll Nr. 8 vom 11. November 1918; StRProt. Nr. 44 vom 25. November 1918 - sofortige Besetzung einiger Stellen beim Oberlandesgericht Reichenberg.&#13;
+&#13;
+Mit der sogenannten Pfingstverordnung vom 30. Juli 1918 verfügte der k.k. Jusitzminister die Errichtung eines Kreisgerichtes in Trautenau.</p><msItem><author ref="#org__1256">Staatsrat</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>Staatsnotar Sylvester berichtet über den Entwurf betreffend die Errichtung eines Oberlandesgerichtes in Reichenberg (Liberec) sowie betreffend die Zuteilung des Sudetenlandes zu diesem Oberlandesgerichts und die Zuteilung von Südböhmen und Südmähren zum Oberlandesgericht in Wien und schließlich betreffend die Errichtung des Kreisgerichts in Trautenau (Trutnov). StR von Baechlé rät, möglichst rasch eine Verordnung zu erlassen, da die Gefahr bestehe, dass der für den Sitz des Oberlandesgerichtes in Aussicht genommene Ort von den Tschechen besetzt wird. Der Staatsrat ermächtigt das Justizamt, durch Verordnung ein Oberlandesgericht in Reichenberg mit dem Sprengel Deutschböhmen und Sudetenland zu errichten. Ebenso wird er ermächtigt, Südböhmen und Südmähren im Oberlandesgericht Wien zuzuweisen und schließlich nimmt der Staatsrat die Vollzugsanweisung des Staatsamtes für Justiz zur Kenntnis , mit der die Errichtung des Kreisgerichtes in Trautenau (Trutnov) verfügt wird.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1918-11-09" notAfter="1918-11-09">
+                1918-11-09
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Verwaltung</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-25 10:19:59.544962+00:00" who="#pbecker"/><change when="2019-10-18 10:43:18.690305+00:00" who="#gsteiner"/><change when="2019-10-13 16:26:22.397153+00:00" who="#pbecker"/><change when="2019-10-11 08:52:36.314351+00:00" who="#pbecker"/><change when="2019-01-04 12:31:19.833768+00:00" who="#gsteiner"/><change when="2019-01-04 12:13:45.024960+00:00" who="#gsteiner"/><change when="2019-01-04 11:55:17.754345+00:00" who="#gsteiner"/><change when="2019-01-04 11:29:40.288223+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__604"><persName><surname>Baechle</surname><forename>Josef von</forename><roleName>Dr.</roleName></persName><birth when="1868-05-21">1868-05-21<placeName key="#place__580">Wien</placeName></birth><death when="1933-05-11">1933-05-11<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/1042486425</idno></person><person xml:id="person__820"><persName><surname>Renner</surname><forename>Karl</forename><roleName>Dr.</roleName></persName><birth when="1870-12-14">1870-12-14<placeName key="#place__570">Unter-Tannowitz</placeName></birth><death when="1950-12-31">1950-12-31<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118599739</idno></person><person xml:id="person__826"><persName><surname>Roller</surname><forename>Julius</forename><roleName>Dr.</roleName></persName><birth when="1862-10-28">1862-10-28<placeName key="#place__560">Thomigsdorf</placeName></birth><death when="1946-12-27">1946-12-27<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/1028281269</idno></person><person xml:id="person__3442"><persName><surname>Schauer von</surname><forename>Hugo</forename><roleName>Dr.</roleName></persName><birth when="1862-04-01">1862-04-01<placeName key="#place__3440">Leibnitz</placeName></birth><death when="1920-04-03">1920-04-03<placeName key="#place__3441">Tregist</placeName></death><idno>http://d-nb.info/gnd/1029631514</idno></person><person xml:id="person__856"><persName><surname>Seitz</surname><forename>Karl</forename><roleName/></persName><birth when="1869-09-04">1869-09-04<placeName key="#place__580">Wien</placeName></birth><death when="1950-02-03">1950-02-03<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/119184745</idno></person><person xml:id="person__875"><persName><surname>Sylvester</surname><forename>Julius</forename><roleName>Dr.</roleName></persName><birth when="1854-06-30">1854-06-30<placeName key="#place__580">Wien</placeName></birth><death when="1944-07-13">1944-07-13<placeName key="#place__592">Zell am Wallersee</placeName></death><idno>http://d-nb.info/gnd/120148595</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__527"><placeName>Reichenberg</placeName><location><geo decls="#LatLng">50.767110000000 15.056190000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3071961/</idno></place><place xml:id="place__551"><placeName>Südböhmen</placeName><idno type="GEONAMES"/></place><place xml:id="place__553"><placeName>Sudetenland</placeName><idno type="GEONAMES"/></place><place xml:id="place__554"><placeName>Südmähren</placeName><idno type="GEONAMES"/></place><place xml:id="place__561"><placeName>Trautenau</placeName><location><geo decls="#LatLng">50.561010000000 15.912700000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3063907/</idno></place><place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place><place xml:id="place__3436"><placeName>Landskron</placeName><location><geo decls="#LatLng">49.912170000000 16.611900000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3072332/</idno></place><place xml:id="place__3437"><placeName>Leitomischl</placeName><location><geo decls="#LatLng">49.868090000000 16.312980000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3071675/</idno></place><place xml:id="place__3438"><placeName>Polička</placeName><location><geo decls="#LatLng">49.714650000000 16.265430000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3067882/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1166"><orgName>Oberlandesgericht Reichenberg (Liberec)</orgName></org><org xml:id="org__1232"><orgName>Staatsamt für Justiz</orgName></org><org xml:id="org__1256"><orgName>Staatsrat</orgName></org><org xml:id="org__1280"><orgName>südböhmischer Kreis</orgName></org><org xml:id="org__1282"><orgName>Sudetenland</orgName></org><org xml:id="org__3285"><orgName>Kreis Deutschsüdmähren</orgName></org><org xml:id="org__3433"><orgName>Oberlandesgericht Wien</orgName></org><org xml:id="org__3434"><orgName>Kreisgericht Trautenau</orgName></org><org xml:id="org__3435"><orgName>böhmische Landesversammlung</orgName></org><org xml:id="org__3439"><orgName>k.k. Justizministerium</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

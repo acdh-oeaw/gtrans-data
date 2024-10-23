@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0016.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0015.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0017.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Staatsbedienstetenforderungen</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/3710</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>ÖStA/AdR, Bundeskanzleramt, Kabinettsratsprotokolle 1. Republik, Protokoll Nr. 1 bis 35, 31. 10. 1918 bis 30. 1. 1919, Kabinettsratsprotokoll Nr. 24 vom 17. Dezember 1918, 1f.</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__3706">Kabinettskanzlei</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>Die Unterstaatssekretäre Glöckel und Beck berichten von ihrem Gespräch mit Vertretern der Staatsbedienstetenorganisationen betreffend deren Forderung nach Teuerungszulagen und Auszahlung des Anschaffungsbeitrages noch vor Weihnachten. Die Berichterstatter schlagen vor, den Staatsangestellten einen Anschaffungsbeitrag in der halben Höhe des Anschaffungsbeitrages vom November 1918 zu zahlen. Auch bezüglich der Gleichstellung der Kanzlei- und Postoffizianten in Bezug auf die Höhe der Teuerungszulage mit den pragmatisierten Angestellten wäre den Bediensteten entgegenzukommen. Der Kabinettsrat erhebt die Anträge zum Beschluss.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1918-12-17" notAfter="1918-12-17">
+                17. Dezember 1918
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Staatsbedienstetenorganisationen</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-12 12:42:54.090673+00:00" who="#pbecker"/><change when="2019-02-05 15:19:32.858257+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__609"><persName><surname>Beck von Managetta</surname><forename>Eugen</forename><roleName>Dr.</roleName></persName><birth when="1861-06-15">1861-06-15<placeName key="#place__524">Preßburg</placeName></birth><death when="1943-11-07">1943-11-07<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/137693036; https://www.deutsche-biographie.de/pnd137693036.html</idno></person><person xml:id="person__664"><persName><surname>Glöckel</surname><forename>Otto</forename><roleName/></persName><birth when="1874-02-08">1874-02-08<placeName key="#place__522">Pottendorf</placeName></birth><death when="1935-07-23">1935-07-23<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118695452</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         </listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1105"><orgName>Kabinettsrat</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

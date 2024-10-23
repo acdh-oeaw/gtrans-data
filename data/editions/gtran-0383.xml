@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0383.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0382.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0384.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ernennung von definitiven Mitgliedern der Sicherheitswache der Polizeidirektion Wien zu Beamten ohne Rangklasse</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2699</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>Bestand: Staatskanzlei - BKA/alt Varia 1919  Zwischenstaatliches Komitee; Verhandlungsschriften Nr. 26 - 50 zu den Sitzungen des zwischenstaatsamtlichen Komitees für Staatsbedienstetenangelegenheiten, Nr: 47., Unterpunkt: 01., Seite: 73</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__3257">Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>StA für Inneres und Unterricht: Polizeidirektion Wien hat bei der Staatskanzlei den Antrag gestellt, alle definitiven Mitglieder der Sicherheitswache und des Polizeiagentenkorps zu Beamten ohne Rangklasse zu ernennen und sie den Bestimmungen des I. Hauptstückes der Dienstpragmatik zu unterstellen. Das StA des Innern verweist auf den Beschluss des zwischenstaatsamtlichen Komitees betreffend den Entwurf eines Besoldungsreformgesetzes, der die Ernennung sämtlicher Zivilstaatsangestellter mit Ausnahme der Staatsbahnbediensteten, der staatlichen Arbeiterschaft und jener Personen, die nur für zeitlich oder fachlich beschränkte Hilfsleistungen bei staatlichen Behörden, Ämtern und Anstalten aufgenommen sind, zu Beamten und zwar in drei Gruppen (höhere, mittlere und untere Beamte), vorsieht. Hierdurch würde dem Ansinnen Rechnung getragen und es wäre nicht angezeigt, durch eine einseitige Regelung den Wünschen einer einzelnen Gruppe von Staatsangestellten vorzugreifen. ANTWORT DER KOMMISSION: Das Komitee tritt einstimmig dem Standpunkt des Staatsamtes für Inneres und Unterricht bei.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-05-08" notAfter="1919-05-09">
+                8. und 9. Mai 1919
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-10-27 09:14:22.377069+00:00" who="#pbecker"/><change when="2019-10-19 16:52:21.990445+00:00" who="#gsteiner"/><change when="2019-10-02 12:27:30.705015+00:00" who="#pbecker"/><change when="2019-03-20 17:12:51.032627+00:00" who="#gsteiner"/><change when="2019-03-20 17:09:30.151586+00:00" who="#gsteiner"/><change when="2019-03-20 16:23:01.503390+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__820"><persName><surname>Renner</surname><forename>Karl</forename><roleName>Dr.</roleName></persName><birth when="1870-12-14">1870-12-14<placeName key="#place__570">Unter-Tannowitz</placeName></birth><death when="1950-12-31">1950-12-31<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118599739</idno></person><person xml:id="person__3822"><persName><surname>Schober</surname><forename>Johannes</forename><roleName/></persName><birth when="1874-11-14">1874-11-14<placeName key="#place__3820">Perg</placeName></birth><death when="1932-08-19">1932-08-19<placeName key="#place__3821">Baden</placeName></death><idno>http://d-nb.info/gnd/118758802</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1183"><orgName>Polizeidirektion Wien</orgName></org><org xml:id="org__1212"><orgName>Sicherheitswache Wien</orgName></org><org xml:id="org__1225"><orgName>Staatsamt des Innern</orgName></org><org xml:id="org__1253"><orgName>Staatskanzlei</orgName></org><org xml:id="org__3257"><orgName>Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</orgName></org><org xml:id="org__3819"><orgName>Polizeiagentenkorps</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

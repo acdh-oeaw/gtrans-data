@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0180.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0179.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0181.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Stellungnahme bezüglich der Wirksamkeit der Pensionierung (Außerdienststellung)</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2602</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>Bestand: Staatskanzlei - BKA/alt Varia 1919  Zwischenstaatliches Komitee; Verhandlungsschriften Nr. 1 - 25 zu den Sitzungen des zwischenstaatsamtlichen Komitees für Staatsbedienstetenangelegenheiten, Nr: 20., Unterpunkt: 06.,  Seite: 53</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__3257">Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>Stellungnahme zum Antrag Kroy - Ellenbogen im Staatsrat: "Die Wirksamkeit der Pensionierung (Außerdienststellung) hat erst drei Monate nach deren Verlautbarung zu erfolgen. Allen mit 1. Jänner 1919 in den Ruhestand versetzten Bediensteten sind sonach die vollen Aktivitätsbezüge, einschließlich aller aus Anlaß des Krieges gewährten Teuerungsbeiträge für 3 Monate, d.h. bis Ende März flüssig zu machen." ANTWORT DER KOMMISSION: Diese Maßnahme innerhalb des deutschösterreichischen Staatsamtes für Verkehrswesen ist singulärer Natur, da es sich durchwegs um Vertragsbeamte handelt und es bedingt der Staatsratsbeschluss keine ausdehnende Auslegung auf pragmatische Beamte und sonstige Staatsangestellte.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-01-31" notAfter="1919-02-01">
+                31. Jänner 1919 und 1. Februar 1919
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Pensionierung</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-27 08:31:08.377821+00:00" who="#pbecker"/><change when="2019-10-18 14:36:48.014313+00:00" who="#gsteiner"/><change when="2019-09-25 10:00:21.289927+00:00" who="#pbecker"/><change when="2019-03-06 15:38:44.456660+00:00" who="#gsteiner"/><change when="2019-03-06 15:36:47.767311+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__641"><persName><surname>Ellenbogen</surname><forename>Wilhelm</forename><roleName>Dr.</roleName></persName><birth when="1863-07-09">1863-07-09<placeName key="#place__492">Lundenburg</placeName></birth><death when="1951-02-25">1951-02-25<placeName key="#place__508">New York</placeName></death><idno>http://d-nb.info/gnd/118529978</idno></person><person xml:id="person__720"><persName><surname>Jukel</surname><forename>Carl</forename><roleName>Ing.</roleName></persName><birth when="1865-01-21">1865-01-21<placeName key="#place__580">Wien</placeName></birth><death when="1931-08-20">1931-08-20<placeName key="#place__540">Schönau an der Triesting</placeName></death><idno>http://d-nb.info/gnd/1012922529</idno></person><person xml:id="person__744"><persName><surname>Kroy</surname><forename>Otto</forename><roleName/></persName><birth when="1874-11-16">1874-11-16<placeName key="#place__489">Libochowan</placeName></birth><death when="1937-11-16">1937-11-16<placeName key="#place__580">Wien</placeName></death><idno>https://de.wikipedia.org/wiki/Otto_Kroy</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         </listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1239"><orgName>Staatsamt für Verkehrswesen</orgName></org><org xml:id="org__1256"><orgName>Staatsrat</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

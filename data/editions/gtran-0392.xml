@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0392.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0391.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0393.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Beihilfe für Lehrpersonen deutscher Volkszugehörigkeit, die sich in der Tschechoslowakei aufhalten</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2698</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>Bestand: Staatskanzlei - BKA/alt Varia 1919  Zwischenstaatliches Komitee; Verhandlungsschriften Nr. 26 - 50 zu den Sitzungen des zwischenstaatsamtlichen Komitees für Staatsbedienstetenangelegenheiten, Nr: 46., Unterpunkt: 02., Seite: 72</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__3257">Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>StA für Unterricht: Zwei Staatslehrpersonen unzweifelhaft deutscher Volkszugehörigkeit von denen die eine ihren letzten Amtssitz in Triest (Trieste) hatte und sich derzeit in Prag (Praha) befindet und die andere ihren letzten Amtssitz in Görz (Gorizia) hatte und sich derzeit in Plan aufhält, ersuchen das deutschösterr. Staatsamt für Unterricht um Flüssigmachung der Beihilfen. ANTWORT DER KOMMISSION: Diese beiden Lehrpersonen haben um die Flüssigmachung der Beihilfen bei der zuständigen Behörde in der tschechoslowakischen Republik anzusuchen.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-05-05" notAfter="1919-05-05">
+                5. Mai 1919
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-10-27 09:12:47.683683+00:00" who="#pbecker"/><change when="2019-10-19 16:49:24.909314+00:00" who="#gsteiner"/><change when="2019-10-02 12:25:04.382538+00:00" who="#pbecker"/><change when="2019-03-20 15:54:33.855174+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         </listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__523"><placeName>Prag</placeName><location><geo decls="#LatLng">50.088040000000 14.420760000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3067696/</idno></place><place xml:id="place__564"><placeName>Triest</placeName><location><geo decls="#LatLng">45.649530000000 13.776780000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3165185/</idno></place><place xml:id="place__3818"><placeName>Görz</placeName><location><geo decls="#LatLng">45.940880000000 13.621670000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3175986/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1238"><orgName>Staatsamt für Unterricht</orgName></org><org xml:id="org__1290"><orgName>tschechoslowakischer Staat</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

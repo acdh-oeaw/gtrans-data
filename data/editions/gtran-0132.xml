@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0132.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0131.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0133.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Amtsleiterbestellung, Geschäftsgruppen des Mag., Änderung in der Zusammensetzung</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#vhelfert">Helfert, Veronika</rs></editor><editor><rs ref="#tgarstenauer">Garstenauer, Therese</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2473</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Wiener Stadt- und Landesarchiv</repository>
+                    <msName>Bestand: Wiener Stadt- und Landesarchiv, 1.5.3 Magistratsdirektion, Karton: #NR, Aktenzahl: 7131/1918</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Akt</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><p>Dr. August Nüchtern: Magistratsdirektor (Vorgänger Pawelkas)</p></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#vhelfert #tgarstenauer">
+            <p>Akt bestehend aus unterschiedlichen Schreiben bzgl. der Reform der Geschäftseinteilung der Stadt Wien und der Betrauung von Ämtern. Darunter ein Schreiben des Präsidiums der niederösterreichischen Landesregierung an die Magistratsdirektion vom 5. September 1919 mit der Änderung der Geschäftseinteilung bezugnehmend auf die "Änderung der Zusammensetzung der Geschäftsgruppen des Magistrates" (nach Entschliessung des Bürgermeisters, Dr. Richard Weiskirchner, vom 3.12.1918, Pr.Z.12014), veröffentlicht im Normalienblatt des Magistrates, Nr. 48, 1918 (beliegend im Akt). Diese Entschließung des Bürgermeisters beruht auf einem Antrag des Magistratsdirektors, Karl Pawelka, der in einem Schreiben vom 1. Dezember 1918 an denselben eine Änderung der Geschäftsgruppenzusammensetzung sowie die Bestellung von Amtsleitern beantragt und ausführlich seine Auslastung in der Funktion als Magistratsdirektor darlegt, nicht zuletzt beantragt Pawelka die Anordnung, dass ihm "die allgemeine Oberleitung und Oberaufsicht über alle städtischen Aemter (ausgenommen), Anstalten und Unternehmungen sowie die unmittelbare Dienstaufsicht und Oberleitung über die Magistratsabteilung XIX (Staatssteuern u.s.w.)."</p>
+        </abstract>
+        <creation>
+            <date notBefore="1918-12-11" notAfter="1919-09-05">
+                1918-12-11
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-09-21 06:55:07.719954+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__793"><persName><surname>Pawelka</surname><forename>Karl </forename><roleName>Obermag.R.</roleName></persName><birth><placeName key="#place__440">Eibiswald</placeName></birth><death/></person><person xml:id="person__903"><persName><surname>Weiskirchner</surname><forename>Richard</forename><roleName>DDr.</roleName></persName><birth when="1861-03-24">1861-03-24<placeName key="#place__580">Wien</placeName></birth><death when="1926-04-30">1926-04-30<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/117278602</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__509"><placeName>Niederösterreich</placeName><location><geo decls="#LatLng">48.333330000000 15.750000000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2770542/</idno></place><place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         </listOrg>
+      </back>
+  </text>
+</TEI>

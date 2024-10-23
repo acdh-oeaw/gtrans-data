@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0366.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0365.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0367.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Anwendung der Richtlinien auf Lehrer an Hochschulen und der Akademie für Musik und darstellende Kunst</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2589</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>Bestand: Staatskanzlei - BKA/alt Varia 1919  Zwischenstaatliches Komitee; Verhandlungsschriften Nr. 1 - 25 zu den Sitzungen des zwischenstaatsamtlichen Komitees für Staatsbedienstetenangelegenheiten, Nr: 16., Unterpunkt: 06., Seite: 42</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__3257">Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>Anwendung der Richtlinien auf Lehrer an Hochschulen und der Akademie für Musik und darstellende Kunst ANTWORT DER KOMMISSION: Der Kabinettsrat wolle in Hinblick auf die Richtlinien beschließen: Inwieweit ausnahmsweise Nichtdeutsche  im Interesse der Pflege von Kunst und Wissenschaft an diesen Anstalten bleiben können, entscheidet im Einzelfall das Staatsratsdirektorium.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-01-21" notAfter="1919-01-21">
+                21. Jänner 1919
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-10-27 08:21:44.134152+00:00" who="#pbecker"/><change when="2019-09-25 08:59:03.517568+00:00" who="#pbecker"/><change when="2019-03-06 13:25:35.534868+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         </listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         </listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__957"><orgName>Akademie für Musik und darstellende Kunst</orgName></org><org xml:id="org__1083"><orgName>Hochschule</orgName></org><org xml:id="org__1105"><orgName>Kabinettsrat</orgName></org><org xml:id="org__1257"><orgName>Staatsratsdirektorium</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0535.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0534.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0536.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Möglichkeit der Entlassung von Beamten der Staatsbahnämter in Südtirol</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2595</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>Bestand: Staatskanzlei - BKA/alt Varia 1919  Zwischenstaatliches Komitee; Verhandlungsschriften Nr. 1 - 25 zu den Sitzungen des zwischenstaatsamtlichen Komitees für Staatsbedienstetenangelegenheiten, Nr: 18., Unterpunkt: 05., Seite: 45</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__3257">Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>StA für Verkehrswesen: Es besteht die Möglichkeit, dass die Beamten der Staatsbahnämter Meran (Merano) - Mals (Malles Venosta) anlässlich der Versetzung durch italienische Truppen vom Dienst weggeschickt werden. ANTWORT DER KOMMISSION: Die Staatsbahnangestellten verbleiben deutschösterreichische Staatsbedienstete und erhalten ihre Bezüge nicht als Beihilfe, sondern als Dienstbezüge.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-01-24" notAfter="1919-01-24">
+                24. Jänner 1919
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-10-27 08:24:51.993831+00:00" who="#pbecker"/><change when="2019-10-18 14:26:08.819837+00:00" who="#gsteiner"/><change when="2019-10-13 15:45:57.734849+00:00" who="#pbecker"/><change when="2019-09-25 09:10:07.333585+00:00" who="#pbecker"/><change when="2019-03-06 14:08:16.844658+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         </listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__466"><placeName>Italien</placeName><location><geo decls="#LatLng">42.833330000000 12.833330000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3175395/</idno></place><place xml:id="place__497"><placeName>Mals</placeName><location><geo decls="#LatLng">46.687910000000 10.546550000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3174144/</idno></place><place xml:id="place__502"><placeName>Meran</placeName><location><geo decls="#LatLng">46.668170000000 11.159530000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3173577/</idno></place><place xml:id="place__556"><placeName>Südtirol</placeName><location><geo decls="#LatLng">46.500000000000 11.333330000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3165244/</idno></place><place xml:id="place__568"><placeName>umstrittenes Gebiet</placeName><idno type="GEONAMES"/></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1092"><orgName>italienische Truppen</orgName></org><org xml:id="org__1246"><orgName>Staatsbahn</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0127.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0126.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0128.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Der Aufwand für die innere Verwaltung im Staate Deutschösterreich</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#vhelfert">Helfert, Veronika</rs></editor><editor><rs ref="#tgarstenauer">Garstenauer, Therese</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2746</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Wien Bibliothek</repository>
+                    <msName>Bestand: Wien Bibliothek, Tagblatt Sachmappen, TS 2599/1919, Bibliographische Angaben: Der Aufwand für die innere Verwaltung im Staate Deutschösterreich. Von Graf Erich Kielmansegg. Minister und Statthalter a.D., Wien, 18. Januar, in: Neue Freie Presse, Nr. 19541, 19.1.1919, S. 4-5.</msName>
+               <idno>http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19190119&amp;seite=4&amp;zoom=33</idno></msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Zeitungsartikel</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><p>Freiherr von Schmidt-Zabierow (Landespräsident); Dr. Erwein Landeshauptmann in Kärnten. AD Schrift von Karl Renner, unklar, welche er meint, möglicherweise: "Der niederösterreichische Landtag und das arbeitende Volk" (Wien 1902); "Der nationale Streit um die Aemter und die Sozialdemokratie" (Wien 1908). Für uns eventuell noch interessant: "Zur Geschichte der österreichischen Verwaltung. Anhang: Das Land der Landtag, die Landesregierung ; Der Aufbau der niederösterreichischen Verwaltung" (Wiener Neustadt, 1927)</p><msItem><author ref="#person__3851"> Erich Kielmansegg</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#vhelfert #tgarstenauer">
+            <p>Der ehemalige niederösterreichische Statthalter Erich Kielmansegg legt in seinem Artikel seine Überlegungen zu einer "Verschlankung" der Verwaltung vor: Abschaffung der Doppelverwaltung in der cisleithanischen Reichshälfte, durch Vereinfachung des Apparates, durch Wegfallen des "Militarismus" und des Verwaltungsaufwandes für die Armee etc. Er plädiert für eine "gute Lokalverwaltung" jenseits "von Aktenschreiben und Steuer- und andere Polizeistrafen".</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-01-19" notAfter="1919-01-19">
+                
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Politische Verhältnisse</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Demokratisierung</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-13 13:22:04.621798+00:00" who="#pbecker"/><change when="2019-10-04 14:22:25.428479+00:00" who="#vhelfert"/><change when="2019-10-02 19:44:04.043431+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__820"><persName><surname>Renner</surname><forename>Karl</forename><roleName>Dr.</roleName></persName><birth when="1870-12-14">1870-12-14<placeName key="#place__570">Unter-Tannowitz</placeName></birth><death when="1950-12-31">1950-12-31<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118599739</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         </listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         </listOrg>
+      </back>
+  </text>
+</TEI>

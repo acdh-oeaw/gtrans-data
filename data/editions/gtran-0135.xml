@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0135.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0134.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0136.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Vollversammlung am 15. April 1920, S. 350ff</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#vhelfert">Helfert, Veronika</rs></editor><editor><rs ref="#tgarstenauer">Garstenauer, Therese</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2445</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Archiv des Vereins für Geschichte der ArbeiterInnenbewegung</repository>
+                    <msName>Sozialdemokratische Parteistellen, Karton: Kt. 77, M 460, Aktenzahl: keine</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents/></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#vhelfert #tgarstenauer">
+            <p>"Skaret gibt bekannt, dass die Tschechen in der heutigen Sitzung gegen die Statutenvorlage stimmen werden, da in derselben die deutsche Gelöbnisformel enthalten sei. Emmerling befürchtet, dass die Christlichsozialen heute Obstruktion machen werden. In diesem Falle müsste am Sonntag in der Volkshalle eine Massenversammlung stattfinden (angenommen)."</p>
+        </abstract>
+        <creation>
+            <date notBefore="1920-04-15" notAfter="1920-04-15">
+                15. April 1920
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-08-06 20:10:19.006540+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__610"><persName><surname>Bermann</surname><forename>Julius</forename><roleName/></persName><birth when="1868-05-01">1868-05-01<placeName key="#place__3114">Kroměříž</placeName></birth><death when="1943-01-07">1943-01-07<placeName key="#place__3115">Theresienstadt (KZ)</placeName></death><idno>https://de.wikipedia.org/wiki/Julius_Bermann</idno></person><person xml:id="person__643"><persName><surname>Emmerling</surname><forename>Georg</forename><roleName/></persName><birth when="1870-07-12">1870-07-12<placeName key="#place__580">Wien</placeName></birth><death when="1948-12-12">1948-12-12<placeName key="#place__580">Wien</placeName></death><idno>https://de.wikipedia.org/wiki/Georg_Emmerling</idno></person><person xml:id="person__654"><persName><surname>Fränkel</surname><forename>Sigmund</forename><roleName>Dr.</roleName></persName><birth when="1868-05-22">1868-05-22<placeName key="#place__3147">Kraków</placeName></birth><death when="1939-06-07">1939-06-07<placeName key="#place__3148">Genève</placeName></death><idno>http://d-nb.info/gnd/132512246</idno></person><person xml:id="person__707"><persName><surname>Honay</surname><forename>Karl</forename><roleName/></persName><birth when="1891-11-22">1891-11-22<placeName key="#place__580">Wien</placeName></birth><death/><idno>http://d-nb.info/gnd/126430055</idno></person><person xml:id="person__822"><persName><surname>Richter</surname><forename>Karl</forename><roleName/></persName><birth when="1978-10-26">1978-10-26</birth><death/></person><person xml:id="person__862"><persName><surname>Skaret</surname><forename>Ferdinand</forename><roleName/></persName><birth/><death/></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1109"><orgName>Klub der Sozialdemokraten im Wiener Gemeinderate</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

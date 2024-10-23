@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0215.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0214.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0216.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Behandlung der Kriegsaushilfskräfte</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/3679</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>ÖStA/AdR, Bundeskanzleramt, Kabinettsratsprotokolle 1. Republik, Protokoll Nr. 1 bis 35, 31. 10. 1918 bis 30. 1. 1919, Kabinettsratsprotokoll Nr. 20 vom 2. Dezember 1918, 8f.</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__1105">Kabinettsrat</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>StK Renner berichtet von der Sorge der Unterbeamten und Kriegsaushilfskräfte angesichts der gegenwärtigen Lage entlassen zu werden. Der Kabinettsrat erteilt allen Staatsämtern eine Weisung, die Aushilfskräfte nach dem Handlungsgehilfengesetz zu behandeln und mit 1. Jänner 1919 sechswöchig zu kündigen. Es empfiehlt sich, diesen Kräften für Jänner den Grundlohn samt Teuerungszulage und für Februar nur den Grundlohn auszuzahlen.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1918-12-02" notAfter="1918-12-02">
+                2. Dezember 1918
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-10-12 12:00:48.205002+00:00" who="#pbecker"/><change when="2019-01-31 12:20:01.954387+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__820"><persName><surname>Renner</surname><forename>Karl</forename><roleName>Dr.</roleName></persName><birth when="1870-12-14">1870-12-14<placeName key="#place__570">Unter-Tannowitz</placeName></birth><death when="1950-12-31">1950-12-31<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118599739</idno></person><person xml:id="person__926"><persName><surname>Zerdik</surname><forename>Johann</forename><roleName>Ing.</roleName></persName><birth when="1878-04-07">1878-04-07<placeName key="#place__580">Wien</placeName></birth><death when="1961-06-11">1961-06-11<placeName key="#place__580">Wien</placeName></death><idno>https://de.wikipedia.org/wiki/Johann_Zerdik</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         </listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1007"><orgName>deutschösterr. Regierung</orgName></org><org xml:id="org__1105"><orgName>Kabinettsrat</orgName></org><org xml:id="org__1235"><orgName>Staatsamt für öffentliche Arbeiten</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

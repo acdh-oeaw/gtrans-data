@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0117.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0116.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0118.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Zuschrift des StA für soziale Verwaltung betreffend die unverzügliche Schaffung einer Krankenfürsorge für Staatsbedienstete, sowie die "Leitsätze" dazu</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2658</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>Bestand: Staatskanzlei - BKA/alt Varia 1919  Zwischenstaatliches Komitee; Verhandlungsschriften Nr. 26 - 50 zu den Sitzungen des zwischenstaatsamtlichen Komitees für Staatsbedienstetenangelegenheiten, Nr: 37., Unterpunkt: 01., Seite: 41</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__3257">Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>Zuschrift des StA für soziale Verwaltung betreffend die unverzügliche Schaffung einer Krankenfürsorge für Staatsbedienstete, sowie die "Leitsätze" dazu. Die Versicherung ist aufgebaut auf den Grundsätzen der Zwangsversicherung bei freier Wahl des Arztes und freier Wahl des Staatsbediensteten, die ihm angemessen erscheinende Pflege aufzusuchen. ANTWORT DER KOMMISSION: Das Komitee spricht sich mit einigen unwesentlichen Änderungen für die in der vorgeschlagenen Art beabsichtigte Maßnahme aus.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-04-08" notAfter="1919-04-08">
+                8. April 1919
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-10-27 08:58:08.940079+00:00" who="#pbecker"/><change when="2019-10-02 09:10:19.985735+00:00" who="#pbecker"/><change when="2019-03-12 15:46:23.555843+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         </listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         </listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1225"><orgName>Staatsamt des Innern</orgName></org><org xml:id="org__1236"><orgName>Staatsamt für soziale Fürsorge</orgName></org><org xml:id="org__3257"><orgName>Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

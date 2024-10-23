@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0185.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0184.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0186.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Zulagen für Beamte, die aus umstrittenen Gebieten nach Deutschösterreich übersiedeln mussten?</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2636</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>Bestand: Staatskanzlei - BKA/alt Varia 1919  Zwischenstaatliches Komitee; Verhandlungsschriften Nr. 26 - 50 zu den Sitzungen des zwischenstaatsamtlichen Komitees für Staatsbedienstetenangelegenheiten, Nr: 29., Unterpunkt: 06., Seite: 14</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__3257">Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>StA des Innern: Den Angehörigen der deutschösterreichischen Gendarmerie, welche ihren Dienstort in umstrittenen, von Deutschösterreich beanspruchten Gebieten Böhmens, Mährens und Schlesiens hatten, vor der tschechoslowakischen Invasion daraus flüchten mussten und nunmehr in einen im unbestrittenen Gebiete Deutschösterreichs gelegenen Dienstort versetzt wurden, sollen aus dem Grunde, weil sie in ihrem früheren Dienstort ihre Familie oder ihre Fahrhabe oder beides zurücklassen mussten, wiederkehrende, in Monatsraten auszahlbare Zulagen bewilligt werden, die nach verschiedenen Gesichtspunkten - wie Familienstand, ob Gagisten oder Mannschaftspersonen, Art dessen, was sie zurücklassen mussten - abgestuft sind. ANTWORT DER KOMMISSION: Da solche Angehörige der deutschösterreichischen Gendarmerie von ihrem bisherigen Dienstorte als versetzt anzusehen sind, gebühren ihnen Diäten oder sonstige wiederkehrende Zuwendungen nicht. Da sie jedoch ihre Übersiedlung tatsächlich nicht bewerkstelligen konnten, wäre es billig, ihnen einmalige Aushilfen, welche entsprechend dem Familienstande und den Umständen des einzelnen Falles abzustufen wären, zu gewähren.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-03-07" notAfter="1919-03-07">
+                7. März 1919
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Versetzung</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Umsiedlung</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-27 08:46:57.120043+00:00" who="#pbecker"/><change when="2019-10-19 07:22:49.525606+00:00" who="#gsteiner"/><change when="2019-10-01 13:45:25.200778+00:00" who="#pbecker"/><change when="2019-03-09 17:31:07.710778+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         </listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__407"><placeName>Böhmen</placeName><location><geo decls="#LatLng">50.000000000000 14.500000000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3078198/</idno></place><place xml:id="place__430"><placeName>Deutschösterreich</placeName><idno type="GEONAMES"/></place><place xml:id="place__493"><placeName>Mähren</placeName><location><geo decls="#LatLng">49.500000000000 17.000000000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3070359/</idno></place><place xml:id="place__538"><placeName>Schlesien</placeName><location><geo decls="#LatLng">51.000000000000 18.000000000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3066138/</idno></place><place xml:id="place__568"><placeName>umstrittenes Gebiet</placeName><idno type="GEONAMES"/></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1005"><orgName>deutschösterr. Gendarmerie</orgName></org><org xml:id="org__1225"><orgName>Staatsamt des Innern</orgName></org><org xml:id="org__3301"><orgName>Deutschösterreichischer Staat</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

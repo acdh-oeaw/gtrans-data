@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0661.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0660.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0662.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Gemeinderat. Protokoll (Stenographischer Bericht) der öffentlichen Sitzung vom 23. Juli 1920. 37. Erhöhung der Jahresremuneration für die Schwestern des I. und VIII. städtischen Waisenhauses</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#vhelfert">Helfert, Veronika</rs></editor><editor><rs ref="#tgarstenauer">Garstenauer, Therese</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2963</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Wiener Stadt- und Landesarchiv</repository>
+                    <msName>Bestand: Wiener Stadt- und Landesarchiv, Archivbibliothek, BiblM - M - Amtsperiodika, Verwaltungsberichte, Adressbücher, Signatur: M 599 1920/3 , Punkt/Seite: 37; 190</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>ins Amtsblatt eingebundenes Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents/></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#vhelfert #tgarstenauer">
+            <p>37. (Z. 12070) Antrag auf Erhöhung der Jahresremuneration für die Schwestern des I. und VIII. städtischen Waisenhauses (Anm.: Geistliche Schwestern stehen bei der Gemeinde Wien unter Vertrag).</p>
+        </abstract>
+        <creation>
+            <date notBefore="1920-07-23" notAfter="1920-07-23">
+                
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-10-09 10:33:11.419045+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__821"><persName><surname>Reumann</surname><forename>Jakob</forename><roleName/></persName><birth/><death/></person><person xml:id="person__855"><persName><surname>Seitz</surname><forename>Alma</forename><roleName>Dr.</roleName></persName><birth/><death/></person><person xml:id="person__867"><persName><surname>Speiser</surname><forename>Paul</forename><roleName/></persName><birth/><death/></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1118"><orgName>Kongregation der Barmherzigen Schwestern vom heiligen Kreuze</orgName></org><org xml:id="org__1325"><orgName>Waisenhaus (städtisches)</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

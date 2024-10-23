@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0576.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0575.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0577.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Sitzung des Komitees zur Beratung der Lohnforderungen der Gaswerksarbeiter am 16. Oktober 1919, 187</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#vhelfert">Helfert, Veronika</rs></editor><editor><rs ref="#tgarstenauer">Garstenauer, Therese</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2425</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Archiv des Vereins für Geschichte der ArbeiterInnenbewegung</repository>
+                    <msName>Sozialdemokratische Parteistellen, Karton: Kt. 77, M 459, Aktenzahl: keine</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents/></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#vhelfert #tgarstenauer">
+            <p>Protokoll einer Sitzung des Komitees zur Beratung der Lohnforderungen der Gaswerksarbeiter bestehend aus Gewerkschaftsmitgliedern und soziademokratischen Parteimitgliedern. Ergebnis der Verhandlung ist, dass die Vertrauensmänner der Gaswerksarbeiter ihre Forderungen auf 7 Millionen Kronen reduzieren, Hugo Breitner sich einverstanden erklärt und aber Vergünstigungen für Gasarbeiter bis auf den ermäßigten Kokspreis streicht.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-10-16" notAfter="1919-10-16">
+                16. Oktober 1919
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Lohnforderung</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Lohnverhandlung</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-08-06 19:18:43.590355+00:00" who="#pbecker"/><change when="2019-08-06 19:18:17.722012+00:00" who="#pbecker"/><change when="2019-08-06 19:11:14.332419+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__620"><persName><surname>Breitner</surname><forename>Hugo</forename><roleName/></persName><birth when="1873-11-09">1873-11-09<placeName key="#place__580">Wien</placeName></birth><death when="1946-03-05">1946-03-05<placeName key="#place__3127">Claremont</placeName></death><idno>http://d-nb.info/gnd/119179504</idno></person><person xml:id="person__711"><persName><surname>Hueber</surname><forename>Anton</forename><roleName/></persName><birth when="1861-09-26">1861-09-26<placeName key="#place__3243">Taus</placeName></birth><death when="1935-07-09">1935-07-09<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118707663</idno></person><person xml:id="person__813"><persName><surname>Ratzenberger</surname><forename/><roleName/></persName><birth/><death/></person><person xml:id="person__862"><persName><surname>Skaret</surname><forename>Ferdinand</forename><roleName/></persName><birth/><death/></person><person xml:id="person__928"><persName><surname>Weiss</surname><forename/><roleName/></persName><birth><placeName key="#place__580">Wien</placeName></birth><death/></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1073"><orgName>Gewerkschaftskommission</orgName></org><org xml:id="org__1109"><orgName>Klub der Sozialdemokraten im Wiener Gemeinderate</orgName></org><org xml:id="org__1259"><orgName>Gaswerke (städtische)</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

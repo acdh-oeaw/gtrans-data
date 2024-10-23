@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0231.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0230.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0232.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Gemeinderat. Stenographischer Bericht über die öffentliche Sitzung vom 15. April 1920. 15. Aenderung des Gemeindestatutes und der Gemeindewahlordnung</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#vhelfert">Helfert, Veronika</rs></editor><editor><rs ref="#tgarstenauer">Garstenauer, Therese</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2949</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Wiener Stadt- und Landesarchiv</repository>
+                    <msName>Bestand: Wiener Stadt- und Landesarchiv, Archivbibliothek, BiblM - M - Amtsperiodika, Verwaltungsberichte, Adressbücher, Signatur: M 599 29/1 1. Ex., Punkt/Seite: 15; 1085-1114</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Amtsblatteintrag</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents/></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#vhelfert #tgarstenauer">
+            <p>15. Aenderung des Gemeindestatutes und der Gemeindewahlordnung. Berichterstatter Dr. Robert Danneberg: Z. 7600. Danneberg erklärt Reform, zB warum der Stadtrat abgeschafft wird; Einteilung der magistratischen Verwaltung in Gruppen mit jeweils zuständigen Gemeinderatsausschüssen, die von einem ständigen Referenten geleitet werden. Anschließende Debatte. Johann Klimeš und Anton Machat (Antonín Machát) etwa werfen der Sozialdemokratischen Partei vor, den "urdeutschen Charakter" nicht aus der Gelöbnisformel entfernt zu haben; Kienböck, Vaugoin, Schwarz-Hiller und Prohaska kritisieren neue Struktur mit den Ausschüssen und amtsführenden Stadträten. Fortsetzung der Debatte im Punkt 8, GR-Sitzung am 16.4.1920)</p>
+        </abstract>
+        <creation>
+            <date notBefore="1920-04-15" notAfter="1920-04-15">
+                
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-10-09 12:24:55.565712+00:00" who="#pbecker"/><change when="2019-10-09 12:24:05.161052+00:00" who="#pbecker"/><change when="2019-10-09 06:03:32.928148+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__631"><persName><surname>Danneberg</surname><forename>Robert</forename><roleName>Dr.</roleName></persName><birth when="1885-07-23">1885-07-23<placeName key="#place__580">Wien</placeName></birth><death when="1942-01-01">1942-01-01<placeName key="#place__3132">Auschwitz (KZ)</placeName></death><idno>http://d-nb.info/gnd/118523643</idno></person><person xml:id="person__643"><persName><surname>Emmerling</surname><forename>Georg</forename><roleName/></persName><birth when="1870-07-12">1870-07-12<placeName key="#place__580">Wien</placeName></birth><death when="1948-12-12">1948-12-12<placeName key="#place__580">Wien</placeName></death><idno>https://de.wikipedia.org/wiki/Georg_Emmerling</idno></person><person xml:id="person__709"><persName><surname>Hoß</surname><forename>Franz</forename><roleName/></persName><birth when="1866-11-04">1866-11-04<placeName key="#place__3167">Floridsdorf</placeName></birth><death when="1947-08-12">1947-08-12<placeName key="#place__580">Wien</placeName></death><idno>https://de.wikipedia.org/wiki/Franz_Ho%C3%9F</idno></person><person xml:id="person__728"><persName><surname>Kienböck</surname><forename>Viktor</forename><roleName>Dr.</roleName></persName><birth when="1873-01-18">1873-01-18<placeName key="#place__580">Wien</placeName></birth><death when="1956-11-23">1956-11-23<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/129085804</idno></person><person xml:id="person__735"><persName><surname>Klimeš</surname><forename>Johann</forename><roleName/></persName><birth when="1881-01-01">1881-01-01</birth><death/></person><person xml:id="person__760"><persName><surname>Machat</surname><forename>Anton</forename><roleName/></persName><birth when="1880-11-05">1880-11-05<placeName key="#place__3245">Lomnička</placeName></birth><death when="1967-02-26">1967-02-26<placeName key="#place__523">Prag</placeName></death><idno>http://d-nb.info/gnd/126564442</idno></person><person xml:id="person__809"><persName><surname>Prohaska</surname><forename>E. Rudolf</forename><roleName>Ing.</roleName></persName><birth/><death/></person><person xml:id="person__850"><persName><surname>Schwarz-Hiller</surname><forename>Rudolf</forename><roleName>Dr.</roleName></persName><birth/><death/></person><person xml:id="person__891"><persName><surname>Vaugoin</surname><forename>Karl</forename><roleName/></persName><birth/><death/></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         </listOrg>
+      </back>
+  </text>
+</TEI>

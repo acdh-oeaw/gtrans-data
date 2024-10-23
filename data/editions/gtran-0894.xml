@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0894.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0893.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0895.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Vollversammlung am 12. Jänner 1920, 277f.</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#vhelfert">Helfert, Veronika</rs></editor><editor><rs ref="#tgarstenauer">Garstenauer, Therese</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2433</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Archiv des Vereins für Geschichte der ArbeiterInnenbewegung</repository>
+                    <msName>Sozialdemokratische Parteistellen, Karton: Kt. 77, M 460, Aktenzahl: keine</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents/></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#vhelfert #tgarstenauer">
+            <p>Bericht von Robert Danneberg über den Stand der Verhandlung über die Verwaltungsreform. Gruppenausschüsse: Die Christlichsozialen seien dagegen, Sozialdemokraten können ihnen nicht entgegenkommen. Vizebürgermeister sollen beibehalten werden ("Auch die Frage der Abschaffung der Vizebürgermeister hat die Christlichsozialen sehr verschnupft. Wir wollen ihnen hier entgegenkommen und zwei Stellvertreter bestimmen, wovon einer von den Christlichsozialen sein soll. Aber diese Vizebürgermeister dürfen nicht besonders hervorgehoben werden und soll der sozialdemokratische auch ein Ressort übernehmen."). Stadtrat soll in Stadtsenat, dessen Mitglieder in Stadtverordnete umbenannt werden. Jeder Gemeinderat soll das Recht auf Interpellation haben. Gruppenausschüsse können Angelegenheiten selbständig erledigen, das Protokoll muss aber jedem Gemeinderat zur Einsicht aufliegen. Wenn keine Einwände kommen, dann gelten die Beschlüsse als genehmigt. Gemeinderäte haben das Recht, an Gruppenausschüssen teilzunehmen, es sei denn, diese werden für vertraulich erklärt. Die Zahl der Gruppen und ihrer Mitglieder wurde noch nicht festgelegt.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1920-01-12" notAfter="1920-01-12">
+                12. Jänner 1920
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-08-06 19:46:38.231217+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__610"><persName><surname>Bermann</surname><forename>Julius</forename><roleName/></persName><birth when="1868-05-01">1868-05-01<placeName key="#place__3114">Kroměříž</placeName></birth><death when="1943-01-07">1943-01-07<placeName key="#place__3115">Theresienstadt (KZ)</placeName></death><idno>https://de.wikipedia.org/wiki/Julius_Bermann</idno></person><person xml:id="person__631"><persName><surname>Danneberg</surname><forename>Robert</forename><roleName>Dr.</roleName></persName><birth when="1885-07-23">1885-07-23<placeName key="#place__580">Wien</placeName></birth><death when="1942-01-01">1942-01-01<placeName key="#place__3132">Auschwitz (KZ)</placeName></death><idno>http://d-nb.info/gnd/118523643</idno></person><person xml:id="person__654"><persName><surname>Fränkel</surname><forename>Sigmund</forename><roleName>Dr.</roleName></persName><birth when="1868-05-22">1868-05-22<placeName key="#place__3147">Kraków</placeName></birth><death when="1939-06-07">1939-06-07<placeName key="#place__3148">Genève</placeName></death><idno>http://d-nb.info/gnd/132512246</idno></person><person xml:id="person__848"><persName><surname>Schleifer</surname><forename/><roleName/></persName><birth/><death/></person><person xml:id="person__877"><persName><surname>Täubler</surname><forename>Alexander</forename><roleName/></persName><birth><placeName key="#place__462">Iglau</placeName></birth><death/></person><person xml:id="person__915"><persName><surname>Witzmann</surname><forename>Johann</forename><roleName/></persName><birth/><death/></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1109"><orgName>Klub der Sozialdemokraten im Wiener Gemeinderate</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

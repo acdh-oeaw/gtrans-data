@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0606.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0605.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0607.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Beihilfen an enthobene Staatsbedienstete slovenischer Nationalität</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#kmegner">Megner, Karl</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/3863</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>Deutschösterreichische Staatskanzlei 45/17 Vorzahl 45/9 ex 1919
+Deutschösterreichisches Staatsamt für Finanzen 758/1919</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Akt</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents/></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#kmegner">
+            <p>Das deutschösterr. Staatsamt für Finanzen wurde mehrfach darauf aufmerksam gemacht, dass die Behörden in Laibach die zwischenstaatlichen Vereinbarungen hinsichtlich der Gewährung von Beihilfen an dienstenthobener Staatsbedienstete deutscher Nationalität nicht einhalten. 
+Das Staatsamt für Finanzen veranlasste die Einstellung von Beihilfen für Februar 1919 an enthobene Bedienstete slowenischer Nationalität.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1918-01-01" notAfter="1920-01-10">
+                13. Februar 1919
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-10-20 21:45:09.554666+00:00" who="#kmegner"/><change when="2019-10-20 21:17:00.091478+00:00" who="#kmegner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         </listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__485"><placeName>Laibach</placeName><location><geo decls="#LatLng">46.051080000000 14.505130000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3196359/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__3786"><orgName>Postdirektion Laibach</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

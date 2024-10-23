@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0898.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0897.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0899.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Gesandtenkonferenz; Beauftragte der fremden Staaten in den Staatsämtern, Liquidatoren zur Vorbereitung der Liquidationsgeschäfte</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/3629</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>ÖStA/AdR, Bundeskanzleramt, Kabinettsratsprotokolle 1. Republik, Protokoll Nr. 1 bis 35, 31. 10. 1918 bis 30. 1. 1919, Kabinettsratsprotokoll Nr. 11 vom 15. November 1918, 1ff.</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__1105">Kabinettsrat</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>StK Renner berichtet über die Konferenz betreffend die Liquidierung der Zentralstellen. Die Gesandten der Nachfolgestaaten der Monarchie sollen regelmäßig zusammentreten. In der Diskussion wird die Meinung vertreten, dass es gefährlich wäre, Organe der fremdnationalen Regierungen Einblick in die Geschäftsführung der deutschösterreichischen Staatsämter zu gewähren. Auf jeden Fall verfolgt die deutschösterr. Regierung das gleiche Recht in den fremdnationalen Staaten. Es wird u.a. das Staatsamt für Heerwesen beauftragt festzustellen, was an Sachgütern in den fremdnationalen Staaten vorhanden sei und was vernichtet wurde. Die Liquidatoren seien mit geringer Kompetenz auszustatten. Der Liquidator habe deutscher Nationalität und ein angelobter Beamter zu sein. Den Bevollmächtigten der fremdnationalen Staaten könne ein Kontrollrecht haben, wenn dies umgekehrt auch dem deutschösterreichischen Staat vom fremdnationalen Staat eingeräumt werde. Die nicht übernommenen Beamten sind bis 31. Dezember 1918 zu bezahlen und mit 1. Jänner in den Ruhestand zu versetzen.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1918-11-15" notAfter="1918-11-15">
+                15. November 1918
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Gesandtenkonferenz</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Bevollmächtiger</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Pensionierung</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-12 09:52:36.595221+00:00" who="#pbecker"/><change when="2019-01-24 13:58:04.082212+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__3305"><persName><surname>Hanusch</surname><forename>Ferdinand</forename><roleName/></persName><birth when="1866-11-09">1866-11-09<placeName key="#place__3304">Wigstadtl</placeName></birth><death when="1923-09-28">1923-09-28<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118701460</idno></person><person xml:id="person__762"><persName><surname>Marckhl</surname><forename>Richard</forename><roleName/></persName><birth when="1861-05-10">1861-05-10<placeName key="#place__526">Rann</placeName></birth><death when="1939-04-27">1939-04-27<placeName key="#place__580">Wien</placeName></death><idno>https://de.wikipedia.org/wiki/Richard_Marckhl</idno></person><person xml:id="person__767"><persName><surname>Mayer</surname><forename>Josef</forename><roleName/></persName><birth when="1877-04-09">1877-04-09<placeName key="#place__438">Eger</placeName></birth><death when="1938-05-03">1938-05-03<placeName key="#place__438">Eger</placeName></death><idno>http://d-nb.info/gnd/1020242728</idno></person><person xml:id="person__820"><persName><surname>Renner</surname><forename>Karl</forename><roleName>Dr.</roleName></persName><birth when="1870-12-14">1870-12-14<placeName key="#place__570">Unter-Tannowitz</placeName></birth><death when="1950-12-31">1950-12-31<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118599739</idno></person><person xml:id="person__824"><persName><surname>Riedl</surname><forename>Richard</forename><roleName>Dr.</roleName></persName><birth when="1865-12-08">1865-12-08<placeName key="#place__580">Wien</placeName></birth><death when="1944-03-09">1944-03-09<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/117532541</idno></person><person xml:id="person__826"><persName><surname>Roller</surname><forename>Julius</forename><roleName>Dr.</roleName></persName><birth when="1862-10-28">1862-10-28<placeName key="#place__560">Thomigsdorf</placeName></birth><death when="1946-12-27">1946-12-27<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/1028281269</idno></person><person xml:id="person__3284"><persName><surname>Stöckler</surname><forename>Josef</forename><roleName/></persName><birth when="1866-06-08">1866-06-08<placeName key="#place__3283">St. Valentin (NÖ)</placeName></birth><death when="1936-12-09">1936-12-09<placeName key="#place__3283">St. Valentin (NÖ)</placeName></death><idno>http://d-nb.info/gnd/103681033X</idno></person><person xml:id="person__926"><persName><surname>Zerdik</surname><forename>Johann</forename><roleName>Ing.</roleName></persName><birth when="1878-04-07">1878-04-07<placeName key="#place__580">Wien</placeName></birth><death when="1961-06-11">1961-06-11<placeName key="#place__580">Wien</placeName></death><idno>https://de.wikipedia.org/wiki/Johann_Zerdik</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__444"><placeName>fremdnationales Gebiet</placeName><idno type="GEONAMES"/></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1007"><orgName>deutschösterr. Regierung</orgName></org><org xml:id="org__1029"><orgName>ehemals österreichisch-ungarische Monarchie</orgName></org><org xml:id="org__1051"><orgName>fremdnationale Staaten</orgName></org><org xml:id="org__1066"><orgName>Gesandtenkonferenz</orgName></org><org xml:id="org__1142"><orgName>Liqudierungskommissär</orgName></org><org xml:id="org__1224"><orgName>Staatsamt des Äußern</orgName></org><org xml:id="org__1227"><orgName>Staatsamt für Heerwesen</orgName></org><org xml:id="org__3301"><orgName>Deutschösterreichischer Staat</orgName></org><org xml:id="org__3470"><orgName>SHS-Staat</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

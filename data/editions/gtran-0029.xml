@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0029.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0028.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0030.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Weiterzahlung von Aushilfen</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2662</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>Bestand: Staatskanzlei - BKA/alt Varia 1919  Zwischenstaatliches Komitee; Verhandlungsschriften Nr. 26 - 50 zu den Sitzungen des zwischenstaatsamtlichen Komitees für Staatsbedienstetenangelegenheiten, Nr: 38., Unterpunkt: 03., Seite: 43f</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__3257">Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>StA für Unterricht: Die Direktion der geologischen Reichsanstalt erhielt jährlich zur Verteilung von Aushilfen an eine Bedienstete aus Anlass der Aufnahmearbeiten einen bestimmten Betrag. Sie ersucht um Gewährung dieses Betrages auch für die Verwaltungsperiode 1918/19. ANTWORT DER KOMMISSION: Die Aushilfen sind aus deutschösterreichischen Mitteln nur für jene aus Anlass der Aufnahmearbeiten unternommenen Dienstreisen, die nach dem 1. November 1918 gemacht wurden, zu bestreiten. Im Übrigen ist das Gesch.St. dem Liquidierungskommissär beim deutschösterr. StA für Unterricht abzutreten.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-04-10" notAfter="1919-04-10">
+                10. April 1919
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-10-27 09:00:13.440930+00:00" who="#pbecker"/><change when="2019-10-19 08:57:44.640860+00:00" who="#gsteiner"/><change when="2019-10-02 09:28:33.768061+00:00" who="#pbecker"/><change when="2019-03-12 16:04:12.655579+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         </listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         </listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1064"><orgName>Geologische Reichsanstalt</orgName></org><org xml:id="org__1145"><orgName>Liquidierungskommissär beim Staatsamt für Unterricht</orgName></org><org xml:id="org__1238"><orgName>Staatsamt für Unterricht</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

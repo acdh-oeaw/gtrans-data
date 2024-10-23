@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0337.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0336.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0338.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Gefahr der Vereidigung deutscher Beamten in Deutschböhmen auf den tschechischen Staat</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/3389</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Gertrude Enderle-Burcel et al. (Hg.), Der österreichische Staatsrat. Protokolle des Vollzugsausschusses, des Staatsrates und des Geschäftsführenden Staatsratsdirektoriums 21. Oktober 1918 bis 14. Marz 1919, Band 1: 21. Oktober 1918 bis 14. November 1918, Wien 2008</repository>
+                    <msName>StRProt Nr. 26 vom 8. November 1918, in: Enderle-Burcel et al. (Hg.), Der österreichische Staatsrat, 283ff.</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__1256">Staatsrat</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>StS Pacher berichtet von der Gefahr der Vereidigung deutscher Beamten in Deutschböhmen auf den tschechischen Staat. Die Landesregierung von Deutschböhmen habe eine Betriebsleitung [der Staatsbahndirektion, diese befand sich allerdings in Teplitz (Teplice)] in Aussig (Ústí nad Labem) errichtet und den Beamten die Weisung erteilt, sich nicht auf den tschechischen Staat vereidigen zu lassen. Dem stehe entgegen, dass sich die tschechischen Behörden nicht an die Zusage hielten, nur die Oberleitung der Behörden für den tschechischen Staat zu vereidigen und eine Reihe von Eisenbahnstationen besetzt hätten. Pacher spricht sich dringend für Verhandlungen mit den Tschechen bezüglich Deutschböhmen aus, um dortige deutschösterr. Behörden anzuerkennen. Auch müssen Versuche, deutschösterr. Beamte in Deutschböhmen auf den tschechischen Staat zu vereidigen unterbunden werden. Die Tschechen würden weitreichendste Verpflegung für jene Staatsbediensteten zusichern, die den Eid auf den tschechischen Staat leisten würden. Die Beamtenschaft will eine Sicherung dafür, dass sie vom deutschösterreichischen Staat übernommen wird, wenn sie den Eid auf den tschechischen Staat verweigert und die Folgen der Eidesverweigerung eintreten.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1918-11-08" notAfter="1918-11-08">
+                1918-11-08
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">tschechoslowak. Staatsdienst</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-10 20:13:43.938440+00:00" who="#pbecker"/><change when="2019-01-07 15:52:27.922813+00:00" who="#gsteiner"/><change when="2018-12-19 10:38:23.777554+00:00" who="#gsteiner"/><change when="2018-12-19 09:52:24.220769+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__787"><persName><surname>Pacher</surname><forename>Raphael</forename><roleName>Dr.</roleName></persName><birth when="1857-07-21">1857-07-21<placeName key="#place__464">Iserthal</placeName></birth><death when="1936-03-25">1936-03-25<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/124749275</idno></person><person xml:id="person__3270"><persName><surname>Seliger</surname><forename>Josef</forename><roleName/></persName><birth when="1870-02-16">1870-02-16<placeName key="#place__3269">Schönborn bei Reichenberg</placeName></birth><death when="1920-10-18">1920-10-18<placeName key="#place__3172">Teplitz</placeName></death><idno>http://d-nb.info/gnd/128662638</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__427"><placeName>Deutschböhmen</placeName><idno type="GEONAMES"/></place><place xml:id="place__428"><placeName>deutschböhmisches Kohlenrevier</placeName><idno type="GEONAMES"/></place><place xml:id="place__430"><placeName>Deutschösterreich</placeName><idno type="GEONAMES"/></place><place xml:id="place__523"><placeName>Prag</placeName><location><geo decls="#LatLng">50.088040000000 14.420760000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3067696/</idno></place><place xml:id="place__527"><placeName>Reichenberg</placeName><location><geo decls="#LatLng">50.767110000000 15.056190000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3071961/</idno></place><place xml:id="place__567"><placeName>Tschechoslowakei</placeName><location><geo decls="#LatLng">50.082920000000 14.466720000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/8505031/</idno></place><place xml:id="place__568"><placeName>umstrittenes Gebiet</placeName><idno type="GEONAMES"/></place><place xml:id="place__3149"><placeName>Aussig</placeName><location><geo decls="#LatLng">50.660700000000 14.032270000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3063548/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1185"><orgName>Post</orgName></org><org xml:id="org__1289"><orgName>tschechoslowakische Regierung</orgName></org><org xml:id="org__1290"><orgName>tschechoslowakischer Staat</orgName></org><org xml:id="org__3279"><orgName>Eisenbahndirektion für Deutschböhmen</orgName></org><org xml:id="org__3280"><orgName>Landesregierung Deutschböhmen</orgName></org><org xml:id="org__3301"><orgName>Deutschösterreichischer Staat</orgName></org><org xml:id="org__3388"><orgName>Kohlenkommissariat Aussig [Ústí nad Labem]</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

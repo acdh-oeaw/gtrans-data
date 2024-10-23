@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0024.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0023.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0025.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Zuwendungen für Bedienstete in tschechoslowak. Stationen</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2591</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>Bestand: Staatskanzlei - BKA/alt Varia 1919  Zwischenstaatliches Komitee; Verhandlungsschriften Nr. 1 - 25 zu den Sitzungen des zwischenstaatsamtlichen Komitees für Staatsbedienstetenangelegenheiten, Nr: 16., Unterpunkt: 09., Seite: 42f</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__3257">Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>Dürfen Bediensteten in tschechoslowak. Stationen, die nach ihren bisherigen Leistungen Anspruch auf eine Zuwendung erworben haben, solche Zuwendungen zuerkannt werden? ANTWORT DER KOMMISSION: Die Angelegenheit ist dem Liquidierungskommissär des Staatsamtes für Verkehrswesen abzutreten.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-01-21" notAfter="1919-01-21">
+                21. Jänner 1919
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">tschechoslowak. Staatsdienst</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-27 08:22:36.396499+00:00" who="#pbecker"/><change when="2019-10-18 14:21:01.370729+00:00" who="#gsteiner"/><change when="2019-09-25 09:04:06.492987+00:00" who="#pbecker"/><change when="2019-03-06 13:36:34.373728+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         </listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__567"><placeName>Tschechoslowakei</placeName><location><geo decls="#LatLng">50.082920000000 14.466720000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/8505031/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1149"><orgName>Liquidierungskommission</orgName></org><org xml:id="org__1239"><orgName>Staatsamt für Verkehrswesen</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

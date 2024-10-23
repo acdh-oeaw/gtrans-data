@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0065.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0064.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0066.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Sitzung des Stadtratsklubs am 3. Dezember 1919, 211f.</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#vhelfert">Helfert, Veronika</rs></editor><editor><rs ref="#tgarstenauer">Garstenauer, Therese</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2428</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Archiv des Vereins für Geschichte der ArbeiterInnenbewegung</repository>
+                    <msName>Sozialdemokratische Parteistellen, Karton: Kt. 77, M 459, Aktenzahl: keine</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents/></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#vhelfert #tgarstenauer">
+            <p>Tagesordnungspunkte: "Vorschuss zum Kauf von Lebensmitteln an die städtischen Angestellten" - der Verband der Angestellten möchte einen Vorschuss von 2,6 Millionen Kronen um Lebensmittel aus Jugoslawien zu kaufen - und "Lohnforderungen der Angestellten und Arbeiter". Beim zweiten Punkt wird über die Frage des Verhältnisses von Löhnen und Gehalt zwischen Beamten und Arbeitern diskutiert, was ist dabei gerecht etc. Beschluss: Beratung zwischen sozialdemokratischer Partei und Gewerkschaftskommission in diesem Punkt.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-12-03" notAfter="1919-12-03">
+                3. Dezember 1919
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-10-06 16:17:54.834010+00:00" who="#pandorfer"/><change when="2019-08-06 19:23:54.897439+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__610"><persName><surname>Bermann</surname><forename>Julius</forename><roleName/></persName><birth when="1868-05-01">1868-05-01<placeName key="#place__3114">Kroměříž</placeName></birth><death when="1943-01-07">1943-01-07<placeName key="#place__3115">Theresienstadt (KZ)</placeName></death><idno>https://de.wikipedia.org/wiki/Julius_Bermann</idno></person><person xml:id="person__617"><persName><surname>Bombek</surname><forename>Josef</forename><roleName/></persName><birth when="1881-04-02">1881-04-02<placeName key="#place__3124">Tattendorf</placeName></birth><death when="1923-06-17">1923-06-17<placeName key="#place__580">Wien</placeName></death></person><person xml:id="person__620"><persName><surname>Breitner</surname><forename>Hugo</forename><roleName/></persName><birth when="1873-11-09">1873-11-09<placeName key="#place__580">Wien</placeName></birth><death when="1946-03-05">1946-03-05<placeName key="#place__3127">Claremont</placeName></death><idno>http://d-nb.info/gnd/119179504</idno></person><person xml:id="person__631"><persName><surname>Danneberg</surname><forename>Robert</forename><roleName>Dr.</roleName></persName><birth when="1885-07-23">1885-07-23<placeName key="#place__580">Wien</placeName></birth><death when="1942-01-01">1942-01-01<placeName key="#place__3132">Auschwitz (KZ)</placeName></death><idno>http://d-nb.info/gnd/118523643</idno></person><person xml:id="person__643"><persName><surname>Emmerling</surname><forename>Georg</forename><roleName/></persName><birth when="1870-07-12">1870-07-12<placeName key="#place__580">Wien</placeName></birth><death when="1948-12-12">1948-12-12<placeName key="#place__580">Wien</placeName></death><idno>https://de.wikipedia.org/wiki/Georg_Emmerling</idno></person><person xml:id="person__684"><persName><surname>Hackl</surname><forename>Michael</forename><roleName/></persName><birth/><death/></person><person xml:id="person__732"><persName><surname>Kokrda</surname><forename>Quirin</forename><roleName/></persName><birth when="1873-07-04">1873-07-04<placeName key="#place__3168">Kattowitz</placeName></birth><death when="1937-10-15">1937-10-15<placeName key="#place__580">Wien</placeName></death><idno>https://de.wikipedia.org/wiki/Quirin_Kokrda</idno></person><person xml:id="person__755"><persName><surname>Linder</surname><forename>Julius</forename><roleName/></persName><birth when="1878-04-05">1878-04-05<placeName key="#place__3244">Gothenburg</placeName></birth><death when="1942-08-01">1942-08-01<placeName key="#place__580">Wien</placeName></death><idno>https://de.wikipedia.org/wiki/Julius_Linder</idno></person><person xml:id="person__804"><persName><surname>Pölzer</surname><forename>Amalie</forename><roleName/></persName><birth><placeName key="#place__490">Linz</placeName></birth><death/></person><person xml:id="person__821"><persName><surname>Reumann</surname><forename>Jakob</forename><roleName/></persName><birth/><death/></person><person xml:id="person__843"><persName><surname>Schorsch</surname><forename>Johann</forename><roleName/></persName><birth/><death/></person><person xml:id="person__858"><persName><surname>Siegel</surname><forename>Franz</forename><roleName/></persName><birth when="1876-06-15">1876-06-15</birth><death/></person><person xml:id="person__902"><persName><surname>Weigl</surname><forename>Karl</forename><roleName/></persName><birth/><death/></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         </listOrg>
+      </back>
+  </text>
+</TEI>

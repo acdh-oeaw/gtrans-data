@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0328.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0327.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0329.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Beamtentitel, Zuerkennung an alle d. D.O.[Dienstordnung] unterstehenden Angestellten</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#vhelfert">Helfert, Veronika</rs></editor><editor><rs ref="#tgarstenauer">Garstenauer, Therese</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2521</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Wiener Stadt- und Landesarchiv</repository>
+                    <msName>Bestand: Wiener Stadt- und Landesarchiv, 1.5.3 Magistratsdirektion, Karton: 282, Aktenzahl: 3887/1920</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Akt</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><p>nicht alle Unterschriften zuordenbar -&gt; siehe Foto</p></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#vhelfert #tgarstenauer">
+            <p>Übermittlung eines Beschlusses der Personalkommission vom 9. Juni 1920 an die Magistratsdirektion betreffend der Verleihung des Beamtentitels an die der Dienstordnung unterstehenden städtischen Angestellten. Auf der Rückseite befindet sich ein Antrag des Verbands der Angestellten der Gemeinde Wien, in dem auf eine ähnliche Regelung in Deutschland verwiesen wird. Weiters heißt es: "Der Verband erblickt das Kennzeichen eines Beamten nicht in der Arbeitszuweisung, sondern in der Art, in welcher das Dienstverhältnis geregelt erscheint. Entscheidend ist hiefür der Umstand, dass das Dienstverhältnis ein definitives ist und nur unter ganz bestimmten Voraussetzungen gelöst werden kann." Dies wird mit einem Vermerk vom März 1923, dass die Titelfrage mittlerweile neu geregelt worden seien und auch die in Kollektivverträgen stehenden Arbeiter unter das Definitivum fallen, unter Evidenz gestellt.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1920-05-10" notAfter="1923-03-29">
+                Wien, am 10. Mai 1920
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-09-21 15:28:10.863719+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__673"><persName><surname>Gröll</surname><forename>Josef</forename><roleName>Dr.</roleName></persName><birth/><death/></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1057"><orgName>gemeinderätliche Personalkommission [der Gemeinde Wien]</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0660.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0659.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0661.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Gesetz über Maßnahmen für die Behandlung ehemals österreichischer Zivilstaats(Staatsbahn)angestellter aus Anlaß ihrer Übernahme in den Dienst der Rep. Ö.</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#kmegner">Megner, Karl</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/3234</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichische Nationalbibliothek</repository>
+                    <msName>Bestand: Staatsgesetzblatt für den Staat Deutschösterreich 1918–1920, Signatur: StGBl. Nr. 358/1920 (KNV: 857 AB 931 S. 98.)</msName>
+               <idno>http://alex.onb.ac.at/cgi-content/alex?apm=0&amp;aid=sgb&amp;datum=19200004&amp;seite=00001476&amp;size=45</idno></msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Gesetzblatt</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents/></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#kmegner">
+            <p>Umfassende, großzügige Regelung für k.k. öffentlich Bedienstete (auch Staatsbahnen), die zunächst im Dienst eines anderen Nachfolgestaates standen, dann aber in den Dienst der Republik Österreich übernommen wurden (galt auch für Bedienstete von Bosnien-Herzegowina).</p>
+        </abstract>
+        <creation>
+            <date notBefore="1920-07-22" notAfter="1920-07-22">
+                1920-07-22
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-10-10 11:46:35.150060+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         </listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__411"><placeName>Bosnien-Herzegowina</placeName><location><geo decls="#LatLng">44.250000000000 17.833330000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3277605/</idno></place><place xml:id="place__466"><placeName>Italien</placeName><location><geo decls="#LatLng">42.833330000000 12.833330000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3175395/</idno></place><place xml:id="place__521"><placeName>Polen</placeName><location><geo decls="#LatLng">52.000000000000 20.000000000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/798544/</idno></place><place xml:id="place__544"><placeName>SHS-Staat</placeName><location><geo decls="#LatLng">44.000000000000 19.750000000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/7500737/</idno></place><place xml:id="place__567"><placeName>Tschechoslowakei</placeName><location><geo decls="#LatLng">50.082920000000 14.466720000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/8505031/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1246"><orgName>Staatsbahn</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

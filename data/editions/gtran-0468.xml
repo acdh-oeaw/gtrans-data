@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0468.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0467.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0469.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Anfragen von Organisationen zum Pensionsbegünstigungsgesetz, Nachsicht für Versäumnis der vierwöchigen Frist in entschuldbaren Fällen</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2720</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>Bestand: Staatskanzlei - BKA/alt Varia 1919  Zwischenstaatliches Komitee; Verhandlungsschriften, Nr: 61., Unterpunkt: 02 f., Seite: 3</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__3257">Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>Anfragen von Organisationen zum Pensionsbegünstigungsgesetz, Nachsicht für Versäumnis der vierwöchigen Frist in entschuldbaren Fällen (Kriegsgefangenschaft, Landaufenthalt mit schlechter Postverbindung). ANTWORT DER KOMMISSION: Wird abgelehnt.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-10-16" notAfter="1919-10-16">
+                16. Oktober 1919
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Pensionierung</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-27 09:22:02.954197+00:00" who="#pbecker"/><change when="2019-10-02 14:55:46.161775+00:00" who="#pbecker"/><change when="2019-10-02 14:54:05.824735+00:00" who="#pbecker"/><change when="2019-03-28 11:22:49.596394+00:00" who="#gsteiner"/><change when="2019-03-28 11:12:24.608428+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         </listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         </listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         </listOrg>
+      </back>
+  </text>
+</TEI>

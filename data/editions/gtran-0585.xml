@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0585.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0584.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0586.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Gesetz betr. die teilweise Änderung des Dienstverhältnisses der Kanzleioffizianten und Kanzleioffiziantinnen, der Kanzleigehilfen und Kanzleigehilfinnen, ständigen Aushilfsdiener und Landpostdiener</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#kmegner">Megner, Karl</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/3193</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichische Nationalbibliothek</repository>
+                    <msName>Bestand: Staatsgesetzblatt für den Staat Deutschösterreich 1918–1920, Signatur: StGBl. Nr. 100/1919 (PNV: 185 AB - S. 17.)</msName>
+               <idno>http://alex.onb.ac.at/cgi-content/alex?aid=sgb&amp;datum=1919&amp;page=293&amp;size=45</idno></msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Gesetzblatt</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents/></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#kmegner">
+            <p>Kanzleioffizianten waren privatrechtlich angestellte Vertragsbedienstete gewesen, aufgabenmäßig meist (niederen, mittleren) Beamten gleichgestellt, aber mit anderen Sätzen  entlohnt, teilweise geringer. Sie sind die "Nachfahren" des alten Berufsstandes der "Diurnisten", der gegen Taggeld entlohnten Schreiber und der "Calkulanten" (Rechnungspersonal). Diener bildeten laut Dienstpragmatik von 1914 eine eigene Kategorie, die nun aufgelassen wurde. Kanzleioffizianten, Kanzleigehilfen und Diener gehörten zu den großen sozialen Gewinnern im neuen politischen System. Nun wurde ihr Dienstverhältnis öffentlich-rechtlich, der Dienstpragmatik von 1914 unterstellt. Teilweise wurde der zitierte Personenkreis in die niederste Beamtenrangklasse (die elfte) befördert, teilweise wurden sie zu Staatsbeamten außerhalb des Rangklassensystems ernannt. Damit wurde einer allgemeinen "demokratisch-egalitären" Tendenz der Zeit entsprochen, sicherlich auch gefördert von der Sozialdemokratie. Für sozial traditionell gesonnene Schichten -  Teile des mittleren und höheren Beamtentums zählten dazu - war hingegen die Vorstellung des neuen Typs des "besenschwingenden (Subaltern-) Beamten" - es gab ja keine Diener mehr - eine soziale Horrorvorstellung: Ausführlich: Hafner (1990), Staatsangestellten, 31-80; Megner (1986), Beamte, 291-318 u.ö.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-02-05" notAfter="1919-02-05">
+                1919-02-05
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-10-10 09:05:19.786813+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         </listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         </listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         </listOrg>
+      </back>
+  </text>
+</TEI>

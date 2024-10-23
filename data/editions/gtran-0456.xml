@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0456.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0455.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0457.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Der Verwaltungsreform zweiter Teil</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#vhelfert">Helfert, Veronika</rs></editor><editor><rs ref="#tgarstenauer">Garstenauer, Therese</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2755</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Wien Bibliothek</repository>
+                    <msName>Bestand: Wien Bibliothek, Tagblatt Sachmappen, TS 2599/1919, Bibliographische Angaben: Der Verwaltungsreform zweiter Teil. Eine Zuschrift, in: Neues Wiener Abendblatt, 18.3.1919</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Zeitungsartikel</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents/></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#vhelfert #tgarstenauer">
+            <p>Der Autor dieser Zuschrift kritisiert, dass die Zusammenlegung von Staatsämtern alleine nicht zur Vereinfachung der Verwaltung führen würde. Er spricht Übelstände in der Verwaltung durch die Vielzahl an Sektionen an, die auch dazu führen würde, dass "gegen die österreichischen Beamtenschaft so oft der Vorwurf erhoben werden konnte, es mangle ihr an Fähigkeit, eine Verantwortung zu übernehmen." Es müsse sicher gestellt werden, dass die Staatsverwaltung in engerem Kontakt mit der Bevölkerung komme, etwa durch Beiräte; das Staatsamt für Finanzen würde hier vorbildlich sein.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-03-18" notAfter="1919-03-18">
+                
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-10-02 20:43:52.187270+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__820"><persName><surname>Renner</surname><forename>Karl</forename><roleName>Dr.</roleName></persName><birth when="1870-12-14">1870-12-14<placeName key="#place__570">Unter-Tannowitz</placeName></birth><death when="1950-12-31">1950-12-31<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118599739</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1220"><orgName>Staatsamt für Finanzen</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

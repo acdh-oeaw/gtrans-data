@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0242.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0241.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0243.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Einführung des 8-Stunden Arbeitstages.</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#vhelfert">Helfert, Veronika</rs></editor><editor><rs ref="#tgarstenauer">Garstenauer, Therese</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2470</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Wiener Stadt- und Landesarchiv</repository>
+                    <msName>Bestand: Wiener Stadt- und Landesarchiv, 1.5.3 Magistratsdirektion, Karton: #NR, Aktenzahl: 8093/1918</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Akt</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents/></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#vhelfert #tgarstenauer">
+            <p>Stark zerstörter (und leicht ungeordneter) Akt zur Einführung des Achtstundentages in den städtischen Betrieben. Inhalt: -) Einladungsschreiben der Magistratsdirektion an die Direktoren und Leiter der betreffenden Unternehmungen und Ämter (städtische Straßenbahnen, Gaswerke, Elektrizitätswerke, Lagerhäuser, Leichenbestattung, Stellwagenunternehmung; Brauhaus der Stadt Wien, Mag. Abteilung IV , Feuerwehr, Stadtbuchhaltung; Mag. Abteilung XVII, Magistratsdirektor Pawelka, Ober-Magistratsrat Dr. August Mayr) zu einer Besprechung am 28. Dezember 1918; - ) Schreiben der Magistratsdirektion an den Bürgermeister Weiskirchner vom 2. Jänner 1919 betreffend der Einführung des Achtstundentags mit Antrag über eine Besprechung (am 7.1.1919) in kleiner Runde bevor das Bundesgesetz vom 19. Dezember 1918 in einer Stadtrat- und Gemeinderatssitzung besprochen wird, bei der vor allem neben dem Bürgermeister und Vizebürgermeister, die Gemeinderäte Kunschak und Weigl, der Magistratsdirektor sowie die betroffenen Direktoren und Leiter der städtischen Unternehmungen und Ämter anwesend sind. -) Einige Schreiben, Einladungen und Anträge zum Achtstundentag, teils in Steno. - ) Stark zerstörtes Protokoll der Stadtrats-Sitzung vom 6. Jänner 1919 zur Einführung des Achtstundentags. -) Berichte von Unternehmungen zu finanziellen Folgen der Einführung (Straßenbahnen, Gaswerke etc.) -) Umfangreiche und zahlreiche Berichte von verschiedenen Unternehmungen und Ämtern mit beantworteten Fragen wie: Zahl der Bediensteten und Arbeiter, wie viel Arbeitszeit, Nachtarbeit, Sonntagsarbeit, Urlaubstage etc. ist jetzt üblich, wie nötig sind diese Arbeitszeiten, wie sind die Lohnverhältnisse, Überstunden und Folgen des Achtstundentages. Diese Berichte sind teilweise stark zerstört, aber scheinen für fast alle Bereiche der Stadt Wien angefertigt worden zu sein und geben teilweise guten Einblick in Lohnverhältnisse, Zulagen (nach Anzahl der Kinder etc.), Pausenzeiten und Verpflegungsarten.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-01-17" notAfter="1919-04-12">
+                1919-01-17
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-10-04 09:55:14.186426+00:00" who="#pbecker"/><change when="2019-09-21 06:23:21.213806+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__746"><persName><surname>Kunschak</surname><forename>Leopold</forename><roleName/></persName><birth when="1871-11-11">1871-11-11<placeName key="#place__580">Wien</placeName></birth><death when="1953-03-13">1953-03-13<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118725432</idno></person><person xml:id="person__793"><persName><surname>Pawelka</surname><forename>Karl </forename><roleName>Obermag.R.</roleName></persName><birth><placeName key="#place__440">Eibiswald</placeName></birth><death/></person><person xml:id="person__902"><persName><surname>Weigl</surname><forename>Karl</forename><roleName/></persName><birth/><death/></person><person xml:id="person__903"><persName><surname>Weiskirchner</surname><forename>Richard</forename><roleName>DDr.</roleName></persName><birth when="1861-03-24">1861-03-24<placeName key="#place__580">Wien</placeName></birth><death when="1926-04-30">1926-04-30<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/117278602</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__501"><placeName>Mauthausen</placeName><location><geo decls="#LatLng">48.241140000000 14.519630000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2771760/</idno></place><place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1277"><orgName>Straßenbahnen (städtische)</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

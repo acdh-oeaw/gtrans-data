@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0012.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0011.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0013.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Verhandlungsschrift über die Sitzung des Bürgerklubs vom 14. Mai 1919</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#vhelfert">Helfert, Veronika</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/3832</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Karl von Vogelsang-Institut</repository>
+                    <msName>Christlichsoziale Partei-Wien, Kt. 37, M. Bürgerklub-Protokolle 1919</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__3826">Bürgerklub</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#vhelfert">
+            <p>Diskussion, ob die christlichsozialen Gemeinderäte dem neu ausverhandelten Kollektivvertrag für Straßenbahnbedienstete zustimmen sollen. Gemeinderat Haider stellt sich auf den Standpunkt, dass es "parteipolitisch unklug" wäre, den Kollektivvertrag (der ohne christliche Gewerkschafter ausverhandelt wurde) und die Tariferhöhung im alten Gemeinderat zu beschließen, das solle der neue Gemeinderat machen. Nach einigen Debatten wird wie in der vorherigen Sitzung beschlossen, diesen Punkt auf den neuen Gemeinderat zu verschieben.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-05-14" notAfter="1919-05-14">
+                14. Mai 1919
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Gewerkschaft</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Koalitionsfreiheit</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Lohnforderung</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-23 14:30:14.294869+00:00" who="#vhelfert"/><change when="2019-10-23 14:29:58.958943+00:00" who="#vhelfert"/><change when="2019-10-12 23:20:22.343859+00:00" who="#pbecker"/><change when="2019-03-28 12:51:56.272053+00:00" who="#vhelfert"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__637"><persName><surname>Doppler</surname><forename>Leopold</forename><roleName/></persName><birth when="1870-10-29">1870-10-29<placeName key="#place__580">Wien</placeName></birth><death when="1945-03-13">1945-03-13<placeName key="#place__580">Wien</placeName></death><idno>https://de.wikipedia.org/wiki/Leopold_Doppler</idno></person><person xml:id="person__685"><persName><surname>Haider</surname><forename>Franz</forename><roleName/></persName><birth when="1877-05-15">1877-05-15<placeName key="#place__3162">Friedburg</placeName></birth><death when="1951-10-20">1951-10-20<placeName key="#place__580">Wien</placeName></death><idno>https://de.wikipedia.org/wiki/Franz_Haider_(Politiker,_1877)</idno></person><person xml:id="person__728"><persName><surname>Kienböck</surname><forename>Viktor</forename><roleName>Dr.</roleName></persName><birth when="1873-01-18">1873-01-18<placeName key="#place__580">Wien</placeName></birth><death when="1956-11-23">1956-11-23<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/129085804</idno></person><person xml:id="person__3898"><persName><surname>Knoll</surname><forename>Johann</forename><roleName/></persName><birth when="1856-05-12">1856-05-12<placeName key="#place__3897">Groß Weikersdorf</placeName></birth><death when="1924-01-22">1924-01-22<placeName key="#place__580">Wien</placeName></death></person><person xml:id="person__776"><persName><surname>Müller</surname><forename>Rudolf</forename><roleName/></persName><birth/><death/></person><person xml:id="person__780"><persName><surname>Nagler</surname><forename>Anton</forename><roleName/></persName><birth/><death/></person><person xml:id="person__807"><persName><surname>Preyer</surname><forename>Hans</forename><roleName/></persName><birth/><death/></person><person xml:id="person__810"><persName><surname>Rain</surname><forename>Josef</forename><roleName/></persName><birth/><death/></person><person xml:id="person__836"><persName><surname>Schmid</surname><forename>Heinrich</forename><roleName>Ing.</roleName></persName><birth/><death/></person><person xml:id="person__865"><persName><surname>Spalowsky</surname><forename>Franz</forename><roleName/></persName><birth/><death/></person><person xml:id="person__874"><persName><surname>Strobl</surname><forename>Anna</forename><roleName/></persName><birth><placeName key="#place__473">Klagenfurt</placeName></birth><death/></person><person xml:id="person__889"><persName><surname>Untermüller</surname><forename>Karl</forename><roleName/></persName><birth/><death/></person><person xml:id="person__3896"><persName><surname>Wettengel</surname><forename>Karl</forename><roleName/></persName><birth when="1869-03-25">1869-03-25<placeName key="#place__580">Wien</placeName></birth><death when="1945-06-22">1945-06-22<placeName key="#place__580">Wien</placeName></death></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         </listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__991"><orgName>Christlichsoziale Partei (CSP)</orgName></org><org xml:id="org__992"><orgName>Christliche Gewerkschaften Wien</orgName></org><org xml:id="org__1056"><orgName>Gemeinderat (Wien)</orgName></org><org xml:id="org__1176"><orgName>Organisation der christlichsozialen Straßenbahnbediensteten</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

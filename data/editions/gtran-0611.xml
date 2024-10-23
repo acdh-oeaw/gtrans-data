@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0611.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0610.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0612.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Antrag von StR Guggenberg, die Auszahlung von Ruhegenüssen und Teuerungszulagen an pensionierte Offiziere und die Versorgungsgebühr zu verbessern.</title>
+            <title type="sub">Great Transformation App</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2868</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>Bestand: ÖStA/AdR, Bundeskanzleramt, Staatsratsprotokolle 1. Republik, Protokoll Nr. 66 - 77, 15. 1. 1919 - 7. 3. 1919, 66. Sitzung vom 15. Jänner 1919, S. 10f., Karton: 4</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__1256">Staatsrat</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="">
+            <p>Der Antrag von StR Guggenberg auf pünktliche Auszahlung der Ruhegenüsse und die Auszahlung der Teuerungszulage für Offiziere in Ruhe wird angenommen. Betreffend die Versorgungsgebühr im Krieg dienstunfähig gewordener Offiziere bedürfe es noch zwischenstaatlicher Verhandlungen.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-01-15" notAfter="1919-01-15">
+                
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">zwischenstaatliche Verhandlung</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Ruhestand</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Pensionierung</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-24 14:29:33.278987+00:00" who="#gsteiner"/><change when="2019-10-18 07:50:11.590129+00:00" who="#gsteiner"/><change when="2019-10-18 07:45:59.882096+00:00" who="#gsteiner"/><change when="2019-10-05 08:45:47.428701+00:00" who="#gsteiner"/><change when="2019-10-03 14:19:30.864078+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__635"><persName><surname>Dinghofer</surname><forename>Franz</forename><roleName>Dr.</roleName></persName><birth when="1873-04-06">1873-04-06<placeName key="#place__517">Ottensheim</placeName></birth><death when="1956-01-12">1956-01-12<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118902830</idno></person><person xml:id="person__670"><persName><surname>Grimm</surname><forename>Ferdinand</forename><roleName>Dr.</roleName></persName><birth when="1869-02-15">1869-02-15<placeName key="#place__580">Wien</placeName></birth><death when="1948-11-08">1948-11-08<placeName key="#place__401">Bad Kreuzen</placeName></death><idno>http://d-nb.info/gnd/1011184664</idno></person><person xml:id="person__681"><persName><surname>Guggenberg von</surname><forename>Atanas</forename><roleName>Generalmajor i. R.</roleName></persName><birth when="1846-10-12">1846-10-12<placeName key="#place__415">Brixen</placeName></birth><death when="1920-12-08">1920-12-08<placeName key="#place__415">Brixen</placeName></death><idno>http://d-nb.info/gnd/1011403358</idno></person><person xml:id="person__815"><persName><surname>Redlich</surname><forename>Josef</forename><roleName>Dr.</roleName></persName><birth when="1869-06-18">1869-06-18<placeName key="#place__450">Göding</placeName></birth><death when="1936-11-12">1936-11-12<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118743724</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__430"><placeName>Deutschösterreich</placeName><idno type="GEONAMES"/></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1022"><orgName>k.u.k. Kriegsministerium</orgName></org><org xml:id="org__1051"><orgName>fremdnationale Staaten</orgName></org><org xml:id="org__1227"><orgName>Staatsamt für Heerwesen</orgName></org><org xml:id="org__3301"><orgName>Deutschösterreichischer Staat</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

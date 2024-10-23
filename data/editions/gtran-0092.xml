@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0092.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0091.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0093.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Organisationsfragen</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/3639</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Beamten-Zeitung. Zeitschrift des Ersten allgemeinen Beamten-Vereines. Organ für die Gesamtinteressen der Beamten aller Klassen, Erster allgemeiner Beamten-Verein (Hg.), Wien, 50. Jahrgang 1919</repository>
+                    <msName>Beamten-Zeitung, 15. 3.1919, 36f.</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Zeitungsartikel</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#person__3575"> K. Sch.</author></msItem><msItem><author ref="#org__3496">Erster allgemeiner Beamten-Verein</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>Bericht über die Neugestaltung der Staatsbedienstetenorganisationen, insbesondere im Unterschied zwischen Wien und den Ländern und der Ausgestaltung nach Berufsgruppen und Dienstgraden, über das Auftauchen von Beamten- und Staatsangestelltenräten und Gewerkschaften. Der Bericht spricht sich gegen diese Zersplitterung auf, die auch durch die Pragmatisierung bisher nicht pragmatisierter Staatsangestellter besser überwunden werden könne.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-03-15" notAfter="1919-03-15">
+                15. März 1919
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Beamtenorganisation</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Beamtenrat</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Gewerkschaft</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Mitbestimmung</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Politische Organisierung</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Staatsangestelltenrat</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Staatsbedienstetenorganisationen</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Bundesländer</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-12 10:14:31.133337+00:00" who="#pbecker"/><change when="2019-01-25 13:22:01.546305+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         </listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1007"><orgName>deutschösterr. Regierung</orgName></org><org xml:id="org__3477"><orgName>ständige Vertretung der deutschösterreichischen Staatsangestelltenvereine</orgName></org><org xml:id="org__3527"><orgName>ständige Vertretung der österreichischen Staatsbeamtenvereine</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

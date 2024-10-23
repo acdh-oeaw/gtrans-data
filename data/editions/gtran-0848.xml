@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0848.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0847.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0849.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">StA des Innern: Die Wiener Staatsbeamten haben Angst außerhalb von Wien versetzt zu werden.</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2593</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>Bestand: Staatskanzlei - BKA/alt Varia 1919  Zwischenstaatliches Komitee; Verhandlungsschriften Nr. 1 - 25 zu den Sitzungen des zwischenstaatsamtlichen Komitees für Staatsbedienstetenangelegenheiten, Nr: 18., Unterpunkt: 03., Seite: 45</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__3257">Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>StA des Innern: Die Wiener Staatsbeamten haben Angst außerhalb von Wien versetzt zu werden. Der Bürgermeister bittet darum, die Bodenständigkeit der Wiener Beamten zu berücksichtigen. ANTWORT DER KOMMISSION: Wird zur Kenntnis genommen.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-01-24" notAfter="1919-01-24">
+                24. Jänner 1919
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Versetzung außerhalb Wiens</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-27 08:23:30.967854+00:00" who="#pbecker"/><change when="2019-10-18 14:21:39.763536+00:00" who="#gsteiner"/><change when="2019-09-25 09:07:02.140867+00:00" who="#pbecker"/><change when="2019-03-06 13:57:15.142144+00:00" who="#gsteiner"/><change when="2019-03-06 13:52:19.569410+00:00" who="#gsteiner"/><change when="2019-03-06 13:51:46.637721+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__903"><persName><surname>Weiskirchner</surname><forename>Richard</forename><roleName>DDr.</roleName></persName><birth when="1861-03-24">1861-03-24<placeName key="#place__580">Wien</placeName></birth><death when="1926-04-30">1926-04-30<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/117278602</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1225"><orgName>Staatsamt des Innern</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

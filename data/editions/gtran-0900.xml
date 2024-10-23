@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0900.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0899.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0901.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Probleme der deutschsprachigen Bevölkerung in den von Deutschösterreich nicht beanspruchten Sprachinseln</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2806</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>Bestand: ÖStA/AdR, Bundeskanzleramt, Staatsratsprotokolle 1. Republik, Protokoll Nr. 36 - 50, 18. 11. 1918 - 29. 11. 1918; 39. Sitzung vom 20. Nov. 1918, S. 18ff., Karton: 2</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__1256">Staatsrat</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>StR Licht bringt das Beispiel eines Arztes deutscher Nationalität, dem die Bewilligung verweigert wird, da er in Bielitz (Bielsko-Biala; Biƚsko-Bela) wohnt exemplarisch für die Probleme der Deutschen in den Sprachinseln und Gebieten, die von Deutschösterreich nicht beansprucht werden. Daran schließt sich eine Diskussion über das Gesetz betreffend der Grenzen des Staates Deutschösterreich an. StK Renner führt aus, dass dieses Gesetz essentiell sei, um administrieren zu können.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1918-01-01" notAfter="1918-01-01">
+                
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Friedensverhandlungen</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Verwaltung</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-22 09:49:35.931004+00:00" who="#gsteiner"/><change when="2019-10-22 09:48:03.387934+00:00" who="#gsteiner"/><change when="2019-10-18 07:36:59.485039+00:00" who="#gsteiner"/><change when="2019-10-13 15:15:19.074641+00:00" who="#pbecker"/><change when="2019-10-04 15:38:24.272381+00:00" who="#gsteiner"/><change when="2019-10-03 07:28:05.808840+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__635"><persName><surname>Dinghofer</surname><forename>Franz</forename><roleName>Dr.</roleName></persName><birth when="1873-04-06">1873-04-06<placeName key="#place__517">Ottensheim</placeName></birth><death when="1956-01-12">1956-01-12<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118902830</idno></person><person xml:id="person__727"><persName><surname>Keschmann</surname><forename>Anton</forename><roleName/></persName><birth when="1870-12-03">1870-12-03<placeName key="#place__456">Gurahumora</placeName></birth><death when="1947-02-22">1947-02-22<placeName key="#place__577">Waiern</placeName></death><idno>http://d-nb.info/gnd/1013269179</idno></person><person xml:id="person__754"><persName><surname>Licht</surname><forename>Stefan</forename><roleName>Dr.</roleName></persName><birth when="1860-10-28">1860-10-28<placeName key="#place__416">Brünn</placeName></birth><death when="1932-03-04">1932-03-04<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/124297870</idno></person><person xml:id="person__786"><persName><surname>Ofner</surname><forename>Julius</forename><roleName>Dr.</roleName></persName><birth when="1845-08-20">1845-08-20<placeName key="#place__461">Horschenz</placeName></birth><death when="1924-09-26">1924-09-26<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118831240</idno></person><person xml:id="person__820"><persName><surname>Renner</surname><forename>Karl</forename><roleName>Dr.</roleName></persName><birth when="1870-12-14">1870-12-14<placeName key="#place__570">Unter-Tannowitz</placeName></birth><death when="1950-12-31">1950-12-31<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118599739</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__406"><placeName>Bielitz</placeName><location><geo decls="#LatLng">49.822450000000 19.046860000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3103402/</idno></place><place xml:id="place__407"><placeName>Böhmen</placeName><location><geo decls="#LatLng">50.000000000000 14.500000000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3078198/</idno></place><place xml:id="place__427"><placeName>Deutschböhmen</placeName><idno type="GEONAMES"/></place><place xml:id="place__476"><placeName>Komotau</placeName><location><geo decls="#LatLng">50.460480000000 13.417790000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3077685/</idno></place><place xml:id="place__493"><placeName>Mähren</placeName><location><geo decls="#LatLng">49.500000000000 17.000000000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3070359/</idno></place><place xml:id="place__538"><placeName>Schlesien</placeName><location><geo decls="#LatLng">51.000000000000 18.000000000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3066138/</idno></place><place xml:id="place__567"><placeName>Tschechoslowakei</placeName><location><geo decls="#LatLng">50.082920000000 14.466720000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/8505031/</idno></place><place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1194"><orgName>Provisorische Nationalversammlung</orgName></org><org xml:id="org__1256"><orgName>Staatsrat</orgName></org><org xml:id="org__1290"><orgName>tschechoslowakischer Staat</orgName></org><org xml:id="org__1311"><orgName>Vereinigte Staaten von Amerika (United States of America)</orgName></org><org xml:id="org__1323"><orgName>Volkswehr</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

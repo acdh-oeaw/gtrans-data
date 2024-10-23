@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0737.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0736.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0738.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Allgemeine Nachrichten. Sozialer Kurs für Lehrpersonen</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#vhelfert">Helfert, Veronika</rs></editor><editor><rs ref="#tgarstenauer">Garstenauer, Therese</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/3089</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Wiener Stadt- und Landesarchiv</repository>
+                    <msName>Bestand: Wiener Stadt- und Landesarchiv, Archivbibliothek, BiblM - M - Amtsperiodika, Verwaltungsberichte, Adressbücher, Signatur: M 599 27/4 2. Ex., Punkt/Seite: o.P.; 2383f.</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Amtsblatteintrag</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#person__708">Mag.R.Dr.  Hornek</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#vhelfert #tgarstenauer">
+            <p>Dr. Hornek unterbreitet einen Vorschlag für einen möglichen "Sozialbildungskurs" für städtische Lehrer und Lehrerinnen, der in der städtischen Akademie für soziale Verwaltung abgehalten werden könnte - zunächst für 50 Personen im Frühjahr 1919, aber bei Erfolg wiederholt werden sollte. In diesem Einführungskurs sollten Lehrerinnen und Lehrer notwendiges Wissen erwerben, damit sie (ehrenamtlich) im Bereich der Jugendfürsorge arbeiten. Inhalte des Kurses wären u.a. rechtliche Grundlagen des Vormundschaftswesens und Jugendstrafrechts, aber auch Fragen der Organisation und Verwaltung des Jugendamtes und der Sozialpolitik. Der Stadtrat hat einen derartigen Kurs beschlossen.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1918-12-11" notAfter="1918-12-11">
+                
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Fortbildung</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-09 22:36:36.862602+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__708"><persName><surname>Hornek</surname><forename/><roleName>Mag.R.Dr.</roleName></persName><birth/><death/></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1054"><orgName>Fürsorgeamt (städtisches)</orgName></org><org xml:id="org__1258"><orgName>Städtische Akademie für soziale Verwaltung</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

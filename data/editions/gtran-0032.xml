@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0032.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0031.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0033.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Gesetz betr. die Gendarmerie des Deutschösterreichischen Staates</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#kmegner">Megner, Karl</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/3189</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichische Nationalbibliothek</repository>
+                    <msName>Bestand: Staatsgesetzblatt für den Staat Deutschösterreich 1918–1920, Signatur: StGBl. Nr. 75/1918 (PNV: 46 AB – S. 6.)</msName>
+               <idno>http://alex.onb.ac.at/cgi-content/alex?apm=0&amp;aid=sgb&amp;datum=19180004&amp;seite=00000088&amp;size=45</idno></msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Gesetzblatt</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents/></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#kmegner">
+            <p>Die altösterreichische Gendarmerie war Teil der Armee gewesen. Nun wurde sie ein bewaffneter Zivilwachkörper und dem Staatssekretär des Inneren unterstellt. Die Gendarmen wurden Beamte, die der Zivilgerichtsbarkeit und einem eigenen Disziplinarrecht unterlagen. Eine Folge des Kriegs war auch, dass die Stärke der Gendarmerie auf 6.449 Beamte reduziert werden musste. „In der damaligen Debatte stellte der Abgeordnete Paul Freiherr von  Hock fest: "[...] es gibt wenig Anstalten  und Einrichtungen, die wir aus dem alten Österreich herübergenommen haben, die so allseitig als gut anerkannt werden und immer anerkannt worden sind als die Gendarmerie." Mit der neuen gesetzlichen Grundlage wurde aus der vormaligen "k. k. Gendarmerie" die "Gendarmerie des  Deutschösterreichischen Staates". Doch damit war nicht nur eine Bezeichnungsänderung verbunden; vielmehr veränderte man ein zentrales Strukturmerkmal der Gendarmerie. Die zuvor bestandene militärische Organisation wurde aufgegeben und die Gendarmerie in einen Zivilwachkörper umgewandelt. Die Gendarmen waren also ab diesem Zeitpunkt nicht mehr Soldaten, sondern Beamte. Damit hat man sich 1918 in Österreich eigentlich vom internationalen Modell der Gendarmerie verabschiedet …“ (Gebhardt, Helmut (2014): Die militärische Organisation der k. k. Gendarmerie von 1849 bis 1918, SIAK-Journal − Zeitschrift für Polizeiwissenschaft und polizeiliche Praxis (3), 76-86;  http://www.bmi.gv.at/104/Wissenschaft_und_Forschung/SIAK-Journal/SIAK-Journal-Ausgaben/Jahrgang_2014/files/Gebhardt_3_2014.pdf (14.5.2018)</p>
+        </abstract>
+        <creation>
+            <date notBefore="1918-11-27" notAfter="1918-11-27">
+                27. November 1918
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-10-20 22:15:13.974232+00:00" who="#kmegner"/><change when="2019-10-20 22:14:38.271045+00:00" who="#kmegner"/><change when="2019-10-13 14:52:25.795724+00:00" who="#pbecker"/><change when="2019-10-10 08:45:51.855215+00:00" who="#pbecker"/><change when="2019-10-10 08:04:08.044459+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__3860"><persName><surname>(von) Hock</surname><forename>Paul</forename><roleName/></persName><birth when="1857-10-20">1857-10-20<placeName key="#place__580">Wien</placeName></birth><death when="1924-09-02">1924-09-02<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/12650041X</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         </listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1005"><orgName>deutschösterr. Gendarmerie</orgName></org><org xml:id="org__1060"><orgName>Gendarmerie</orgName></org><org xml:id="org__1225"><orgName>Staatsamt des Innern</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

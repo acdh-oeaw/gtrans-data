@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0860.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0859.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0861.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Reform der politischen Verwaltung)</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#vhelfert">Helfert, Veronika</rs></editor><editor><rs ref="#tgarstenauer">Garstenauer, Therese</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2742</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Wien Bibliothek</repository>
+                    <msName>Bestand: Wien Bibliothek, Tagblatt Sachmappen, TS 2599/1918, Bibliographische Angaben: Wien, 24. Dezember (Reform der politischen Verwaltung), in: Neue Freie Presse, 25.12.1918, S. 13.</msName>
+               <idno>http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19181225&amp;seite=13&amp;zoom=33</idno></msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Zeitungsartikel</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents/></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#vhelfert #tgarstenauer">
+            <p>Ankündigung mehrerer Reformvorhaben: Zuerst der Gemeindeverwaltung und der Bezirkshauptmannschaften, zuständiger Leiter in der Staatskanzlei dafür ist Aemilian Schöpfer.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1918-12-25" notAfter="1918-12-25">
+                
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-10-02 19:34:07.113004+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__842"><persName><surname>Schoepfer</surname><forename>Aemilian</forename><roleName>Dr.</roleName></persName><birth when="1858-04-29">1858-04-29<placeName key="#place__415">Brixen</placeName></birth><death when="1936-03-24">1936-03-24<placeName key="#place__463">Innsbruck</placeName></death><idno>http://d-nb.info/gnd/119034913</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         </listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1253"><orgName>Staatskanzlei</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

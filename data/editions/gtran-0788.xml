@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0788.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0787.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0789.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Errichtung einer Minderheitsschutzstelle in der Staatskanzlei</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2844</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>Bestand: ÖStA/AdR, Bundeskanzleramt, Staatsratsprotokolle 1. Republik, Protokoll Nr. 36 - 50, 18. 11. 1918 - 29. 11. 1918; 47. Sitzung vom 26. November 1918, S. 5f., Karton: 2</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__1256">Staatsrat</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>Staatskanzler Renner berichtet über die Errichtung einer Minderheitsschutzstelle in der Staatskanzlei. Dem vorangegangen war eine Diskussion, ob diese Stelle im StA des Innern, im StA des Äußern oder dem StA für Unterricht eingericht werden sollte.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1918-11-26" notAfter="1918-11-26">
+                26. November 1918
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-10-22 14:31:24.535334+00:00" who="#gsteiner"/><change when="2019-10-03 09:42:06.521196+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__816"><persName><surname>Redlich</surname><forename>Oswald</forename><roleName>Univ.-Prof. Dr.</roleName></persName><birth when="1858-09-17">1858-09-17<placeName key="#place__463">Innsbruck</placeName></birth><death when="1944-01-20">1944-01-20<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118743732</idno></person><person xml:id="person__820"><persName><surname>Renner</surname><forename>Karl</forename><roleName>Dr.</roleName></persName><birth when="1870-12-14">1870-12-14<placeName key="#place__570">Unter-Tannowitz</placeName></birth><death when="1950-12-31">1950-12-31<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118599739</idno></person><person xml:id="person__881"><persName><surname>Tietze</surname><forename/><roleName/></persName><birth/><death/></person><person xml:id="person__918"><persName><surname>Wotawa</surname><forename/><roleName>Prof.</roleName></persName><birth/><death/></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         </listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1224"><orgName>Staatsamt des Äußern</orgName></org><org xml:id="org__1225"><orgName>Staatsamt des Innern</orgName></org><org xml:id="org__1238"><orgName>Staatsamt für Unterricht</orgName></org><org xml:id="org__1253"><orgName>Staatskanzlei</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

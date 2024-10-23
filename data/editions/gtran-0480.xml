@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0480.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0479.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0481.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Gemeinderat. Stenographischer Bericht über die Sitzung vom 22. Jänner 1919. 54. Antrag des GR Bermann und Genossen</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#vhelfert">Helfert, Veronika</rs></editor><editor><rs ref="#tgarstenauer">Garstenauer, Therese</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/3002</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Wiener Stadt- und Landesarchiv</repository>
+                    <msName>Bestand: Wiener Stadt- und Landesarchiv, Archivbibliothek, BiblM - M - Amtsperiodika, Verwaltungsberichte, Adressbücher, Signatur: M 599 28/1 1. Ex., Punkt/Seite: 54; 254f., [internal-id]: 11</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Amtsblatteintrag</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents/></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#vhelfert #tgarstenauer">
+            <p>54. Antrag des GR Bermann und Genossen. Antrag an das Magistrat die heimkehrenden Angestellten die notwendige Fürsorge zukommen zu lassen und ihre Benachteiligung durch Nachzahlungen zu beheben. BM: geht an den Stadtrat</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-01-22" notAfter="1919-01-22">
+                
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__610"><persName><surname>Bermann</surname><forename>Julius</forename><roleName/></persName><birth when="1868-05-01">1868-05-01<placeName key="#place__3114">Kroměříž</placeName></birth><death when="1943-01-07">1943-01-07<placeName key="#place__3115">Theresienstadt (KZ)</placeName></death><idno>https://de.wikipedia.org/wiki/Julius_Bermann</idno></person><person xml:id="person__903"><persName><surname>Weiskirchner</surname><forename>Richard</forename><roleName>DDr.</roleName></persName><birth when="1861-03-24">1861-03-24<placeName key="#place__580">Wien</placeName></birth><death when="1926-04-30">1926-04-30<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/117278602</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         </listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         </listOrg>
+      </back>
+  </text>
+</TEI>

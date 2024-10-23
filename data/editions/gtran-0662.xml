@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0662.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0661.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0663.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Gewerkschaft der Verwaltungsjuristen Österreichs: Resolution hinsichtlich Verfassungs- und Verwaltungsreform</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#vhelfert">Helfert, Veronika</rs></editor><editor><rs ref="#tgarstenauer">Garstenauer, Therese</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2504</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Wiener Stadt- und Landesarchiv</repository>
+                    <msName>Bestand: Wiener Stadt- und Landesarchiv, 1.5.3 Magistratsdirektion, Karton: ?, Aktenzahl: 2582/1920</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Akt</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents/></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#vhelfert #tgarstenauer">
+            <p>Die Gewerkschaft der Verwaltungsjuristen übersendet an das Gemeinderatspräsidium eine Resolution, in der im Sinne der Demokratisierung und Modernisierung der Verwaltung gefordert wird, die Gewerkschaft in rechtspflegemäßige Verwaltungssachen sowie in die Arbeiten im Zusammenhang mit der Verwaltungs- und Verfassungsreform einzubinden. Unterzeichnet vom Vorsitzenden des Gewerkschaftstags Dr. Lasch und vom Schriftführer des Gewerkschaftstags Dr. Zampis.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1920-04-07" notAfter="1920-04-07">
+                1920-04-07
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Gewerkschaft</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-09-21 10:05:43.427006+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         </listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         </listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1072"><orgName>Gewerkschaft der Verwaltungsjuristen</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

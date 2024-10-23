@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0050.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0049.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0051.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Der Staatsnotar und das Staatssiegelamt</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#vhelfert">Helfert, Veronika</rs></editor><editor><rs ref="#tgarstenauer">Garstenauer, Therese</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2743</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Wien Bibliothek</repository>
+                    <msName>Bestand: Wien Bibliothek, Tagblatt Sachmappen, TS 2599/1918, Bibliographische Angaben: Wien, 24. Dezember (Der Staatsnotar und das Staatssiegelamt), in: Neue Freie Presse, 25.12.1918, S. 12f.</msName>
+               <idno>http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19181225&amp;seite=12&amp;zoom=33</idno></msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Zeitungsartikel</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents/></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#vhelfert #tgarstenauer">
+            <p>Neuschaffung von Stellen zur Ausfertigung, Protokollierung und Beurkundung von Beschlüssen des Staatsrates: Staatsnotar und Staatssiegelamt. Beschreibung der Aufgaben und Funktionen dieser neuen Stellen und Hinweis auf den provisorischen Charakter, weswegen die zuständigen Beamten noch bei der Kanzleidirektion verbleiben, auch wenn sie schon Pflichtgelöbnis abgelegt haben.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1918-12-25" notAfter="1918-12-25">
+                
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-10-02 19:36:35.611947+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__952"><persName><surname>Fuchs</surname><forename/><roleName/></persName><birth><placeName key="#place__580">Wien</placeName></birth><death/></person><person xml:id="person__949"><persName><surname>Kowy</surname><forename/><roleName>Dr.</roleName></persName><birth><placeName key="#place__580">Wien</placeName></birth><death/></person><person xml:id="person__953"><persName><surname>Schrott </surname><forename/><roleName/></persName><birth><placeName key="#place__580">Wien</placeName></birth><death/></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         </listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1256"><orgName>Staatsrat</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

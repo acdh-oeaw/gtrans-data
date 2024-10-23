@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0154.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0153.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0155.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Eingabe: Regelung der Aktivitäts- und Ruhebezüge und Zuerkennung des Beamtenrechtes durch eine zeitgemäße Standesreform</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2666</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>Bestand: Staatskanzlei - BKA/alt Varia 1919  Zwischenstaatliches Komitee; Verhandlungsschriften Nr. 26 - 50 zu den Sitzungen des zwischenstaatsamtlichen Komitees für Staatsbedienstetenangelegenheiten, Nr: 40., Unterpunkt: 03., Seite: 48</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__3257">Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>Eingabe der unter 2. genannten Vereine: Wünsche: Regelung der Aktivitäts- und Ruhebezüge und Zuerkennung des Beamtenrechtes durch eine zeitgemäße Standesreform. Als provisorische Hilfe wird gewünscht: 1. Zuerkennung der Begünstigungen, die den Eisenbahnern und Postbediensteten kürzlich zugestanden wurden. 2. Die eheste Auszahlung eines weiteren erhöhten Anschaffungsbeitrages, der für die Unterbeamten und Diener von jeher viel zu niedrig bemessen war. ANTWORT DER KOMMISSION: 1. Zustimmung, 2. Anschaffungsbeitrag wie bisher.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-04-15" notAfter="1919-04-15">
+                15. April 1919
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-10-27 09:01:15.843615+00:00" who="#pbecker"/><change when="2019-10-19 09:02:14.329669+00:00" who="#gsteiner"/><change when="2019-10-02 10:27:35.458926+00:00" who="#pbecker"/><change when="2019-03-12 17:09:26.925259+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         </listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         </listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1008"><orgName>deutschösterr. Staatsangestelltenverein</orgName></org><org xml:id="org__1201"><orgName>Reichsschutzverein der Militärzertifikatisten Österreichs</orgName></org><org xml:id="org__1204"><orgName>Reichsverein der Justizdiener und Gefangenenaufseher Österreichs</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

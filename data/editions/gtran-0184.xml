@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0184.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0183.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0185.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Optionsrecht für ehemals österr. Staatsangestellte im italienischen Okkupationsgebiet - keine Regelung  der beamtendienstrechtlichen Verhältnisse im Vertrag von St. Germain</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2712</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>Bestand: Staatskanzlei - BKA/alt Varia 1919  Zwischenstaatliches Komitee; Verhandlungsschriften, Nr: 56.,Unterpunkt: False, Seite: 01ff</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__3257">Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>StA für Inneres und Unterricht: Sektionschef Dr. Davy teilt mit, dass nach privaten Mitteilungen das Königreich Italien sich bereit erklärt hat, den ehemals österr. Staatsangestellten, die sich im ital. Okkupationsgebiete aufhalten, das volle Optionsrecht zuzugestehen. Er weist darauf hin, dass der Entwurf des Friedensvertrages von St. Germain keinerlei Bestimmungen über die Regelung der sich aus den territorialen Umänderungen ergebenden beamtendienstrechtlichen Verhältnisse enthält, wie dies in den Friedensverträgen früherer Zeit allgemein üblich war. Von den aufgetauchten Fragen sind insbesondere mit Rücksicht auf die derzeitigen Verhältnisse zu den auf dem Boden der ehemals österr. Monarchie entstandenen Nationalstaaten folgende von Wichtigkeit: Das Optionsrecht der Staatsangestellten im Allgemeinen, die Freizügigkeit der Pensionen und schließlich die Aufteilung der Pensionslast der ehemals österr. Monarchie. ANTWORT DER KOMMISSION: Es wäre bei der Staatsregierung anzuregen, dass die deutschösterr. Friedensdelegation angewiesen wird, danach zu trachten, dass in den Friedensvertrag eine Bestimmung aufgenommen wird, die den auf dem Boden der österr. Monarchie entstandenen Nationalstaaten den Auftrag erteilt, die Frage der Tragung der Kosten der ehemals österr. Pensionen aller Art durch zwischenstaatliche Verhandlungen innerhalb einer kalendermäßig bestimmten, im Vertrag festzusetzenden, kurzen Frist zu regeln. Sollte bei widerstreitenden Anträgen innerhalb der vertragsmäßigen Frist eine Einigung der Nachfolgestaaten nicht zustande kommen, so geht auf Verlangen irgend eines Vertragsteiles die Entscheidung der strittigen Frage nach Ablauf der Frist automatisch an ein Schiedsgericht über, das aus Neutralen besteht, und dessen Zusammensetzung schon im Friedensvertrag zwar nicht durch namentliche wohl aber durch sonstige Bezeichnung der Schiedsgerichtsmitglieder genau zu bestimmen wäre.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-06-27" notAfter="1919-06-27">
+                27. Juni 1919
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Staatsvertrag (St. Germain)</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Mitbestimmung</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">zwischenstaatliche Verhandlung</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Pensionierung</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-27 09:19:20.407245+00:00" who="#pbecker"/><change when="2019-10-24 12:20:15.340649+00:00" who="#pbecker"/><change when="2019-10-20 06:08:30.178177+00:00" who="#gsteiner"/><change when="2019-10-02 14:00:22.724694+00:00" who="#pbecker"/><change when="2019-03-28 10:25:07.716958+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__633"><persName><surname>Davy</surname><forename>Robert Franz Ludwig</forename><roleName>Dr.</roleName></persName><birth when="1867-01-22">1867-01-22<placeName key="#place__478">Königsberg</placeName></birth><death when="1924-04-22">1924-04-22<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/126181365</idno></person><person xml:id="person__704"><persName><surname>Hödl</surname><forename>Richard</forename><roleName>Dr.</roleName></persName><birth/><death/></person><person xml:id="person__814"><persName><surname>Redinger</surname><forename/><roleName/></persName><birth/><death/></person><person xml:id="person__910"><persName><surname>Wilfling</surname><forename>August</forename><roleName>Dr.</roleName></persName><birth/><death/></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__444"><placeName>fremdnationales Gebiet</placeName><idno type="GEONAMES"/></place><place xml:id="place__466"><placeName>Italien</placeName><location><geo decls="#LatLng">42.833330000000 12.833330000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3175395/</idno></place><place xml:id="place__568"><placeName>umstrittenes Gebiet</placeName><idno type="GEONAMES"/></place><place xml:id="place__3823"><placeName>St. Germain en Laye</placeName><location><geo decls="#LatLng">48.900000000000 2.083330000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2979783/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1004"><orgName>deutschösterr. Friedensdelegation</orgName></org><org xml:id="org__1007"><orgName>deutschösterr. Regierung</orgName></org><org xml:id="org__1029"><orgName>ehemals österreichisch-ungarische Monarchie</orgName></org><org xml:id="org__1031"><orgName>ehemals österr. Staat</orgName></org><org xml:id="org__1051"><orgName>fremdnationale Staaten</orgName></org><org xml:id="org__1090"><orgName>italien. Staat</orgName></org><org xml:id="org__1225"><orgName>Staatsamt des Innern</orgName></org><org xml:id="org__3257"><orgName>Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</orgName></org><org xml:id="org__3301"><orgName>Deutschösterreichischer Staat</orgName></org><org xml:id="org__3521"><orgName>k.k. Landwehr</orgName></org><org xml:id="org__3824"><orgName>Generalkommissaritat für Liquidierungsangelegenheiten</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

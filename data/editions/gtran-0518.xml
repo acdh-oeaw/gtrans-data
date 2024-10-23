@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0518.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0517.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0519.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Gemeinderat. Stenographischer Bericht über die öffentliche Sitzung vom 6. Februar 1920. 18. Kollektivverträge</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#vhelfert">Helfert, Veronika</rs></editor><editor><rs ref="#tgarstenauer">Garstenauer, Therese</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2929</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Wiener Stadt- und Landesarchiv</repository>
+                    <msName>Bestand: Wiener Stadt- und Landesarchiv, Archivbibliothek, BiblM - M - Amtsperiodika, Verwaltungsberichte, Adressbücher, Signatur: M 599 29/1 1. Ex., Punkt/Seite: 18; 430–438</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Amtsblatteintrag</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents/></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#vhelfert #tgarstenauer">
+            <p>18. Kollektivverträge. [430 – 438] Z. 2135; Z. 2476; Z. 2548; Z. 2474.  Eine Reihe von einzelnen Beschlüssen zu Kollektivverträgen (elektrische Stadtwerke, Straßenbahnen etc.) aufgrund der dauernden Verschlechterung der Lage. GR Haider: u.a. über die Gleichstellung von Professionisten und Hilfsarbeitern – GR Haider kritisiert dies und vor allem auch, dass Hilfsarbeiter am Land (Ueberlandwerk) mehr erhalten als in der Stadt – vor allem bei den Hilfsarbeiterinnen ist der Lohnunterschied groß; zudem: gleitende Zulage von männlichen Arbeitern nach Alter gestaffelt (bis zu 33%), bei Arbeiterinnen immer gleich bei 15% ; GR Waldsam: stimmt zu, macht noch kleinere Bemerkungen (Vertrag richte sich nach in Privatindustrie üblichen Vereinbarungen) wie Familienzulage, Kriegsdienstzeit etc.; Frau GR Dr. Seitz: „Als Vertreterin der Fraueninteressen“ greift sie nochmal Ungleichbehandlung auf: sie sei nicht prinzipiell für gleiche Bezahlung, aber im vorliegenden Falle gehe es doch tatsächlich oft um gleiche Arbeit. Außerdem ist die Differenzierung nach Alter und Geschlecht bei der gleitenden Zulage nicht einzusehen, es ginge doch um die Differenzkategorie: Familienerhalter, das betreffe alleinerziehende Mütter ebenso wie Arbeiterinnen, die die Eltern versorgen müssten. Die Gemeinde Wien sollte hier für die Privatindustrie Vorbild sein. GR Sirotek stimmt GR Alma Seitz zu: gleicher Lohn für gleiche Arbeit für Arbeiterinnen. Zudem kein Unterschied zwischen den Arbeitern - gleicher Lohn bei gleicher Leistung. Weitere Beiträge. Abstimmung: Kollektivverträge werden wie ausgehandelt und ohne die Abänderungsanträge anzunehmen angenommen. Beschlüsse [436 - 438]</p>
+        </abstract>
+        <creation>
+            <date notBefore="1920-02-06" notAfter="1920-02-06">
+                
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Ungleichbehandlung</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Ruhestand</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-04 06:18:35.990020+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__617"><persName><surname>Bombek</surname><forename>Josef</forename><roleName/></persName><birth when="1881-04-02">1881-04-02<placeName key="#place__3124">Tattendorf</placeName></birth><death when="1923-06-17">1923-06-17<placeName key="#place__580">Wien</placeName></death></person><person xml:id="person__685"><persName><surname>Haider</surname><forename>Franz</forename><roleName/></persName><birth when="1877-05-15">1877-05-15<placeName key="#place__3162">Friedburg</placeName></birth><death when="1951-10-20">1951-10-20<placeName key="#place__580">Wien</placeName></death><idno>https://de.wikipedia.org/wiki/Franz_Haider_(Politiker,_1877)</idno></person><person xml:id="person__821"><persName><surname>Reumann</surname><forename>Jakob</forename><roleName/></persName><birth/><death/></person><person xml:id="person__843"><persName><surname>Schorsch</surname><forename>Johann</forename><roleName/></persName><birth/><death/></person><person xml:id="person__855"><persName><surname>Seitz</surname><forename>Alma</forename><roleName>Dr.</roleName></persName><birth/><death/></person><person xml:id="person__861"><persName><surname>Sirotek</surname><forename>Bohumil</forename><roleName/></persName><birth/><death/></person><person xml:id="person__897"><persName><surname>Waldsam</surname><forename>Hans</forename><roleName/></persName><birth><placeName key="#place__426">Dellach</placeName></birth><death/></person><person xml:id="person__902"><persName><surname>Weigl</surname><forename>Karl</forename><roleName/></persName><birth/><death/></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__436"><placeName>Ebenfurth</placeName><location><geo decls="#LatLng">47.888100000000 16.331390000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/7871927/</idno></place><place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1034"><orgName>Elektrizitätswerke (städtische)</orgName></org><org xml:id="org__1177"><orgName>Organisation der Straßenbahnbediensteten</orgName></org><org xml:id="org__1277"><orgName>Straßenbahnen (städtische)</orgName></org><org xml:id="org__1294"><orgName>Ueberlandzentrale</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

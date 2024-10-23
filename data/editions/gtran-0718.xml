@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0718.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0717.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0719.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ablegung des Gelöbnisses auf den jugoslawischen Staat durch den Lehrkörper des deutschen Staatsgymnasiums in Cilli (Celje)</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/3713</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>ÖStA/AdR, Bundeskanzleramt, Kabinettsratsprotokolle 1. Republik, Protokoll Nr. 1 bis 35, 31. 10. 1918 bis 30. 1. 1919, Kabinettsratsprotokoll Nr. 24 vom 17. Dezember 1918, 10f.</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__1105">Kabinettsrat</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>StS Pacher berichtet, dass Vertreter des deutschen Staatsgymnasiums in Cilli (Celje) bei ihm erschienen seien und ihm mitteilten, dass der jugoslawische Staat die Ablegung eines Eides von ihnen verlange. Ein einfaches Gelöbnis genüge nicht. Die Vertreter wollten eine schriftliche Zusicherung, dass die Ablegung des Eides auf den jugoslawischen Staat für eine spätere Übernahme in den deutschösterr. Staatsdienst kein Hindernis sei. Der Staatssekretär erklärte, dass der deutschösterr. Staat zwar keine Verpflichtung in Bezug auf eine Anstellung übernehmen könne, dass aber das Möglichste getan werde. Der Kabinettsrat erklärte sich damit einverstanden.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1918-12-17" notAfter="1918-12-17">
+                17. Dezember 1918
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-10-12 20:41:01.598492+00:00" who="#pbecker"/><change when="2019-02-05 15:40:14.424500+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__787"><persName><surname>Pacher</surname><forename>Raphael</forename><roleName>Dr.</roleName></persName><birth when="1857-07-21">1857-07-21<placeName key="#place__464">Iserthal</placeName></birth><death when="1936-03-25">1936-03-25<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/124749275</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__423"><placeName>Cilli</placeName><location><geo decls="#LatLng">46.230920000000 15.260440000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3202781/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1105"><orgName>Kabinettsrat</orgName></org><org xml:id="org__3257"><orgName>Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</orgName></org><org xml:id="org__3301"><orgName>Deutschösterreichischer Staat</orgName></org><org xml:id="org__3470"><orgName>SHS-Staat</orgName></org><org xml:id="org__3712"><orgName>Deutsches Staatsgymnasium Cilli</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

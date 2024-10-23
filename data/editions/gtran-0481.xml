@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0481.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0480.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0482.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Schaffung sonstiger sozialer Fürsorgemaßnahmen im Einvernehmen mit den Vertrauensmännern der Standesorganisationen.</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2672</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>Bestand: Staatskanzlei - BKA/alt Varia 1919  Zwischenstaatliches Komitee; Verhandlungsschriften Nr. 26 - 50 zu den Sitzungen des zwischenstaatsamtlichen Komitees für Staatsbedienstetenangelegenheiten, Nr: 40., Unterpunkt: 03f., Seite: 49</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__3257">Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>Schaffung sonstiger sozialer Fürsorgemaßnahmen im Einvernehmen mit den Vertrauensmännern der Standesorganisationen. ANTWORT DER KOMMISSION: Geschieht im Rahmen der für alle Bediensteten durchgeführten Maßnahmen.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-04-15" notAfter="1919-04-15">
+                15. April 1919
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Mitbestimmung</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Soziale Fürsorge</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Staatsbedienstetenorganisationen</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-27 09:03:38.593988+00:00" who="#pbecker"/><change when="2019-10-02 10:35:19.518407+00:00" who="#pbecker"/><change when="2019-03-12 17:23:19.120203+00:00" who="#gsteiner"/><change when="2019-03-12 17:22:32.898106+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         </listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         </listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1008"><orgName>deutschösterr. Staatsangestelltenverein</orgName></org><org xml:id="org__1201"><orgName>Reichsschutzverein der Militärzertifikatisten Österreichs</orgName></org><org xml:id="org__1204"><orgName>Reichsverein der Justizdiener und Gefangenenaufseher Österreichs</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

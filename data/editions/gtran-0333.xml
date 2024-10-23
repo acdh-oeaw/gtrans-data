@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0333.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0332.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0334.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Wohnungskündigung in Laibach (Ljubljana)</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2615</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>Bestand: Staatskanzlei - BKA/alt Varia 1919  Zwischenstaatliches Komitee; Verhandlungsschriften Nr. 1 - 25 zu den Sitzungen des zwischenstaatsamtlichen Komitees für Staatsbedienstetenangelegenheiten, Nr: 23., Unterpunkt: 02., Seite: 63f.</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__3257">Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>MinR Dr. Davy: Dekret des Laibacher Stadtmagistrats vom 31. Jänner 1919 an den Oberst in Ruhe Eduard Löser: Im Sinne des § 18 der Verordnung der slowenisch-kroatisch-serbischen Gesamtregierung in Laibach (Ljubljana) vom 17. Jänner 1919 […] kündigt Ihnen hiermit der Stadtmagistrat ihre Wohnung im Hause des Herrn Ferdinand Staudacher in der Nonnengasse Nr. 19. Sie müssen die Wohnung spätestens bis zum 20. Februar 1919 vollkommen räumen, widrigenfalls der Stadtmagistrat die Wohnung zwangsweise räumen lassen und das Hausgerät, falls sie es nicht selbst unterbringen würden, mangels eines geeigneten Lagerraumes in öffentlicher Versteigerung verkaufen würde. Gegen diesen Bescheid ist ein Einspruch nicht zulässig. Auch gerichtliche Einsprüche gegen diese Kündigung sind unzulässig. Ebenso finden darauf die Bestimmungen des Mieterschutzgesetzes keine Anwendung. Die Abschrift dieses Bescheides wurde dem Hauseigentümer Ferdinand Staudacher mit dem Beifügen zur Kenntnis gebracht, daß die fragliche Wohnung [...] vom Stadtmagistrat mit Beschlag belegt und dem Hauseigentümer das Verfügungsrecht über diese von dem besagten Termin an entzogen werde. Eine eventuelle Vermietung ist nur mit Bewilligung des Stadtmagistrates zulässig." ANTWORT DER KOMMISSION: Von diesem Dekret ist das Staatsamt des Äußern sofort in Kenntnis zu setzen; mit der Ergreifung von allfälligen Retorsionsmaßnahmen ist zuzuwarten, bis nach der zwischenstaatlichen Verhandlung, die demnächst mit dem Vertreter der jugoslawischen Regierung stattfinden wird.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-02-07" notAfter="1919-02-10">
+                7. und 10. Februar 1919
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Vergeltung</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Kündigung</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Repression</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">zwischenstaatliche Verhandlung</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-27 08:41:19.280357+00:00" who="#pbecker"/><change when="2019-10-27 08:35:26.999090+00:00" who="#pbecker"/><change when="2019-10-18 15:13:38.222456+00:00" who="#gsteiner"/><change when="2019-10-13 13:05:17.558085+00:00" who="#pbecker"/><change when="2019-09-25 16:50:54.199323+00:00" who="#pbecker"/><change when="2019-03-08 12:30:37.782886+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__633"><persName><surname>Davy</surname><forename>Robert Franz Ludwig</forename><roleName>Dr.</roleName></persName><birth when="1867-01-22">1867-01-22<placeName key="#place__478">Königsberg</placeName></birth><death when="1924-04-22">1924-04-22<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/126181365</idno></person><person xml:id="person__757"><persName><surname>Löser</surname><forename>Eduard</forename><roleName/></persName><birth/><death/></person><person xml:id="person__870"><persName><surname>Staudacher</surname><forename>Ferdinand</forename><roleName/></persName><birth/><death/></person><person xml:id="person__3801"><persName><surname>Zarnik</surname><forename/><roleName>Dr.</roleName></persName><birth/><death/></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__485"><placeName>Laibach</placeName><location><geo decls="#LatLng">46.051080000000 14.505130000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3196359/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1200"><orgName>Regierung des SHS-Staates</orgName></org><org xml:id="org__1224"><orgName>Staatsamt des Äußern</orgName></org><org xml:id="org__1263"><orgName>Stadtmagistrat Laibach (Ljubljana)</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0484.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0483.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0485.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Vorsprache beim Staatssekretär der Finanzen</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/3687</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Beamten-Zeitung. Zeitschrift des Ersten allgemeinen Beamten-Vereines. Organ für die Gesamtinteressen der Beamten aller Klassen, Erster allgemeiner Beamten-Verein (Hg.), Wien, 50. Jahrgang 1919</repository>
+                    <msName>Beamten-Zeitung, 31. 3. 1919, 46.</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Zeitungsartikel</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__3496">Erster allgemeiner Beamten-Verein</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>Bericht über eine Vorsprache des Zentralverbandes der deutschösterr. Staatsbeamtenvereine beim Staatssekretär für Finanzen Joseph Schumpeter, in dem dieser die Forderung nach Ausgleich der Teuerung und Verbesserung der Lebenssituation der Beamten vorbrachte. Insbesondere trat man für eine Teuerungszulage allein auf Basis des Familienstandes und der Kinderzahl ein. Der Staatssekretär erwiderte, dass er die Not der Beamten verstehe, allzu hohe Forderungen jedoch den Genesungsprozess der Wirtschaft beeinflussen würden.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-03-31" notAfter="1919-03-31">
+                31. März 1919
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Mitbestimmung</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-24 12:18:20.050525+00:00" who="#pbecker"/><change when="2019-10-12 12:16:41.330068+00:00" who="#pbecker"/><change when="2019-02-01 13:09:11.372236+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__3641"><persName><surname>Pauernfeindt</surname><forename/><roleName/></persName><birth/><death/></person><person xml:id="person__820"><persName><surname>Renner</surname><forename>Karl</forename><roleName>Dr.</roleName></persName><birth when="1870-12-14">1870-12-14<placeName key="#place__570">Unter-Tannowitz</placeName></birth><death when="1950-12-31">1950-12-31<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118599739</idno></person><person xml:id="person__846"><persName><surname>Schumpeter</surname><forename>Joseph</forename><roleName>Univ.-Prof. Dr.</roleName></persName><birth when="1883-02-08">1883-02-08</birth><death when="1950-01-08">1950-01-08<placeName key="#place__557">Taconic</placeName></death></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         </listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1333"><orgName>Zentralverband der deutschösterr. Staatsbeamtenvereine</orgName></org><org xml:id="org__3301"><orgName>Deutschösterreichischer Staat</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

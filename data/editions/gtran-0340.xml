@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0340.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0339.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0341.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Vorschlag auf Einführung einer neuen Gelöbnisformel für die städtischen Angestellten</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#vhelfert">Helfert, Veronika</rs></editor><editor><rs ref="#tgarstenauer">Garstenauer, Therese</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2503</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Wiener Stadt- und Landesarchiv</repository>
+                    <msName>Bestand: Wiener Stadt- und Landesarchiv, 1.5.3 Magistratsdirektion, Karton: ?, Aktenzahl: 7647/1920</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Akt</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents/></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#vhelfert #tgarstenauer">
+            <p>Der Vorstand des Präsidialbüros Ober-Magistratsrat [Unterschrift nicht leserlich; Gme...] schlägt eine kürzere Gelöbnisformel vor: (Akt ist durch Brandschaden nur teilweise vorhanden): „Sie werden eidesstättig mit Handschlag gelo[ben, der Republik]
+Oesterreich und der Stadt Wien unverbrüchliche T[reue] […]
+Gesetze und die auf deren Grund erlassenen [Vollzugsanweisungen] [mindestens eine Zeile fehlt]
+[…] voller Kraft und […]
+[…] [Ansehun]g der Person getreu zu erfüllen. Sie
+[werden insb]esondere geloben, die Interessen der Gemeinde nach
+[Kräften] zu fördern und jeden Nachteil von ihr abzuwenden,
+[Ihren Vorge]setzten die schuldige Achtung und in Dienstsachen Ge-
+[horsam zu] leisten und die Dienstverschwiegenheit zu bewahren.“</p>
+        </abstract>
+        <creation>
+            <date notBefore="1920-12-28" notAfter="1920-12-28">
+                1920-12-28
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-09-21 10:04:06.461962+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         </listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         </listOrg>
+      </back>
+  </text>
+</TEI>

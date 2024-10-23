@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0081.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0080.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0082.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Hofratsdämmerung</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#kmegner">Megner, Karl</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/3251</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichische Nationalbibliothek - ANNO AustriaN Newspapers Online</repository>
+                    <msName>Hofratsdämmerung, in: Die Muskete. 27. Jg., Nr. 688, 80</msName>
+               <idno>http://anno.onb.ac.at/cgi-content/anno?aid=mus&amp;datum=19181205&amp;seite=8&amp;zoom=33</idno></msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Karikatur</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><p>Der ehemalige „Amtsdiener“ ist sehr selbstbewusst. Er hat eine Hand in der Hosentasche, einen Zigarrenstumpen im Mund und die Amtskappe auf dem Kopf. So sprach kein Diener vor dem November 1918 mit seinem Vorgesetzten! Der demütig-servile Hofrat (mit Hut in der Hand) zeigt das Hinterfragen der alten Hierarchien bereits Anfang Dezember 1918. Fritz Schönpflug kommentierte dies zeichnerisch mit treffsicherer Ironie in der „Muskete“, einem Blatt für Offiziere und Angehörige der mittleren und höheren sozialen Schichten.</p><msItem><author ref="#person__3250"> Fritz Schönpflug</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#kmegner">
+            <p>Ein anmaßender Amtsdiener in Beamtenuniform verabschiedet "seinen" servilen Hofrat.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1918-12-05" notAfter="1918-12-05">
+                5. Dezember 1918
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-10-21 18:57:05.230316+00:00" who="#kmegner"/><change when="2019-10-21 18:51:52.650677+00:00" who="#kmegner"/><change when="2019-10-21 18:46:32.666469+00:00" who="#kmegner"/><change when="2019-10-21 18:42:54.548366+00:00" who="#kmegner"/><change when="2019-10-10 12:01:36.849222+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         </listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         </listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         </listOrg>
+      </back>
+  </text>
+</TEI>

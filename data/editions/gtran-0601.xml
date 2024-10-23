@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0601.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0600.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0602.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Amnestie für Disziplinarstrafen</title>
+            <title type="sub">Great Transformation App</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/3306</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>None</repository>
+                    <msName>1067/1920 Deutschösterreichische Staatskanzlei mit zahlreichen Vor-und Subzahlen</msName>
+               <idno>http://alex.onb.ac.at/cgi-content/alex?aid=sgb&amp;datum=19190004&amp;seite=00001212</idno></msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Akt</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__1253">Staatskanzlei</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="">
+            <p>Der Akt der Staatskanzlei geht ausführlich auf den Wunsch von Beamtenvereinen ein - führend waren in dieser Sache Postangestelltenvereine - , "leichtere" Disziplinarstrafen und gerichtliche Strafen zu tilgen. Folgen schlechterer Qualifikationen sollten beseitigt werden u.a.m. Im Wesentlichen ging es auch um die Frage der "neuen" Zeitvorrückung, d.h., die Vorrückung über Rangklassengrenzen hinweg (ohne Ernennungen in die nächsthöhere Rangklasse). Die Beamten forderten Gesetze bzw. Verordnungen und entwarfen dafür Konzepte (beim Akt). 
+
+Das Resultat war das Gesetz vom 6. November 1919, StGBl. Nr. 513/1919, über die Einstellung von Untersuchungen, der Nachsicht von Strafen und  die Tilgung ... (Friedensamnestie).</p>
+        </abstract>
+        <creation>
+            <date notBefore="1920-05-12" notAfter="1920-05-12">
+                9.5.1920
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Disziplinarrecht</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-10 19:36:34.243200+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         </listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         </listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         </listOrg>
+      </back>
+  </text>
+</TEI>

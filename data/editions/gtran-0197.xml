@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0197.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0196.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0198.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Vollversammlung am 30. Juni 1920, S. 394f</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#vhelfert">Helfert, Veronika</rs></editor><editor><rs ref="#tgarstenauer">Garstenauer, Therese</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2449</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Archiv des Vereins für Geschichte der ArbeiterInnenbewegung</repository>
+                    <msName>Sozialdemokratische Parteistellen, Karton: Kt. 77, M 460, Aktenzahl: keine</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents/></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#vhelfert #tgarstenauer">
+            <p>Diskussion über das Budgetprovisorium (Hauptvoranschlag) der Gemeinde Wien für 1920/21. In der Beilage zur Sitzung ("Der Hauptvoranschlag der Gemeinde Wien für 1920/21") heißt es: "Die Gestaltung der politischen Verhältnisse in den letzten Wochen hat es der Gemeinde Wien unmöglich gemacht, ein halbwegs zuverlässiges Budget auszuarbeiten. Das Staatsamt für Finanzen lehnte jede bindende Zusage mit der Begründung ab, dass durch die Demission des Kabinetts keinerlei Zusagen auch nur in Aussicht gestellt werden können." Zu den Gründen für die hohen anfallenden Kosten: "Gehen wir den Ursachen dieses Abganges nach, so ergibt sich mit zwingender Deutlichkeit, dass vor allem die hohen Personallasten die grösste Schuld tragen. Der neue Voranschlag rechnet mit rund 800 Millionen Kronen, gegen rund 131 Millionen Kronen im Jahre 1919/20 und 65 Millionen Kronen im Jahre 1913/1914! Hier liegt also die Hauptursache des Defizits."</p>
+        </abstract>
+        <creation>
+            <date notBefore="1920-06-30" notAfter="1920-06-30">
+                30. Juni 1920
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-08-07 19:35:29.800021+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__620"><persName><surname>Breitner</surname><forename>Hugo</forename><roleName/></persName><birth when="1873-11-09">1873-11-09<placeName key="#place__580">Wien</placeName></birth><death when="1946-03-05">1946-03-05<placeName key="#place__3127">Claremont</placeName></death><idno>http://d-nb.info/gnd/119179504</idno></person><person xml:id="person__777"><persName><surname>Müller</surname><forename/><roleName/></persName><birth/><death/></person><person xml:id="person__821"><persName><surname>Reumann</surname><forename>Jakob</forename><roleName/></persName><birth/><death/></person><person xml:id="person__822"><persName><surname>Richter</surname><forename>Karl</forename><roleName/></persName><birth when="1978-10-26">1978-10-26</birth><death/></person><person xml:id="person__858"><persName><surname>Siegel</surname><forename>Franz</forename><roleName/></persName><birth when="1876-06-15">1876-06-15</birth><death/></person><person xml:id="person__862"><persName><surname>Skaret</surname><forename>Ferdinand</forename><roleName/></persName><birth/><death/></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1109"><orgName>Klub der Sozialdemokraten im Wiener Gemeinderate</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

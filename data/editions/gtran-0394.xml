@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0394.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0393.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0395.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Sind die Richtlinien auch auf die Angestellten der Wiener Krankenhäuser anzuwenden?</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2611</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>Bestand: Staatskanzlei - BKA/alt Varia 1919  Zwischenstaatliches Komitee; Verhandlungsschriften Nr. 1 - 25 zu den Sitzungen des zwischenstaatsamtlichen Komitees für Staatsbedienstetenangelegenheiten, Nr: 22., Unterpunkt: 07., Seite: 59f</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__3257">Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>Sind die Richtlinien auch auf die Angestellten der Wiener Krankenhäuser anzuwenden? ANTWORT DER KOMMISSION: Die Richtlinien sind auch auf diese Fondsbediensteten anzuwenden, weil es bei der Verfassung der Richtlinien nicht so sehr auf die Frage der Änderung des Rechtsubjektes, als auf die Frage der Gestaltung des jetzigen Betriebsführers ankam. Sofern es sich um die Frage der Weiterverwendung im Dienst handelt, ist ebenfalls nach den Richtlinien vorzugehen und je nach der Art der Verwendung die Genehmigung des Kabinettsrates bzw. des Staatsratsdirektoriums einzuholen.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-02-06" notAfter="1919-02-06">
+                6. Februar 1919
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-10-27 08:33:48.760386+00:00" who="#pbecker"/><change when="2019-09-25 16:35:20.627216+00:00" who="#pbecker"/><change when="2019-03-08 10:59:35.733273+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         </listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1105"><orgName>Kabinettsrat</orgName></org><org xml:id="org__1257"><orgName>Staatsratsdirektorium</orgName></org><org xml:id="org__1328"><orgName>Wiener Krankenhäuser</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

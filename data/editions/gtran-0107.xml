@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0107.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0106.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0108.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ernennung der Mitglieder des deutschösterreichischen Verwaltungsgerichtshof - Frage nach der deutschen Nationalität</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2903</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>Bestand: ÖStA/AdR, Bundeskanzleramt, Staatsratsprotokolle 1. Republik, Protokoll Nr. 66 - 77, 15. 1. 1919 - 7. 3. 1919, 75. Sitzung vom 26. Februar 1919, S. 16., Karton: 4</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__1256">Staatsrat</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>StK Renner präsentiert Vorschläge für die Ernennung der Mitglieder des deutschösterreichischen Verwaltungsgerichtshofes; es entsteht eine Diskussion um die Herren Rudolf Herrmann von Herrnritt und Guido von Bonfioli-Cavalcabó, da der eine Tscheche sei und sich auch als solcher definiert habe und der andere Italiener. Dem hält allerdings Renner entgegen, dass Bonfioli sich für die Sache der Deutschen in Tirol einsetze. Die Vorschläge werden schließlich genehmigt mit Ausnahme von Herrmann von Herrnritt, über welchen noch Erkundigungen eingezogen werden.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-02-26" notAfter="1919-02-26">
+                26 Februar 1919
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Ernennung</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-03 20:43:18.250218+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__690"><persName><surname>Hauser</surname><forename>Johann Nepomuk</forename><roleName>Dr.</roleName></persName><birth when="1866-02-24">1866-02-24<placeName key="#place__479">Kopfing im Innkreis</placeName></birth><death when="1927-02-18">1927-02-18<placeName key="#place__490">Linz</placeName></death><idno>http://d-nb.info/gnd/118709178</idno></person><person xml:id="person__698"><persName><surname>Herrmann von Herrnritt</surname><forename>Rudolf</forename><roleName>Dr.</roleName></persName><birth when="1865-04-17">1865-04-17<placeName key="#place__523">Prag</placeName></birth><death when="1945-03-25">1945-03-25<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118176595</idno></person><person xml:id="person__754"><persName><surname>Licht</surname><forename>Stefan</forename><roleName>Dr.</roleName></persName><birth when="1860-10-28">1860-10-28<placeName key="#place__416">Brünn</placeName></birth><death when="1932-03-04">1932-03-04<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/124297870</idno></person><person xml:id="person__819"><persName><surname>Reissig</surname><forename/><roleName/></persName><birth><placeName key="#place__463">Innsbruck</placeName></birth><death/></person><person xml:id="person__820"><persName><surname>Renner</surname><forename>Karl</forename><roleName>Dr.</roleName></persName><birth when="1870-12-14">1870-12-14<placeName key="#place__570">Unter-Tannowitz</placeName></birth><death when="1950-12-31">1950-12-31<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118599739</idno></person><person xml:id="person__856"><persName><surname>Seitz</surname><forename>Karl</forename><roleName/></persName><birth when="1869-09-04">1869-09-04<placeName key="#place__580">Wien</placeName></birth><death when="1950-02-03">1950-02-03<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/119184745</idno></person><person xml:id="person__879"><persName><surname>Teufel</surname><forename>Oskar</forename><roleName/></persName><birth when="1880-10-05">1880-10-05<placeName key="#place__595">Znaim</placeName></birth><death when="1946-01-26">1946-01-26<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/1027122671</idno></person><person xml:id="person__896"><persName><surname>Waldner</surname><forename>Viktor</forename><roleName>Univ.-Prof. Dr.</roleName></persName><birth when="1852-04-01">1852-04-01<placeName key="#place__426">Dellach</placeName></birth><death when="1924-08-30">1924-08-30<placeName key="#place__473">Klagenfurt</placeName></death><idno>https://de.wikipedia.org/wiki/Viktor_Waldner</idno></person><person xml:id="person__916"><persName><surname>Wolf</surname><forename>Karl Hermann</forename><roleName>Dr.</roleName></persName><birth when="1862-01-27">1862-01-27<placeName key="#place__438">Eger</placeName></birth><death when="1941-06-11">1941-06-11<placeName key="#place__580">Wien</placeName></death><idno>https://d-nb.info/gnd/1013678079</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__466"><placeName>Italien</placeName><location><geo decls="#LatLng">42.833330000000 12.833330000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3175395/</idno></place><place xml:id="place__567"><placeName>Tschechoslowakei</placeName><location><geo decls="#LatLng">50.082920000000 14.466720000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/8505031/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1253"><orgName>Staatskanzlei</orgName></org><org xml:id="org__1256"><orgName>Staatsrat</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

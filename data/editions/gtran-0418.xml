@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0418.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0417.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0419.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Gemeinderat. Stenographischer Bericht über die öffentliche Sitzung vom 3. April 1919. 30. Gewährung von Zuschußkrediten anläßlich Durchführung der Wahlen in den n.ö. Landtag, in den Gemeinderat und in die Bezirksvertretungen</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#vhelfert">Helfert, Veronika</rs></editor><editor><rs ref="#tgarstenauer">Garstenauer, Therese</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/3019</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Wiener Stadt- und Landesarchiv</repository>
+                    <msName>Bestand: Wiener Stadt- und Landesarchiv, Archivbibliothek, BiblM - M - Amtsperiodika, Verwaltungsberichte, Adressbücher, Signatur: M 599 28/2 1. Ex., Punkt/Seite: 38; 874f.</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Amtsblatteintrag</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents/></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#vhelfert #tgarstenauer">
+            <p>38. Berichterstatter VB Reumann: Zahl 4657, Post 6. Gewährleistung von Zuschußkrediten anläßlich Durchführung der Wahlen. Es geht u.a. auch um Entlohnungen von Schreibkräften etc. In dieser Sitzung insgesamt viel über Lohnforderungen und arbeitsrechtlichen Forderungen der Angestellten der Elektrizitäts- und Gaswerke, u.a. mit einer umfangreichen Vereinbarung in Bezug auf Arbeitszeit etc. (8 Stunden Tag, Betriebsräte usw.).</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-04-03" notAfter="1919-04-03">
+                
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Personalvertretung</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-09 17:22:27.496242+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__703"><persName><surname>Hödl</surname><forename>Josef</forename><roleName/></persName><birth/><death/></person><person xml:id="person__775"><persName><surname>Müller</surname><forename>Josef</forename><roleName>Ober-Magistratsrat Dr.</roleName></persName><birth when="1881-06-01">1881-06-01</birth><death when="1961-03-31">1961-03-31<placeName key="#place__580">Wien</placeName></death></person><person xml:id="person__821"><persName><surname>Reumann</surname><forename>Jakob</forename><roleName/></persName><birth/><death/></person><person xml:id="person__891"><persName><surname>Vaugoin</surname><forename>Karl</forename><roleName/></persName><birth/><death/></person><person xml:id="person__903"><persName><surname>Weiskirchner</surname><forename>Richard</forename><roleName>DDr.</roleName></persName><birth when="1861-03-24">1861-03-24<placeName key="#place__580">Wien</placeName></birth><death when="1926-04-30">1926-04-30<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/117278602</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1034"><orgName>Elektrizitätswerke (städtische)</orgName></org><org xml:id="org__1259"><orgName>Gaswerke (städtische)</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

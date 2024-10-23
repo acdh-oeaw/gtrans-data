@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0790.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0789.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0791.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Vollzugsanweisung des Deutschösterreichischen Staatsrates über die Aktivierung des Kreisgerichtes Trautenau (Trutnov)</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#kmegner">Megner, Karl</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/3184</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichische Nationalbibliothek</repository>
+                    <msName>Bestand: Staatsgesetzblatt für den Staat Deutschösterreich 1918–1920, Signatur: StGBl. Nr. 14/1918</msName>
+               <idno>http://alex.onb.ac.at/cgi-content/alex?apm=0&amp;aid=sgb&amp;datum=19180004&amp;seite=00000016&amp;size=45</idno></msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Gesetzblatt</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><p>Siehe Reichsgesetzblatt  Nr. 279/1918 (Kreisgericht Trautenau); siehe ferner die vier erwähnten deutschösterreichischen Verordnungen: StGBl. Nr. 14/1918 (Kreisgericht Trautenau); StGBl. Nr. 15/1918 (Oberlandesgericht Reichenberg); StGBl. Nr. 16/1918 (Provinz Sudetenland zum Oberlandesgerichtssprengel Reichenberg); StGBl. Nr. 17/1918 (Zuweisung des deutschen Siedlungsgebietes in den südlichen Teilen Böhmens und Mährens zum Oberlandesgerichtssprengel Wien).</p></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#kmegner">
+            <p>Am 8. und 9.  November 1917, somit bereits vor  der Ausrufung der Republik, wurde von Wien aus versucht, mittels vier Verordnungen deutschböhmische Gerichtsbezirke zu organisieren (vgl. die unten  zitierten Rechtsnormen). Die erste Rechtsnorm der neuen Wiener Herren, die hinsichtlich der Behördenorganisation Deutschböhmens erging, betraf die Aktivierung des Kreisgerichts Trautenau (Trutnov). Zum persönlichen Verhängnis konnte das betroffenen deutschösterreichischen Richtern und Beamten werden, als die tschechische Regierung Deutschböhmen sehr bald militärisch besetzen ließ und in tschechisch-nationalem Sinn aktiv wurde. Dazu gehörte, dass deutschösterreichische Rechtsakte wie diese nicht anerkannt wurden. Die deutschösterreichischen Beamten und Richter hingen dann, wie andere Quellen zeigen, "in der Luft". Auch die Errichtung einer deutschböhmischen länderbezogenen Finanzverwaltung von Wien aus, auf die hier nicht näher eingegangen wird, war l'art pour l'art. Verordnungen für andere Verwaltungszweige folgten (alle meist im November 1918).</p>
+        </abstract>
+        <creation>
+            <date notBefore="1918-11-08" notAfter="1918-11-08">
+                1918-11-08
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2020-11-20 22:28:23.958358+00:00" who="#kmegner"/><change when="2019-10-25 23:05:11.362656+00:00" who="#kmegner"/><change when="2019-10-25 23:02:37.319570+00:00" who="#kmegner"/><change when="2019-10-23 22:37:59.921772+00:00" who="#kmegner"/><change when="2019-10-20 22:41:36.728176+00:00" who="#kmegner"/><change when="2019-10-10 09:35:23.568505+00:00" who="#pbecker"/><change when="2019-10-10 07:18:20.685569+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         </listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__427"><placeName>Deutschböhmen</placeName><idno type="GEONAMES"/></place><place xml:id="place__430"><placeName>Deutschösterreich</placeName><idno type="GEONAMES"/></place><place xml:id="place__431"><placeName>Deutschsüdböhmen</placeName><idno type="GEONAMES"/></place><place xml:id="place__527"><placeName>Reichenberg</placeName><location><geo decls="#LatLng">50.767110000000 15.056190000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3071961/</idno></place><place xml:id="place__553"><placeName>Sudetenland</placeName><idno type="GEONAMES"/></place><place xml:id="place__561"><placeName>Trautenau</placeName><location><geo decls="#LatLng">50.561010000000 15.912700000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3063907/</idno></place><place xml:id="place__568"><placeName>umstrittenes Gebiet</placeName><idno type="GEONAMES"/></place><place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         </listOrg>
+      </back>
+  </text>
+</TEI>

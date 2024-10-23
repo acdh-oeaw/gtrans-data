@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0905.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0904.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0906.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Entsendung eines Gesandten nach Prag (Praha) zur Beruhigung der Situation in den umstrittenen Gebieten</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2808</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>Bestand: ÖStA/AdR, Bundeskanzleramt, Staatsratsprotokolle 1. Republik, Protokoll Nr. 36 - 50, 18. 11. 1918 - 29. 11. 1918; 40. Sitzung vom 20. Nov. 1918, S. 11ff., Karton: 2</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__1256">Staatsrat</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>StR Bodirsky plädiert dafür, einen Gesandten nach Prag (Praha) zu schicken, dem man über die Situation in den umstrittenen Gebieten berichten kann und der in Prag (Praha) Protest erheben könne. Man müsse den Menschen dort die Unterstützung des deutschösterr. Staates zeigen, da es ansonsten in ihrer Verzweiflung zu bewaffneten Auseinandersetzungen kommen könnte. Auch müsse über Deutschland Geld in diese Gebiete gebracht werden, um die Unterhalte der Pensionisten und Witwen der Staatsangestellten auszahlen zu können.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1918-11-20" notAfter="1918-11-20">
+                20. Nov. 1918
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Friedensverhandlungen</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Bevollmächtiger</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Bürgerkrieg</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Pensionierung</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-22 10:26:32.260772+00:00" who="#gsteiner"/><change when="2019-10-13 16:17:38.037098+00:00" who="#pbecker"/><change when="2019-10-03 07:33:06.449653+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__608"><persName><surname>Bauer</surname><forename>Otto</forename><roleName>Dr.</roleName></persName><birth when="1881-09-05">1881-09-05<placeName key="#place__580">Wien</placeName></birth><death when="1938-07-04">1938-07-04<placeName key="#place__518">Paris</placeName></death><idno>http://d-nb.info/gnd/118507346</idno></person><person xml:id="person__616"><persName><surname>Bodirsky</surname><forename>Gustav</forename><roleName>Dr.</roleName></persName><birth when="1864-04-01">1864-04-01<placeName key="#place__549">Stachenwald</placeName></birth><death when="1934-09-18">1934-09-18<placeName key="#place__445">Fulnek</placeName></death><idno>https://de.wikipedia.org/wiki/Gustav_Bodirsky</idno></person><person xml:id="person__635"><persName><surname>Dinghofer</surname><forename>Franz</forename><roleName>Dr.</roleName></persName><birth when="1873-04-06">1873-04-06<placeName key="#place__517">Ottensheim</placeName></birth><death when="1956-01-12">1956-01-12<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118902830</idno></person><person xml:id="person__721"><persName><surname>Kamitz</surname><forename/><roleName>Hofrat Dr.</roleName></persName><birth><placeName key="#place__580">Wien</placeName></birth><death/></person><person xml:id="person__754"><persName><surname>Licht</surname><forename>Stefan</forename><roleName>Dr.</roleName></persName><birth when="1860-10-28">1860-10-28<placeName key="#place__416">Brünn</placeName></birth><death when="1932-03-04">1932-03-04<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/124297870</idno></person><person xml:id="person__771"><persName><surname>Meyer</surname><forename/><roleName/></persName><birth/><death/></person><person xml:id="person__786"><persName><surname>Ofner</surname><forename>Julius</forename><roleName>Dr.</roleName></persName><birth when="1845-08-20">1845-08-20<placeName key="#place__461">Horschenz</placeName></birth><death when="1924-09-26">1924-09-26<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118831240</idno></person><person xml:id="person__863"><persName><surname>Sobitschka</surname><forename/><roleName/></persName><birth/><death/></person><person xml:id="person__879"><persName><surname>Teufel</surname><forename>Oskar</forename><roleName/></persName><birth when="1880-10-05">1880-10-05<placeName key="#place__595">Znaim</placeName></birth><death when="1946-01-26">1946-01-26<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/1027122671</idno></person><person xml:id="person__911"><persName><surname>Wilson</surname><forename>Woodrow Thomas</forename><roleName/></persName><birth when="1856-12-28">1856-12-28<placeName key="#place__3143">Staunton (Virginia)</placeName></birth><death when="1924-02-03">1924-02-03<placeName key="#place__3144">Washington</placeName></death><idno>http://d-nb.info/gnd/118643401</idno></person><person xml:id="person__916"><persName><surname>Wolf</surname><forename>Karl Hermann</forename><roleName>Dr.</roleName></persName><birth when="1862-01-27">1862-01-27<placeName key="#place__438">Eger</placeName></birth><death when="1941-06-11">1941-06-11<placeName key="#place__580">Wien</placeName></death><idno>https://d-nb.info/gnd/1013678079</idno></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__427"><placeName>Deutschböhmen</placeName><idno type="GEONAMES"/></place><place xml:id="place__429"><placeName>Deutsches Reich</placeName><idno type="GEONAMES"/></place><place xml:id="place__493"><placeName>Mähren</placeName><location><geo decls="#LatLng">49.500000000000 17.000000000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3070359/</idno></place><place xml:id="place__523"><placeName>Prag</placeName><location><geo decls="#LatLng">50.088040000000 14.420760000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3067696/</idno></place><place xml:id="place__552"><placeName>Sudetengebiete</placeName><idno type="GEONAMES"/></place><place xml:id="place__553"><placeName>Sudetenland</placeName><idno type="GEONAMES"/></place><place xml:id="place__567"><placeName>Tschechoslowakei</placeName><location><geo decls="#LatLng">50.082920000000 14.466720000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/8505031/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__997"><orgName>Deutsches Reich</orgName></org><org xml:id="org__1007"><orgName>deutschösterr. Regierung</orgName></org><org xml:id="org__1036"><orgName>Entente</orgName></org><org xml:id="org__1077"><orgName>Handelskammer Brünn (Brno)</orgName></org><org xml:id="org__1218"><orgName>Sozialdemokratische Arbeiterpartei Deutschösterreichs (SDAP)</orgName></org><org xml:id="org__1290"><orgName>tschechoslowakischer Staat</orgName></org><org xml:id="org__3301"><orgName>Deutschösterreichischer Staat</orgName></org><org xml:id="org__3439"><orgName>k.k. Justizministerium</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

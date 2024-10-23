@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0182.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0181.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0183.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">StA der Finanzen, Departement 18D: Frage nach der Bildung von Beamtenräten, nachdem es innerhalb der Beamtenschaft den Wunsch nach Bildung von Organen gibt</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2527</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>Bestand: Staatskanzlei - BKA/alt Varia 1919 Zwischenstaatliches Komitee; Verhandlungsschriften Nr. 1 - 25 zu den Sitzungen des zwischenstaatsamtlichen Komitees für Staatsbedienstetenangelegenheiten,Nr: 01.,Unterpunkt: 01.,Seite: 1f,</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__3257">Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>StA der Finanzen, Departement 18D: Frage nach der Bildung von Beamtenräten; nachdem es innerhalb der Beamtenschaft den Wunsch nach Bildung von Organen zur Vertretung ihrer Wünsche und Beschwerden und nach Mitwirkung in Fragen der Staatsbeamten gibt, sollte die Regierung hier tätig werden, bevor die Staatsbedienstetenschaft etwa über politische Parteien ihre Interessen zum Ausdruck bringt. Der Zentralverband der deutschösterreichischen Finanzwache beschloss die sofortige Einsetzung eines Personalrats. ANTWORT DER KOMMISSION: Der Frage ist sogleich näherzutreten. Ministerialrat Dr. Zweig übernimmt die Ausarbeitung eines Antrages an den Kabinettsrat, Fühlungnahme mit den Staatsbediensteten in dieser Sache</p>
+        </abstract>
+        <creation>
+            <date notBefore="1918-12-09" notAfter="1918-12-09">
+                9. Dezember 1918
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Beamtenrat</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Mitbestimmung</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Personalrat</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Staatsbedienstetenorganisationen</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Demokratisierung</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Politische Parteien</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-26 12:51:48.837071+00:00" who="#pbecker"/><change when="2019-09-21 15:59:32.257349+00:00" who="#pbecker"/><change when="2019-02-26 15:07:53.774451+00:00" who="#gsteiner"/><change when="2019-02-26 15:03:18.911922+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__923"><persName><surname>Zweig</surname><forename>Egon</forename><roleName>Dr.</roleName></persName><birth/><death/></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1007"><orgName>deutschösterr. Regierung</orgName></org><org xml:id="org__1105"><orgName>Kabinettsrat</orgName></org><org xml:id="org__1220"><orgName>Staatsamt für Finanzen</orgName></org><org xml:id="org__1221"><orgName>StA der Finanzen (Department 18D)</orgName></org><org xml:id="org__1248"><orgName>Staatsbedienstetenorganisationen</orgName></org><org xml:id="org__1256"><orgName>Staatsrat</orgName></org><org xml:id="org__1332"><orgName>Zentralverband der deutschösterr. Finanzwache</orgName></org><org xml:id="org__3257"><orgName>Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</orgName></org><org xml:id="org__3301"><orgName>Deutschösterreichischer Staat</orgName></org><org xml:id="org__3791"><orgName>Personalrat der Finanzwache</orgName></org><org xml:id="org__3792"><orgName>Personalrat der Finanzwache (geschäftsführender Ausschuss)</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

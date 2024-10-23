@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0487.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0486.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0488.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ernennung einer Aushilfsdienerin zur Amtsdienerin</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2702</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>Bestand: Staatskanzlei - BKA/alt Varia 1919  Zwischenstaatliches Komitee; Verhandlungsschriften Nr. 26 - 50 zu den Sitzungen des zwischenstaatsamtlichen Komitees für Staatsbedienstetenangelegenheiten, Nr: 49., Unterpunkt: 02., Seite: 77</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__3257">Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>Staatsamt für Inneres und Unterricht: Eine Frauensperson wurde am 30. November 1902 von einer Bezirkshauptmannschaft in Durchführung der Verordnung des Gesamtministeriums vom 15. Oktober 1902, RGBl. Nr. 200, zur Aushilfsdienerin bestellt. Mit Bezugnahme auf das Gesetz vom 5. Februar 1919, StGBl. 100, ist die Genannte um Ernennung zur Amtsdienerin bittlich geworden. Das StA des Innern befindet, dass die Ernennung der Genannten zur Aushilfsdienerin der Verordnung 200/1902 widersprechen würde, weshalb auch ihre Ernennung zur Amtsdienerin nicht in Frage kommen kann. ANTWORT DER KOMMISSION: Einverstanden.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-05-16" notAfter="1919-05-16">
+                16. Mai 1919
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-10-27 09:16:14.333881+00:00" who="#pbecker"/><change when="2019-10-19 16:57:17.990422+00:00" who="#gsteiner"/><change when="2019-10-02 12:47:19.908895+00:00" who="#pbecker"/><change when="2019-10-02 12:44:05.547619+00:00" who="#pbecker"/><change when="2019-03-20 17:39:57.009299+00:00" who="#gsteiner"/><change when="2019-03-20 17:39:26.583077+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         </listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         </listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1030"><orgName>k.k. Regierung</orgName></org><org xml:id="org__1225"><orgName>Staatsamt des Innern</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

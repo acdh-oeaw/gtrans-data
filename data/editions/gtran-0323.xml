@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0323.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0322.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0324.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Anregung des Staatsangestelltenrates in Linz bezüglich Entscheidung über Übernahme von Staatsangestellten</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2543</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Österreichisches Staatsarchiv / Archiv der Republik</repository>
+                    <msName>Bestand: Staatskanzlei - BKA/alt Varia 1919  Zwischenstaatliches Komitee; Verhandlungsschriften Nr. 1 - 25 zu den Sitzungen des zwischenstaatsamtlichen Komitees für Staatsbedienstetenangelegenheiten, Nr: 04., Unterpunkt: 01., Seite: 10</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Protokoll</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><msItem><author ref="#org__3257">Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>StA des Innern: Der deutschösterr. Staatsangestelltenrat in Linz regt an, die Entscheidung über Übernahme oder nicht zur Vermeidung von ungleichen Entscheidungen einer Kommission der Staatsbedienstetenorganisationen zu überlassen. ANTWORT DER KOMMISSION: Das wird abgelehnt, jedoch sollen zweifelhafte Fälle nicht von Amts wegen allein, sondern Anregungen von anderer Seite, insbesondere der Staatsbedienstetenorganisationen, sollten wahrgenommen und danach gehandelt werden.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1918-12-16" notAfter="1918-12-16">
+                16. Dezember 1918
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Staatsbediensteten-Kommission</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Staatsbedienstetenorganisationen</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-26 13:19:34.128627+00:00" who="#pbecker"/><change when="2019-10-18 13:27:27.587530+00:00" who="#gsteiner"/><change when="2019-09-21 17:51:54.043543+00:00" who="#pbecker"/><change when="2019-02-27 10:13:03.361315+00:00" who="#gsteiner"/><change when="2019-02-27 10:12:42.147856+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         </listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__490"><placeName>Linz</placeName><location><geo decls="#LatLng">48.306390000000 14.286110000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2772400/</idno></place><place xml:id="place__576"><placeName>Vorarlberg</placeName><location><geo decls="#LatLng">47.250000000000 9.916670000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2762300/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1225"><orgName>Staatsamt des Innern</orgName></org><org xml:id="org__1244"><orgName>Staatsangestelltenrat Linz</orgName></org><org xml:id="org__1247"><orgName>Staatsbediensteten-Kommission der Staatsbedienstetenorganisationen (vorgeschlagen)</orgName></org><org xml:id="org__1248"><orgName>Staatsbedienstetenorganisationen</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0640.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0639.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0641.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Verband der Fachvereine der Angestellten der Stadt Wien, Wünsche der Beamtenschaft (Dienstordnung)</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#vhelfert">Helfert, Veronika</rs></editor><editor><rs ref="#tgarstenauer">Garstenauer, Therese</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2507</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Wiener Stadt- und Landesarchiv</repository>
+                    <msName>Bestand: Wiener Stadt- und Landesarchiv, 1.5.3 Magistratsdirektion, Karton: ?, Aktenzahl: 791/1919</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Akt</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents/></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#vhelfert #tgarstenauer">
+            <p>Der Akt enthält ein Schreiben des Verbands der Fachvereine der Angestellten der Stadt Wien vom 24.1.1919 an den Bürgermeister, das auch ein 12seitiges Memorandum des Verbands über die Reform des Dienstverhältnisses einschließt. Es liegt auch ein Blatt der "Unpolitischen Standesvereinigung der Wiener Lehrerschaft" bei, die sich dem Memorandum "vollinhaltlich" anschließt. Im Schreiben heißt es u. a.: "Ein neuer Geist erfüllt die Welt, der alte, bisher für unmöglich gehaltene Anschauungen und Auffassungen umstürzt." Unter der Aktenzahl 791/1919 ist auch der Erlass des Magistratsdirektors vom 10. Mai 1919, mit dem Exemplare der neuen Dienstordnung an alle Dienststellen geschickt werden. Jeder und jede Angestellte, der oder die der Dienstordnung unterstehen, erhalten ein Exemplar und müssen mit ihrer Unterschrift bestätigen, dass sie den Bestimmungen zustimmen. Im Akt sind auch Dienstzettel der Leiter der Dienststellen, die für ihre Angestellten die entsprechende Anzahl von Exemplaren der Dienstordnung anfordern.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-01-24" notAfter="1919-05-10">
+                1919-01-24
+            </date>
+        </creation>
+     <textClass/></profileDesc>
+  <revisionDesc><change when="2019-09-21 10:12:48.416775+00:00" who="#pbecker"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         </listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__1299"><orgName>Verband der Fachvereine der städtischen Angestellten</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>

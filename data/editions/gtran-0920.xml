@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0920.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0919.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0921.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Reform der allgemeinen Dienstpragmatik. Bericht über die Sitzung des Komitees zur Beratung der Maßnahmen zu Gunsten der städtischen Angestellten, am 19. April 1919</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#vhelfert">Helfert, Veronika</rs></editor><editor><rs ref="#tgarstenauer">Garstenauer, Therese</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/2483</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Wiener Stadt- und Landesarchiv</repository>
+                    <msName>Bestand: Wiener Stadt- und Landesarchiv, 1.5.3 Magistratsdirektion, Karton: #NR, Aktenzahl: 2621/1919 [3]</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Akt</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents/></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#vhelfert #tgarstenauer">
+            <p>Magistratsrat Gmeiner berichtet in der Sitzung des Komitees zur Beratung der Maßnahmen zu Gunsten der Angestellten über die wesentlichsten Änderungen der "Allgemeinen Dienstordnung" und die Verhandlungen über den Entwurf des Verbandes der Angestellten der Gemeinde Wien sowie über die Punkte, in denen es zwischen dem "Magistrat und Verband" zu keinem Einvernehmen gekommen ist wie etwa in der Frage der Ruhegenüsse von Entlassenen, bei den Stellenbesetzungen (Dienstalter vs. Befähigung) oder dort wo die Befugnisse und Rechte des Bürgermeisters und der Stadträte geschmälert würden (wie etwa bei den Kompetenzen der Disziplinarausschüsse). Nach längerer Debatte werden einzelne Punkte der Dienstordnung verändert und neu beschlossen (z.B. Besetzung von Stellen, Regelung von Ruhegenüssen an Witwen, wenn die Ehe erst im Ruhestand geschlossen wurde etc.). Erneut findet eine längere Debatte zur Dienstzeit der Beamten in den magistratischen Ämtern statt (6 Stunden). Um die Bezüge der Angestellten im Ruhestand regeln zu können wird der Magistrat noch um mehr Auskünfte bzgl. Teuerungszulagen gebeten.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-04-19" notAfter="1919-04-19">
+                1919-04-19
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Pensionierung</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-09-21 08:28:46.784254+00:00" who="#pbecker"/><change when="2019-03-28 15:30:29.156101+00:00" who="#pandorfer"/><change when="2019-03-28 15:30:15.889204+00:00" who="#pandorfer"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         <person xml:id="person__600"><persName><surname>Ambros</surname><forename>Karoline</forename><roleName/></persName><birth when="1857-03-30">1857-03-30</birth><death/><idno>http://d-nb.info/gnd/138150397</idno></person><person xml:id="person__602"><persName><surname>Angermayer</surname><forename>Karl</forename><roleName/></persName><birth when="1862-11-17">1862-11-17<placeName key="#place__580">Wien</placeName></birth><death when="1941-04-05">1941-04-05<placeName key="#place__580">Wien</placeName></death><idno>https://de.wikipedia.org/wiki/Karl_Angermayer</idno></person><person xml:id="person__620"><persName><surname>Breitner</surname><forename>Hugo</forename><roleName/></persName><birth when="1873-11-09">1873-11-09<placeName key="#place__580">Wien</placeName></birth><death when="1946-03-05">1946-03-05<placeName key="#place__3127">Claremont</placeName></death><idno>http://d-nb.info/gnd/119179504</idno></person><person xml:id="person__653"><persName><surname>Frank</surname><forename/><roleName>Dr.</roleName></persName><birth/><death/></person><person xml:id="person__668"><persName><surname>Gratzer</surname><forename/><roleName>Mag. Sekretär Dr.</roleName></persName><birth/><death/></person><person xml:id="person__682"><persName><surname>Gussenbauer</surname><forename>Adolf</forename><roleName/></persName><birth/><death/></person><person xml:id="person__702"><persName><surname>Hintermayer</surname><forename/><roleName>Dr.</roleName></persName><birth/><death/></person><person xml:id="person__731"><persName><surname>Kirner</surname><forename/><roleName>Mag.Ober-Kommissär</roleName></persName><birth/><death/></person><person xml:id="person__752"><persName><surname>Lasch</surname><forename>Eduard</forename><roleName>Bau-Inspektor Dipl.-Ing.</roleName></persName><birth when="1875-05-26">1875-05-26<placeName key="#place__580">Wien</placeName></birth><death when="1942-07-28">1942-07-28<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/1111041954</idno></person><person xml:id="person__830"><persName><surname>Rumler</surname><forename/><roleName/></persName><birth/><death/></person><person xml:id="person__835"><persName><surname>Schlesinger</surname><forename/><roleName>Dr.</roleName></persName><birth/><death/></person><person xml:id="person__889"><persName><surname>Untermüller</surname><forename>Karl</forename><roleName/></persName><birth/><death/></person><person xml:id="person__891"><persName><surname>Vaugoin</surname><forename>Karl</forename><roleName/></persName><birth/><death/></person></listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         </listOrg>
+      </back>
+  </text>
+</TEI>

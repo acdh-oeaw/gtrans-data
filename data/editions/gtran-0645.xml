@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gtran-0645.xml" prev="https://gtrans.acdh.oeaw.ac.at/gtran-0644.xml" next="https://gtrans.acdh.oeaw.ac.at/gtran-0646.xml" xml:base="https://gtrans.acdh.oeaw.ac.at">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Die Altersgrenze für den richterlichen Dienst</title>
+            <title type="sub">Great Transformation App</title>
+         <editor><rs ref="#gsteiner">Steiner, Guenther</rs></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <idno type="django_id">https://gtrans.acdh.oeaw.ac.at/archiv/archresource/detail/3551</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                    <repository>Beamten-Zeitung. Zeitschrift des Ersten allgemeinen Beamten-Vereines. Organ für die Gesamtinteressen der Beamten aller Klassen, Erster allgemeiner Beamten-Verein (Hg.), Wien, 50. Jahrgang 1919</repository>
+                    <msName>Beamten-Zeitung, 15. 1. 1919, 2f.</msName>
+               </msIdentifier>
+               <physDesc>
+                    <typeDesc>
+                        <p>Zeitungsartikel</p>
+                    </typeDesc>
+               </physDesc>
+            <msContents><p>vgl. Gesetz vom 22. November 1918 über die aus Anlaß von Änderungen der Gerichtsverfassung erforderlichen Maßnahmen, StGBl. 39/1918&#13;
+&#13;
+Grundgesetz über die richterliche Gewalt, StGBl. 38/1918</p><msItem><author ref="#org__3496">Erster allgemeiner Beamten-Verein</author></msItem></msContents></msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract resp="#gsteiner">
+            <p>Bericht über die Pensionierung von Richtern mit dem 60. Lebensjahr bei 35 Dienstjahren. Der in den Richtlinien festgesetzte Grundsatz gelte auch für Richter. Das Ausscheiden von Richtern sei durch die Verkleinerung des Staatsgebietes und die Notwendigkeit, jüngere Richter, die zum Verlassen ihres Postens außerhalb des deutschösterreichischen Staatsgebietes gezwungen wurden, aufzunehmen, gegeben. Der gewählte Weg bringe für die Richter die geringsten Nachteile. Um Härten zu vermeiden, wurden Zulagen gewährt. Man will damit auch der Weltfremdheit von Urteilen aufgrund der Überalterung der Richter vorbeugen und die Qualität des richterlichen Dienstes heben. Daher wird das Rangklassensystem aufgehoben und die Richterposten nach Können und Befähigung besetzt. Dies schütze auch die Unabhängigkeit der Richter besser.</p>
+        </abstract>
+        <creation>
+            <date notBefore="1919-01-15" notAfter="1919-01-15">
+                15. Jänner 1919
+            </date>
+        </creation>
+     <textClass><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Vorrückung</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Beamtenorganisation</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Demokratisierung</keywords><keywords scheme="http://www.w3.org/2004/02/skos/core#prefLabel">Pensionierung</keywords></textClass></profileDesc>
+  <revisionDesc><change when="2019-10-24 12:12:17.072431+00:00" who="#pbecker"/><change when="2019-10-11 10:06:59.405287+00:00" who="#pbecker"/><change when="2019-01-14 14:04:51.145871+00:00" who="#gsteiner"/></revisionDesc></teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+      <back>
+         <listPerson>
+            <head>Erwähnte Personen</head>
+            <person/>
+         </listPerson>
+         <listPlace>
+            <head>Erwähnte Orte</head>
+            <place/>
+         <place xml:id="place__444"><placeName>fremdnationales Gebiet</placeName><idno type="GEONAMES"/></place></listPlace>
+         <listOrg>
+            <head>Erwähnte Institutionen</head>
+            <org/>
+         <org xml:id="org__3301"><orgName>Deutschösterreichischer Staat</orgName></org><org xml:id="org__3428"><orgName>Oberster Gerichts- und Kassationshof</orgName></org><org xml:id="org__3478"><orgName>Vereinigung der österreichischen Richter</orgName></org><org xml:id="org__3550"><orgName>Staatskorrespondenz</orgName></org></listOrg>
+      </back>
+  </text>
+</TEI>
