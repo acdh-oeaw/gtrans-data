@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Team</title>
+            <title type="sub">Die Große Transformation</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div>
+            <head>Historiker_innen</head>
+            <div>
+               <head>Veronika Helfert</head>
+               <p>Veronika Helfert ist Projektmitarbeiterin am Institut für Österreichische Geschichtsforschung der Universität Wien und Kuratorin. Sie arbeitet zur Transformationsphase der Habsburgermonarchie zur Ersten Republik aus einer frauen- und geschlechterhistorischen sowie einer verwaltungsgeschichtlichen Perspektive.</p>
+            </div>
+            <div>
+               <head>Karl Megner</head>
+               <p>Karl Megner war in seiner aktiven Berufszeit stv. Bibliotheksleiter und Lektor an der Universität Wien. Seine Publikationen befassen sich u.a. mit der Sozialgeschichte der österreichischen Beamten, mit Rechtsgeschichte und der Geschichte des Buchhandels und Verlagswesens.</p>               
+            </div>
+            <div>
+               <head>Guenther Steiner</head>
+               <p>Universität Wien. Er arbeitet vor allem zur politischen Zeitgeschichte Österreichs und zur Geschichte der Sozialversicherung in Österreich.</p>
+            </div>
+            <div>
+               <head>Therese Garstenauer</head>
+               <p>Therese Garstenauer erforscht in diesem Projekt den Bereich der Bediensteten der Stadt Wien. Sie ist Senior Post-Doc am Institut für Wirtschafts- und Sozialgeschichte der Universität Wien mit einem Habilitationsprojekt zu standesgemäßer Lebensführung von österreichischen Staatsbediensteten der Zwischenkriegszeit.</p>
+            </div>
+         </div>
+         <div>
+            <head>Projektleitung und Koordination</head>
+            <div>
+               <div>
+                  <head>Peter Becker</head>
+                  <p>Peter Becker ist Projektleiter und Professor für Österreichische Geschichte und Geschichte des 19. und 20. Jahrhunderts am Institut für Geschichte der Universität Wien. Zu seinen Forschungsschwerpunkten zählen Verwaltungsgeschichte und die Geschichte der Kriminologie.</p>
+               </div>
+               <div>
+                  <head>Thomas Stockinger</head>
+                  <p>Thomas Stockinger war von 2014 bis 2019 Universitätsassistent am Institut für Österreichische Geschichtsforschung der Universität Wien. Derzeit ist er wissenschaftlicher Mitarbeiter am Leibniz-Archiv an der Gottfried Wilhelm Leibniz Bibliothek/Niedersächsischen Landesbibliothek Hannover. Zu seinen Forschungsfeldern gehören die Geschichte der öffentlichen Verwaltung im 19. Jahrhundert, die Geschichte der Demokratisierung und speziell der Wahlen sowie die Geschichte der Methoden der Geschichtsforschung und der frühneuzeitlichen historischen Gelehrsamkeit.</p>
+               </div>
+            </div>
+         </div>
+      </body>
+  </text>
+</TEI>
