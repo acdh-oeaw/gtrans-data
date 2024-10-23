@@ -1,0 +1,1595 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Institutionsregister</title>
+            <title type="sub">Great Transformation App</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listOrg>
+            <org xml:id="org__1120">
+               <orgName>Konstituierende Nationalversammlung</orgName>
+            </org>
+            <org xml:id="org__1273">
+               <orgName>Stellwagenunternehmung (städtische)</orgName>
+            </org>
+            <org xml:id="org__1007">
+               <orgName>deutschösterr. Regierung</orgName>
+            </org>
+            <org xml:id="org__1051">
+               <orgName>fremdnationale Staaten</orgName>
+            </org>
+            <org xml:id="org__1256">
+               <orgName>Staatsrat</orgName>
+            </org>
+            <org xml:id="org__3301">
+               <orgName>Deutschösterreichischer Staat</orgName>
+            </org>
+            <org xml:id="org__3423">
+               <orgName>k.k. Ministerrats-Präsidium</orgName>
+            </org>
+            <org xml:id="org__3424">
+               <orgName>Abgeordnetenhaus des Reichsrats</orgName>
+            </org>
+            <org xml:id="org__3425">
+               <orgName>Hof- und Staatsdruckerei</orgName>
+            </org>
+            <org xml:id="org__3426">
+               <orgName>Österreichische Länder</orgName>
+            </org>
+            <org xml:id="org__1253">
+               <orgName>Staatskanzlei</orgName>
+            </org>
+            <org xml:id="org__1290">
+               <orgName>tschechoslowakischer Staat</orgName>
+            </org>
+            <org xml:id="org__3470">
+               <orgName>SHS-Staat</orgName>
+            </org>
+            <org xml:id="org__991">
+               <orgName>Christlichsoziale Partei (CSP)</orgName>
+            </org>
+            <org xml:id="org__1238">
+               <orgName>Staatsamt für Unterricht</orgName>
+            </org>
+            <org xml:id="org__1331">
+               <orgName>Zentralanstalt für Meteorologie</orgName>
+            </org>
+            <org xml:id="org__1083">
+               <orgName>Hochschule</orgName>
+            </org>
+            <org xml:id="org__1109">
+               <orgName>Klub der Sozialdemokraten im Wiener Gemeinderate</orgName>
+            </org>
+            <org xml:id="org__1277">
+               <orgName>Straßenbahnen (städtische)</orgName>
+            </org>
+            <org xml:id="org__989">
+               <orgName>Bürgerschule</orgName>
+            </org>
+            <org xml:id="org__1043">
+               <orgName>Finanzkommission</orgName>
+            </org>
+            <org xml:id="org__1322">
+               <orgName>Volksschule</orgName>
+            </org>
+            <org xml:id="org__1162">
+               <orgName>Niederösterreichische Finanzlandesdirektion</orgName>
+            </org>
+            <org xml:id="org__1308">
+               <orgName>Verein der deutschen Steuerbeamten in Mähren</orgName>
+            </org>
+            <org xml:id="org__3285">
+               <orgName>Kreis Deutschsüdmähren</orgName>
+            </org>
+            <org xml:id="org__1030">
+               <orgName>k.k. Regierung</orgName>
+            </org>
+            <org xml:id="org__1149">
+               <orgName>Liquidierungskommission</orgName>
+            </org>
+            <org xml:id="org__1196">
+               <orgName>Qualifikationskommission</orgName>
+            </org>
+            <org xml:id="org__1323">
+               <orgName>Volkswehr</orgName>
+            </org>
+            <org xml:id="org__1105">
+               <orgName>Kabinettsrat</orgName>
+            </org>
+            <org xml:id="org__963">
+               <orgName>Ausschuss der Bukowinaer Staatsangestellten</orgName>
+            </org>
+            <org xml:id="org__1031">
+               <orgName>ehemals österr. Staat</orgName>
+            </org>
+            <org xml:id="org__1084">
+               <orgName>Hofärar</orgName>
+            </org>
+            <org xml:id="org__1224">
+               <orgName>Staatsamt des Äußern</orgName>
+            </org>
+            <org xml:id="org__1226">
+               <orgName>Staatsamt für Gewerbe, Industrie und Handel</orgName>
+            </org>
+            <org xml:id="org__1151">
+               <orgName>Magistratsdirektion (Stadt Wien)</orgName>
+            </org>
+            <org xml:id="org__1028">
+               <orgName>k.k. Ackerbauministerium</orgName>
+            </org>
+            <org xml:id="org__1142">
+               <orgName>Liqudierungskommissär</orgName>
+            </org>
+            <org xml:id="org__1220">
+               <orgName>Staatsamt für Finanzen</orgName>
+            </org>
+            <org xml:id="org__1234">
+               <orgName>Staatsamt für Landwirtschaft</orgName>
+            </org>
+            <org xml:id="org__3654">
+               <orgName>Staatssiegelamt</orgName>
+            </org>
+            <org xml:id="org__1035">
+               <orgName>Enquete zum Lehrergehaltsgesetz</orgName>
+            </org>
+            <org xml:id="org__1227">
+               <orgName>Staatsamt für Heerwesen</orgName>
+            </org>
+            <org xml:id="org__1090">
+               <orgName>italien. Staat</orgName>
+            </org>
+            <org xml:id="org__1239">
+               <orgName>Staatsamt für Verkehrswesen</orgName>
+            </org>
+            <org xml:id="org__1246">
+               <orgName>Staatsbahn</orgName>
+            </org>
+            <org xml:id="org__1167">
+               <orgName>Oberösterreichische Landesregierung</orgName>
+            </org>
+            <org xml:id="org__1280">
+               <orgName>südböhmischer Kreis</orgName>
+            </org>
+            <org xml:id="org__3288">
+               <orgName>südmährischer Kreis</orgName>
+            </org>
+            <org xml:id="org__1008">
+               <orgName>deutschösterr. Staatsangestelltenverein</orgName>
+            </org>
+            <org xml:id="org__1201">
+               <orgName>Reichsschutzverein der Militärzertifikatisten Österreichs</orgName>
+            </org>
+            <org xml:id="org__1204">
+               <orgName>Reichsverein der Justizdiener und Gefangenenaufseher Österreichs</orgName>
+            </org>
+            <org xml:id="org__1229">
+               <orgName>Staatsamt für Heerwesen (statistischer Dienst)</orgName>
+            </org>
+            <org xml:id="org__1268">
+               <orgName>Statistisches Landesbüro Prag (Praha)</orgName>
+            </org>
+            <org xml:id="org__3477">
+               <orgName>ständige Vertretung der deutschösterreichischen Staatsangestelltenvereine</orgName>
+            </org>
+            <org xml:id="org__3527">
+               <orgName>ständige Vertretung der österreichischen Staatsbeamtenvereine</orgName>
+            </org>
+            <org xml:id="org__974">
+               <orgName>Berggericht St. Pölten</orgName>
+            </org>
+            <org xml:id="org__1123">
+               <orgName>Kreisgericht Znaim (Znojmo)</orgName>
+            </org>
+            <org xml:id="org__1124">
+               <orgName>Kremsier Sprengel (Kroměříž)</orgName>
+            </org>
+            <org xml:id="org__1232">
+               <orgName>Staatsamt für Justiz</orgName>
+            </org>
+            <org xml:id="org__1282">
+               <orgName>Sudetenland</orgName>
+            </org>
+            <org xml:id="org__1000">
+               <orgName>deutschösterr. Generaldirektion für Post-, Telegraphen- und Fernsprechwesen</orgName>
+            </org>
+            <org xml:id="org__1202">
+               <orgName>Reichsverband der Staatsangestellten</orgName>
+            </org>
+            <org xml:id="org__1066">
+               <orgName>Gesandtenkonferenz</orgName>
+            </org>
+            <org xml:id="org__1206">
+               <orgName>rumän. Staat</orgName>
+            </org>
+            <org xml:id="org__3656">
+               <orgName>zwischenstaatliche Kommission zur Regelung von
+                  Staatsbediensteten-Angelegenheiten</orgName>
+            </org>
+            <org xml:id="org__3662">
+               <orgName>ukrainischer Staat</orgName>
+            </org>
+            <org xml:id="org__3731">
+               <orgName>Regierung Bukowina</orgName>
+            </org>
+            <org xml:id="org__3760">
+               <orgName>k.u.k. Zentralstellen</orgName>
+            </org>
+            <org xml:id="org__1317">
+               <orgName>Verfassungskommission</orgName>
+            </org>
+            <org xml:id="org__1297">
+               <orgName>Union der Ziegelarbeiter</orgName>
+            </org>
+            <org xml:id="org__1303">
+               <orgName>Verband der Tonindustriellen</orgName>
+            </org>
+            <org xml:id="org__1160">
+               <orgName>Nationalrat (rumänischer)</orgName>
+            </org>
+            <org xml:id="org__1056">
+               <orgName>Gemeinderat (Wien)</orgName>
+            </org>
+            <org xml:id="org__3524">
+               <orgName>Zentralverband der österreichischen Staatsbeamtenvereine</orgName>
+            </org>
+            <org xml:id="org__3556">
+               <orgName>Pensionistenverein</orgName>
+            </org>
+            <org xml:id="org__1025">
+               <orgName>k.u.k. Ministerium des Äußern (Archiv)</orgName>
+            </org>
+            <org xml:id="org__1081">
+               <orgName>Haus-, Hof- und Staatsarchiv</orgName>
+            </org>
+            <org xml:id="org__1086">
+               <orgName>Hofkammerarchiv</orgName>
+            </org>
+            <org xml:id="org__1067">
+               <orgName>Geschäftsstelle der Personalreferenten</orgName>
+            </org>
+            <org xml:id="org__1078">
+               <orgName>Handelskammer Reichenberg (Liberec)</orgName>
+            </org>
+            <org xml:id="org__3280">
+               <orgName>Landesregierung Deutschböhmen</orgName>
+            </org>
+            <org xml:id="org__3395">
+               <orgName>Österreichisch-ungarische Bank</orgName>
+            </org>
+            <org xml:id="org__1034">
+               <orgName>Elektrizitätswerke (städtische)</orgName>
+            </org>
+            <org xml:id="org__1259">
+               <orgName>Gaswerke (städtische)</orgName>
+            </org>
+            <org xml:id="org__3482">
+               <orgName>Abgeordnetenhaus des Reichsrats (Staatsangestelltenausschuss)</orgName>
+            </org>
+            <org xml:id="org__3507">
+               <orgName>Wiener Zeitung</orgName>
+            </org>
+            <org xml:id="org__1289">
+               <orgName>tschechoslowakische Regierung</orgName>
+            </org>
+            <org xml:id="org__3257">
+               <orgName>Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</orgName>
+            </org>
+            <org xml:id="org__1225">
+               <orgName>Staatsamt des Innern</orgName>
+            </org>
+            <org xml:id="org__1236">
+               <orgName>Staatsamt für soziale Fürsorge</orgName>
+            </org>
+            <org xml:id="org__1095">
+               <orgName>Juristentag</orgName>
+            </org>
+            <org xml:id="org__1169">
+               <orgName>Oberster Gerichtshof</orgName>
+            </org>
+            <org xml:id="org__1257">
+               <orgName>Staatsratsdirektorium</orgName>
+            </org>
+            <org xml:id="org__1022">
+               <orgName>k.u.k. Kriegsministerium</orgName>
+            </org>
+            <org xml:id="org__1041">
+               <orgName>Feuerwehr (städtische)</orgName>
+            </org>
+            <org xml:id="org__1165">
+               <orgName>Oberlandesgericht Prag (Praha)</orgName>
+            </org>
+            <org xml:id="org__1287">
+               <orgName>tschechoslowak. Justizministerium</orgName>
+            </org>
+            <org xml:id="org__1339">
+               <orgName>zwischenstaatliche Personalvermittlungsstelle</orgName>
+            </org>
+            <org xml:id="org__3414">
+               <orgName>Deutsche Universität Prag</orgName>
+            </org>
+            <org xml:id="org__3415">
+               <orgName>Deutsche Technische Hochschule Prag</orgName>
+            </org>
+            <org xml:id="org__1069">
+               <orgName>Gesundheitsamt der Stadt Wien</orgName>
+            </org>
+            <org xml:id="org__961">
+               <orgName>Amtstelle für die Wirtschaftsbetriebe der städtischen Angestellten</orgName>
+            </org>
+            <org xml:id="org__1127">
+               <orgName>Lagerhaus (städtisches)</orgName>
+            </org>
+            <org xml:id="org__970">
+               <orgName>Beamtenkammer Bozen</orgName>
+            </org>
+            <org xml:id="org__1139">
+               <orgName>Lastkraftwagenbetrieb (städtischer)</orgName>
+            </org>
+            <org xml:id="org__1045">
+               <orgName>Finanzlandesdirektion Klagenfurt</orgName>
+            </org>
+            <org xml:id="org__1147">
+               <orgName>Liquidierungskommissär im StA für Gewerbe</orgName>
+            </org>
+            <org xml:id="org__1210">
+               <orgName>Seeverwaltung</orgName>
+            </org>
+            <org xml:id="org__1052">
+               <orgName>Friedenskonferenz</orgName>
+            </org>
+            <org xml:id="org__1119">
+               <orgName>Königreich Böhmen</orgName>
+            </org>
+            <org xml:id="org__1137">
+               <orgName>Landesverwaltung Schlesien (deutschösterr.)</orgName>
+            </org>
+            <org xml:id="org__1185">
+               <orgName>Post</orgName>
+            </org>
+            <org xml:id="org__1274">
+               <orgName>Stenographenamt (städtisches)</orgName>
+            </org>
+            <org xml:id="org__3611">
+               <orgName>Reichsgericht</orgName>
+            </org>
+            <org xml:id="org__3669">
+               <orgName>Nationalrat in Krumau</orgName>
+            </org>
+            <org xml:id="org__1284">
+               <orgName>Tabakfabrik Iglau</orgName>
+            </org>
+            <org xml:id="org__982">
+               <orgName>bosnische Regierung</orgName>
+            </org>
+            <org xml:id="org__1218">
+               <orgName>Sozialdemokratische Arbeiterpartei Deutschösterreichs (SDAP)</orgName>
+            </org>
+            <org xml:id="org__1122">
+               <orgName>Kraftstellwagenunternehmung</orgName>
+            </org>
+            <org xml:id="org__1113">
+               <orgName>Komitee zur Beratung über Maßnahmen zu Gunsten der städtischen Angestellten</orgName>
+            </org>
+            <org xml:id="org__1310">
+               <orgName>Verein von Kanzleioffizianten</orgName>
+            </org>
+            <org xml:id="org__3776">
+               <orgName>internationale Liquidierungskommission</orgName>
+            </org>
+            <org xml:id="org__1145">
+               <orgName>Liquidierungskommissär beim Staatsamt für Unterricht</orgName>
+            </org>
+            <org xml:id="org__1252">
+               <orgName>Staatsgymnasium Marburg (Maribor)</orgName>
+            </org>
+            <org xml:id="org__1272">
+               <orgName>steiermärkischer Landesschulrat</orgName>
+            </org>
+            <org xml:id="org__1029">
+               <orgName>ehemals österreichisch-ungarische Monarchie</orgName>
+            </org>
+            <org xml:id="org__3586">
+               <orgName>Financni Svet</orgName>
+            </org>
+            <org xml:id="org__990">
+               <orgName>Burgwache</orgName>
+            </org>
+            <org xml:id="org__1194">
+               <orgName>Provisorische Nationalversammlung</orgName>
+            </org>
+            <org xml:id="org__3886">
+               <orgName>Parlamentswache</orgName>
+            </org>
+            <org xml:id="org__3176">
+               <orgName>Tschechoslowakische Partei</orgName>
+            </org>
+            <org xml:id="org__1141">
+               <orgName>Leichenbestattung (städtische)</orgName>
+            </org>
+            <org xml:id="org__994">
+               <orgName>Provinz Deutschböhmen</orgName>
+            </org>
+            <org xml:id="org__1009">
+               <orgName>deutschösterr. Staatskanzlei, deutschböhmische Abteilung</orgName>
+            </org>
+            <org xml:id="org__1221">
+               <orgName>StA der Finanzen (Department 18D)</orgName>
+            </org>
+            <org xml:id="org__1248">
+               <orgName>Staatsbedienstetenorganisationen</orgName>
+            </org>
+            <org xml:id="org__1332">
+               <orgName>Zentralverband der deutschösterr. Finanzwache</orgName>
+            </org>
+            <org xml:id="org__3791">
+               <orgName>Personalrat der Finanzwache</orgName>
+            </org>
+            <org xml:id="org__3792">
+               <orgName>Personalrat der Finanzwache (geschäftsführender Ausschuss)</orgName>
+            </org>
+            <org xml:id="org__1004">
+               <orgName>deutschösterr. Friedensdelegation</orgName>
+            </org>
+            <org xml:id="org__3521">
+               <orgName>k.k. Landwehr</orgName>
+            </org>
+            <org xml:id="org__3824">
+               <orgName>Generalkommissaritat für Liquidierungsangelegenheiten</orgName>
+            </org>
+            <org xml:id="org__1005">
+               <orgName>deutschösterr. Gendarmerie</orgName>
+            </org>
+            <org xml:id="org__3727">
+               <orgName>polnische Regierung</orgName>
+            </org>
+            <org xml:id="org__1249">
+               <orgName>Staatsdirektorium</orgName>
+            </org>
+            <org xml:id="org__1091">
+               <orgName>italienische Regierung</orgName>
+            </org>
+            <org xml:id="org__968">
+               <orgName>Bahnbetriebsamt Bielitz</orgName>
+            </org>
+            <org xml:id="org__1300">
+               <orgName>Verband der Festangestellten in einem Ort in Schlesien</orgName>
+            </org>
+            <org xml:id="org__1195">
+               <orgName>Provisorische Nationalversammlung (Verfassungsausschuss)</orgName>
+            </org>
+            <org xml:id="org__3652">
+               <orgName>Ministerium für Post- und Telegraphenwesen (Tschechoslowakei)</orgName>
+            </org>
+            <org xml:id="org__981">
+               <orgName>Bosnien-Herzegowina (Bosna i Hercegovina)</orgName>
+            </org>
+            <org xml:id="org__997">
+               <orgName>Deutsches Reich</orgName>
+            </org>
+            <org xml:id="org__1200">
+               <orgName>Regierung des SHS-Staates</orgName>
+            </org>
+            <org xml:id="org__3525">
+               <orgName>Postkoalition</orgName>
+            </org>
+            <org xml:id="org__3526">
+               <orgName>Bund der Angestellten des Postsparkassenamtes</orgName>
+            </org>
+            <org xml:id="org__3137">
+               <orgName>Jüdischnationale Partei</orgName>
+            </org>
+            <org xml:id="org__3602">
+               <orgName>Nationalrat für den Bezirk St. Pölten</orgName>
+            </org>
+            <org xml:id="org__1152">
+               <orgName>Metallarbeiterverband</orgName>
+            </org>
+            <org xml:id="org__1294">
+               <orgName>Ueberlandzentrale</orgName>
+            </org>
+            <org xml:id="org__1061">
+               <orgName>Generaldirektion der Tabakregie</orgName>
+            </org>
+            <org xml:id="org__1040">
+               <orgName>Ferlacher Probieranstalt</orgName>
+            </org>
+            <org xml:id="org__1235">
+               <orgName>Staatsamt für öffentliche Arbeiten</orgName>
+            </org>
+            <org xml:id="org__3803">
+               <orgName>Ferlacher Bürgerwehr</orgName>
+            </org>
+            <org xml:id="org__1039">
+               <orgName>Evangelischer Oberkirchenrat</orgName>
+            </org>
+            <org xml:id="org__1197">
+               <orgName>Rat der Angestellten Kärntens</orgName>
+            </org>
+            <org xml:id="org__1153">
+               <orgName>Militärakademie</orgName>
+            </org>
+            <org xml:id="org__1154">
+               <orgName>Militärerziehungsanstalt</orgName>
+            </org>
+            <org xml:id="org__3536">
+               <orgName>Infanteriekadettenschule Breitensee</orgName>
+            </org>
+            <org xml:id="org__3537">
+               <orgName>ehemalige Landeswehrakademie Wien</orgName>
+            </org>
+            <org xml:id="org__3539">
+               <orgName>ehemalige Technische Militärakademie Mödling</orgName>
+            </org>
+            <org xml:id="org__3540">
+               <orgName>Infanteriekadettenschule Graz</orgName>
+            </org>
+            <org xml:id="org__3542">
+               <orgName>Theresianische Militärakademie Wiener Neustadt</orgName>
+            </org>
+            <org xml:id="org__3544">
+               <orgName>Artelleriekadettenschule Traiskirchen</orgName>
+            </org>
+            <org xml:id="org__3545">
+               <orgName>k.u.k. Marineakademie</orgName>
+            </org>
+            <org xml:id="org__3272">
+               <orgName>k.k. Eisenbahnministerium</orgName>
+            </org>
+            <org xml:id="org__1267">
+               <orgName>statistische Zentralkommission</orgName>
+            </org>
+            <org xml:id="org__1006">
+               <orgName>deutschösterr. Generalpostdirektion</orgName>
+            </org>
+            <org xml:id="org__1188">
+               <orgName>Postdirektion Graz</orgName>
+            </org>
+            <org xml:id="org__1215">
+               <orgName>slowenische Regierung; Slowenien (Slovenija)</orgName>
+            </org>
+            <org xml:id="org__3786">
+               <orgName>Postdirektion Laibach</orgName>
+            </org>
+            <org xml:id="org__3787">
+               <orgName>Finanzdirektion Laibach</orgName>
+            </org>
+            <org xml:id="org__3739">
+               <orgName>Gewerkschaft der Ingenieure im deutschösterreichischen Staatsdienste</orgName>
+            </org>
+            <org xml:id="org__1044">
+               <orgName>Finanzlandesdirektion Graz</orgName>
+            </org>
+            <org xml:id="org__1046">
+               <orgName>Finanzlandesdirektion Prag (Praha)</orgName>
+            </org>
+            <org xml:id="org__1184">
+               <orgName>polnischer Staat</orgName>
+            </org>
+            <org xml:id="org__1207">
+               <orgName>rumänischer Nationalrat</orgName>
+            </org>
+            <org xml:id="org__3729">
+               <orgName>Finanzlandesdirektion Lemberg</orgName>
+            </org>
+            <org xml:id="org__3732">
+               <orgName>Finanzlandesbehörde Bukowina</orgName>
+            </org>
+            <org xml:id="org__1074">
+               <orgName>Gewerkschaftsverband der Postangestellten</orgName>
+            </org>
+            <org xml:id="org__3613">
+               <orgName>Provinz Sudetenland</orgName>
+            </org>
+            <org xml:id="org__1330">
+               <orgName>Wiener Sicherheitswache</orgName>
+            </org>
+            <org xml:id="org__1181">
+               <orgName>Personalvermittlungsstelle</orgName>
+            </org>
+            <org xml:id="org__3802">
+               <orgName>Deutschösterreichischer Staatsrechnungshof</orgName>
+            </org>
+            <org xml:id="org__1242">
+               <orgName>Staatsangestelltenkammer</orgName>
+            </org>
+            <org xml:id="org__1055">
+               <orgName>Gemeinde Wien</orgName>
+            </org>
+            <org xml:id="org__1333">
+               <orgName>Zentralverband der deutschösterr. Staatsbeamtenvereine</orgName>
+            </org>
+            <org xml:id="org__3338">
+               <orgName>Herrenhaus</orgName>
+            </org>
+            <org xml:id="org__3686">
+               <orgName>Konstituierende Nationalversammlung (Staatsangestelltenausschuss)</orgName>
+            </org>
+            <org xml:id="org__3608">
+               <orgName>Bezirksausschuss</orgName>
+            </org>
+            <org xml:id="org__1179">
+               <orgName>Pensionsinstitut für die Beamten und Beamtinnen der Straßenbahnen</orgName>
+            </org>
+            <org xml:id="org__1010">
+               <orgName>Disziplinarausschuss (Gemeinde Wien)</orgName>
+            </org>
+            <org xml:id="org__1076">
+               <orgName>Habsburg-Lothringischer Hausschatz</orgName>
+            </org>
+            <org xml:id="org__1087">
+               <orgName>Hofmuseum</orgName>
+            </org>
+            <org xml:id="org__1171">
+               <orgName>Oberst-Kämmereramt</orgName>
+            </org>
+            <org xml:id="org__1192">
+               <orgName>Privatsammlungen des Kaiserhauses</orgName>
+            </org>
+            <org xml:id="org__1042">
+               <orgName>Finanzdirektion Linz</orgName>
+            </org>
+            <org xml:id="org__3584">
+               <orgName>Militärische Korrespondenz</orgName>
+            </org>
+            <org xml:id="org__1276">
+               <orgName>Steueramt Kaplitz (Kaplice)</orgName>
+            </org>
+            <org xml:id="org__984">
+               <orgName>Brauerschutzverband</orgName>
+            </org>
+            <org xml:id="org__1334">
+               <orgName>Zentralverband der Lebens- und Genußmittelarbeiter und -Arbeiterinnen
+                  Österreichs</orgName>
+            </org>
+            <org xml:id="org__1019">
+               <orgName>k. k. Ministerium für Landesverteidigung</orgName>
+            </org>
+            <org xml:id="org__1156">
+               <orgName>Mittelschule</orgName>
+            </org>
+            <org xml:id="org__1230">
+               <orgName>Staatsamt für Volksernährung</orgName>
+            </org>
+            <org xml:id="org__3500">
+               <orgName>Handelsschule</orgName>
+            </org>
+            <org xml:id="org__1001">
+               <orgName>deutsch-österr. Paritätische Kommission</orgName>
+            </org>
+            <org xml:id="org__3346">
+               <orgName>Regierung des Deutschen Reichs</orgName>
+            </org>
+            <org xml:id="org__1266">
+               <orgName>Stadtsenat</orgName>
+            </org>
+            <org xml:id="org__1097">
+               <orgName>k.k. Finanzministerium</orgName>
+            </org>
+            <org xml:id="org__1070">
+               <orgName>Gewerbeinspektion</orgName>
+            </org>
+            <org xml:id="org__1133">
+               <orgName>Landesregierung</orgName>
+            </org>
+            <org xml:id="org__1228">
+               <orgName>Staatsamt für Heerwesen (Heereskommission)</orgName>
+            </org>
+            <org xml:id="org__1038">
+               <orgName>Eötvös-Kollegium (Budapest)</orgName>
+            </org>
+            <org xml:id="org__1115">
+               <orgName>Kommission zur Vorberatung aller Angelegenheiten, die sich aus der neuen
+                  Bundesverfassung für die Gemeinde Wien ergeben</orgName>
+            </org>
+            <org xml:id="org__1264">
+               <orgName>Stadtrat (Wien)</orgName>
+            </org>
+            <org xml:id="org__1131">
+               <orgName>Länderkammer</orgName>
+            </org>
+            <org xml:id="org__1053">
+               <orgName>Fuhrwerksbetriebe (städtische)</orgName>
+            </org>
+            <org xml:id="org__3404">
+               <orgName>k.u.k. Ministerium des Äußern (Dechiffrierungsdepartement)</orgName>
+            </org>
+            <org xml:id="org__3508">
+               <orgName>k.u.k. gemeinsame Armee</orgName>
+            </org>
+            <org xml:id="org__3393">
+               <orgName>Post- und Telegraphen-Betriebsleitung in Reichenberg</orgName>
+            </org>
+            <org xml:id="org__1033">
+               <orgName>Eisenbahnrat</orgName>
+            </org>
+            <org xml:id="org__3515">
+               <orgName>Deutsche Reichsregierung</orgName>
+            </org>
+            <org xml:id="org__3516">
+               <orgName>Wolffsche Bureau [Deutsches Reich]</orgName>
+            </org>
+            <org xml:id="org__1130">
+               <orgName>Land Tirol</orgName>
+            </org>
+            <org xml:id="org__1233">
+               <orgName>Staatsamt für Kriegs- und Übergangswirtschaft</orgName>
+            </org>
+            <org xml:id="org__3444">
+               <orgName>Kriegsfürsorgeamt</orgName>
+            </org>
+            <org xml:id="org__3605">
+               <orgName>Kaiser-Karl-Fonds</orgName>
+            </org>
+            <org xml:id="org__3606">
+               <orgName>StA für Volksgesundheit</orgName>
+            </org>
+            <org xml:id="org__3761">
+               <orgName>k.k. Zentralstellen</orgName>
+            </org>
+            <org xml:id="org__3469">
+               <orgName>Staatsbahndirektion für das Sudetenland</orgName>
+            </org>
+            <org xml:id="org__3596">
+               <orgName>Aussig-Teplitzer-Bahn</orgName>
+            </org>
+            <org xml:id="org__3598">
+               <orgName>Nordwestbahn</orgName>
+            </org>
+            <org xml:id="org__1243">
+               <orgName>Staatsangestelltenrat (eines Landes)</orgName>
+            </org>
+            <org xml:id="org__3478">
+               <orgName>Vereinigung der österreichischen Richter</orgName>
+            </org>
+            <org xml:id="org__3633">
+               <orgName>Buschtehrader Eisenbahn</orgName>
+            </org>
+            <org xml:id="org__3703">
+               <orgName>StA für Verkehrswesen (Beirat)</orgName>
+            </org>
+            <org xml:id="org__1173">
+               <orgName>öffentliche Spitäler</orgName>
+            </org>
+            <org xml:id="org__1049">
+               <orgName>Finanzprokuratur</orgName>
+            </org>
+            <org xml:id="org__1261">
+               <orgName>Jugendamt (städtisches)</orgName>
+            </org>
+            <org xml:id="org__1244">
+               <orgName>Staatsangestelltenrat Linz</orgName>
+            </org>
+            <org xml:id="org__1247">
+               <orgName>Staatsbediensteten-Kommission der Staatsbedienstetenorganisationen
+                  (vorgeschlagen)</orgName>
+            </org>
+            <org xml:id="org__956">
+               <orgName>Abgrenzungskommission</orgName>
+            </org>
+            <org xml:id="org__1155">
+               <orgName>Minderheitenschutzstelle</orgName>
+            </org>
+            <org xml:id="org__1057">
+               <orgName>gemeinderätliche Personalkommission [der Gemeinde Wien]</orgName>
+            </org>
+            <org xml:id="org__1060">
+               <orgName>Gendarmerie</orgName>
+            </org>
+            <org xml:id="org__3310">
+               <orgName>k.u.k. Ministerium des Äußern</orgName>
+            </org>
+            <org xml:id="org__1263">
+               <orgName>Stadtmagistrat Laibach (Ljubljana)</orgName>
+            </org>
+            <org xml:id="org__3580">
+               <orgName>Staatsarbeiterkammer</orgName>
+            </org>
+            <org xml:id="org__1301">
+               <orgName>Verband der Handels-, Transport- und Verkehrsarbeiter und -Arbeiterinnen
+                  Österreichs</orgName>
+            </org>
+            <org xml:id="org__3279">
+               <orgName>Eisenbahndirektion für Deutschböhmen</orgName>
+            </org>
+            <org xml:id="org__3388">
+               <orgName>Kohlenkommissariat Aussig [Ústí nad Labem]</orgName>
+            </org>
+            <org xml:id="org__3750">
+               <orgName>Soldatenrat der Militärsanitätsanstalten</orgName>
+            </org>
+            <org xml:id="org__3751">
+               <orgName>Militärsanitätsanstalten</orgName>
+            </org>
+            <org xml:id="org__3752">
+               <orgName>zivile Sanitätsanstalten für Heeresangehörige</orgName>
+            </org>
+            <org xml:id="org__3431">
+               <orgName>Fachschule für Weberei in Neubistritz</orgName>
+            </org>
+            <org xml:id="org__1275">
+               <orgName>Steueramt</orgName>
+            </org>
+            <org xml:id="org__983">
+               <orgName>bosnischer Nationalrat</orgName>
+            </org>
+            <org xml:id="org__1101">
+               <orgName>k.u.k. Finanzministerium</orgName>
+            </org>
+            <org xml:id="org__1032">
+               <orgName>Eisenbahnerorganisation</orgName>
+            </org>
+            <org xml:id="org__1100">
+               <orgName>k.u.k. Finanzministerium (Abteilung Bosnien-Herzegowina)</orgName>
+            </org>
+            <org xml:id="org__1102">
+               <orgName>k.u.k. Marine</orgName>
+            </org>
+            <org xml:id="org__1217">
+               <orgName>Soldatenrat</orgName>
+            </org>
+            <org xml:id="org__1295">
+               <orgName>Ungar. Staat</orgName>
+            </org>
+            <org xml:id="org__1337">
+               <orgName>Zivilkommissäre für die Volkswehr</orgName>
+            </org>
+            <org xml:id="org__3883">
+               <orgName>Haus Habsburg</orgName>
+            </org>
+            <org xml:id="org__3595">
+               <orgName>Liquidationskommission</orgName>
+            </org>
+            <org xml:id="org__1036">
+               <orgName>Entente</orgName>
+            </org>
+            <org xml:id="org__1050">
+               <orgName>Frankreich (France)</orgName>
+            </org>
+            <org xml:id="org__1088">
+               <orgName>interalliierter Kriegsrat (Versailles)</orgName>
+            </org>
+            <org xml:id="org__1311">
+               <orgName>Vereinigte Staaten von Amerika (United States of America)</orgName>
+            </org>
+            <org xml:id="org__1312">
+               <orgName>Vereinigtes Königreich (United Kingdom)</orgName>
+            </org>
+            <org xml:id="org__1222">
+               <orgName>StA der Finanzen (Präsidium)</orgName>
+            </org>
+            <org xml:id="org__3688">
+               <orgName>Vertrauensmännerausschuss der deutschösterreichischen Eisenbahner</orgName>
+            </org>
+            <org xml:id="org__3689">
+               <orgName>Generalinspektion der Eisenbahnen</orgName>
+            </org>
+            <org xml:id="org__3690">
+               <orgName>Arbeiterräte</orgName>
+            </org>
+            <org xml:id="org__3169">
+               <orgName>Verband der städtischen Angestellten</orgName>
+            </org>
+            <org xml:id="org__957">
+               <orgName>Akademie für Musik und darstellende Kunst</orgName>
+            </org>
+            <org xml:id="org__1183">
+               <orgName>Polizeidirektion Wien</orgName>
+            </org>
+            <org xml:id="org__1212">
+               <orgName>Sicherheitswache Wien</orgName>
+            </org>
+            <org xml:id="org__3819">
+               <orgName>Polizeiagentenkorps</orgName>
+            </org>
+            <org xml:id="org__1328">
+               <orgName>Wiener Krankenhäuser</orgName>
+            </org>
+            <org xml:id="org__996">
+               <orgName>Deutsche Realschule Marburg (Maribor)</orgName>
+            </org>
+            <org xml:id="org__3795">
+               <orgName>Paritätische Kommission zum Personalabbau</orgName>
+            </org>
+            <org xml:id="org__1159">
+               <orgName>Národní Výbor (tschechoslowak. Nationalausschuss)</orgName>
+            </org>
+            <org xml:id="org__980">
+               <orgName>böhmische Gerichtsbehörden</orgName>
+            </org>
+            <org xml:id="org__1213">
+               <orgName>Sicherheitswache Donawitz</orgName>
+            </org>
+            <org xml:id="org__1340">
+               <orgName>Zentralstelle für sozialdemokratische Gemeindepolitik</orgName>
+            </org>
+            <org xml:id="org__3312">
+               <orgName>Gesandtschaft Deutschösterreichs beim Deutschen Reich</orgName>
+            </org>
+            <org xml:id="org__3343">
+               <orgName>Schweizerische Regierung</orgName>
+            </org>
+            <org xml:id="org__3344">
+               <orgName>Schweizer Gesandtschaft</orgName>
+            </org>
+            <org xml:id="org__3357">
+               <orgName>Gesandtschaft Deutschösterreichs in der Tschechoslowakei</orgName>
+            </org>
+            <org xml:id="org__3366">
+               <orgName>Gesandtschaft Deutschösterreichs in Ungarn</orgName>
+            </org>
+            <org xml:id="org__3373">
+               <orgName>Gesandtschaft Deutschösterreichs in Kroatien</orgName>
+            </org>
+            <org xml:id="org__3378">
+               <orgName>Gesandtschaft Deutschösterreichs in Polen</orgName>
+            </org>
+            <org xml:id="org__1231">
+               <orgName>Provisorische Nationalversammlung (Staatsangestelltenausschuss)</orgName>
+            </org>
+            <org xml:id="org__1062">
+               <orgName>Generaldirektion der tschechoslowakischen Staatsbahnen</orgName>
+            </org>
+            <org xml:id="org__3675">
+               <orgName>Staatsbahndirektion in Teplitz</orgName>
+            </org>
+            <org xml:id="org__3683">
+               <orgName>Bahnamt Tetschen</orgName>
+            </org>
+            <org xml:id="org__1140">
+               <orgName>Lehrerorganisationen</orgName>
+            </org>
+            <org xml:id="org__1286">
+               <orgName>tschechoslowak. Eisenbahnministerium</orgName>
+            </org>
+            <org xml:id="org__985">
+               <orgName>Brauhaus (städtisches)</orgName>
+            </org>
+            <org xml:id="org__986">
+               <orgName>Braunkohlengewerkschaft Zillingdorf</orgName>
+            </org>
+            <org xml:id="org__3290">
+               <orgName>Vollzugsausschuss Gruppe II (Innere Verwaltung und Verfassung)</orgName>
+            </org>
+            <org xml:id="org__3291">
+               <orgName>Beirat von Staatsrechtslehrern für die Organisation der Landesverwaltung in
+                  Deutschböhmen</orgName>
+            </org>
+            <org xml:id="org__1298">
+               <orgName>Verband der Arbeiterschaft der chemischen Industrie Oesterreichs</orgName>
+            </org>
+            <org xml:id="org__1126">
+               <orgName>Kriegsgetreide-Verkehrsanstalt Prag (Praha)</orgName>
+            </org>
+            <org xml:id="org__1182">
+               <orgName>Pilsner Výbor</orgName>
+            </org>
+            <org xml:id="org__1291">
+               <orgName>tschechoslowakisches Militär</orgName>
+            </org>
+            <org xml:id="org__1292">
+               <orgName>Turnauer Výbor</orgName>
+            </org>
+            <org xml:id="org__3472">
+               <orgName>Deutschböhmische Beamtenschaft</orgName>
+            </org>
+            <org xml:id="org__993">
+               <orgName>dalmatinische Landesregierung</orgName>
+            </org>
+            <org xml:id="org__1048">
+               <orgName>Finanzlandeskasse Laibach (Ljubljana)</orgName>
+            </org>
+            <org xml:id="org__3812">
+               <orgName>Verkehrsbank Laibach</orgName>
+            </org>
+            <org xml:id="org__1015">
+               <orgName>Statthalterei Küstenland</orgName>
+            </org>
+            <org xml:id="org__1128">
+               <orgName>Land Niederösterreich</orgName>
+            </org>
+            <org xml:id="org__3770">
+               <orgName>Technische Union</orgName>
+            </org>
+            <org xml:id="org__1177">
+               <orgName>Organisation der Straßenbahnbediensteten</orgName>
+            </org>
+            <org xml:id="org__3265">
+               <orgName>Deutschösterreichische Unabhängigkeitspartei</orgName>
+            </org>
+            <org xml:id="org__1288">
+               <orgName>tschechoslowak. Finanzministerium</orgName>
+            </org>
+            <org xml:id="org__1012">
+               <orgName>ehemalige Militärpostverwaltung</orgName>
+            </org>
+            <org xml:id="org__1093">
+               <orgName>jugoslaw. Postverwaltung</orgName>
+            </org>
+            <org xml:id="org__1164">
+               <orgName>Oberlandesgericht Graz</orgName>
+            </org>
+            <org xml:id="org__1018">
+               <orgName>k. k. Ministerium für Handel</orgName>
+            </org>
+            <org xml:id="org__959">
+               <orgName>Allgemeiner Pensionsfonds</orgName>
+            </org>
+            <org xml:id="org__995">
+               <orgName>deutsche Beamten- und Angestelltenorganisationen</orgName>
+            </org>
+            <org xml:id="org__1112">
+               <orgName>Komensky-Verein</orgName>
+            </org>
+            <org xml:id="org__1157">
+               <orgName>Münzamt</orgName>
+            </org>
+            <org xml:id="org__1321">
+               <orgName>Verwaltungsgerichtshof</orgName>
+            </org>
+            <org xml:id="org__1002">
+               <orgName>Devisenzentrale</orgName>
+            </org>
+            <org xml:id="org__1107">
+               <orgName>Kaffeezentrale</orgName>
+            </org>
+            <org xml:id="org__1098">
+               <orgName>k.k. Versatzamt</orgName>
+            </org>
+            <org xml:id="org__1058">
+               <orgName>Gemeinderats-Ausschuss zur Beratung einer Neuordnung der Gemeindeverfassung
+                  und des Gemeindewahlrechts [der Gemeinde Wien]</orgName>
+            </org>
+            <org xml:id="org__1099">
+               <orgName>k.u.k. gemeinsamer Oberster Rechnungshof</orgName>
+            </org>
+            <org xml:id="org__1307">
+               <orgName>Verein der Beamten "Gemeinde Wien - städtische Gaswerke"</orgName>
+            </org>
+            <org xml:id="org__3303">
+               <orgName>k.k. Ministerrat</orgName>
+            </org>
+            <org xml:id="org__3496">
+               <orgName>Erster allgemeiner Beamten-Verein</orgName>
+            </org>
+            <org xml:id="org__992">
+               <orgName>Christliche Gewerkschaften Wien</orgName>
+            </org>
+            <org xml:id="org__1335">
+               <orgName>Zentralverband christlicher Angestellter</orgName>
+            </org>
+            <org xml:id="org__1092">
+               <orgName>italienische Truppen</orgName>
+            </org>
+            <org xml:id="org__1089">
+               <orgName>Industriekommission</orgName>
+            </org>
+            <org xml:id="org__1110">
+               <orgName>Klub der Sozialdemokraten im Wiener Stadtrat</orgName>
+            </org>
+            <org xml:id="org__1132">
+               <orgName>Landesgericht Kaplitz (Kaplice)</orgName>
+            </org>
+            <org xml:id="org__1138">
+               <orgName>Landes-Volksbekleidungsstelle</orgName>
+            </org>
+            <org xml:id="org__1326">
+               <orgName>Webwarenzentrale</orgName>
+            </org>
+            <org xml:id="org__1190">
+               <orgName>Präsidentschaftskanzlei</orgName>
+            </org>
+            <org xml:id="org__1027">
+               <orgName>k.k. Ministerium für Kultus und Unterricht</orgName>
+            </org>
+            <org xml:id="org__3798">
+               <orgName>Zentraldirektion für Schulbuchverläge</orgName>
+            </org>
+            <org xml:id="org__3560">
+               <orgName>Verband der Ingenieure im Staatsamt für öffentliche Arbeiten</orgName>
+            </org>
+            <org xml:id="org__3492">
+               <orgName>tschechoslowakisches Preßbüro</orgName>
+            </org>
+            <org xml:id="org__3493">
+               <orgName>Eisenbahnkommission (Tschechoslowakei)</orgName>
+            </org>
+            <org xml:id="org__3494">
+               <orgName>Postkommission (Tschechoslowakei)</orgName>
+            </org>
+            <org xml:id="org__3899">
+               <orgName>staatliche Bergdirektion in Brüx (Most)</orgName>
+            </org>
+            <org xml:id="org__1103">
+               <orgName>k.k. Ministerium für Landesverteidigung (liqudierendes)</orgName>
+            </org>
+            <org xml:id="org__1063">
+               <orgName>Generalstab</orgName>
+            </org>
+            <org xml:id="org__1319">
+               <orgName>Vertreter der Kriegsaushilfekräfte</orgName>
+            </org>
+            <org xml:id="org__1073">
+               <orgName>Gewerkschaftskommission</orgName>
+            </org>
+            <org xml:id="org__3273">
+               <orgName>Nordbahn, verstaatlichte</orgName>
+            </org>
+            <org xml:id="org__3427">
+               <orgName>Generalstaatsanwaltschaft für Deutschösterreich</orgName>
+            </org>
+            <org xml:id="org__3428">
+               <orgName>Oberster Gerichts- und Kassationshof</orgName>
+            </org>
+            <org xml:id="org__3429">
+               <orgName>Generalprokuratur</orgName>
+            </org>
+            <org xml:id="org__3467">
+               <orgName>Finanzlandesdirektion für das Sudetenland</orgName>
+            </org>
+            <org xml:id="org__3884">
+               <orgName>Obergericht für das Sudetenland</orgName>
+            </org>
+            <org xml:id="org__978">
+               <orgName>Bezirkshauptmannschaft Kaplitz (Kaplice)</orgName>
+            </org>
+            <org xml:id="org__1129">
+               <orgName>Land Oberösterreich</orgName>
+            </org>
+            <org xml:id="org__1269">
+               <orgName>Statthalterei Prag (Praha)</orgName>
+            </org>
+            <org xml:id="org__3452">
+               <orgName>Landesregierung Sudetenland</orgName>
+            </org>
+            <org xml:id="org__3810">
+               <orgName>k.k. Landsturm</orgName>
+            </org>
+            <org xml:id="org__1314">
+               <orgName>Vereinigungen von Staatsamtsjuristen</orgName>
+            </org>
+            <org xml:id="org__958">
+               <orgName>Allgemeine Pensionsanstalt</orgName>
+            </org>
+            <org xml:id="org__3616">
+               <orgName>Arbeiter-Unfallversicherungsanstalt Troppau</orgName>
+            </org>
+            <org xml:id="org__3617">
+               <orgName>Wirtschaftsamt Mährisch-Ostrau</orgName>
+            </org>
+            <org xml:id="org__3619">
+               <orgName>Tabakdirektion für Sudetenland</orgName>
+            </org>
+            <org xml:id="org__3620">
+               <orgName>Landeswirtschaftsamt Sudetenland</orgName>
+            </org>
+            <org xml:id="org__3621">
+               <orgName>Handels- und Gewerbekammer Troppau</orgName>
+            </org>
+            <org xml:id="org__3622">
+               <orgName>Passstelle Jägerndorf</orgName>
+            </org>
+            <org xml:id="org__3646">
+               <orgName>italienisches Liquidationsbüro</orgName>
+            </org>
+            <org xml:id="org__3644">
+               <orgName>Post- und Telegraphenanstalt</orgName>
+            </org>
+            <org xml:id="org__1146">
+               <orgName>Liquidierungskommissär im k.k. Ministerium für Unterricht und Kultus</orgName>
+            </org>
+            <org xml:id="org__1270">
+               <orgName>Statthalterei Triest (Trieste)</orgName>
+            </org>
+            <org xml:id="org__1251">
+               <orgName>Staatsgewerbeschule Wien</orgName>
+            </org>
+            <org xml:id="org__3762">
+               <orgName>Egerer Landtafel</orgName>
+            </org>
+            <org xml:id="org__3763">
+               <orgName>Prager Landtafel</orgName>
+            </org>
+            <org xml:id="org__1135">
+               <orgName>Landesschulrat</orgName>
+            </org>
+            <org xml:id="org__1150">
+               <orgName>Magistrat der Stadt Wien</orgName>
+            </org>
+            <org xml:id="org__1176">
+               <orgName>Organisation der christlichsozialen Straßenbahnbediensteten</orgName>
+            </org>
+            <org xml:id="org__1166">
+               <orgName>Oberlandesgericht Reichenberg (Liberec)</orgName>
+            </org>
+            <org xml:id="org__3277">
+               <orgName>Finanzlandesdirektion für Deutschböhmen</orgName>
+            </org>
+            <org xml:id="org__3286">
+               <orgName>k.k. Ministerium des Innern</orgName>
+            </org>
+            <org xml:id="org__3287">
+               <orgName>k.k. Ministerium für Handel</orgName>
+            </org>
+            <org xml:id="org__1299">
+               <orgName>Verband der Fachvereine der städtischen Angestellten</orgName>
+            </org>
+            <org xml:id="org__3550">
+               <orgName>Staatskorrespondenz</orgName>
+            </org>
+            <org xml:id="org__1187">
+               <orgName>Postamt Triest (Trieste)</orgName>
+            </org>
+            <org xml:id="org__3816">
+               <orgName>Postdirektion Klagenfurt</orgName>
+            </org>
+            <org xml:id="org__1260">
+               <orgName>Versicherungsanstalt (städtische)</orgName>
+            </org>
+            <org xml:id="org__960">
+               <orgName>amerikanische Studienkommission [für die Friedenskonferenz]</orgName>
+            </org>
+            <org xml:id="org__1037">
+               <orgName>Ententetruppen</orgName>
+            </org>
+            <org xml:id="org__1094">
+               <orgName>jugoslawische Wache</orgName>
+            </org>
+            <org xml:id="org__1174">
+               <orgName>Offizierstöcher-Erziehungsinstitut Ödenburg (Sopron)</orgName>
+            </org>
+            <org xml:id="org__1047">
+               <orgName>Finanzlandesdirektion Triest (Trieste)</orgName>
+            </org>
+            <org xml:id="org__1118">
+               <orgName>Kongregation der Barmherzigen Schwestern vom heiligen Kreuze</orgName>
+            </org>
+            <org xml:id="org__1325">
+               <orgName>Waisenhaus (städtisches)</orgName>
+            </org>
+            <org xml:id="org__1072">
+               <orgName>Gewerkschaft der Verwaltungsjuristen</orgName>
+            </org>
+            <org xml:id="org__3756">
+               <orgName>zwischenstaatsamtliches Komitee für die einheitliche Behandlung des
+                  Vermessungswesen</orgName>
+            </org>
+            <org xml:id="org__3757">
+               <orgName>Militärgeographisches Institut</orgName>
+            </org>
+            <org xml:id="org__3800">
+               <orgName>Staatsratspräsidium</orgName>
+            </org>
+            <org xml:id="org__969">
+               <orgName>bayrische Regierung</orgName>
+            </org>
+            <org xml:id="org__1219">
+               <orgName>Spartakus-Gruppe Berlin</orgName>
+            </org>
+            <org xml:id="org__1327">
+               <orgName>Wehrorganisation Znaim (Znojmo)</orgName>
+            </org>
+            <org xml:id="org__3658">
+               <orgName>polnische Liquidationskommission</orgName>
+            </org>
+            <org xml:id="org__1271">
+               <orgName>Steiermärkische Landesregierung</orgName>
+            </org>
+            <org xml:id="org__1285">
+               <orgName>Technische Hochschule Graz</orgName>
+            </org>
+            <org xml:id="org__1313">
+               <orgName>Vereinigungen von Rechnungsbeamten</orgName>
+            </org>
+            <org xml:id="org__1278">
+               <orgName>Südbahndirektion</orgName>
+            </org>
+            <org xml:id="org__1136">
+               <orgName>Landesschulrat Graz</orgName>
+            </org>
+            <org xml:id="org__1250">
+               <orgName>Staatseisenbahnrat</orgName>
+            </org>
+            <org xml:id="org__987">
+               <orgName>Bukowinaer Finanzdirektion</orgName>
+            </org>
+            <org xml:id="org__3416">
+               <orgName>Deutsche Technische Hochschule Brünn</orgName>
+            </org>
+            <org xml:id="org__3417">
+               <orgName>Universität Czernowitz</orgName>
+            </org>
+            <org xml:id="org__3418">
+               <orgName>Kunstakademie Prag</orgName>
+            </org>
+            <org xml:id="org__3578">
+               <orgName>Wiener Mittag</orgName>
+            </org>
+            <org xml:id="org__3579">
+               <orgName>Zeit</orgName>
+            </org>
+            <org xml:id="org__3594">
+               <orgName>Liquidationsdeputation</orgName>
+            </org>
+            <org xml:id="org__1329">
+               <orgName>Wiener Lebensmittellagerbetriebe</orgName>
+            </org>
+            <org xml:id="org__1003">
+               <orgName>Direktion Königgrätz (Hradec Králové)</orgName>
+            </org>
+            <org xml:id="org__3457">
+               <orgName>Tabakfabrik Bautsch</orgName>
+            </org>
+            <org xml:id="org__3460">
+               <orgName>Tabakfabrik Neutitschein</orgName>
+            </org>
+            <org xml:id="org__3462">
+               <orgName>Tabakfabrik Sternberg</orgName>
+            </org>
+            <org xml:id="org__3464">
+               <orgName>Tabakfabrik Zwittau</orgName>
+            </org>
+            <org xml:id="org__3465">
+               <orgName>Kreisgericht Neutitschein</orgName>
+            </org>
+            <org xml:id="org__3468">
+               <orgName>Postdirektion für das Sudetenland</orgName>
+            </org>
+            <org xml:id="org__1170">
+               <orgName>Obersthofmarschallamt</orgName>
+            </org>
+            <org xml:id="org__3712">
+               <orgName>Deutsches Staatsgymnasium Cilli</orgName>
+            </org>
+            <org xml:id="org__1304">
+               <orgName>Verband der chemischen Industrie</orgName>
+            </org>
+            <org xml:id="org__3794">
+               <orgName>Arbeiterkammer</orgName>
+            </org>
+            <org xml:id="org__1189">
+               <orgName>Postsparkassenamt</orgName>
+            </org>
+            <org xml:id="org__1054">
+               <orgName>Fürsorgeamt (städtisches)</orgName>
+            </org>
+            <org xml:id="org__1258">
+               <orgName>Städtische Akademie für soziale Verwaltung</orgName>
+            </org>
+            <org xml:id="org__971">
+               <orgName>Beratungsgruppe für Verfassungs- und Verwaltungsorganisation</orgName>
+            </org>
+            <org xml:id="org__3258">
+               <orgName>Vollzugsausschuss</orgName>
+            </org>
+            <org xml:id="org__3262">
+               <orgName>Stenographenbüro im Staatsrat</orgName>
+            </org>
+            <org xml:id="org__972">
+               <orgName>Bergarbeitervertretung</orgName>
+            </org>
+            <org xml:id="org__973">
+               <orgName>Bergbehörde</orgName>
+            </org>
+            <org xml:id="org__1255">
+               <orgName>Staatsnotariat</orgName>
+            </org>
+            <org xml:id="org__1203">
+               <orgName>Reichsverein der aus Militäranwärtern hervorgegangenen Beamten in Wien</orgName>
+            </org>
+            <org xml:id="org__3702">
+               <orgName>k.k. österreichische Staatsbahnen</orgName>
+            </org>
+            <org xml:id="org__3714">
+               <orgName>Staatsbahndirektion Olmütz</orgName>
+            </org>
+            <org xml:id="org__1106">
+               <orgName>Kadettenschule</orgName>
+            </org>
+            <org xml:id="org__3901">
+               <orgName>deutsches Bezirksgericht Troppau</orgName>
+            </org>
+            <org xml:id="org__3902">
+               <orgName>tschechisches Bezirksgericht Troppau</orgName>
+            </org>
+            <org xml:id="org__3308">
+               <orgName>k.u.k. Missionen</orgName>
+            </org>
+            <org xml:id="org__3624">
+               <orgName>Hofbibliothek</orgName>
+            </org>
+            <org xml:id="org__3625">
+               <orgName>Hoftheater</orgName>
+            </org>
+            <org xml:id="org__3626">
+               <orgName>Schatzkammer</orgName>
+            </org>
+            <org xml:id="org__3627">
+               <orgName>StA für Unterricht (Kunstabteilung)</orgName>
+            </org>
+            <org xml:id="org__1293">
+               <orgName>Übungsschule Rovereto</orgName>
+            </org>
+            <org xml:id="org__3815">
+               <orgName>Schutzkomitee für die Interessen der Bevölkerung des italienischen
+                  Okkupationsgebietes</orgName>
+            </org>
+            <org xml:id="org__1296">
+               <orgName>ungarisch-slowakische Republik</orgName>
+            </org>
+            <org xml:id="org__1216">
+               <orgName>slowenische Truppen</orgName>
+            </org>
+            <org xml:id="org__1324">
+               <orgName>Vorfriedenskongress</orgName>
+            </org>
+            <org xml:id="org__1144">
+               <orgName>Liquidationskommission des Ministeriums des Äußeren</orgName>
+            </org>
+            <org xml:id="org__3547">
+               <orgName>Komitee zur Änderung der Lehr- und Lesebücher an Volks- und Bürgerschulen</orgName>
+            </org>
+            <org xml:id="org__975">
+               <orgName>Bezirksgericht Gießhübel (Olešnice v Orlických horách)</orgName>
+            </org>
+            <org xml:id="org__976">
+               <orgName>Bezirksgericht Gradlitz (Choustníkovo Hradiště)</orgName>
+            </org>
+            <org xml:id="org__1168">
+               <orgName>Oberstaatsanwaltschaft Reichenberg (Liberec)</orgName>
+            </org>
+            <org xml:id="org__1026">
+               <orgName>Königreich Ungarn</orgName>
+            </org>
+            <org xml:id="org__1134">
+               <orgName>Landesregierung Bosnien-Herzegowina</orgName>
+            </org>
+            <org xml:id="org__1175">
+               <orgName>Organisation der Bediensteten der städtischen Leichenbestattung</orgName>
+            </org>
+            <org xml:id="org__1064">
+               <orgName>Geologische Reichsanstalt</orgName>
+            </org>
+            <org xml:id="org__1059">
+               <orgName>Gemeinderatsausschusses zur Reform der Wiener Gemeindeverfassung</orgName>
+            </org>
+            <org xml:id="org__1080">
+               <orgName>Hauptzollamt Teplitz (Teplice)</orgName>
+            </org>
+            <org xml:id="org__3799">
+               <orgName>Sparkasse</orgName>
+            </org>
+            <org xml:id="org__1178">
+               <orgName>Organisierte Beamte des Stenographenamtes der deutschösterr.
+                  Nationalversammlung und der Staatskorrespondenz</orgName>
+            </org>
+            <org xml:id="org__1191">
+               <orgName>Präsidium der deutschösterr. Nationalversammlung</orgName>
+            </org>
+            <org xml:id="org__1096">
+               <orgName>Justizverwaltung</orgName>
+            </org>
+            <org xml:id="org__3511">
+               <orgName>Pensions(Provisions)-Institut für Beamte und Diener der österreichischen
+                  Staatsbahnen</orgName>
+            </org>
+            <org xml:id="org__3512">
+               <orgName>Provisionsfonds für Postboten</orgName>
+            </org>
+            <org xml:id="org__1121">
+               <orgName>Konsumvereinigung der städtischen Angestellten</orgName>
+            </org>
+            <org xml:id="org__1306">
+               <orgName>Verband vertriebener deutscher Staatsangestellter</orgName>
+            </org>
+            <org xml:id="org__1245">
+               <orgName>Staatsangestelltenrat Vorarlberg</orgName>
+            </org>
+            <org xml:id="org__3785">
+               <orgName>rumänische Regierung</orgName>
+            </org>
+            <org xml:id="org__998">
+               <orgName>Deutschnationale Partei (DnP)</orgName>
+            </org>
+            <org xml:id="org__3400">
+               <orgName>Statthalterei Brünn</orgName>
+            </org>
+            <org xml:id="org__1071">
+               <orgName>Gewerkschaft der Unternehmungsangestellten</orgName>
+            </org>
+            <org xml:id="org__3778">
+               <orgName>Bezirksgericht Salzburg</orgName>
+            </org>
+            <org xml:id="org__999">
+               <orgName>deutschösterr. Amt für Kriegsgefangenenfürsorge</orgName>
+            </org>
+            <org xml:id="org__1023">
+               <orgName>k.u.k. Kriegsministerium (Abteilung 10 KG)</orgName>
+            </org>
+            <org xml:id="org__1082">
+               <orgName>Heimkehrersammelkommando "Freie Vereinigung" des ehemaligen k.u.k.
+                  Kriegsministeriums</orgName>
+            </org>
+            <org xml:id="org__1116">
+               <orgName>kommunistische Heimkehrerorganisationen</orgName>
+            </org>
+            <org xml:id="org__1143">
+               <orgName>Liquidationsgesellschaft für die Kriegsgefangengenfürsorgekommission</orgName>
+            </org>
+            <org xml:id="org__3123">
+               <orgName>Kommunistische Partei Deutschösterreichs</orgName>
+            </org>
+            <org xml:id="org__3881">
+               <orgName>Konferenz der Landeshauptleute</orgName>
+            </org>
+            <org xml:id="org__1077">
+               <orgName>Handelskammer Brünn (Brno)</orgName>
+            </org>
+            <org xml:id="org__3439">
+               <orgName>k.k. Justizministerium</orgName>
+            </org>
+            <org xml:id="org__1020">
+               <orgName>k. k. Ministerium für soziale Fürsorge</orgName>
+            </org>
+            <org xml:id="org__1237">
+               <orgName>Staatsamt für Übergangswirtschaft (Generalkommissariat)</orgName>
+            </org>
+            <org xml:id="org__1240">
+               <orgName>staatliche Lehranstalt</orgName>
+            </org>
+            <org xml:id="org__1186">
+               <orgName>Postamt Marburg (Maribor)</orgName>
+            </org>
+            <org xml:id="org__1302">
+               <orgName>Verband der Steinarbeiter Österreichs</orgName>
+            </org>
+            <org xml:id="org__1199">
+               <orgName>Rechtsschutzverein der Militärzertifikatisten für Österreich</orgName>
+            </org>
+            <org xml:id="org__3706">
+               <orgName>Kabinettskanzlei</orgName>
+            </org>
+            <org xml:id="org__3707">
+               <orgName>Polen</orgName>
+            </org>
+            <org xml:id="org__3708">
+               <orgName>Staatszentralkasse</orgName>
+            </org>
+            <org xml:id="org__3396">
+               <orgName>Landesverweser für Deutschböhmen</orgName>
+            </org>
+            <org xml:id="org__3397">
+               <orgName>Regierungskommissär bei der Landesregierung in Reichenberg</orgName>
+            </org>
+            <org xml:id="org__1309">
+               <orgName>Verein der Steuerbeamten</orgName>
+            </org>
+            <org xml:id="org__3433">
+               <orgName>Oberlandesgericht Wien</orgName>
+            </org>
+            <org xml:id="org__3434">
+               <orgName>Kreisgericht Trautenau</orgName>
+            </org>
+            <org xml:id="org__3435">
+               <orgName>böhmische Landesversammlung</orgName>
+            </org>
+            <org xml:id="org__1214">
+               <orgName>slawische Truppen</orgName>
+            </org>
+            <org xml:id="org__1279">
+               <orgName>Südbahn-Gesellschaft</orgName>
+            </org>
+         </listOrg>
+      </body>
+   </text>
+</TEI>

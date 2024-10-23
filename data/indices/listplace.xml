@@ -1,0 +1,1176 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ortsregister</title>
+            <title type="sub">Great Transformation App</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPlace>
+            <place xml:id="place__580">
+               <placeName>Wien</placeName>
+               <location>
+                  <geo decls="#LatLng">48.208490000000 16.372080000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/2761369/</idno>
+            </place>
+            <place xml:id="place__453">
+               <placeName>Graz</placeName>
+               <location>
+                  <geo decls="#LatLng">47.066670000000 15.450000000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/2778067/</idno>
+            </place>
+            <place xml:id="place__427">
+               <placeName>Deutschböhmen</placeName>
+               <idno type="GEONAMES"/>
+            </place>
+            <place xml:id="place__485">
+               <placeName>Laibach</placeName>
+               <location>
+                  <geo decls="#LatLng">46.051080000000 14.505130000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/3196359/</idno>
+            </place>
+            <place xml:id="place__493">
+               <placeName>Mähren</placeName>
+               <location>
+                  <geo decls="#LatLng">49.500000000000 17.000000000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/3070359/</idno>
+            </place>
+            <place xml:id="place__523">
+               <placeName>Prag</placeName>
+               <location>
+                  <geo decls="#LatLng">50.088040000000 14.420760000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/3067696/</idno>
+            </place>
+            <place xml:id="place__538">
+               <placeName>Schlesien</placeName>
+               <location>
+                  <geo decls="#LatLng">51.000000000000 18.000000000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/3066138/</idno>
+            </place>
+            <place xml:id="place__544">
+               <placeName>SHS-Staat</placeName>
+               <location>
+                  <geo decls="#LatLng">44.000000000000 19.750000000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/7500737/</idno>
+            </place>
+            <place xml:id="place__567">
+               <placeName>Tschechoslowakei</placeName>
+               <location>
+                  <geo decls="#LatLng">50.082920000000 14.466720000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/8505031/</idno>
+            </place>
+            <place xml:id="place__554">
+               <placeName>Südmähren</placeName>
+               <idno type="GEONAMES"/>
+            </place>
+            <place xml:id="place__568">
+               <placeName>umstrittenes Gebiet</placeName>
+               <idno type="GEONAMES"/>
+            </place>
+            <place xml:id="place__583">
+               <placeName>Hernals</placeName>
+               <location>
+                  <geo decls="#LatLng">48.233330000000 16.266670000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/2776488/</idno>
+            </place>
+            <place xml:id="place__588">
+               <placeName>Wien-Währing</placeName>
+               <location>
+                  <geo decls="#LatLng">48.233330000000 16.316670000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/2762091/</idno>
+            </place>
+            <place xml:id="place__430">
+               <placeName>Deutschösterreich</placeName>
+               <idno type="GEONAMES"/>
+            </place>
+            <place xml:id="place__420">
+               <placeName>Bukowina</placeName>
+               <location>
+                  <geo decls="#LatLng">48.000000000000 25.500000000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/571096/</idno>
+            </place>
+            <place xml:id="place__433">
+               <placeName>Dlaschkowitz</placeName>
+               <location>
+                  <geo decls="#LatLng">50.465550000000 13.964950000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/3077140/</idno>
+            </place>
+            <place xml:id="place__475">
+               <placeName>Kolldetsch</placeName>
+               <idno type="GEONAMES"/>
+            </place>
+            <place xml:id="place__520">
+               <placeName>Podseditz</placeName>
+               <location>
+                  <geo decls="#LatLng">50.471980000000 13.948280000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/3067988/</idno>
+            </place>
+            <place xml:id="place__562">
+               <placeName>Trebnitz</placeName>
+               <idno type="GEONAMES"/>
+            </place>
+            <place xml:id="place__586">
+               <placeName>Wien-Simmering</placeName>
+               <location>
+                  <geo decls="#LatLng">48.183330000000 16.433330000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/2765028/</idno>
+            </place>
+            <place xml:id="place__564">
+               <placeName>Triest</placeName>
+               <location>
+                  <geo decls="#LatLng">45.649530000000 13.776780000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/3165185/</idno>
+            </place>
+            <place xml:id="place__469">
+               <placeName>Kaplitz</placeName>
+               <location>
+                  <geo decls="#LatLng">48.738810000000 14.494490000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/3073862/</idno>
+            </place>
+            <place xml:id="place__490">
+               <placeName>Linz</placeName>
+               <location>
+                  <geo decls="#LatLng">48.306390000000 14.286110000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/2772400/</idno>
+            </place>
+            <place xml:id="place__551">
+               <placeName>Südböhmen</placeName>
+               <idno type="GEONAMES"/>
+            </place>
+            <place xml:id="place__407">
+               <placeName>Böhmen</placeName>
+               <location>
+                  <geo decls="#LatLng">50.000000000000 14.500000000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/3078198/</idno>
+            </place>
+            <place xml:id="place__447">
+               <placeName>Galizien</placeName>
+               <location>
+                  <geo decls="#LatLng">49.500000000000 23.000000000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/562153/</idno>
+            </place>
+            <place xml:id="place__521">
+               <placeName>Polen</placeName>
+               <location>
+                  <geo decls="#LatLng">52.000000000000 20.000000000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/798544/</idno>
+            </place>
+            <place xml:id="place__416">
+               <placeName>Brünn</placeName>
+               <location>
+                  <geo decls="#LatLng">49.195220000000 16.607960000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/3078610/</idno>
+            </place>
+            <place xml:id="place__431">
+               <placeName>Deutschsüdböhmen</placeName>
+               <idno type="GEONAMES"/>
+            </place>
+            <place xml:id="place__462">
+               <placeName>Iglau</placeName>
+               <location>
+                  <geo decls="#LatLng">49.396100000000 15.591240000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/3074199/</idno>
+            </place>
+            <place xml:id="place__496">
+               <placeName>Mährisch-Schönberg</placeName>
+               <location>
+                  <geo decls="#LatLng">49.965280000000 16.970610000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/3064673/</idno>
+            </place>
+            <place xml:id="place__506">
+               <placeName>Neubistritz</placeName>
+               <location>
+                  <geo decls="#LatLng">49.019260000000 15.103160000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/3069706/</idno>
+            </place>
+            <place xml:id="place__509">
+               <placeName>Niederösterreich</placeName>
+               <location>
+                  <geo decls="#LatLng">48.333330000000 15.750000000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/2770542/</idno>
+            </place>
+            <place xml:id="place__512">
+               <placeName>Oberösterreich</placeName>
+               <location>
+                  <geo decls="#LatLng">48.250000000000 14.000000000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/2769848/</idno>
+            </place>
+            <place xml:id="place__595">
+               <placeName>Znaim</placeName>
+               <location>
+                  <geo decls="#LatLng">48.855500000000 16.048800000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/3061344/</idno>
+            </place>
+            <place xml:id="place__444">
+               <placeName>fremdnationales Gebiet</placeName>
+               <idno type="GEONAMES"/>
+            </place>
+            <place xml:id="place__585">
+               <placeName>Wien-Oberlaa</placeName>
+               <location>
+                  <geo decls="#LatLng">48.137710000000 16.399840000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/2769993/</idno>
+            </place>
+            <place xml:id="place__438">
+               <placeName>Eger</placeName>
+               <location>
+                  <geo decls="#LatLng">50.079630000000 12.373920000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/3077835/</idno>
+            </place>
+            <place xml:id="place__527">
+               <placeName>Reichenberg</placeName>
+               <location>
+                  <geo decls="#LatLng">50.767110000000 15.056190000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/3071961/</idno>
+            </place>
+            <place xml:id="place__424">
+               <placeName>Czernowitz</placeName>
+               <location>
+                  <geo decls="#LatLng">48.291490000000 25.940340000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/710719/</idno>
+            </place>
+            <place xml:id="place__429">
+               <placeName>Deutsches Reich</placeName>
+               <idno type="GEONAMES"/>
+            </place>
+            <place xml:id="place__466">
+               <placeName>Italien</placeName>
+               <location>
+                  <geo decls="#LatLng">42.833330000000 12.833330000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/3175395/</idno>
+            </place>
+            <place xml:id="place__409">
+               <placeName>Böhmisch-Leipa</placeName>
+               <location>
+                  <geo decls="#LatLng">50.685510000000 14.537640000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/3077929/</idno>
+            </place>
+            <place xml:id="place__417">
+               <placeName>Brüx</placeName>
+               <location>
+                  <geo decls="#LatLng">50.503010000000 13.636170000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/3070291/</idno>
+            </place>
+            <place xml:id="place__487">
+               <placeName>Leitmeritz</placeName>
+               <location>
+                  <geo decls="#LatLng">50.533480000000 14.131800000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/3071677/</idno>
+            </place>
+            <place xml:id="place__556">
+               <placeName>Südtirol</placeName>
+               <location>
+                  <geo decls="#LatLng">46.500000000000 11.333330000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/3165244/</idno>
+            </place>
+            <place xml:id="place__473">
+               <placeName>Klagenfurt</placeName>
+               <location>
+                  <geo decls="#LatLng">46.624720000000 14.305280000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/2774326/</idno>
+            </place>
+            <place xml:id="place__451">
+               <placeName>Gottschee</placeName>
+               <location>
+                  <geo decls="#LatLng">45.643330000000 14.863330000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/3197943/</idno>
+            </place>
+            <place xml:id="place__552">
+               <placeName>Sudetengebiete</placeName>
+               <idno type="GEONAMES"/>
+            </place>
+            <place xml:id="place__565">
+               <placeName>Troppau</placeName>
+               <location>
+                  <geo decls="#LatLng">49.938660000000 17.902570000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/3068927/</idno>
+            </place>
+            <place xml:id="place__3149">
+               <placeName>Aussig</placeName>
+               <location>
+                  <geo decls="#LatLng">50.660700000000 14.032270000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/3063548/</idno>
+            </place>
+            <place xml:id="place__3159">
+               <placeName>Tirol</placeName>
+               <idno type="GEONAMES"/>
+            </place>
+            <place xml:id="place__408">
+               <placeName>Böhmerwald-Gebiete</placeName>
+               <location>
+                  <geo decls="#LatLng">49.232940000000 13.107860000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/3079146/</idno>
+            </place>
+            <place xml:id="place__3668">
+               <placeName>Krumau</placeName>
+               <location>
+                  <geo decls="#LatLng">48.810910000000 14.315210000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/3077889/</idno>
+            </place>
+            <place xml:id="place__411">
+               <placeName>Bosnien-Herzegowina</placeName>
+               <location>
+                  <geo decls="#LatLng">44.250000000000 17.833330000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/3277605/</idno>
+            </place>
+            <place xml:id="place__499">
+               <placeName>Marburg</placeName>
+               <location>
+                  <geo decls="#LatLng">46.554720000000 15.646670000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/3195506/</idno>
+            </place>
+            <place xml:id="place__546">
+               <placeName>Slowenien</placeName>
+               <location>
+                  <geo decls="#LatLng">46.083330000000 15.000000000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/3190538/</idno>
+            </place>
+            <place xml:id="place__3509">
+               <placeName>Österreich-Ungarn</placeName>
+               <idno type="GEONAMES"/>
+            </place>
+            <place xml:id="place__582">
+               <placeName>Wien-Favoriten</placeName>
+               <location>
+                  <geo decls="#LatLng">48.171110000000 16.377780000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/2779776/</idno>
+            </place>
+            <place xml:id="place__471">
+               <placeName>Kärnten</placeName>
+               <location>
+                  <geo decls="#LatLng">46.750000000000 13.833330000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/2774686/</idno>
+            </place>
+            <place xml:id="place__515">
+               <placeName>Olmütz</placeName>
+               <location>
+                  <geo decls="#LatLng">49.595520000000 17.251750000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/3069011/</idno>
+            </place>
+            <place xml:id="place__3823">
+               <placeName>St. Germain en Laye</placeName>
+               <location>
+                  <geo decls="#LatLng">48.900000000000 2.083330000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/2979783/</idno>
+            </place>
+            <place xml:id="place__465">
+               <placeName>ital. Südtirol</placeName>
+               <idno type="GEONAMES"/>
+            </place>
+            <place xml:id="place__406">
+               <placeName>Bielitz</placeName>
+               <location>
+                  <geo decls="#LatLng">49.822450000000 19.046860000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/3103402/</idno>
+            </place>
+            <place xml:id="place__3158">
+               <placeName>Steiermark</placeName>
+               <location>
+                  <geo decls="#LatLng">47.250000000000 15.166670000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/2764581/</idno>
+            </place>
+            <place xml:id="place__436">
+               <placeName>Ebenfurth</placeName>
+               <location>
+                  <geo decls="#LatLng">47.888100000000 16.331390000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/7871927/</idno>
+            </place>
+            <place xml:id="place__442">
+               <placeName>Ferlach</placeName>
+               <location>
+                  <geo decls="#LatLng">46.496750000000 14.283070000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/7872761/</idno>
+            </place>
+            <place xml:id="place__480">
+               <placeName>Krain</placeName>
+               <idno type="GEONAMES"/>
+            </place>
+            <place xml:id="place__555">
+               <placeName>Südsteiermark</placeName>
+               <idno type="GEONAMES"/>
+            </place>
+            <place xml:id="place__3730">
+               <placeName>Südkärnten</placeName>
+               <idno type="GEONAMES"/>
+            </place>
+            <place xml:id="place__553">
+               <placeName>Sudetenland</placeName>
+               <idno type="GEONAMES"/>
+            </place>
+            <place xml:id="place__3538">
+               <placeName>Mödling</placeName>
+               <location>
+                  <geo decls="#LatLng">48.086050000000 16.289210000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/2771335/</idno>
+            </place>
+            <place xml:id="place__501">
+               <placeName>Mauthausen</placeName>
+               <location>
+                  <geo decls="#LatLng">48.241140000000 14.519630000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/2771760/</idno>
+            </place>
+            <place xml:id="place__437">
+               <placeName>Ebensee</placeName>
+               <location>
+                  <geo decls="#LatLng">47.807160000000 13.779000000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/2780547/</idno>
+            </place>
+            <place xml:id="place__404">
+               <placeName>Berlin</placeName>
+               <location>
+                  <geo decls="#LatLng">52.524370000000 13.410530000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/2950159/</idno>
+            </place>
+            <place xml:id="place__418">
+               <placeName>Budapest</placeName>
+               <location>
+                  <geo decls="#LatLng">47.498010000000 19.039910000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/3054643/</idno>
+            </place>
+            <place xml:id="place__3172">
+               <placeName>Teplitz</placeName>
+               <location>
+                  <geo decls="#LatLng">50.640400000000 13.824510000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/3064288/</idno>
+            </place>
+            <place xml:id="place__3281">
+               <placeName>Jägerndorf</placeName>
+               <location>
+                  <geo decls="#LatLng">50.089670000000 17.703850000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/3072656/</idno>
+            </place>
+            <place xml:id="place__3597">
+               <placeName>Pilsen</placeName>
+               <location>
+                  <geo decls="#LatLng">49.747470000000 13.377590000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/3068160/</idno>
+            </place>
+            <place xml:id="place__3599">
+               <placeName>Gmünd</placeName>
+               <location>
+                  <geo decls="#LatLng">48.768300000000 14.980800000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/2778439/</idno>
+            </place>
+            <place xml:id="place__439">
+               <placeName>ehemals österr. Staat</placeName>
+               <idno type="GEONAMES"/>
+            </place>
+            <place xml:id="place__581">
+               <placeName>Wien-Alsergrund</placeName>
+               <location>
+                  <geo decls="#LatLng">48.223870000000 16.356410000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/2782729/</idno>
+            </place>
+            <place xml:id="place__576">
+               <placeName>Vorarlberg</placeName>
+               <location>
+                  <geo decls="#LatLng">47.250000000000 9.916670000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/2762300/</idno>
+            </place>
+            <place xml:id="place__494">
+               <placeName>Mährisch-Ostrau</placeName>
+               <location>
+                  <geo decls="#LatLng">49.842490000000 18.267270000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/3070328/</idno>
+            </place>
+            <place xml:id="place__428">
+               <placeName>deutschböhmisches Kohlenrevier</placeName>
+               <idno type="GEONAMES"/>
+            </place>
+            <place xml:id="place__536">
+               <placeName>Sarajewo</placeName>
+               <location>
+                  <geo decls="#LatLng">43.848640000000 18.356440000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/3191281/</idno>
+            </place>
+            <place xml:id="place__463">
+               <placeName>Innsbruck</placeName>
+               <location>
+                  <geo decls="#LatLng">47.262660000000 11.394540000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/2775220/</idno>
+            </place>
+            <place xml:id="place__579">
+               <placeName>Welschtirol</placeName>
+               <idno type="GEONAMES"/>
+            </place>
+            <place xml:id="place__3818">
+               <placeName>Görz</placeName>
+               <location>
+                  <geo decls="#LatLng">45.940880000000 13.621670000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/3175986/</idno>
+            </place>
+            <place xml:id="place__3637">
+               <placeName>Preußen</placeName>
+               <idno type="GEONAMES"/>
+            </place>
+            <place xml:id="place__434">
+               <placeName>Donawitz</placeName>
+               <location>
+                  <geo decls="#LatLng">47.366670000000 15.066670000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/2780850/</idno>
+            </place>
+            <place xml:id="place__405">
+               <placeName>Bern</placeName>
+               <location>
+                  <geo decls="#LatLng">46.948090000000 7.447440000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/2661552/</idno>
+            </place>
+            <place xml:id="place__542">
+               <placeName>Schweiz</placeName>
+               <location>
+                  <geo decls="#LatLng">47.000160000000 8.014270000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/2658434/</idno>
+            </place>
+            <place xml:id="place__3351">
+               <placeName>Feldkirch</placeName>
+               <location>
+                  <geo decls="#LatLng">47.233060000000 9.600000000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/2779674/</idno>
+            </place>
+            <place xml:id="place__3372">
+               <placeName>Agram</placeName>
+               <location>
+                  <geo decls="#LatLng">45.814440000000 15.977980000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/3186886/</idno>
+            </place>
+            <place xml:id="place__3377">
+               <placeName>Warschau</placeName>
+               <location>
+                  <geo decls="#LatLng">52.229770000000 21.011780000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/756135/</idno>
+            </place>
+            <place xml:id="place__3681">
+               <placeName>Tetschen</placeName>
+               <location>
+                  <geo decls="#LatLng">50.782150000000 14.214780000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/3077244/</idno>
+            </place>
+            <place xml:id="place__3682">
+               <placeName>Bodenbach</placeName>
+               <location>
+                  <geo decls="#LatLng">50.766670000000 14.200000000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/3068031/</idno>
+            </place>
+            <place xml:id="place__528">
+               <placeName>Republik Ungarn</placeName>
+               <location>
+                  <geo decls="#LatLng">47.000000000000 20.000000000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/719819/</idno>
+            </place>
+            <place xml:id="place__566">
+               <placeName>tschech. Gebiet</placeName>
+               <idno type="GEONAMES"/>
+            </place>
+            <place xml:id="place__419">
+               <placeName>Budweis</placeName>
+               <location>
+                  <geo decls="#LatLng">48.974470000000 14.474340000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/3077916/</idno>
+            </place>
+            <place xml:id="place__402">
+               <placeName>Bayern</placeName>
+               <location>
+                  <geo decls="#LatLng">49.000000000000 11.500000000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/2951839/</idno>
+            </place>
+            <place xml:id="place__410">
+               <placeName>Bösig (?)</placeName>
+               <location>
+                  <geo decls="#LatLng">50.584480000000 16.002050000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/3079415/</idno>
+            </place>
+            <place xml:id="place__448">
+               <placeName>Georgswalde</placeName>
+               <location>
+                  <geo decls="#LatLng">50.995140000000 14.569100000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/3074119/</idno>
+            </place>
+            <place xml:id="place__458">
+               <placeName>Halbstadt</placeName>
+               <location>
+                  <geo decls="#LatLng">50.624610000000 16.242070000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/3070774/</idno>
+            </place>
+            <place xml:id="place__488">
+               <placeName>Libenau</placeName>
+               <location>
+                  <geo decls="#LatLng">50.651680000000 16.110270000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/3071924/</idno>
+            </place>
+            <place xml:id="place__491">
+               <placeName>Lobositz</placeName>
+               <location>
+                  <geo decls="#LatLng">50.515040000000 14.051030000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/3071480/</idno>
+            </place>
+            <place xml:id="place__500">
+               <placeName>Marienbad</placeName>
+               <location>
+                  <geo decls="#LatLng">49.964590000000 12.701180000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/3071024/</idno>
+            </place>
+            <place xml:id="place__503">
+               <placeName>Mies</placeName>
+               <location>
+                  <geo decls="#LatLng">49.755650000000 12.997000000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/3064919/</idno>
+            </place>
+            <place xml:id="place__532">
+               <placeName>Rumburg</placeName>
+               <location>
+                  <geo decls="#LatLng">50.951510000000 14.556990000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/3066578/</idno>
+            </place>
+            <place xml:id="place__539">
+               <placeName>Schluckenau</placeName>
+               <location>
+                  <geo decls="#LatLng">51.003690000000 14.452580000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/3065768/</idno>
+            </place>
+            <place xml:id="place__558">
+               <placeName>Tannenberg</placeName>
+               <idno type="GEONAMES"/>
+            </place>
+            <place xml:id="place__559">
+               <placeName>Theresienstadt</placeName>
+               <location>
+                  <geo decls="#LatLng">50.511000000000 14.150550000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/3064268/</idno>
+            </place>
+            <place xml:id="place__578">
+               <placeName>Warnsdorf</placeName>
+               <location>
+                  <geo decls="#LatLng">50.911540000000 14.618240000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/3063375/</idno>
+            </place>
+            <place xml:id="place__425">
+               <placeName>Dalmatien</placeName>
+               <location>
+                  <geo decls="#LatLng">43.000000000000 17.000000000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/3202210/</idno>
+            </place>
+            <place xml:id="place__483">
+               <placeName>Küstenland</placeName>
+               <idno type="GEONAMES"/>
+            </place>
+            <place xml:id="place__513">
+               <placeName>Obertemenau</placeName>
+               <location>
+                  <geo decls="#LatLng">48.767190000000 16.846580000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/3077839/</idno>
+            </place>
+            <place xml:id="place__571">
+               <placeName>Untertemenau</placeName>
+               <location>
+                  <geo decls="#LatLng">48.754470000000 16.860350000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/3067769/</idno>
+            </place>
+            <place xml:id="place__574">
+               <placeName>Versailles</placeName>
+               <location>
+                  <geo decls="#LatLng">48.803590000000 2.134240000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/2969679/</idno>
+            </place>
+            <place xml:id="place__3887">
+               <placeName>Marchegg</placeName>
+               <location>
+                  <geo decls="#LatLng">48.254200000000 16.900800000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/7872866/</idno>
+            </place>
+            <place xml:id="place__441">
+               <placeName>Eisenkappel (Bezirk)</placeName>
+               <location>
+                  <geo decls="#LatLng">46.468560000000 14.573740000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/7871529/</idno>
+            </place>
+            <place xml:id="place__543">
+               <placeName>Seeland</placeName>
+               <location>
+                  <geo decls="#LatLng">46.383330000000 14.466670000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/3190216/</idno>
+            </place>
+            <place xml:id="place__548">
+               <placeName>St. Pölten</placeName>
+               <location>
+                  <geo decls="#LatLng">48.200000000000 15.633330000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/2766429/</idno>
+            </place>
+            <place xml:id="place__497">
+               <placeName>Mals</placeName>
+               <location>
+                  <geo decls="#LatLng">46.687910000000 10.546550000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/3174144/</idno>
+            </place>
+            <place xml:id="place__502">
+               <placeName>Meran</placeName>
+               <location>
+                  <geo decls="#LatLng">46.668170000000 11.159530000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/3173577/</idno>
+            </place>
+            <place xml:id="place__423">
+               <placeName>Cilli</placeName>
+               <location>
+                  <geo decls="#LatLng">46.230920000000 15.260440000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/3202781/</idno>
+            </place>
+            <place xml:id="place__3455">
+               <placeName>Nordmähren</placeName>
+               <idno type="GEONAMES"/>
+            </place>
+            <place xml:id="place__3615">
+               <placeName>Dresden</placeName>
+               <location>
+                  <geo decls="#LatLng">51.050890000000 13.738320000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/2935022/</idno>
+            </place>
+            <place xml:id="place__470">
+               <placeName>Karlsbad</placeName>
+               <location>
+                  <geo decls="#LatLng">50.232710000000 12.871170000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/3073803/</idno>
+            </place>
+            <place xml:id="place__569">
+               <placeName>Untersteiermark</placeName>
+               <idno type="GEONAMES"/>
+            </place>
+            <place xml:id="place__514">
+               <placeName>Ödenburg</placeName>
+               <location>
+                  <geo decls="#LatLng">47.685010000000 16.590490000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/3045190/</idno>
+            </place>
+            <place xml:id="place__422">
+               <placeName>Cervignano del Friuli</placeName>
+               <location>
+                  <geo decls="#LatLng">45.820820000000 13.339290000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/3178992/</idno>
+            </place>
+            <place xml:id="place__3817">
+               <placeName>Großklein</placeName>
+               <location>
+                  <geo decls="#LatLng">46.736110000000 15.444440000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/2777662/</idno>
+            </place>
+            <place xml:id="place__587">
+               <placeName>Wien-Speising</placeName>
+               <location>
+                  <geo decls="#LatLng">48.170320000000 16.284660000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/2764831/</idno>
+            </place>
+            <place xml:id="place__511">
+               <placeName>Oberleuthensdorf</placeName>
+               <location>
+                  <geo decls="#LatLng">50.604200000000 13.618120000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/3071665/</idno>
+            </place>
+            <place xml:id="place__3446">
+               <placeName>Schönbrunn</placeName>
+               <location>
+                  <geo decls="#LatLng">48.184940000000 16.312290000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/6354998/</idno>
+            </place>
+            <place xml:id="place__3447">
+               <placeName>Laxenburg</placeName>
+               <location>
+                  <geo decls="#LatLng">48.068330000000 16.356070000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/2772810/</idno>
+            </place>
+            <place xml:id="place__492">
+               <placeName>Lundenburg</placeName>
+               <location>
+                  <geo decls="#LatLng">48.758970000000 16.882030000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/3078773/</idno>
+            </place>
+            <place xml:id="place__537">
+               <placeName>Schlappenz</placeName>
+               <location>
+                  <geo decls="#LatLng">49.542420000000 15.657680000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/3065898/</idno>
+            </place>
+            <place xml:id="place__541">
+               <placeName>Schönwald-Frain</placeName>
+               <location>
+                  <geo decls="#LatLng">48.922430000000 15.870950000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/3064675/</idno>
+            </place>
+            <place xml:id="place__591">
+               <placeName>Wolframitzkirchen</placeName>
+               <location>
+                  <geo decls="#LatLng">48.905900000000 15.963090000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/3069084/</idno>
+            </place>
+            <place xml:id="place__3456">
+               <placeName>Bautsch</placeName>
+               <location>
+                  <geo decls="#LatLng">49.795110000000 17.629690000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/3078469/</idno>
+            </place>
+            <place xml:id="place__3459">
+               <placeName>Neutitschein</placeName>
+               <location>
+                  <geo decls="#LatLng">49.594380000000 18.010280000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/3069305/</idno>
+            </place>
+            <place xml:id="place__3463">
+               <placeName>Zwittau</placeName>
+               <location>
+                  <geo decls="#LatLng">49.755940000000 16.468290000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/3064454/</idno>
+            </place>
+            <place xml:id="place__510">
+               <placeName>Nürnberg</placeName>
+               <location>
+                  <geo decls="#LatLng">49.454210000000 11.077520000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/2861650/</idno>
+            </place>
+            <place xml:id="place__593">
+               <placeName>Zillingdorf</placeName>
+               <idno type="GEONAMES"/>
+            </place>
+            <place xml:id="place__421">
+               <placeName>Burgfried (Hallein)</placeName>
+               <location>
+                  <geo decls="#LatLng">47.680040000000 13.111750000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/2781184/</idno>
+            </place>
+            <place xml:id="place__435">
+               <placeName>Dürnberg</placeName>
+               <idno type="GEONAMES"/>
+            </place>
+            <place xml:id="place__459">
+               <placeName>Hallein</placeName>
+               <location>
+                  <geo decls="#LatLng">47.683330000000 13.100000000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/2776951/</idno>
+            </place>
+            <place xml:id="place__530">
+               <placeName>Rovereto</placeName>
+               <location>
+                  <geo decls="#LatLng">45.890400000000 11.040530000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/3168854/</idno>
+            </place>
+            <place xml:id="place__472">
+               <placeName>Kaschau</placeName>
+               <location>
+                  <geo decls="#LatLng">48.713950000000 21.258080000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/724443/</idno>
+            </place>
+            <place xml:id="place__495">
+               <placeName>mährisch-ostrauer Gebiet</placeName>
+               <location>
+                  <geo decls="#LatLng">49.842490000000 18.267270000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/3070328/</idno>
+            </place>
+            <place xml:id="place__504">
+               <placeName>Mittelmähren</placeName>
+               <idno type="GEONAMES"/>
+            </place>
+            <place xml:id="place__534">
+               <placeName>Sachsen</placeName>
+               <location>
+                  <geo decls="#LatLng">51.000000000000 13.250000000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/2842566/</idno>
+            </place>
+            <place xml:id="place__594">
+               <placeName>Zittau</placeName>
+               <location>
+                  <geo decls="#LatLng">50.897720000000 14.807640000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/2804008/</idno>
+            </place>
+            <place xml:id="place__561">
+               <placeName>Trautenau</placeName>
+               <location>
+                  <geo decls="#LatLng">50.561010000000 15.912700000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/3063907/</idno>
+            </place>
+            <place xml:id="place__518">
+               <placeName>Paris</placeName>
+               <location>
+                  <geo decls="#LatLng">48.853410000000 2.348800000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/2988507/</idno>
+            </place>
+            <place xml:id="place__449">
+               <placeName>Gießhübel</placeName>
+               <location>
+                  <geo decls="#LatLng">50.372620000000 16.310040000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/3069024/</idno>
+            </place>
+            <place xml:id="place__452">
+               <placeName>Gradlitz</placeName>
+               <location>
+                  <geo decls="#LatLng">50.426420000000 15.878580000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/3077615/</idno>
+            </place>
+            <place xml:id="place__482">
+               <placeName>Kremsier Sprengel</placeName>
+               <location>
+                  <geo decls="#LatLng">49.297850000000 17.393120000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/3072649/</idno>
+            </place>
+            <place xml:id="place__403">
+               <placeName>Bergreichenstein</placeName>
+               <location>
+                  <geo decls="#LatLng">49.142890000000 13.556160000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/3073769/</idno>
+            </place>
+            <place xml:id="place__584">
+               <placeName>Wien-Leopoldau</placeName>
+               <location>
+                  <geo decls="#LatLng">48.266670000000 16.450000000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/3333516/</idno>
+            </place>
+            <place xml:id="place__474">
+               <placeName>Klattau</placeName>
+               <location>
+                  <geo decls="#LatLng">49.395520000000 13.295050000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/3073660/</idno>
+            </place>
+            <place xml:id="place__3401">
+               <placeName>Braunau in Böhmen</placeName>
+               <location>
+                  <geo decls="#LatLng">50.585660000000 16.331810000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/3078577/</idno>
+            </place>
+            <place xml:id="place__3402">
+               <placeName>Liebau</placeName>
+               <location>
+                  <geo decls="#LatLng">49.721620000000 17.520130000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/3070816/</idno>
+            </place>
+            <place xml:id="place__414">
+               <placeName>Brest-Litowsk</placeName>
+               <location>
+                  <geo decls="#LatLng">52.097550000000 23.687750000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/629634/</idno>
+            </place>
+            <place xml:id="place__533">
+               <placeName>Russland</placeName>
+               <location>
+                  <geo decls="#LatLng">60.000000000000 100.000000000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/2017370/</idno>
+            </place>
+            <place xml:id="place__476">
+               <placeName>Komotau</placeName>
+               <location>
+                  <geo decls="#LatLng">50.460480000000 13.417790000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/3077685/</idno>
+            </place>
+            <place xml:id="place__412">
+               <placeName>Braunau</placeName>
+               <location>
+                  <geo decls="#LatLng">48.256280000000 13.043430000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/2781520/</idno>
+            </place>
+            <place xml:id="place__454">
+               <placeName>Gröding</placeName>
+               <idno type="GEONAMES"/>
+            </place>
+            <place xml:id="place__498">
+               <placeName>Marbach an der Donau</placeName>
+               <location>
+                  <geo decls="#LatLng">48.216670000000 15.150000000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/2771978/</idno>
+            </place>
+            <place xml:id="place__529">
+               <placeName>Ried im Innkreis</placeName>
+               <location>
+                  <geo decls="#LatLng">48.211230000000 13.488550000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/2767471/</idno>
+            </place>
+            <place xml:id="place__590">
+               <placeName>Windegg</placeName>
+               <location>
+                  <geo decls="#LatLng">48.300000000000 14.583330000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/2761129/</idno>
+            </place>
+            <place xml:id="place__547">
+               <placeName>Spielfeld</placeName>
+               <location>
+                  <geo decls="#LatLng">46.705560000000 15.637220000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/2764806/</idno>
+            </place>
+            <place xml:id="place__535">
+               <placeName>Salzburg</placeName>
+               <location>
+                  <geo decls="#LatLng">47.799410000000 13.043990000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/2766824/</idno>
+            </place>
+            <place xml:id="place__3436">
+               <placeName>Landskron</placeName>
+               <location>
+                  <geo decls="#LatLng">49.912170000000 16.611900000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/3072332/</idno>
+            </place>
+            <place xml:id="place__3437">
+               <placeName>Leitomischl</placeName>
+               <location>
+                  <geo decls="#LatLng">49.868090000000 16.312980000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/3071675/</idno>
+            </place>
+            <place xml:id="place__3438">
+               <placeName>Polička</placeName>
+               <location>
+                  <geo decls="#LatLng">49.714650000000 16.265430000000</geo>
+               </location>
+               <idno type="GEONAMES">http://sws.geonames.org/3067882/</idno>
+            </place>
+         </listPlace>
+      </body>
+   </text>
+</TEI>
