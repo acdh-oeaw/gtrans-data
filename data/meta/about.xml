@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Über das Projekt</title>
+                <title type="sub">Die Große Transformation</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p> Die große Transformation“ versammelt relevante Quellen aus unterschiedlichen
+                Archiven zu Fragen der Reform der Bundes- und Wiener Gemeindeverwaltung in der
+                unmittelbaren Nachkriegszeit 1918 bis 1920. Der in dieser Datensammlung edierte
+                Quellenkorpus umfasst folgende Bestände: <list>
+                    <item>Verhandlungsschriften (Komitee Staatsangestellte)</item>
+                    <item>Enquete (Zielrichtung mehr Mitbestimmung, Personalvertretung)</item>
+                    <item>Relevante Akten Staatsrat und Kabinettsrat</item>
+                    <item>Relevante Gesetze (Staatsgesetzblatt)</item>
+                    <item>Zeitungen, Zeitschriften</item>
+                    <item>Akten der Allgemeinen Registratur der Magistratsdirektion, Wiener Stadt-
+                und Landesarchiv</item>
+                    <item>Gemeinderats- und Stadtratsprotokolle wie in den Amtsblättern der Stadt
+                Wien veröffentlicht</item>
+                    <item>Akten des Parteiarchivs vor 1934 der SDAP, Verein der Geschichte der
+                Arbeiterbewegung in Wien (VGA)</item>
+                    <item>Tagblattarchiv zum Stichwort Beamte, Wienbibliothek</item>
+                    <item>ÖGB-Archiv, Material zu Beamtenorganisationen</item>
+                </list>
+            </p>
+            <p>
+                „Die große Transformation“ erlaubt erstmals einen Blick in komparativer Perspektive
+                auf die Zusammenhänge in der Transformation der beiden Verwaltungsebenen durch die
+                Republiksgründung. Die aus den Quellen erstellten Datensätze wurden beschlagwortet
+                und die in ihnen erwähnten Personen, Institutionen und Orte erfasst.
+            </p>
+        </body>
+    </text>
+</TEI>

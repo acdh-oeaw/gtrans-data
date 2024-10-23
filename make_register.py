@@ -27,7 +27,7 @@ dummy = """
       <fileDesc>
          <titleStmt>
             <title type="main"/>
-            <title type="sub">Great Transformation App</title>
+            <title type="sub">Die Große Transformation</title>
          </titleStmt>
          <publicationStmt>
             <p>Publication Information</p>
