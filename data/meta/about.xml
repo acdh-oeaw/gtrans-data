@@ -16,10 +16,10 @@
     </teiHeader>
     <text>
         <body>
-            <p> Die große Transformation“ versammelt relevante Quellen aus unterschiedlichen
-                Archiven zu Fragen der Reform der Bundes- und Wiener Gemeindeverwaltung in der
-                unmittelbaren Nachkriegszeit 1918 bis 1920. Der in dieser Datensammlung edierte
-                Quellenkorpus umfasst folgende Bestände: <list>
+            <p>„Die große Transformation“ versammelt relevante Quellen aus unterschiedlichen Archiven
+                zu Fragen der Reform der Bundes- und Wiener Gemeindeverwaltung in der unmittelbaren
+                Nachkriegszeit 1918 bis 1920. Der in dieser Datensammlung edierte Quellenkorpus
+                umfasst folgende Bestände: <list>
                     <item>Verhandlungsschriften (Komitee Staatsangestellte)</item>
                     <item>Enquete (Zielrichtung mehr Mitbestimmung, Personalvertretung)</item>
                     <item>Relevante Akten Staatsrat und Kabinettsrat</item>
@@ -41,9 +41,9 @@
                 Republiksgründung. Die aus den Quellen erstellten Datensätze wurden beschlagwortet
                 und die in ihnen erwähnten Personen, Institutionen und Orte erfasst.
             </p>
-            <p>
-                Das Projekt wird finanziert durch den <ref target="https://www.wien.gv.at/kultur/abteilung/wissenschaftsfonds/akademie-wissenschaften.html">Jubiläumsfonds der Stadt Wien für die Österreichische Akademie der Wissenschaften</ref>.
-            </p>
+            <p> Das Projekt wird finanziert durch den <ref
+                    target="https://www.wien.gv.at/kultur/abteilung/wissenschaftsfonds/akademie-wissenschaften.html">Jubiläumsfonds
+                der Stadt Wien für die Österreichische Akademie der Wissenschaften</ref>. </p>
         </body>
     </text>
 </TEI>
