@@ -43,15 +43,15 @@
          <listPerson>
             <head>Erwähnte Personen</head>
             <person/>
-         <person xml:id="person__3900"><persName><surname>Markus</surname><forename/><roleName>Hofrat</roleName></persName><birth/><death/></person><person xml:id="person__926"><persName><surname>Zerdik</surname><forename>Johann</forename><roleName>Ing.</roleName></persName><birth when="1878-04-07">1878-04-07<placeName key="#place__580">Wien</placeName></birth><death when="1961-06-11">1961-06-11<placeName key="#place__580">Wien</placeName></death><idno>https://de.wikipedia.org/wiki/Johann_Zerdik</idno></person></listPerson>
+         <person xml:id="person__3900"><persName key="Markus"><surname>Markus</surname><forename/><roleName>Hofrat</roleName></persName><birth/><death/></person><person xml:id="person__926"><persName key="Zerdik, Johann"><surname>Zerdik</surname><forename>Johann</forename><roleName>Ing.</roleName></persName><birth when="1878-04-07">1878-04-07<placeName key="#place__580">Wien</placeName></birth><death when="1961-06-11">1961-06-11<placeName key="#place__580">Wien</placeName></death><idno>https://de.wikipedia.org/wiki/Johann_Zerdik</idno></person></listPerson>
          <listPlace>
             <head>Erwähnte Orte</head>
             <place/>
-         <place xml:id="place__417"><placeName>Brüx</placeName><location><geo decls="#LatLng">50.503010000000 13.636170000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3070291/</idno></place><place xml:id="place__568"><placeName>umstrittenes Gebiet</placeName><idno type="GEONAMES"/></place></listPlace>
+         <place xml:id="place__417"><placeName key="Brüx">Brüx</placeName><location><geo decls="#LatLng">50.503010000000 13.636170000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3070291/</idno></place><place xml:id="place__568"><placeName key="umstrittenes Gebiet">umstrittenes Gebiet</placeName><idno type="GEONAMES"/></place></listPlace>
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1289"><orgName>tschechoslowakische Regierung</orgName></org><org xml:id="org__1290"><orgName>tschechoslowakischer Staat</orgName></org><org xml:id="org__1291"><orgName>tschechoslowakisches Militär</orgName></org><org xml:id="org__3301"><orgName>Deutschösterreichischer Staat</orgName></org><org xml:id="org__3899"><orgName>staatliche Bergdirektion in Brüx (Most)</orgName></org></listOrg>
+         <org xml:id="org__1289"><orgName key="tschechoslowakische Regierung">tschechoslowakische Regierung</orgName></org><org xml:id="org__1290"><orgName key="tschechoslowakischer Staat">tschechoslowakischer Staat</orgName></org><org xml:id="org__1291"><orgName key="tschechoslowakisches Militär">tschechoslowakisches Militär</orgName></org><org xml:id="org__3301"><orgName key="Deutschösterreichischer Staat">Deutschösterreichischer Staat</orgName></org><org xml:id="org__3899"><orgName key="staatliche Bergdirektion in Brüx (Most)">staatliche Bergdirektion in Brüx (Most)</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

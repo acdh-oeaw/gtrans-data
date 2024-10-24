@@ -43,7 +43,7 @@
          <listPerson>
             <head>Erwähnte Personen</head>
             <person/>
-         <person xml:id="person__652"><persName><surname>Forstner</surname><forename>August</forename><roleName/></persName><birth when="1876-07-29">1876-07-29<placeName key="#place__580">Wien</placeName></birth><death when="1941-02-14">1941-02-14<placeName key="#place__3118">Wolfpassing bei Zeiselmauer</placeName></death><idno>http://d-nb.info/gnd/14403347X</idno></person><person xml:id="person__3583"><persName><surname>Sever</surname><forename>Albert</forename><roleName/></persName><birth when="1867-11-24">1867-11-24<placeName key="#place__3372">Agram</placeName></birth><death when="1942-02-12">1942-02-12<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/120570769</idno></person></listPerson>
+         <person xml:id="person__652"><persName key="Forstner, August"><surname>Forstner</surname><forename>August</forename><roleName/></persName><birth when="1876-07-29">1876-07-29<placeName key="#place__580">Wien</placeName></birth><death when="1941-02-14">1941-02-14<placeName key="#place__3118">Wolfpassing bei Zeiselmauer</placeName></death><idno>http://d-nb.info/gnd/14403347X</idno></person><person xml:id="person__3583"><persName key="Sever, Albert"><surname>Sever</surname><forename>Albert</forename><roleName/></persName><birth when="1867-11-24">1867-11-24<placeName key="#place__3372">Agram</placeName></birth><death when="1942-02-12">1942-02-12<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/120570769</idno></person></listPerson>
          <listPlace>
             <head>Erwähnte Orte</head>
             <place/>
@@ -51,7 +51,7 @@
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1007"><orgName>deutschösterr. Regierung</orgName></org><org xml:id="org__1185"><orgName>Post</orgName></org><org xml:id="org__1231"><orgName>Provisorische Nationalversammlung  (Staatsangestelltenausschuss)</orgName></org></listOrg>
+         <org xml:id="org__1007"><orgName key="deutschösterr. Regierung">deutschösterr. Regierung</orgName></org><org xml:id="org__1185"><orgName key="Post">Post</orgName></org><org xml:id="org__1231"><orgName key="Provisorische Nationalversammlung (Staatsangestelltenausschuss)">Provisorische Nationalversammlung  (Staatsangestelltenausschuss)</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

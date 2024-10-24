@@ -43,7 +43,7 @@
          <listPerson>
             <head>Erwähnte Personen</head>
             <person/>
-         <person xml:id="person__3305"><persName><surname>Hanusch</surname><forename>Ferdinand</forename><roleName/></persName><birth when="1866-11-09">1866-11-09<placeName key="#place__3304">Wigstadtl</placeName></birth><death when="1923-09-28">1923-09-28<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118701460</idno></person></listPerson>
+         <person xml:id="person__3305"><persName key="Hanusch, Ferdinand"><surname>Hanusch</surname><forename>Ferdinand</forename><roleName/></persName><birth when="1866-11-09">1866-11-09<placeName key="#place__3304">Wigstadtl</placeName></birth><death when="1923-09-28">1923-09-28<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118701460</idno></person></listPerson>
          <listPlace>
             <head>Erwähnte Orte</head>
             <place/>
@@ -51,7 +51,7 @@
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1022"><orgName>k.u.k. Kriegsministerium</orgName></org><org xml:id="org__1105"><orgName>Kabinettsrat</orgName></org></listOrg>
+         <org xml:id="org__1022"><orgName key="k.u.k. Kriegsministerium">k.u.k. Kriegsministerium</orgName></org><org xml:id="org__1105"><orgName key="Kabinettsrat">Kabinettsrat</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

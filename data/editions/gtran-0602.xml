@@ -51,7 +51,7 @@
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1102"><orgName>k.u.k. Marine</orgName></org><org xml:id="org__1227"><orgName>Staatsamt für Heerwesen</orgName></org><org xml:id="org__1323"><orgName>Volkswehr</orgName></org><org xml:id="org__3508"><orgName>k.u.k. gemeinsame Armee</orgName></org><org xml:id="org__3521"><orgName>k.k. Landwehr</orgName></org></listOrg>
+         <org xml:id="org__1102"><orgName key="k.u.k. Marine">k.u.k. Marine</orgName></org><org xml:id="org__1227"><orgName key="Staatsamt für Heerwesen">Staatsamt für Heerwesen</orgName></org><org xml:id="org__1323"><orgName key="Volkswehr">Volkswehr</orgName></org><org xml:id="org__3508"><orgName key="k.u.k. gemeinsame Armee">k.u.k. gemeinsame Armee</orgName></org><org xml:id="org__3521"><orgName key="k.k. Landwehr">k.k. Landwehr</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

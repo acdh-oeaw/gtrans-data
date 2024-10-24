@@ -43,7 +43,7 @@
          <listPerson>
             <head>Erwähnte Personen</head>
             <person/>
-         <person xml:id="person__641"><persName><surname>Ellenbogen</surname><forename>Wilhelm</forename><roleName>Dr.</roleName></persName><birth when="1863-07-09">1863-07-09<placeName key="#place__492">Lundenburg</placeName></birth><death when="1951-02-25">1951-02-25<placeName key="#place__508">New York</placeName></death><idno>http://d-nb.info/gnd/118529978</idno></person><person xml:id="person__744"><persName><surname>Kroy</surname><forename>Otto</forename><roleName/></persName><birth when="1874-11-16">1874-11-16<placeName key="#place__489">Libochowan</placeName></birth><death when="1937-11-16">1937-11-16<placeName key="#place__580">Wien</placeName></death><idno>https://de.wikipedia.org/wiki/Otto_Kroy</idno></person><person xml:id="person__840"><persName><surname>Schoiswohl</surname><forename>Michael</forename><roleName/></persName><birth when="1858-09-20">1858-09-20<placeName key="#place__457">Gußwerk</placeName></birth><death when="1924-02-28">1924-02-28<placeName key="#place__457">Gußwerk</placeName></death><idno>http://d-nb.info/gnd/1032213760</idno></person></listPerson>
+         <person xml:id="person__641"><persName key="Ellenbogen, Wilhelm"><surname>Ellenbogen</surname><forename>Wilhelm</forename><roleName>Dr.</roleName></persName><birth when="1863-07-09">1863-07-09<placeName key="#place__492">Lundenburg</placeName></birth><death when="1951-02-25">1951-02-25<placeName key="#place__508">New York</placeName></death><idno>http://d-nb.info/gnd/118529978</idno></person><person xml:id="person__744"><persName key="Kroy, Otto"><surname>Kroy</surname><forename>Otto</forename><roleName/></persName><birth when="1874-11-16">1874-11-16<placeName key="#place__489">Libochowan</placeName></birth><death when="1937-11-16">1937-11-16<placeName key="#place__580">Wien</placeName></death><idno>https://de.wikipedia.org/wiki/Otto_Kroy</idno></person><person xml:id="person__840"><persName key="Schoiswohl, Michael"><surname>Schoiswohl</surname><forename>Michael</forename><roleName/></persName><birth when="1858-09-20">1858-09-20<placeName key="#place__457">Gußwerk</placeName></birth><death when="1924-02-28">1924-02-28<placeName key="#place__457">Gußwerk</placeName></death><idno>http://d-nb.info/gnd/1032213760</idno></person></listPerson>
          <listPlace>
             <head>Erwähnte Orte</head>
             <place/>
@@ -51,7 +51,7 @@
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1246"><orgName>Staatsbahn</orgName></org></listOrg>
+         <org xml:id="org__1246"><orgName key="Staatsbahn">Staatsbahn</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

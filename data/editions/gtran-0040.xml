@@ -44,15 +44,15 @@ StR Teufel beantragt, dass der von Deutschösterreich zu entsendende Beamte die 
          <listPerson>
             <head>Erwähnte Personen</head>
             <person/>
-         <person xml:id="person__879"><persName><surname>Teufel</surname><forename>Oskar</forename><roleName/></persName><birth when="1880-10-05">1880-10-05<placeName key="#place__595">Znaim</placeName></birth><death when="1946-01-26">1946-01-26<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/1027122671</idno></person></listPerson>
+         <person xml:id="person__879"><persName key="Teufel, Oskar"><surname>Teufel</surname><forename>Oskar</forename><roleName/></persName><birth when="1880-10-05">1880-10-05<placeName key="#place__595">Znaim</placeName></birth><death when="1946-01-26">1946-01-26<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/1027122671</idno></person></listPerson>
          <listPlace>
             <head>Erwähnte Orte</head>
             <place/>
-         <place xml:id="place__469"><placeName>Kaplitz</placeName><location><geo decls="#LatLng">48.738810000000 14.494490000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3073862/</idno></place><place xml:id="place__490"><placeName>Linz</placeName><location><geo decls="#LatLng">48.306390000000 14.286110000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2772400/</idno></place><place xml:id="place__523"><placeName>Prag</placeName><location><geo decls="#LatLng">50.088040000000 14.420760000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3067696/</idno></place><place xml:id="place__567"><placeName>Tschechoslowakei</placeName><location><geo decls="#LatLng">50.082920000000 14.466720000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/8505031/</idno></place></listPlace>
+         <place xml:id="place__469"><placeName key="Kaplitz">Kaplitz</placeName><location><geo decls="#LatLng">48.738810000000 14.494490000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3073862/</idno></place><place xml:id="place__490"><placeName key="Linz">Linz</placeName><location><geo decls="#LatLng">48.306390000000 14.286110000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2772400/</idno></place><place xml:id="place__523"><placeName key="Prag">Prag</placeName><location><geo decls="#LatLng">50.088040000000 14.420760000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3067696/</idno></place><place xml:id="place__567"><placeName key="Tschechoslowakei">Tschechoslowakei</placeName><location><geo decls="#LatLng">50.082920000000 14.466720000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/8505031/</idno></place></listPlace>
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1046"><orgName>Finanzlandesdirektion Prag (Praha)</orgName></org><org xml:id="org__1129"><orgName>Land Oberösterreich</orgName></org><org xml:id="org__1276"><orgName>Steueramt Kaplitz (Kaplice)</orgName></org></listOrg>
+         <org xml:id="org__1046"><orgName key="Finanzlandesdirektion Prag (Praha)">Finanzlandesdirektion Prag (Praha)</orgName></org><org xml:id="org__1129"><orgName key="Land Oberösterreich">Land Oberösterreich</orgName></org><org xml:id="org__1276"><orgName key="Steueramt Kaplitz (Kaplice)">Steueramt Kaplitz (Kaplice)</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

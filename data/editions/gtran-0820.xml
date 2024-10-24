@@ -43,15 +43,15 @@
          <listPerson>
             <head>Erwähnte Personen</head>
             <person/>
-         <person xml:id="person__756"><persName><surname>Lodgman</surname><forename>Rudolf</forename><roleName>Dr.</roleName></persName><birth when="1877-12-21">1877-12-21<placeName key="#place__477">Königgrätz</placeName></birth><death when="1962-12-11">1962-12-11<placeName key="#place__505">München</placeName></death><idno>http://d-nb.info/gnd/118728709</idno></person></listPerson>
+         <person xml:id="person__756"><persName key="Lodgman, Rudolf"><surname>Lodgman</surname><forename>Rudolf</forename><roleName>Dr.</roleName></persName><birth when="1877-12-21">1877-12-21<placeName key="#place__477">Königgrätz</placeName></birth><death when="1962-12-11">1962-12-11<placeName key="#place__505">München</placeName></death><idno>http://d-nb.info/gnd/118728709</idno></person></listPerson>
          <listPlace>
             <head>Erwähnte Orte</head>
             <place/>
-         <place xml:id="place__427"><placeName>Deutschböhmen</placeName><idno type="GEONAMES"/></place></listPlace>
+         <place xml:id="place__427"><placeName key="Deutschböhmen">Deutschböhmen</placeName><idno type="GEONAMES"/></place></listPlace>
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1289"><orgName>tschechoslowakische Regierung</orgName></org><org xml:id="org__3799"><orgName>Sparkasse</orgName></org></listOrg>
+         <org xml:id="org__1289"><orgName key="tschechoslowakische Regierung">tschechoslowakische Regierung</orgName></org><org xml:id="org__3799"><orgName key="Sparkasse">Sparkasse</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

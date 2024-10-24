@@ -51,7 +51,7 @@
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1256"><orgName>Staatsrat</orgName></org><org xml:id="org__3507"><orgName>Wiener Zeitung</orgName></org><org xml:id="org__3644"><orgName>Post- und Telegraphenanstalt</orgName></org></listOrg>
+         <org xml:id="org__1256"><orgName key="Staatsrat">Staatsrat</orgName></org><org xml:id="org__3507"><orgName key="Wiener Zeitung">Wiener Zeitung</orgName></org><org xml:id="org__3644"><orgName key="Post- und Telegraphenanstalt">Post- und Telegraphenanstalt</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

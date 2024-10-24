@@ -47,11 +47,11 @@
          <listPlace>
             <head>Erwähnte Orte</head>
             <place/>
-         <place xml:id="place__453"><placeName>Graz</placeName><location><geo decls="#LatLng">47.066670000000 15.450000000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2778067/</idno></place></listPlace>
+         <place xml:id="place__453"><placeName key="Graz">Graz</placeName><location><geo decls="#LatLng">47.066670000000 15.450000000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2778067/</idno></place></listPlace>
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1238"><orgName>Staatsamt für Unterricht</orgName></org><org xml:id="org__1271"><orgName>Steiermärkische Landesregierung</orgName></org><org xml:id="org__1285"><orgName>Technische Hochschule Graz</orgName></org></listOrg>
+         <org xml:id="org__1238"><orgName key="Staatsamt für Unterricht">Staatsamt für Unterricht</orgName></org><org xml:id="org__1271"><orgName key="Steiermärkische Landesregierung">Steiermärkische Landesregierung</orgName></org><org xml:id="org__1285"><orgName key="Technische Hochschule Graz">Technische Hochschule Graz</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

@@ -43,11 +43,11 @@
          <listPerson>
             <head>Erwähnte Personen</head>
             <person/>
-         <person xml:id="person__3849"><persName><surname>Reisch</surname><forename>Richard</forename><roleName>Dr. iur.</roleName></persName><birth when="1866-04-07">1866-04-07<placeName key="#place__580">Wien</placeName></birth><death when="1938-12-14">1938-12-14<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/100859666</idno></person></listPerson>
+         <person xml:id="person__3849"><persName key="Reisch, Richard"><surname>Reisch</surname><forename>Richard</forename><roleName>Dr. iur.</roleName></persName><birth when="1866-04-07">1866-04-07<placeName key="#place__580">Wien</placeName></birth><death when="1938-12-14">1938-12-14<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/100859666</idno></person></listPerson>
          <listPlace>
             <head>Erwähnte Orte</head>
             <place/>
-         <place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <place xml:id="place__580"><placeName key="Wien">Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>

@@ -47,11 +47,11 @@
          <listPlace>
             <head>Erwähnte Orte</head>
             <place/>
-         <place xml:id="place__579"><placeName>Welschtirol</placeName><idno type="GEONAMES"/></place></listPlace>
+         <place xml:id="place__579"><placeName key="Welschtirol">Welschtirol</placeName><idno type="GEONAMES"/></place></listPlace>
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1090"><orgName>italien. Staat</orgName></org><org xml:id="org__3301"><orgName>Deutschösterreichischer Staat</orgName></org><org xml:id="org__3595"><orgName>Liquidationskommission</orgName></org></listOrg>
+         <org xml:id="org__1090"><orgName key="italien. Staat">italien. Staat</orgName></org><org xml:id="org__3301"><orgName key="Deutschösterreichischer Staat">Deutschösterreichischer Staat</orgName></org><org xml:id="org__3595"><orgName key="Liquidationskommission">Liquidationskommission</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

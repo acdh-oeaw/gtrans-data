@@ -43,7 +43,7 @@
          <listPerson>
             <head>Erwähnte Personen</head>
             <person/>
-         <person xml:id="person__633"><persName><surname>Davy</surname><forename>Robert Franz Ludwig</forename><roleName>Dr.</roleName></persName><birth when="1867-01-22">1867-01-22<placeName key="#place__478">Königsberg</placeName></birth><death when="1924-04-22">1924-04-22<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/126181365</idno></person><person xml:id="person__652"><persName><surname>Forstner</surname><forename>August</forename><roleName/></persName><birth when="1876-07-29">1876-07-29<placeName key="#place__580">Wien</placeName></birth><death when="1941-02-14">1941-02-14<placeName key="#place__3118">Wolfpassing bei Zeiselmauer</placeName></death><idno>http://d-nb.info/gnd/14403347X</idno></person></listPerson>
+         <person xml:id="person__633"><persName key="Davy, Robert Franz Ludwig"><surname>Davy</surname><forename>Robert Franz Ludwig</forename><roleName>Dr.</roleName></persName><birth when="1867-01-22">1867-01-22<placeName key="#place__478">Königsberg</placeName></birth><death when="1924-04-22">1924-04-22<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/126181365</idno></person><person xml:id="person__652"><persName key="Forstner, August"><surname>Forstner</surname><forename>August</forename><roleName/></persName><birth when="1876-07-29">1876-07-29<placeName key="#place__580">Wien</placeName></birth><death when="1941-02-14">1941-02-14<placeName key="#place__3118">Wolfpassing bei Zeiselmauer</placeName></death><idno>http://d-nb.info/gnd/14403347X</idno></person></listPerson>
          <listPlace>
             <head>Erwähnte Orte</head>
             <place/>
@@ -51,7 +51,7 @@
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__997"><orgName>Deutsches Reich</orgName></org><org xml:id="org__1231"><orgName>Provisorische Nationalversammlung  (Staatsangestelltenausschuss)</orgName></org><org xml:id="org__3257"><orgName>Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</orgName></org></listOrg>
+         <org xml:id="org__997"><orgName key="Deutsches Reich">Deutsches Reich</orgName></org><org xml:id="org__1231"><orgName key="Provisorische Nationalversammlung (Staatsangestelltenausschuss)">Provisorische Nationalversammlung  (Staatsangestelltenausschuss)</orgName></org><org xml:id="org__3257"><orgName key="Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten">Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

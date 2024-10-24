@@ -43,7 +43,7 @@
          <listPerson>
             <head>Erwähnte Personen</head>
             <person/>
-         <person xml:id="person__787"><persName><surname>Pacher</surname><forename>Raphael</forename><roleName>Dr.</roleName></persName><birth when="1857-07-21">1857-07-21<placeName key="#place__464">Iserthal</placeName></birth><death when="1936-03-25">1936-03-25<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/124749275</idno></person></listPerson>
+         <person xml:id="person__787"><persName key="Pacher, Raphael"><surname>Pacher</surname><forename>Raphael</forename><roleName>Dr.</roleName></persName><birth when="1857-07-21">1857-07-21<placeName key="#place__464">Iserthal</placeName></birth><death when="1936-03-25">1936-03-25<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/124749275</idno></person></listPerson>
          <listPlace>
             <head>Erwähnte Orte</head>
             <place/>
@@ -51,7 +51,7 @@
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__957"><orgName>Akademie für Musik und darstellende Kunst</orgName></org><org xml:id="org__1083"><orgName>Hochschule</orgName></org><org xml:id="org__1105"><orgName>Kabinettsrat</orgName></org><org xml:id="org__1257"><orgName>Staatsratsdirektorium</orgName></org></listOrg>
+         <org xml:id="org__957"><orgName key="Akademie für Musik und darstellende Kunst">Akademie für Musik und darstellende Kunst</orgName></org><org xml:id="org__1083"><orgName key="Hochschule">Hochschule</orgName></org><org xml:id="org__1105"><orgName key="Kabinettsrat">Kabinettsrat</orgName></org><org xml:id="org__1257"><orgName key="Staatsratsdirektorium">Staatsratsdirektorium</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

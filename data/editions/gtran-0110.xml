@@ -43,7 +43,7 @@
          <listPerson>
             <head>Erwähnte Personen</head>
             <person/>
-         <person xml:id="person__820"><persName><surname>Renner</surname><forename>Karl</forename><roleName>Dr.</roleName></persName><birth when="1870-12-14">1870-12-14<placeName key="#place__570">Unter-Tannowitz</placeName></birth><death when="1950-12-31">1950-12-31<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118599739</idno></person></listPerson>
+         <person xml:id="person__820"><persName key="Renner, Karl"><surname>Renner</surname><forename>Karl</forename><roleName>Dr.</roleName></persName><birth when="1870-12-14">1870-12-14<placeName key="#place__570">Unter-Tannowitz</placeName></birth><death when="1950-12-31">1950-12-31<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118599739</idno></person></listPerson>
          <listPlace>
             <head>Erwähnte Orte</head>
             <place/>
@@ -51,7 +51,7 @@
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1067"><orgName>Geschäftsstelle der Personalreferenten</orgName></org><org xml:id="org__1105"><orgName>Kabinettsrat</orgName></org><org xml:id="org__1256"><orgName>Staatsrat</orgName></org></listOrg>
+         <org xml:id="org__1067"><orgName key="Geschäftsstelle der Personalreferenten">Geschäftsstelle der Personalreferenten</orgName></org><org xml:id="org__1105"><orgName key="Kabinettsrat">Kabinettsrat</orgName></org><org xml:id="org__1256"><orgName key="Staatsrat">Staatsrat</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

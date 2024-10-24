@@ -43,7 +43,7 @@
          <listPerson>
             <head>Erwähnte Personen</head>
             <person/>
-         <person xml:id="person__890"><persName><surname>Urban</surname><forename>Karl</forename><roleName/></persName><birth when="1855-09-01">1855-09-01<placeName key="#place__523">Prag</placeName></birth><death when="1940-10-24">1940-10-24<placeName key="#place__523">Prag</placeName></death><idno>http://d-nb.info/gnd/1148771107</idno></person></listPerson>
+         <person xml:id="person__890"><persName key="Urban, Karl"><surname>Urban</surname><forename>Karl</forename><roleName/></persName><birth when="1855-09-01">1855-09-01<placeName key="#place__523">Prag</placeName></birth><death when="1940-10-24">1940-10-24<placeName key="#place__523">Prag</placeName></death><idno>http://d-nb.info/gnd/1148771107</idno></person></listPerson>
          <listPlace>
             <head>Erwähnte Orte</head>
             <place/>
@@ -51,7 +51,7 @@
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1022"><orgName>k.u.k. Kriegsministerium</orgName></org><org xml:id="org__1051"><orgName>fremdnationale Staaten</orgName></org><org xml:id="org__1220"><orgName>Staatsamt für Finanzen</orgName></org><org xml:id="org__1227"><orgName>Staatsamt für Heerwesen</orgName></org><org xml:id="org__1233"><orgName>Staatsamt für Kriegs- und Übergangswirtschaft</orgName></org><org xml:id="org__1235"><orgName>Staatsamt für öffentliche Arbeiten</orgName></org><org xml:id="org__1236"><orgName>Staatsamt für soziale Fürsorge</orgName></org><org xml:id="org__3301"><orgName>Deutschösterreichischer Staat</orgName></org></listOrg>
+         <org xml:id="org__1022"><orgName key="k.u.k. Kriegsministerium">k.u.k. Kriegsministerium</orgName></org><org xml:id="org__1051"><orgName key="fremdnationale Staaten">fremdnationale Staaten</orgName></org><org xml:id="org__1220"><orgName key="Staatsamt für Finanzen">Staatsamt für Finanzen</orgName></org><org xml:id="org__1227"><orgName key="Staatsamt für Heerwesen">Staatsamt für Heerwesen</orgName></org><org xml:id="org__1233"><orgName key="Staatsamt für Kriegs- und Übergangswirtschaft">Staatsamt für Kriegs- und Übergangswirtschaft</orgName></org><org xml:id="org__1235"><orgName key="Staatsamt für öffentliche Arbeiten">Staatsamt für öffentliche Arbeiten</orgName></org><org xml:id="org__1236"><orgName key="Staatsamt für soziale Fürsorge">Staatsamt für soziale Fürsorge</orgName></org><org xml:id="org__3301"><orgName key="Deutschösterreichischer Staat">Deutschösterreichischer Staat</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

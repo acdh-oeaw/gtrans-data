@@ -51,7 +51,7 @@
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1253"><orgName>Staatskanzlei</orgName></org></listOrg>
+         <org xml:id="org__1253"><orgName key="Staatskanzlei">Staatskanzlei</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

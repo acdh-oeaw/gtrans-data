@@ -51,7 +51,7 @@
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1061"><orgName>Generaldirektion der Tabakregie</orgName></org></listOrg>
+         <org xml:id="org__1061"><orgName key="Generaldirektion der Tabakregie">Generaldirektion der Tabakregie</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

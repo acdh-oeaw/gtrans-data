@@ -43,15 +43,15 @@
          <listPerson>
             <head>Erwähnte Personen</head>
             <person/>
-         <person xml:id="person__3796"><persName><surname>Hampe von</surname><forename>Richard</forename><roleName>Dr.</roleName></persName><birth when="1863-05-10">1863-05-10<placeName key="#place__580">Wien</placeName></birth><death when="1931-10-24">1931-10-24<placeName key="#place__3797">Klosterneuburg</placeName></death></person></listPerson>
+         <person xml:id="person__3796"><persName key="Hampe von, Richard"><surname>Hampe von</surname><forename>Richard</forename><roleName>Dr.</roleName></persName><birth when="1863-05-10">1863-05-10<placeName key="#place__580">Wien</placeName></birth><death when="1931-10-24">1931-10-24<placeName key="#place__3797">Klosterneuburg</placeName></death></person></listPerson>
          <listPlace>
             <head>Erwähnte Orte</head>
             <place/>
-         <place xml:id="place__444"><placeName>fremdnationales Gebiet</placeName><idno type="GEONAMES"/></place></listPlace>
+         <place xml:id="place__444"><placeName key="fremdnationales Gebiet">fremdnationales Gebiet</placeName><idno type="GEONAMES"/></place></listPlace>
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1027"><orgName>k.k. Ministerium für Kultus und Unterricht</orgName></org><org xml:id="org__1030"><orgName>k.k. Regierung</orgName></org></listOrg>
+         <org xml:id="org__1027"><orgName key="k.k. Ministerium für Kultus und Unterricht">k.k. Ministerium für Kultus und Unterricht</orgName></org><org xml:id="org__1030"><orgName key="k.k. Regierung">k.k. Regierung</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

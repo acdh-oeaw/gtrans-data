@@ -43,11 +43,11 @@
          <listPerson>
             <head>Erwähnte Personen</head>
             <person/>
-         <person xml:id="person__666"><persName><surname>Gmeiner</surname><forename>Wilhelm</forename><roleName>Magistratsrat</roleName></persName><birth/><death/></person><person xml:id="person__775"><persName><surname>Müller</surname><forename>Josef</forename><roleName>Ober-Magistratsrat Dr.</roleName></persName><birth when="1881-06-01">1881-06-01</birth><death when="1961-03-31">1961-03-31<placeName key="#place__580">Wien</placeName></death></person><person xml:id="person__811"><persName><surname>Rauscher</surname><forename>Leopold</forename><roleName/></persName><birth/><death/></person><person xml:id="person__859"><persName><surname>Siegmeth</surname><forename/><roleName>Mag.Sekr.Dr.</roleName></persName><birth/><death/></person></listPerson>
+         <person xml:id="person__666"><persName key="Gmeiner, Wilhelm"><surname>Gmeiner</surname><forename>Wilhelm</forename><roleName>Magistratsrat</roleName></persName><birth/><death/></person><person xml:id="person__775"><persName key="Müller, Josef"><surname>Müller</surname><forename>Josef</forename><roleName>Ober-Magistratsrat Dr.</roleName></persName><birth when="1881-06-01">1881-06-01</birth><death when="1961-03-31">1961-03-31<placeName key="#place__580">Wien</placeName></death></person><person xml:id="person__811"><persName key="Rauscher, Leopold"><surname>Rauscher</surname><forename>Leopold</forename><roleName/></persName><birth/><death/></person><person xml:id="person__859"><persName key="Siegmeth"><surname>Siegmeth</surname><forename/><roleName>Mag.Sekr.Dr.</roleName></persName><birth/><death/></person></listPerson>
          <listPlace>
             <head>Erwähnte Orte</head>
             <place/>
-         <place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <place xml:id="place__580"><placeName key="Wien">Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>

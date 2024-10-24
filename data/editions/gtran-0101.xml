@@ -43,15 +43,15 @@
          <listPerson>
             <head>Erwähnte Personen</head>
             <person/>
-         <person xml:id="person__634"><persName><surname>Deutsch</surname><forename>Julius</forename><roleName>Dr.</roleName></persName><birth when="1884-02-02">1884-02-02<placeName key="#place__484">Lackenbach</placeName></birth><death when="1968-01-17">1968-01-17<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118678027</idno></person></listPerson>
+         <person xml:id="person__634"><persName key="Deutsch, Julius"><surname>Deutsch</surname><forename>Julius</forename><roleName>Dr.</roleName></persName><birth when="1884-02-02">1884-02-02<placeName key="#place__484">Lackenbach</placeName></birth><death when="1968-01-17">1968-01-17<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118678027</idno></person></listPerson>
          <listPlace>
             <head>Erwähnte Orte</head>
             <place/>
-         <place xml:id="place__427"><placeName>Deutschböhmen</placeName><idno type="GEONAMES"/></place><place xml:id="place__438"><placeName>Eger</placeName><location><geo decls="#LatLng">50.079630000000 12.373920000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3077835/</idno></place><place xml:id="place__527"><placeName>Reichenberg</placeName><location><geo decls="#LatLng">50.767110000000 15.056190000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3071961/</idno></place><place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <place xml:id="place__427"><placeName key="Deutschböhmen">Deutschböhmen</placeName><idno type="GEONAMES"/></place><place xml:id="place__438"><placeName key="Eger">Eger</placeName><location><geo decls="#LatLng">50.079630000000 12.373920000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3077835/</idno></place><place xml:id="place__527"><placeName key="Reichenberg">Reichenberg</placeName><location><geo decls="#LatLng">50.767110000000 15.056190000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3071961/</idno></place><place xml:id="place__580"><placeName key="Wien">Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1007"><orgName>deutschösterr. Regierung</orgName></org><org xml:id="org__1105"><orgName>Kabinettsrat</orgName></org><org xml:id="org__1256"><orgName>Staatsrat</orgName></org></listOrg>
+         <org xml:id="org__1007"><orgName key="deutschösterr. Regierung">deutschösterr. Regierung</orgName></org><org xml:id="org__1105"><orgName key="Kabinettsrat">Kabinettsrat</orgName></org><org xml:id="org__1256"><orgName key="Staatsrat">Staatsrat</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

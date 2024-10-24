@@ -43,15 +43,15 @@
          <listPerson>
             <head>Erwähnte Personen</head>
             <person/>
-         <person xml:id="person__644"><persName><surname>Enderes</surname><forename>Bruno</forename><roleName>Ing.</roleName></persName><birth when="1871-02-19">1871-02-19<placeName key="#place__580">Wien</placeName></birth><death when="1934-10-17">1934-10-17<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/117500348</idno></person></listPerson>
+         <person xml:id="person__644"><persName key="Enderes, Bruno"><surname>Enderes</surname><forename>Bruno</forename><roleName>Ing.</roleName></persName><birth when="1871-02-19">1871-02-19<placeName key="#place__580">Wien</placeName></birth><death when="1934-10-17">1934-10-17<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/117500348</idno></person></listPerson>
          <listPlace>
             <head>Erwähnte Orte</head>
             <place/>
-         <place xml:id="place__523"><placeName>Prag</placeName><location><geo decls="#LatLng">50.088040000000 14.420760000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3067696/</idno></place><place xml:id="place__566"><placeName>tschech. Gebiet</placeName><idno type="GEONAMES"/></place><place xml:id="place__568"><placeName>umstrittenes Gebiet</placeName><idno type="GEONAMES"/></place></listPlace>
+         <place xml:id="place__523"><placeName key="Prag">Prag</placeName><location><geo decls="#LatLng">50.088040000000 14.420760000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3067696/</idno></place><place xml:id="place__566"><placeName key="tschech. Gebiet">tschech. Gebiet</placeName><idno type="GEONAMES"/></place><place xml:id="place__568"><placeName key="umstrittenes Gebiet">umstrittenes Gebiet</placeName><idno type="GEONAMES"/></place></listPlace>
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1052"><orgName>Friedenskonferenz</orgName></org><org xml:id="org__1062"><orgName>Generaldirektion der tschechoslowakischen Staatsbahnen</orgName></org><org xml:id="org__1239"><orgName>Staatsamt für Verkehrswesen</orgName></org><org xml:id="org__1289"><orgName>tschechoslowakische Regierung</orgName></org><org xml:id="org__3301"><orgName>Deutschösterreichischer Staat</orgName></org></listOrg>
+         <org xml:id="org__1052"><orgName key="Friedenskonferenz">Friedenskonferenz</orgName></org><org xml:id="org__1062"><orgName key="Generaldirektion der tschechoslowakischen Staatsbahnen">Generaldirektion der tschechoslowakischen Staatsbahnen</orgName></org><org xml:id="org__1239"><orgName key="Staatsamt für Verkehrswesen">Staatsamt für Verkehrswesen</orgName></org><org xml:id="org__1289"><orgName key="tschechoslowakische Regierung">tschechoslowakische Regierung</orgName></org><org xml:id="org__3301"><orgName key="Deutschösterreichischer Staat">Deutschösterreichischer Staat</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

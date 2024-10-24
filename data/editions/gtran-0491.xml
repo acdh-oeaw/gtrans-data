@@ -43,15 +43,15 @@
          <listPerson>
             <head>Erwähnte Personen</head>
             <person/>
-         <person xml:id="person__821"><persName><surname>Reumann</surname><forename>Jakob</forename><roleName/></persName><birth/><death/></person><person xml:id="person__829"><persName><surname>Rotter</surname><forename>Hans</forename><roleName/></persName><birth/><death/></person><person xml:id="person__843"><persName><surname>Schorsch</surname><forename>Johann</forename><roleName/></persName><birth/><death/></person><person xml:id="person__902"><persName><surname>Weigl</surname><forename>Karl</forename><roleName/></persName><birth/><death/></person></listPerson>
+         <person xml:id="person__821"><persName key="Reumann, Jakob"><surname>Reumann</surname><forename>Jakob</forename><roleName/></persName><birth/><death/></person><person xml:id="person__829"><persName key="Rotter, Hans"><surname>Rotter</surname><forename>Hans</forename><roleName/></persName><birth/><death/></person><person xml:id="person__843"><persName key="Schorsch, Johann"><surname>Schorsch</surname><forename>Johann</forename><roleName/></persName><birth/><death/></person><person xml:id="person__902"><persName key="Weigl, Karl"><surname>Weigl</surname><forename>Karl</forename><roleName/></persName><birth/><death/></person></listPerson>
          <listPlace>
             <head>Erwähnte Orte</head>
             <place/>
-         <place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <place xml:id="place__580"><placeName key="Wien">Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1177"><orgName>Organisation der Straßenbahnbediensteten</orgName></org><org xml:id="org__1277"><orgName>Straßenbahnen (städtische)</orgName></org><org xml:id="org__1301"><orgName>Verband der Handels-, Transport- und Verkehrsarbeiter und -Arbeiterinnen Österreichs</orgName></org></listOrg>
+         <org xml:id="org__1177"><orgName key="Organisation der Straßenbahnbediensteten">Organisation der Straßenbahnbediensteten</orgName></org><org xml:id="org__1277"><orgName key="Straßenbahnen (städtische)">Straßenbahnen (städtische)</orgName></org><org xml:id="org__1301"><orgName key="Verband der Handels-, Transport- und Verkehrsarbeiter und -Arbeiterinnen Österreichs">Verband der Handels-, Transport- und Verkehrsarbeiter und -Arbeiterinnen Österreichs</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

@@ -47,11 +47,11 @@
          <listPlace>
             <head>Erwähnte Orte</head>
             <place/>
-         <place xml:id="place__441"><placeName>Eisenkappel (Bezirk)</placeName><location><geo decls="#LatLng">46.468560000000 14.573740000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/7871529/</idno></place><place xml:id="place__471"><placeName>Kärnten</placeName><location><geo decls="#LatLng">46.750000000000 13.833330000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2774686/</idno></place><place xml:id="place__543"><placeName>Seeland</placeName><location><geo decls="#LatLng">46.383330000000 14.466670000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3190216/</idno></place></listPlace>
+         <place xml:id="place__441"><placeName key="Eisenkappel (Bezirk)">Eisenkappel (Bezirk)</placeName><location><geo decls="#LatLng">46.468560000000 14.573740000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/7871529/</idno></place><place xml:id="place__471"><placeName key="Kärnten">Kärnten</placeName><location><geo decls="#LatLng">46.750000000000 13.833330000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2774686/</idno></place><place xml:id="place__543"><placeName key="Seeland">Seeland</placeName><location><geo decls="#LatLng">46.383330000000 14.466670000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3190216/</idno></place></listPlace>
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1200"><orgName>Regierung des SHS-Staates</orgName></org><org xml:id="org__1220"><orgName>Staatsamt für Finanzen</orgName></org><org xml:id="org__3301"><orgName>Deutschösterreichischer Staat</orgName></org><org xml:id="org__3470"><orgName>SHS-Staat</orgName></org></listOrg>
+         <org xml:id="org__1200"><orgName key="Regierung des SHS-Staates">Regierung des SHS-Staates</orgName></org><org xml:id="org__1220"><orgName key="Staatsamt für Finanzen">Staatsamt für Finanzen</orgName></org><org xml:id="org__3301"><orgName key="Deutschösterreichischer Staat">Deutschösterreichischer Staat</orgName></org><org xml:id="org__3470"><orgName key="SHS-Staat">SHS-Staat</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

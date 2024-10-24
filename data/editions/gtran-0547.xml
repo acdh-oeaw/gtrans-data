@@ -47,11 +47,11 @@
          <listPlace>
             <head>Erwähnte Orte</head>
             <place/>
-         <place xml:id="place__430"><placeName>Deutschösterreich</placeName><idno type="GEONAMES"/></place><place xml:id="place__3509"><placeName>Österreich-Ungarn</placeName><idno type="GEONAMES"/></place></listPlace>
+         <place xml:id="place__430"><placeName key="Deutschösterreich">Deutschösterreich</placeName><idno type="GEONAMES"/></place><place xml:id="place__3509"><placeName key="Österreich-Ungarn">Österreich-Ungarn</placeName><idno type="GEONAMES"/></place></listPlace>
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1029"><orgName>ehemals österreichisch-ungarische Monarchie</orgName></org><org xml:id="org__1030"><orgName>k.k. Regierung</orgName></org><org xml:id="org__1194"><orgName>Provisorische Nationalversammlung</orgName></org><org xml:id="org__3301"><orgName>Deutschösterreichischer Staat</orgName></org><org xml:id="org__3424"><orgName>Abgeordnetenhaus des Reichsrats</orgName></org><org xml:id="org__3508"><orgName>k.u.k. gemeinsame Armee</orgName></org></listOrg>
+         <org xml:id="org__1029"><orgName key="ehemals österreichisch-ungarische Monarchie">ehemals österreichisch-ungarische Monarchie</orgName></org><org xml:id="org__1030"><orgName key="k.k. Regierung">k.k. Regierung</orgName></org><org xml:id="org__1194"><orgName key="Provisorische Nationalversammlung">Provisorische Nationalversammlung</orgName></org><org xml:id="org__3301"><orgName key="Deutschösterreichischer Staat">Deutschösterreichischer Staat</orgName></org><org xml:id="org__3424"><orgName key="Abgeordnetenhaus des Reichsrats">Abgeordnetenhaus des Reichsrats</orgName></org><org xml:id="org__3508"><orgName key="k.u.k. gemeinsame Armee">k.u.k. gemeinsame Armee</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

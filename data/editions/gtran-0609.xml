@@ -43,15 +43,15 @@
          <listPerson>
             <head>Erwähnte Personen</head>
             <person/>
-         <person xml:id="person__773"><persName><surname>Miklas</surname><forename>Wilhelm</forename><roleName/></persName><birth when="1872-10-15">1872-10-15<placeName key="#place__481">Krems</placeName></birth><death when="1956-03-20">1956-03-20<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118783882</idno></person></listPerson>
+         <person xml:id="person__773"><persName key="Miklas, Wilhelm"><surname>Miklas</surname><forename>Wilhelm</forename><roleName/></persName><birth when="1872-10-15">1872-10-15<placeName key="#place__481">Krems</placeName></birth><death when="1956-03-20">1956-03-20<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118783882</idno></person></listPerson>
          <listPlace>
             <head>Erwähnte Orte</head>
             <place/>
-         <place xml:id="place__513"><placeName>Obertemenau</placeName><location><geo decls="#LatLng">48.767190000000 16.846580000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3077839/</idno></place><place xml:id="place__567"><placeName>Tschechoslowakei</placeName><location><geo decls="#LatLng">50.082920000000 14.466720000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/8505031/</idno></place><place xml:id="place__571"><placeName>Untertemenau</placeName><location><geo decls="#LatLng">48.754470000000 16.860350000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3067769/</idno></place><place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <place xml:id="place__513"><placeName key="Obertemenau">Obertemenau</placeName><location><geo decls="#LatLng">48.767190000000 16.846580000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3077839/</idno></place><place xml:id="place__567"><placeName key="Tschechoslowakei">Tschechoslowakei</placeName><location><geo decls="#LatLng">50.082920000000 14.466720000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/8505031/</idno></place><place xml:id="place__571"><placeName key="Untertemenau">Untertemenau</placeName><location><geo decls="#LatLng">48.754470000000 16.860350000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3067769/</idno></place><place xml:id="place__580"><placeName key="Wien">Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1289"><orgName>tschechoslowakische Regierung</orgName></org></listOrg>
+         <org xml:id="org__1289"><orgName key="tschechoslowakische Regierung">tschechoslowakische Regierung</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

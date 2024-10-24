@@ -43,15 +43,15 @@
          <listPerson>
             <head>Erwähnte Personen</head>
             <person/>
-         <person xml:id="person__3630"><persName><surname>Kaup</surname><forename>Ignaz</forename><roleName>Dr.</roleName></persName><birth when="1870-01-11">1870-01-11<placeName key="#place__3638">Marburg an der Lahn</placeName></birth><death when="1944-03-25">1944-03-25<placeName key="#place__505">München</placeName></death><idno>http://d-nb.info/gnd/117503622</idno></person></listPerson>
+         <person xml:id="person__3630"><persName key="Kaup, Ignaz"><surname>Kaup</surname><forename>Ignaz</forename><roleName>Dr.</roleName></persName><birth when="1870-01-11">1870-01-11<placeName key="#place__3638">Marburg an der Lahn</placeName></birth><death when="1944-03-25">1944-03-25<placeName key="#place__505">München</placeName></death><idno>http://d-nb.info/gnd/117503622</idno></person></listPerson>
          <listPlace>
             <head>Erwähnte Orte</head>
             <place/>
-         <place xml:id="place__430"><placeName>Deutschösterreich</placeName><idno type="GEONAMES"/></place></listPlace>
+         <place xml:id="place__430"><placeName key="Deutschösterreich">Deutschösterreich</placeName><idno type="GEONAMES"/></place></listPlace>
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1102"><orgName>k.u.k. Marine</orgName></org><org xml:id="org__1323"><orgName>Volkswehr</orgName></org><org xml:id="org__3301"><orgName>Deutschösterreichischer Staat</orgName></org><org xml:id="org__3508"><orgName>k.u.k. gemeinsame Armee</orgName></org><org xml:id="org__3521"><orgName>k.k. Landwehr</orgName></org></listOrg>
+         <org xml:id="org__1102"><orgName key="k.u.k. Marine">k.u.k. Marine</orgName></org><org xml:id="org__1323"><orgName key="Volkswehr">Volkswehr</orgName></org><org xml:id="org__3301"><orgName key="Deutschösterreichischer Staat">Deutschösterreichischer Staat</orgName></org><org xml:id="org__3508"><orgName key="k.u.k. gemeinsame Armee">k.u.k. gemeinsame Armee</orgName></org><org xml:id="org__3521"><orgName key="k.k. Landwehr">k.k. Landwehr</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

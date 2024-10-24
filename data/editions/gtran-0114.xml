@@ -51,7 +51,7 @@
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1030"><orgName>k.k. Regierung</orgName></org><org xml:id="org__1256"><orgName>Staatsrat</orgName></org><org xml:id="org__3482"><orgName>Abgeordnetenhaus des Reichsrats (Staatsangestelltenausschuss)</orgName></org><org xml:id="org__3507"><orgName>Wiener Zeitung</orgName></org></listOrg>
+         <org xml:id="org__1030"><orgName key="k.k. Regierung">k.k. Regierung</orgName></org><org xml:id="org__1256"><orgName key="Staatsrat">Staatsrat</orgName></org><org xml:id="org__3482"><orgName key="Abgeordnetenhaus des Reichsrats (Staatsangestelltenausschuss)">Abgeordnetenhaus des Reichsrats (Staatsangestelltenausschuss)</orgName></org><org xml:id="org__3507"><orgName key="Wiener Zeitung">Wiener Zeitung</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

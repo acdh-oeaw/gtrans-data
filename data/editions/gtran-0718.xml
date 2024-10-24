@@ -43,15 +43,15 @@
          <listPerson>
             <head>Erwähnte Personen</head>
             <person/>
-         <person xml:id="person__787"><persName><surname>Pacher</surname><forename>Raphael</forename><roleName>Dr.</roleName></persName><birth when="1857-07-21">1857-07-21<placeName key="#place__464">Iserthal</placeName></birth><death when="1936-03-25">1936-03-25<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/124749275</idno></person></listPerson>
+         <person xml:id="person__787"><persName key="Pacher, Raphael"><surname>Pacher</surname><forename>Raphael</forename><roleName>Dr.</roleName></persName><birth when="1857-07-21">1857-07-21<placeName key="#place__464">Iserthal</placeName></birth><death when="1936-03-25">1936-03-25<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/124749275</idno></person></listPerson>
          <listPlace>
             <head>Erwähnte Orte</head>
             <place/>
-         <place xml:id="place__423"><placeName>Cilli</placeName><location><geo decls="#LatLng">46.230920000000 15.260440000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3202781/</idno></place></listPlace>
+         <place xml:id="place__423"><placeName key="Cilli">Cilli</placeName><location><geo decls="#LatLng">46.230920000000 15.260440000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3202781/</idno></place></listPlace>
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1105"><orgName>Kabinettsrat</orgName></org><org xml:id="org__3257"><orgName>Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</orgName></org><org xml:id="org__3301"><orgName>Deutschösterreichischer Staat</orgName></org><org xml:id="org__3470"><orgName>SHS-Staat</orgName></org><org xml:id="org__3712"><orgName>Deutsches Staatsgymnasium Cilli</orgName></org></listOrg>
+         <org xml:id="org__1105"><orgName key="Kabinettsrat">Kabinettsrat</orgName></org><org xml:id="org__3257"><orgName key="Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten">Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</orgName></org><org xml:id="org__3301"><orgName key="Deutschösterreichischer Staat">Deutschösterreichischer Staat</orgName></org><org xml:id="org__3470"><orgName key="SHS-Staat">SHS-Staat</orgName></org><org xml:id="org__3712"><orgName key="Deutsches Staatsgymnasium Cilli">Deutsches Staatsgymnasium Cilli</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

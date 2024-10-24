@@ -47,11 +47,11 @@
          <listPlace>
             <head>Erwähnte Orte</head>
             <place/>
-         <place xml:id="place__406"><placeName>Bielitz</placeName><location><geo decls="#LatLng">49.822450000000 19.046860000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3103402/</idno></place><place xml:id="place__538"><placeName>Schlesien</placeName><location><geo decls="#LatLng">51.000000000000 18.000000000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3066138/</idno></place></listPlace>
+         <place xml:id="place__406"><placeName key="Bielitz">Bielitz</placeName><location><geo decls="#LatLng">49.822450000000 19.046860000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3103402/</idno></place><place xml:id="place__538"><placeName key="Schlesien">Schlesien</placeName><location><geo decls="#LatLng">51.000000000000 18.000000000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3066138/</idno></place></listPlace>
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__968"><orgName>Bahnbetriebsamt Bielitz</orgName></org><org xml:id="org__1256"><orgName>Staatsrat</orgName></org><org xml:id="org__1300"><orgName>Verband der Festangestellten in einem Ort in Schlesien</orgName></org></listOrg>
+         <org xml:id="org__968"><orgName key="Bahnbetriebsamt Bielitz">Bahnbetriebsamt Bielitz</orgName></org><org xml:id="org__1256"><orgName key="Staatsrat">Staatsrat</orgName></org><org xml:id="org__1300"><orgName key="Verband der Festangestellten in einem Ort in Schlesien">Verband der Festangestellten in einem Ort in Schlesien</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

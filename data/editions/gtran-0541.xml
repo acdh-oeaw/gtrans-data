@@ -47,11 +47,11 @@
          <listPlace>
             <head>Erwähnte Orte</head>
             <place/>
-         <place xml:id="place__423"><placeName>Cilli</placeName><location><geo decls="#LatLng">46.230920000000 15.260440000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3202781/</idno></place><place xml:id="place__444"><placeName>fremdnationales Gebiet</placeName><idno type="GEONAMES"/></place></listPlace>
+         <place xml:id="place__423"><placeName key="Cilli">Cilli</placeName><location><geo decls="#LatLng">46.230920000000 15.260440000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3202781/</idno></place><place xml:id="place__444"><placeName key="fremdnationales Gebiet">fremdnationales Gebiet</placeName><idno type="GEONAMES"/></place></listPlace>
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1238"><orgName>Staatsamt für Unterricht</orgName></org><org xml:id="org__3301"><orgName>Deutschösterreichischer Staat</orgName></org></listOrg>
+         <org xml:id="org__1238"><orgName key="Staatsamt für Unterricht">Staatsamt für Unterricht</orgName></org><org xml:id="org__3301"><orgName key="Deutschösterreichischer Staat">Deutschösterreichischer Staat</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

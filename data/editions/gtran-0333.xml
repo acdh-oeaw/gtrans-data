@@ -43,15 +43,15 @@
          <listPerson>
             <head>Erwähnte Personen</head>
             <person/>
-         <person xml:id="person__633"><persName><surname>Davy</surname><forename>Robert Franz Ludwig</forename><roleName>Dr.</roleName></persName><birth when="1867-01-22">1867-01-22<placeName key="#place__478">Königsberg</placeName></birth><death when="1924-04-22">1924-04-22<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/126181365</idno></person><person xml:id="person__757"><persName><surname>Löser</surname><forename>Eduard</forename><roleName/></persName><birth/><death/></person><person xml:id="person__870"><persName><surname>Staudacher</surname><forename>Ferdinand</forename><roleName/></persName><birth/><death/></person><person xml:id="person__3801"><persName><surname>Zarnik</surname><forename/><roleName>Dr.</roleName></persName><birth/><death/></person></listPerson>
+         <person xml:id="person__633"><persName key="Davy, Robert Franz Ludwig"><surname>Davy</surname><forename>Robert Franz Ludwig</forename><roleName>Dr.</roleName></persName><birth when="1867-01-22">1867-01-22<placeName key="#place__478">Königsberg</placeName></birth><death when="1924-04-22">1924-04-22<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/126181365</idno></person><person xml:id="person__757"><persName key="Löser, Eduard"><surname>Löser</surname><forename>Eduard</forename><roleName/></persName><birth/><death/></person><person xml:id="person__870"><persName key="Staudacher, Ferdinand"><surname>Staudacher</surname><forename>Ferdinand</forename><roleName/></persName><birth/><death/></person><person xml:id="person__3801"><persName key="Zarnik"><surname>Zarnik</surname><forename/><roleName>Dr.</roleName></persName><birth/><death/></person></listPerson>
          <listPlace>
             <head>Erwähnte Orte</head>
             <place/>
-         <place xml:id="place__485"><placeName>Laibach</placeName><location><geo decls="#LatLng">46.051080000000 14.505130000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3196359/</idno></place></listPlace>
+         <place xml:id="place__485"><placeName key="Laibach">Laibach</placeName><location><geo decls="#LatLng">46.051080000000 14.505130000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3196359/</idno></place></listPlace>
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1200"><orgName>Regierung des SHS-Staates</orgName></org><org xml:id="org__1224"><orgName>Staatsamt des Äußern</orgName></org><org xml:id="org__1263"><orgName>Stadtmagistrat Laibach (Ljubljana)</orgName></org></listOrg>
+         <org xml:id="org__1200"><orgName key="Regierung des SHS-Staates">Regierung des SHS-Staates</orgName></org><org xml:id="org__1224"><orgName key="Staatsamt des Äußern">Staatsamt des Äußern</orgName></org><org xml:id="org__1263"><orgName key="Stadtmagistrat Laibach (Ljubljana)">Stadtmagistrat Laibach (Ljubljana)</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

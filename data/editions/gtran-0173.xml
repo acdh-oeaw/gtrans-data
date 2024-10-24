@@ -43,15 +43,15 @@
          <listPerson>
             <head>Erwähnte Personen</head>
             <person/>
-         <person xml:id="person__3247"><persName><surname>Halusa</surname><forename>Josef Kuno</forename><roleName>Dr.</roleName></persName><birth when="1877-01-22">1877-01-22<placeName key="#place__3386">Frainspitz</placeName></birth><death when="1951-12-26">1951-12-26<placeName key="#place__580">Wien</placeName></death></person><person xml:id="person__784"><persName><surname>Oberdorffer</surname><forename>Leonhard</forename><roleName>Dr.</roleName></persName><birth when="1875-03-08">1875-03-08<placeName key="#place__523">Prag</placeName></birth><death when="1956-12-18">1956-12-18<placeName key="#place__580">Wien</placeName></death></person><person xml:id="person__916"><persName><surname>Wolf</surname><forename>Karl Hermann</forename><roleName>Dr.</roleName></persName><birth when="1862-01-27">1862-01-27<placeName key="#place__438">Eger</placeName></birth><death when="1941-06-11">1941-06-11<placeName key="#place__580">Wien</placeName></death><idno>https://d-nb.info/gnd/1013678079</idno></person></listPerson>
+         <person xml:id="person__3247"><persName key="Halusa, Josef Kuno"><surname>Halusa</surname><forename>Josef Kuno</forename><roleName>Dr.</roleName></persName><birth when="1877-01-22">1877-01-22<placeName key="#place__3386">Frainspitz</placeName></birth><death when="1951-12-26">1951-12-26<placeName key="#place__580">Wien</placeName></death></person><person xml:id="person__784"><persName key="Oberdorffer, Leonhard"><surname>Oberdorffer</surname><forename>Leonhard</forename><roleName>Dr.</roleName></persName><birth when="1875-03-08">1875-03-08<placeName key="#place__523">Prag</placeName></birth><death when="1956-12-18">1956-12-18<placeName key="#place__580">Wien</placeName></death></person><person xml:id="person__916"><persName key="Wolf, Karl Hermann"><surname>Wolf</surname><forename>Karl Hermann</forename><roleName>Dr.</roleName></persName><birth when="1862-01-27">1862-01-27<placeName key="#place__438">Eger</placeName></birth><death when="1941-06-11">1941-06-11<placeName key="#place__580">Wien</placeName></death><idno>https://d-nb.info/gnd/1013678079</idno></person></listPerson>
          <listPlace>
             <head>Erwähnte Orte</head>
             <place/>
-         <place xml:id="place__493"><placeName>Mähren</placeName><location><geo decls="#LatLng">49.500000000000 17.000000000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3070359/</idno></place><place xml:id="place__568"><placeName>umstrittenes Gebiet</placeName><idno type="GEONAMES"/></place></listPlace>
+         <place xml:id="place__493"><placeName key="Mähren">Mähren</placeName><location><geo decls="#LatLng">49.500000000000 17.000000000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3070359/</idno></place><place xml:id="place__568"><placeName key="umstrittenes Gebiet">umstrittenes Gebiet</placeName><idno type="GEONAMES"/></place></listPlace>
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1308"><orgName>Verein der deutschen Steuerbeamten in Mähren</orgName></org></listOrg>
+         <org xml:id="org__1308"><orgName key="Verein der deutschen Steuerbeamten in Mähren">Verein der deutschen Steuerbeamten in Mähren</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

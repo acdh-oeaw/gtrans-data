@@ -51,7 +51,7 @@
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__3508"><orgName>k.u.k. gemeinsame Armee</orgName></org></listOrg>
+         <org xml:id="org__3508"><orgName key="k.u.k. gemeinsame Armee">k.u.k. gemeinsame Armee</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

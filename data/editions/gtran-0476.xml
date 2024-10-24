@@ -47,11 +47,11 @@
          <listPlace>
             <head>Erwähnte Orte</head>
             <place/>
-         <place xml:id="place__485"><placeName>Laibach</placeName><location><geo decls="#LatLng">46.051080000000 14.505130000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3196359/</idno></place><place xml:id="place__544"><placeName>SHS-Staat</placeName><location><geo decls="#LatLng">44.000000000000 19.750000000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/7500737/</idno></place></listPlace>
+         <place xml:id="place__485"><placeName key="Laibach">Laibach</placeName><location><geo decls="#LatLng">46.051080000000 14.505130000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3196359/</idno></place><place xml:id="place__544"><placeName key="SHS-Staat">SHS-Staat</placeName><location><geo decls="#LatLng">44.000000000000 19.750000000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/7500737/</idno></place></listPlace>
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1048"><orgName>Finanzlandeskasse Laibach (Ljubljana)</orgName></org><org xml:id="org__1220"><orgName>Staatsamt für Finanzen</orgName></org><org xml:id="org__3812"><orgName>Verkehrsbank Laibach</orgName></org></listOrg>
+         <org xml:id="org__1048"><orgName key="Finanzlandeskasse Laibach (Ljubljana)">Finanzlandeskasse Laibach (Ljubljana)</orgName></org><org xml:id="org__1220"><orgName key="Staatsamt für Finanzen">Staatsamt für Finanzen</orgName></org><org xml:id="org__3812"><orgName key="Verkehrsbank Laibach">Verkehrsbank Laibach</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

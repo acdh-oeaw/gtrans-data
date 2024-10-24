@@ -51,7 +51,7 @@
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1031"><orgName>ehemals österr. Staat</orgName></org></listOrg>
+         <org xml:id="org__1031"><orgName key="ehemals österr. Staat">ehemals österr. Staat</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

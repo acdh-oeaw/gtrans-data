@@ -51,7 +51,7 @@
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1022"><orgName>k.u.k. Kriegsministerium</orgName></org><org xml:id="org__1031"><orgName>ehemals österr. Staat</orgName></org><org xml:id="org__1145"><orgName>Liquidierungskommissär beim Staatsamt für Unterricht</orgName></org><org xml:id="org__1238"><orgName>Staatsamt für Unterricht</orgName></org><org xml:id="org__3301"><orgName>Deutschösterreichischer Staat</orgName></org><org xml:id="org__3810"><orgName>k.k. Landsturm</orgName></org></listOrg>
+         <org xml:id="org__1022"><orgName key="k.u.k. Kriegsministerium">k.u.k. Kriegsministerium</orgName></org><org xml:id="org__1031"><orgName key="ehemals österr. Staat">ehemals österr. Staat</orgName></org><org xml:id="org__1145"><orgName key="Liquidierungskommissär beim Staatsamt für Unterricht">Liquidierungskommissär beim Staatsamt für Unterricht</orgName></org><org xml:id="org__1238"><orgName key="Staatsamt für Unterricht">Staatsamt für Unterricht</orgName></org><org xml:id="org__3301"><orgName key="Deutschösterreichischer Staat">Deutschösterreichischer Staat</orgName></org><org xml:id="org__3810"><orgName key="k.k. Landsturm">k.k. Landsturm</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

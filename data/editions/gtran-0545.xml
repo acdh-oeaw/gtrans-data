@@ -43,7 +43,7 @@
          <listPerson>
             <head>Erwähnte Personen</head>
             <person/>
-         <person xml:id="person__3329"><persName><surname>Zimmermann</surname><forename>Alfred Rudolph</forename><roleName/></persName><birth/><death/><idno>https://de.wikipedia.org/wiki/Alfred_Rudolph_Zimmerman</idno></person></listPerson>
+         <person xml:id="person__3329"><persName key="Zimmermann, Alfred Rudolph"><surname>Zimmermann</surname><forename>Alfred Rudolph</forename><roleName/></persName><birth/><death/><idno>https://de.wikipedia.org/wiki/Alfred_Rudolph_Zimmerman</idno></person></listPerson>
          <listPlace>
             <head>Erwähnte Orte</head>
             <place/>

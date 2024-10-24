@@ -51,7 +51,7 @@
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1267"><orgName>statistische Zentralkommission</orgName></org></listOrg>
+         <org xml:id="org__1267"><orgName key="statistische Zentralkommission">statistische Zentralkommission</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

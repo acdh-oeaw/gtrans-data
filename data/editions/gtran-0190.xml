@@ -47,11 +47,11 @@
          <listPlace>
             <head>Erwähnte Orte</head>
             <place/>
-         <place xml:id="place__444"><placeName>fremdnationales Gebiet</placeName><idno type="GEONAMES"/></place><place xml:id="place__465"><placeName>ital. Südtirol</placeName><idno type="GEONAMES"/></place></listPlace>
+         <place xml:id="place__444"><placeName key="fremdnationales Gebiet">fremdnationales Gebiet</placeName><idno type="GEONAMES"/></place><place xml:id="place__465"><placeName key="ital. Südtirol">ital. Südtirol</placeName><idno type="GEONAMES"/></place></listPlace>
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1091"><orgName>italienische Regierung</orgName></org></listOrg>
+         <org xml:id="org__1091"><orgName key="italienische Regierung">italienische Regierung</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

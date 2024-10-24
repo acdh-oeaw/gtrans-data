@@ -47,11 +47,11 @@
          <listPlace>
             <head>Erwähnte Orte</head>
             <place/>
-         <place xml:id="place__556"><placeName>Südtirol</placeName><location><geo decls="#LatLng">46.500000000000 11.333330000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3165244/</idno></place><place xml:id="place__568"><placeName>umstrittenes Gebiet</placeName><idno type="GEONAMES"/></place></listPlace>
+         <place xml:id="place__556"><placeName key="Südtirol">Südtirol</placeName><location><geo decls="#LatLng">46.500000000000 11.333330000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3165244/</idno></place><place xml:id="place__568"><placeName key="umstrittenes Gebiet">umstrittenes Gebiet</placeName><idno type="GEONAMES"/></place></listPlace>
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__970"><orgName>Beamtenkammer Bozen</orgName></org><org xml:id="org__1253"><orgName>Staatskanzlei</orgName></org></listOrg>
+         <org xml:id="org__970"><orgName key="Beamtenkammer Bozen">Beamtenkammer Bozen</orgName></org><org xml:id="org__1253"><orgName key="Staatskanzlei">Staatskanzlei</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

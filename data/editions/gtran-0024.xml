@@ -47,11 +47,11 @@
          <listPlace>
             <head>Erwähnte Orte</head>
             <place/>
-         <place xml:id="place__567"><placeName>Tschechoslowakei</placeName><location><geo decls="#LatLng">50.082920000000 14.466720000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/8505031/</idno></place></listPlace>
+         <place xml:id="place__567"><placeName key="Tschechoslowakei">Tschechoslowakei</placeName><location><geo decls="#LatLng">50.082920000000 14.466720000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/8505031/</idno></place></listPlace>
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1149"><orgName>Liquidierungskommission</orgName></org><org xml:id="org__1239"><orgName>Staatsamt für Verkehrswesen</orgName></org></listOrg>
+         <org xml:id="org__1149"><orgName key="Liquidierungskommission">Liquidierungskommission</orgName></org><org xml:id="org__1239"><orgName key="Staatsamt für Verkehrswesen">Staatsamt für Verkehrswesen</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

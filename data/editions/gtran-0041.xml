@@ -51,7 +51,7 @@
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1220"><orgName>Staatsamt für Finanzen</orgName></org><org xml:id="org__1225"><orgName>Staatsamt des Innern</orgName></org><org xml:id="org__1257"><orgName>Staatsratsdirektorium</orgName></org><org xml:id="org__1313"><orgName>Vereinigungen von Rechnungsbeamten</orgName></org></listOrg>
+         <org xml:id="org__1220"><orgName key="Staatsamt für Finanzen">Staatsamt für Finanzen</orgName></org><org xml:id="org__1225"><orgName key="Staatsamt des Innern">Staatsamt des Innern</orgName></org><org xml:id="org__1257"><orgName key="Staatsratsdirektorium">Staatsratsdirektorium</orgName></org><org xml:id="org__1313"><orgName key="Vereinigungen von Rechnungsbeamten">Vereinigungen von Rechnungsbeamten</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

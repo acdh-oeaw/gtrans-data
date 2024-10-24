@@ -43,15 +43,15 @@
          <listPerson>
             <head>Erwähnte Personen</head>
             <person/>
-         <person xml:id="person__764"><persName><surname>Mataja</surname><forename>Heinrich</forename><roleName>Dr.</roleName></persName><birth when="1877-03-14">1877-03-14<placeName key="#place__580">Wien</placeName></birth><death when="1937-01-23">1937-01-23<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/137937598</idno></person></listPerson>
+         <person xml:id="person__764"><persName key="Mataja, Heinrich"><surname>Mataja</surname><forename>Heinrich</forename><roleName>Dr.</roleName></persName><birth when="1877-03-14">1877-03-14<placeName key="#place__580">Wien</placeName></birth><death when="1937-01-23">1937-01-23<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/137937598</idno></person></listPerson>
          <listPlace>
             <head>Erwähnte Orte</head>
             <place/>
-         <place xml:id="place__430"><placeName>Deutschösterreich</placeName><idno type="GEONAMES"/></place><place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <place xml:id="place__430"><placeName key="Deutschösterreich">Deutschösterreich</placeName><idno type="GEONAMES"/></place><place xml:id="place__580"><placeName key="Wien">Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1256"><orgName>Staatsrat</orgName></org></listOrg>
+         <org xml:id="org__1256"><orgName key="Staatsrat">Staatsrat</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

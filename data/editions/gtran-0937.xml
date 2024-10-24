@@ -43,11 +43,11 @@
          <listPerson>
             <head>Erwähnte Personen</head>
             <person/>
-         <person xml:id="person__3859"><persName><surname>(von) Handel</surname><forename>Erasmus</forename><roleName/></persName><birth when="1860-06-02">1860-06-02</birth><death when="1928-06-06">1928-06-06<placeName key="#place__535">Salzburg</placeName></death><idno>http://d-nb.info/gnd/133568644</idno></person></listPerson>
+         <person xml:id="person__3859"><persName key="(von) Handel, Erasmus"><surname>(von) Handel</surname><forename>Erasmus</forename><roleName/></persName><birth when="1860-06-02">1860-06-02</birth><death when="1928-06-06">1928-06-06<placeName key="#place__535">Salzburg</placeName></death><idno>http://d-nb.info/gnd/133568644</idno></person></listPerson>
          <listPlace>
             <head>Erwähnte Orte</head>
             <place/>
-         <place xml:id="place__430"><placeName>Deutschösterreich</placeName><idno type="GEONAMES"/></place></listPlace>
+         <place xml:id="place__430"><placeName key="Deutschösterreich">Deutschösterreich</placeName><idno type="GEONAMES"/></place></listPlace>
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>

@@ -47,11 +47,11 @@
          <listPlace>
             <head>Erwähnte Orte</head>
             <place/>
-         <place xml:id="place__430"><placeName>Deutschösterreich</placeName><idno type="GEONAMES"/></place><place xml:id="place__439"><placeName>ehemals österr. Staat</placeName><idno type="GEONAMES"/></place></listPlace>
+         <place xml:id="place__430"><placeName key="Deutschösterreich">Deutschösterreich</placeName><idno type="GEONAMES"/></place><place xml:id="place__439"><placeName key="ehemals österr. Staat">ehemals österr. Staat</placeName><idno type="GEONAMES"/></place></listPlace>
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1031"><orgName>ehemals österr. Staat</orgName></org><org xml:id="org__1194"><orgName>Provisorische Nationalversammlung</orgName></org><org xml:id="org__3301"><orgName>Deutschösterreichischer Staat</orgName></org><org xml:id="org__3477"><orgName>ständige Vertretung der deutschösterreichischen Staatsangestelltenvereine</orgName></org><org xml:id="org__3478"><orgName>Vereinigung der österreichischen Richter</orgName></org></listOrg>
+         <org xml:id="org__1031"><orgName key="ehemals österr. Staat">ehemals österr. Staat</orgName></org><org xml:id="org__1194"><orgName key="Provisorische Nationalversammlung">Provisorische Nationalversammlung</orgName></org><org xml:id="org__3301"><orgName key="Deutschösterreichischer Staat">Deutschösterreichischer Staat</orgName></org><org xml:id="org__3477"><orgName key="ständige Vertretung der deutschösterreichischen Staatsangestelltenvereine">ständige Vertretung der deutschösterreichischen Staatsangestelltenvereine</orgName></org><org xml:id="org__3478"><orgName key="Vereinigung der österreichischen Richter">Vereinigung der österreichischen Richter</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

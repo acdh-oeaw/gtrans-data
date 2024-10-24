@@ -43,7 +43,7 @@
          <listPerson>
             <head>Erwähnte Personen</head>
             <person/>
-         <person xml:id="person__879"><persName><surname>Teufel</surname><forename>Oskar</forename><roleName/></persName><birth when="1880-10-05">1880-10-05<placeName key="#place__595">Znaim</placeName></birth><death when="1946-01-26">1946-01-26<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/1027122671</idno></person><person xml:id="person__890"><persName><surname>Urban</surname><forename>Karl</forename><roleName/></persName><birth when="1855-09-01">1855-09-01<placeName key="#place__523">Prag</placeName></birth><death when="1940-10-24">1940-10-24<placeName key="#place__523">Prag</placeName></death><idno>http://d-nb.info/gnd/1148771107</idno></person></listPerson>
+         <person xml:id="person__879"><persName key="Teufel, Oskar"><surname>Teufel</surname><forename>Oskar</forename><roleName/></persName><birth when="1880-10-05">1880-10-05<placeName key="#place__595">Znaim</placeName></birth><death when="1946-01-26">1946-01-26<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/1027122671</idno></person><person xml:id="person__890"><persName key="Urban, Karl"><surname>Urban</surname><forename>Karl</forename><roleName/></persName><birth when="1855-09-01">1855-09-01<placeName key="#place__523">Prag</placeName></birth><death when="1940-10-24">1940-10-24<placeName key="#place__523">Prag</placeName></death><idno>http://d-nb.info/gnd/1148771107</idno></person></listPerson>
          <listPlace>
             <head>Erwähnte Orte</head>
             <place/>
@@ -51,7 +51,7 @@
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1138"><orgName>Landes-Volksbekleidungsstelle</orgName></org><org xml:id="org__1226"><orgName>Staatsamt für Gewerbe, Industrie und Handel</orgName></org><org xml:id="org__1233"><orgName>Staatsamt für Kriegs- und Übergangswirtschaft</orgName></org><org xml:id="org__1256"><orgName>Staatsrat</orgName></org><org xml:id="org__1326"><orgName>Webwarenzentrale</orgName></org></listOrg>
+         <org xml:id="org__1138"><orgName key="Landes-Volksbekleidungsstelle">Landes-Volksbekleidungsstelle</orgName></org><org xml:id="org__1226"><orgName key="Staatsamt für Gewerbe, Industrie und Handel">Staatsamt für Gewerbe, Industrie und Handel</orgName></org><org xml:id="org__1233"><orgName key="Staatsamt für Kriegs- und Übergangswirtschaft">Staatsamt für Kriegs- und Übergangswirtschaft</orgName></org><org xml:id="org__1256"><orgName key="Staatsrat">Staatsrat</orgName></org><org xml:id="org__1326"><orgName key="Webwarenzentrale">Webwarenzentrale</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

@@ -43,7 +43,7 @@
          <listPerson>
             <head>Erwähnte Personen</head>
             <person/>
-         <person xml:id="person__952"><persName><surname>Fuchs</surname><forename/><roleName/></persName><birth><placeName key="#place__580">Wien</placeName></birth><death/></person><person xml:id="person__949"><persName><surname>Kowy</surname><forename/><roleName>Dr.</roleName></persName><birth><placeName key="#place__580">Wien</placeName></birth><death/></person><person xml:id="person__953"><persName><surname>Schrott </surname><forename/><roleName/></persName><birth><placeName key="#place__580">Wien</placeName></birth><death/></person></listPerson>
+         <person xml:id="person__952"><persName key="Fuchs"><surname>Fuchs</surname><forename/><roleName/></persName><birth><placeName key="#place__580">Wien</placeName></birth><death/></person><person xml:id="person__949"><persName key="Kowy"><surname>Kowy</surname><forename/><roleName>Dr.</roleName></persName><birth><placeName key="#place__580">Wien</placeName></birth><death/></person><person xml:id="person__953"><persName key="Schrott"><surname>Schrott </surname><forename/><roleName/></persName><birth><placeName key="#place__580">Wien</placeName></birth><death/></person></listPerson>
          <listPlace>
             <head>Erwähnte Orte</head>
             <place/>
@@ -51,7 +51,7 @@
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1256"><orgName>Staatsrat</orgName></org></listOrg>
+         <org xml:id="org__1256"><orgName key="Staatsrat">Staatsrat</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

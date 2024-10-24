@@ -51,7 +51,7 @@
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__989"><orgName>Bürgerschule</orgName></org><org xml:id="org__1007"><orgName>deutschösterr. Regierung</orgName></org><org xml:id="org__1322"><orgName>Volksschule</orgName></org></listOrg>
+         <org xml:id="org__989"><orgName key="Bürgerschule">Bürgerschule</orgName></org><org xml:id="org__1007"><orgName key="deutschösterr. Regierung">deutschösterr. Regierung</orgName></org><org xml:id="org__1322"><orgName key="Volksschule">Volksschule</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

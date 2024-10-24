@@ -43,7 +43,7 @@
          <listPerson>
             <head>Erwähnte Personen</head>
             <person/>
-         <person xml:id="person__816"><persName><surname>Redlich</surname><forename>Oswald</forename><roleName>Univ.-Prof. Dr.</roleName></persName><birth when="1858-09-17">1858-09-17<placeName key="#place__463">Innsbruck</placeName></birth><death when="1944-01-20">1944-01-20<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118743732</idno></person><person xml:id="person__820"><persName><surname>Renner</surname><forename>Karl</forename><roleName>Dr.</roleName></persName><birth when="1870-12-14">1870-12-14<placeName key="#place__570">Unter-Tannowitz</placeName></birth><death when="1950-12-31">1950-12-31<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118599739</idno></person><person xml:id="person__881"><persName><surname>Tietze</surname><forename/><roleName/></persName><birth/><death/></person><person xml:id="person__918"><persName><surname>Wotawa</surname><forename/><roleName>Prof.</roleName></persName><birth/><death/></person></listPerson>
+         <person xml:id="person__816"><persName key="Redlich, Oswald"><surname>Redlich</surname><forename>Oswald</forename><roleName>Univ.-Prof. Dr.</roleName></persName><birth when="1858-09-17">1858-09-17<placeName key="#place__463">Innsbruck</placeName></birth><death when="1944-01-20">1944-01-20<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118743732</idno></person><person xml:id="person__820"><persName key="Renner, Karl"><surname>Renner</surname><forename>Karl</forename><roleName>Dr.</roleName></persName><birth when="1870-12-14">1870-12-14<placeName key="#place__570">Unter-Tannowitz</placeName></birth><death when="1950-12-31">1950-12-31<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118599739</idno></person><person xml:id="person__881"><persName key="Tietze"><surname>Tietze</surname><forename/><roleName/></persName><birth/><death/></person><person xml:id="person__918"><persName key="Wotawa"><surname>Wotawa</surname><forename/><roleName>Prof.</roleName></persName><birth/><death/></person></listPerson>
          <listPlace>
             <head>Erwähnte Orte</head>
             <place/>
@@ -51,7 +51,7 @@
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1224"><orgName>Staatsamt des Äußern</orgName></org><org xml:id="org__1225"><orgName>Staatsamt des Innern</orgName></org><org xml:id="org__1238"><orgName>Staatsamt für Unterricht</orgName></org><org xml:id="org__1253"><orgName>Staatskanzlei</orgName></org></listOrg>
+         <org xml:id="org__1224"><orgName key="Staatsamt des Äußern">Staatsamt des Äußern</orgName></org><org xml:id="org__1225"><orgName key="Staatsamt des Innern">Staatsamt des Innern</orgName></org><org xml:id="org__1238"><orgName key="Staatsamt für Unterricht">Staatsamt für Unterricht</orgName></org><org xml:id="org__1253"><orgName key="Staatskanzlei">Staatskanzlei</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

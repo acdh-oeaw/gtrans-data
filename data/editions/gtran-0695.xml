@@ -43,7 +43,7 @@
          <listPerson>
             <head>Erwähnte Personen</head>
             <person/>
-         <person xml:id="person__872"><persName><surname>Steinwender</surname><forename>Otto</forename><roleName>Dr.</roleName></persName><birth when="1847-02-17">1847-02-17<placeName key="#place__473">Klagenfurt</placeName></birth><death when="1921-03-20">1921-03-20<placeName key="#place__575">Villach</placeName></death><idno>http://d-nb.info/gnd/120148269</idno></person></listPerson>
+         <person xml:id="person__872"><persName key="Steinwender, Otto"><surname>Steinwender</surname><forename>Otto</forename><roleName>Dr.</roleName></persName><birth when="1847-02-17">1847-02-17<placeName key="#place__473">Klagenfurt</placeName></birth><death when="1921-03-20">1921-03-20<placeName key="#place__575">Villach</placeName></death><idno>http://d-nb.info/gnd/120148269</idno></person></listPerson>
          <listPlace>
             <head>Erwähnte Orte</head>
             <place/>
@@ -51,7 +51,7 @@
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1007"><orgName>deutschösterr. Regierung</orgName></org><org xml:id="org__1029"><orgName>ehemals österreichisch-ungarische Monarchie</orgName></org><org xml:id="org__1051"><orgName>fremdnationale Staaten</orgName></org><org xml:id="org__1105"><orgName>Kabinettsrat</orgName></org><org xml:id="org__3301"><orgName>Deutschösterreichischer Staat</orgName></org><org xml:id="org__3578"><orgName>Wiener Mittag</orgName></org><org xml:id="org__3579"><orgName>Zeit</orgName></org></listOrg>
+         <org xml:id="org__1007"><orgName key="deutschösterr. Regierung">deutschösterr. Regierung</orgName></org><org xml:id="org__1029"><orgName key="ehemals österreichisch-ungarische Monarchie">ehemals österreichisch-ungarische Monarchie</orgName></org><org xml:id="org__1051"><orgName key="fremdnationale Staaten">fremdnationale Staaten</orgName></org><org xml:id="org__1105"><orgName key="Kabinettsrat">Kabinettsrat</orgName></org><org xml:id="org__3301"><orgName key="Deutschösterreichischer Staat">Deutschösterreichischer Staat</orgName></org><org xml:id="org__3578"><orgName key="Wiener Mittag">Wiener Mittag</orgName></org><org xml:id="org__3579"><orgName key="Zeit">Zeit</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

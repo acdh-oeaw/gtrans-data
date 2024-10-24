@@ -43,7 +43,7 @@
          <listPerson>
             <head>Erwähnte Personen</head>
             <person/>
-         <person xml:id="person__895"><persName><surname>Waiss</surname><forename>Erwin</forename><roleName>Dr.</roleName></persName><birth when="1880-08-03">1880-08-03<placeName key="#place__580">Wien</placeName></birth><death when="1959-07-05">1959-07-05<placeName key="#place__398">Aich am Attersee</placeName></death><idno>https://de.wikipedia.org/wiki/Erwin_Waihs</idno></person></listPerson>
+         <person xml:id="person__895"><persName key="Waiss, Erwin"><surname>Waiss</surname><forename>Erwin</forename><roleName>Dr.</roleName></persName><birth when="1880-08-03">1880-08-03<placeName key="#place__580">Wien</placeName></birth><death when="1959-07-05">1959-07-05<placeName key="#place__398">Aich am Attersee</placeName></death><idno>https://de.wikipedia.org/wiki/Erwin_Waihs</idno></person></listPerson>
          <listPlace>
             <head>Erwähnte Orte</head>
             <place/>
@@ -51,7 +51,7 @@
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1106"><orgName>Kadettenschule</orgName></org><org xml:id="org__1153"><orgName>Militärakademie</orgName></org><org xml:id="org__1154"><orgName>Militärerziehungsanstalt</orgName></org><org xml:id="org__1227"><orgName>Staatsamt für Heerwesen</orgName></org><org xml:id="org__1238"><orgName>Staatsamt für Unterricht</orgName></org></listOrg>
+         <org xml:id="org__1106"><orgName key="Kadettenschule">Kadettenschule</orgName></org><org xml:id="org__1153"><orgName key="Militärakademie">Militärakademie</orgName></org><org xml:id="org__1154"><orgName key="Militärerziehungsanstalt">Militärerziehungsanstalt</orgName></org><org xml:id="org__1227"><orgName key="Staatsamt für Heerwesen">Staatsamt für Heerwesen</orgName></org><org xml:id="org__1238"><orgName key="Staatsamt für Unterricht">Staatsamt für Unterricht</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

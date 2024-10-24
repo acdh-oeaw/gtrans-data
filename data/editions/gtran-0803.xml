@@ -51,7 +51,7 @@
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__989"><orgName>Bürgerschule</orgName></org><org xml:id="org__1322"><orgName>Volksschule</orgName></org><org xml:id="org__3301"><orgName>Deutschösterreichischer Staat</orgName></org><org xml:id="org__3547"><orgName>Komitee zur Änderung der Lehr- und Lesebücher an Volks- und Bürgerschulen</orgName></org></listOrg>
+         <org xml:id="org__989"><orgName key="Bürgerschule">Bürgerschule</orgName></org><org xml:id="org__1322"><orgName key="Volksschule">Volksschule</orgName></org><org xml:id="org__3301"><orgName key="Deutschösterreichischer Staat">Deutschösterreichischer Staat</orgName></org><org xml:id="org__3547"><orgName key="Komitee zur Änderung der Lehr- und Lesebücher an Volks- und Bürgerschulen">Komitee zur Änderung der Lehr- und Lesebücher an Volks- und Bürgerschulen</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

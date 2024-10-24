@@ -43,15 +43,15 @@
          <listPerson>
             <head>Erwähnte Personen</head>
             <person/>
-         <person xml:id="person__602"><persName><surname>Angermayer</surname><forename>Karl</forename><roleName/></persName><birth when="1862-11-17">1862-11-17<placeName key="#place__580">Wien</placeName></birth><death when="1941-04-05">1941-04-05<placeName key="#place__580">Wien</placeName></death><idno>https://de.wikipedia.org/wiki/Karl_Angermayer</idno></person><person xml:id="person__700"><persName><surname>Hierhammer</surname><forename>Heinrich</forename><roleName/></persName><birth when="1857-05-11">1857-05-11<placeName key="#place__580">Wien</placeName></birth><death when="1936-12-23">1936-12-23<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/102127108X</idno></person></listPerson>
+         <person xml:id="person__602"><persName key="Angermayer, Karl"><surname>Angermayer</surname><forename>Karl</forename><roleName/></persName><birth when="1862-11-17">1862-11-17<placeName key="#place__580">Wien</placeName></birth><death when="1941-04-05">1941-04-05<placeName key="#place__580">Wien</placeName></death><idno>https://de.wikipedia.org/wiki/Karl_Angermayer</idno></person><person xml:id="person__700"><persName key="Hierhammer, Heinrich"><surname>Hierhammer</surname><forename>Heinrich</forename><roleName/></persName><birth when="1857-05-11">1857-05-11<placeName key="#place__580">Wien</placeName></birth><death when="1936-12-23">1936-12-23<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/102127108X</idno></person></listPerson>
          <listPlace>
             <head>Erwähnte Orte</head>
             <place/>
-         <place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <place xml:id="place__580"><placeName key="Wien">Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1053"><orgName>Fuhrwerksbetriebe (städtische)</orgName></org></listOrg>
+         <org xml:id="org__1053"><orgName key="Fuhrwerksbetriebe (städtische)">Fuhrwerksbetriebe (städtische)</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

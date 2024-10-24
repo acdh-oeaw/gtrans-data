@@ -47,11 +47,11 @@
          <listPlace>
             <head>Erwähnte Orte</head>
             <place/>
-         <place xml:id="place__430"><placeName>Deutschösterreich</placeName><idno type="GEONAMES"/></place><place xml:id="place__564"><placeName>Triest</placeName><location><geo decls="#LatLng">45.649530000000 13.776780000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3165185/</idno></place></listPlace>
+         <place xml:id="place__430"><placeName key="Deutschösterreich">Deutschösterreich</placeName><idno type="GEONAMES"/></place><place xml:id="place__564"><placeName key="Triest">Triest</placeName><location><geo decls="#LatLng">45.649530000000 13.776780000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3165185/</idno></place></listPlace>
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1147"><orgName>Liquidierungskommissär im StA für Gewerbe</orgName></org><org xml:id="org__1210"><orgName>Seeverwaltung</orgName></org><org xml:id="org__1226"><orgName>Staatsamt für Gewerbe, Industrie und Handel</orgName></org></listOrg>
+         <org xml:id="org__1147"><orgName key="Liquidierungskommissär im StA für Gewerbe">Liquidierungskommissär im StA für Gewerbe</orgName></org><org xml:id="org__1210"><orgName key="Seeverwaltung">Seeverwaltung</orgName></org><org xml:id="org__1226"><orgName key="Staatsamt für Gewerbe, Industrie und Handel">Staatsamt für Gewerbe, Industrie und Handel</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

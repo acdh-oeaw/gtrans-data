@@ -2,6 +2,7 @@ import glob
 
 from lxml import etree as ET
 from acdh_tei_pyutils.tei import TeiReader
+from acdh_tei_pyutils.utils import make_entity_label
 from acdh_tei_pyutils.utils import get_xmlid
 
 
@@ -14,11 +15,18 @@ for x in glob.glob("./data/editions/*xml"):
     for y in doc.any_xpath(".//tei:keywords"):
         keywords[y.text] = y.text
     for y in doc.any_xpath(".//tei:person[@xml:id]"):
+        label = make_entity_label(y.xpath("./*[1]")[0])[0]
+        y.xpath("./*[1]")[0].attrib["key"] = label
         listperson[get_xmlid(y)] = y
     for y in doc.any_xpath(".//tei:place[@xml:id]"):
+        label = make_entity_label(y.xpath("./*[1]")[0])[0]
+        y.xpath("./*[1]")[0].attrib["key"] = label
         listplace[get_xmlid(y)] = y
     for y in doc.any_xpath(".//tei:org[@xml:id]"):
+        label = make_entity_label(y.xpath("./*[1]")[0])[0]
+        y.xpath("./*[1]")[0].attrib["key"] = label
         listorg[get_xmlid(y)] = y
+    doc.tree_to_file(x)
 
 dummy = """
 <?xml version="1.0" encoding="UTF-8"?>

@@ -47,11 +47,11 @@
          <listPlace>
             <head>Erwähnte Orte</head>
             <place/>
-         <place xml:id="place__576"><placeName>Vorarlberg</placeName><location><geo decls="#LatLng">47.250000000000 9.916670000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2762300/</idno></place></listPlace>
+         <place xml:id="place__576"><placeName key="Vorarlberg">Vorarlberg</placeName><location><geo decls="#LatLng">47.250000000000 9.916670000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2762300/</idno></place></listPlace>
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1242"><orgName>Staatsangestelltenkammer</orgName></org><org xml:id="org__1245"><orgName>Staatsangestelltenrat Vorarlberg</orgName></org><org xml:id="org__1253"><orgName>Staatskanzlei</orgName></org></listOrg>
+         <org xml:id="org__1242"><orgName key="Staatsangestelltenkammer">Staatsangestelltenkammer</orgName></org><org xml:id="org__1245"><orgName key="Staatsangestelltenrat Vorarlberg">Staatsangestelltenrat Vorarlberg</orgName></org><org xml:id="org__1253"><orgName key="Staatskanzlei">Staatskanzlei</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

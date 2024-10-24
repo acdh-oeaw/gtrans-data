@@ -43,7 +43,7 @@
          <listPerson>
             <head>Erwähnte Personen</head>
             <person/>
-         <person xml:id="person__910"><persName><surname>Wilfling</surname><forename>August</forename><roleName>Dr.</roleName></persName><birth/><death/></person></listPerson>
+         <person xml:id="person__910"><persName key="Wilfling, August"><surname>Wilfling</surname><forename>August</forename><roleName>Dr.</roleName></persName><birth/><death/></person></listPerson>
          <listPlace>
             <head>Erwähnte Orte</head>
             <place/>
@@ -51,7 +51,7 @@
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1105"><orgName>Kabinettsrat</orgName></org><org xml:id="org__1232"><orgName>Staatsamt für Justiz</orgName></org></listOrg>
+         <org xml:id="org__1105"><orgName key="Kabinettsrat">Kabinettsrat</orgName></org><org xml:id="org__1232"><orgName key="Staatsamt für Justiz">Staatsamt für Justiz</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

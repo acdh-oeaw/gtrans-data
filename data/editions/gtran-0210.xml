@@ -47,11 +47,11 @@
          <listPlace>
             <head>Erwähnte Orte</head>
             <place/>
-         <place xml:id="place__442"><placeName>Ferlach</placeName><location><geo decls="#LatLng">46.496750000000 14.283070000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/7872761/</idno></place><place xml:id="place__471"><placeName>Kärnten</placeName><location><geo decls="#LatLng">46.750000000000 13.833330000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2774686/</idno></place><place xml:id="place__480"><placeName>Krain</placeName><idno type="GEONAMES"/></place><place xml:id="place__568"><placeName>umstrittenes Gebiet</placeName><idno type="GEONAMES"/></place></listPlace>
+         <place xml:id="place__442"><placeName key="Ferlach">Ferlach</placeName><location><geo decls="#LatLng">46.496750000000 14.283070000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/7872761/</idno></place><place xml:id="place__471"><placeName key="Kärnten">Kärnten</placeName><location><geo decls="#LatLng">46.750000000000 13.833330000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2774686/</idno></place><place xml:id="place__480"><placeName key="Krain">Krain</placeName><idno type="GEONAMES"/></place><place xml:id="place__568"><placeName key="umstrittenes Gebiet">umstrittenes Gebiet</placeName><idno type="GEONAMES"/></place></listPlace>
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1040"><orgName>Ferlacher Probieranstalt</orgName></org><org xml:id="org__1235"><orgName>Staatsamt für öffentliche Arbeiten</orgName></org><org xml:id="org__3301"><orgName>Deutschösterreichischer Staat</orgName></org><org xml:id="org__3803"><orgName>Ferlacher Bürgerwehr</orgName></org></listOrg>
+         <org xml:id="org__1040"><orgName key="Ferlacher Probieranstalt">Ferlacher Probieranstalt</orgName></org><org xml:id="org__1235"><orgName key="Staatsamt für öffentliche Arbeiten">Staatsamt für öffentliche Arbeiten</orgName></org><org xml:id="org__3301"><orgName key="Deutschösterreichischer Staat">Deutschösterreichischer Staat</orgName></org><org xml:id="org__3803"><orgName key="Ferlacher Bürgerwehr">Ferlacher Bürgerwehr</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

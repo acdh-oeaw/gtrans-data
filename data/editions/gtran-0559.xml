@@ -47,11 +47,11 @@
          <listPlace>
             <head>Erwähnte Orte</head>
             <place/>
-         <place xml:id="place__480"><placeName>Krain</placeName><idno type="GEONAMES"/></place><place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <place xml:id="place__480"><placeName key="Krain">Krain</placeName><idno type="GEONAMES"/></place><place xml:id="place__580"><placeName key="Wien">Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1027"><orgName>k.k. Ministerium für Kultus und Unterricht</orgName></org><org xml:id="org__1051"><orgName>fremdnationale Staaten</orgName></org><org xml:id="org__1225"><orgName>Staatsamt des Innern</orgName></org><org xml:id="org__1238"><orgName>Staatsamt für Unterricht</orgName></org><org xml:id="org__1267"><orgName>statistische Zentralkommission</orgName></org><org xml:id="org__3798"><orgName>Zentraldirektion für Schulbuchverläge</orgName></org></listOrg>
+         <org xml:id="org__1027"><orgName key="k.k. Ministerium für Kultus und Unterricht">k.k. Ministerium für Kultus und Unterricht</orgName></org><org xml:id="org__1051"><orgName key="fremdnationale Staaten">fremdnationale Staaten</orgName></org><org xml:id="org__1225"><orgName key="Staatsamt des Innern">Staatsamt des Innern</orgName></org><org xml:id="org__1238"><orgName key="Staatsamt für Unterricht">Staatsamt für Unterricht</orgName></org><org xml:id="org__1267"><orgName key="statistische Zentralkommission">statistische Zentralkommission</orgName></org><org xml:id="org__3798"><orgName key="Zentraldirektion für Schulbuchverläge">Zentraldirektion für Schulbuchverläge</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

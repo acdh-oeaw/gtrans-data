@@ -51,7 +51,7 @@
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1236"><orgName>Staatsamt für soziale Fürsorge</orgName></org><org xml:id="org__3257"><orgName>Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</orgName></org></listOrg>
+         <org xml:id="org__1236"><orgName key="Staatsamt für soziale Fürsorge">Staatsamt für soziale Fürsorge</orgName></org><org xml:id="org__3257"><orgName key="Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten">Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

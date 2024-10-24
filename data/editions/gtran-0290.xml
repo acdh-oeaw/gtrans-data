@@ -43,7 +43,7 @@
          <listPerson>
             <head>Erwähnte Personen</head>
             <person/>
-         <person xml:id="person__3767"><persName><surname>Hanausek</surname><forename/><roleName/></persName><birth/><death/></person></listPerson>
+         <person xml:id="person__3767"><persName key="Hanausek"><surname>Hanausek</surname><forename/><roleName/></persName><birth/><death/></person></listPerson>
          <listPlace>
             <head>Erwähnte Orte</head>
             <place/>
@@ -51,7 +51,7 @@
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1105"><orgName>Kabinettsrat</orgName></org><org xml:id="org__1227"><orgName>Staatsamt für Heerwesen</orgName></org><org xml:id="org__3776"><orgName>internationale Liquidierungskommission</orgName></org></listOrg>
+         <org xml:id="org__1105"><orgName key="Kabinettsrat">Kabinettsrat</orgName></org><org xml:id="org__1227"><orgName key="Staatsamt für Heerwesen">Staatsamt für Heerwesen</orgName></org><org xml:id="org__3776"><orgName key="internationale Liquidierungskommission">internationale Liquidierungskommission</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

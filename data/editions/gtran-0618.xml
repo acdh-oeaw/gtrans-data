@@ -43,7 +43,7 @@
          <listPerson>
             <head>Erwähnte Personen</head>
             <person/>
-         <person xml:id="person__664"><persName><surname>Glöckel</surname><forename>Otto</forename><roleName/></persName><birth when="1874-02-08">1874-02-08<placeName key="#place__522">Pottendorf</placeName></birth><death when="1935-07-23">1935-07-23<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118695452</idno></person><person xml:id="person__787"><persName><surname>Pacher</surname><forename>Raphael</forename><roleName>Dr.</roleName></persName><birth when="1857-07-21">1857-07-21<placeName key="#place__464">Iserthal</placeName></birth><death when="1936-03-25">1936-03-25<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/124749275</idno></person></listPerson>
+         <person xml:id="person__664"><persName key="Glöckel, Otto"><surname>Glöckel</surname><forename>Otto</forename><roleName/></persName><birth when="1874-02-08">1874-02-08<placeName key="#place__522">Pottendorf</placeName></birth><death when="1935-07-23">1935-07-23<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118695452</idno></person><person xml:id="person__787"><persName key="Pacher, Raphael"><surname>Pacher</surname><forename>Raphael</forename><roleName>Dr.</roleName></persName><birth when="1857-07-21">1857-07-21<placeName key="#place__464">Iserthal</placeName></birth><death when="1936-03-25">1936-03-25<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/124749275</idno></person></listPerson>
          <listPlace>
             <head>Erwähnte Orte</head>
             <place/>
@@ -51,7 +51,7 @@
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__3301"><orgName>Deutschösterreichischer Staat</orgName></org></listOrg>
+         <org xml:id="org__3301"><orgName key="Deutschösterreichischer Staat">Deutschösterreichischer Staat</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

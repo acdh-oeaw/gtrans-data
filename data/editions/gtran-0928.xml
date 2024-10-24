@@ -47,11 +47,11 @@
          <listPlace>
             <head>Erwähnte Orte</head>
             <place/>
-         <place xml:id="place__430"><placeName>Deutschösterreich</placeName><idno type="GEONAMES"/></place><place xml:id="place__499"><placeName>Marburg</placeName><location><geo decls="#LatLng">46.554720000000 15.646670000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3195506/</idno></place></listPlace>
+         <place xml:id="place__430"><placeName key="Deutschösterreich">Deutschösterreich</placeName><idno type="GEONAMES"/></place><place xml:id="place__499"><placeName key="Marburg">Marburg</placeName><location><geo decls="#LatLng">46.554720000000 15.646670000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3195506/</idno></place></listPlace>
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1186"><orgName>Postamt Marburg (Maribor)</orgName></org><org xml:id="org__1200"><orgName>Regierung des SHS-Staates</orgName></org></listOrg>
+         <org xml:id="org__1186"><orgName key="Postamt Marburg (Maribor)">Postamt Marburg (Maribor)</orgName></org><org xml:id="org__1200"><orgName key="Regierung des SHS-Staates">Regierung des SHS-Staates</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

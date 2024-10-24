@@ -51,7 +51,7 @@
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1051"><orgName>fremdnationale Staaten</orgName></org><org xml:id="org__1142"><orgName>Liqudierungskommissär</orgName></org></listOrg>
+         <org xml:id="org__1051"><orgName key="fremdnationale Staaten">fremdnationale Staaten</orgName></org><org xml:id="org__1142"><orgName key="Liqudierungskommissär">Liqudierungskommissär</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

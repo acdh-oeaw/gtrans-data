@@ -47,11 +47,11 @@
          <listPlace>
             <head>Erwähnte Orte</head>
             <place/>
-         <place xml:id="place__427"><placeName>Deutschböhmen</placeName><idno type="GEONAMES"/></place><place xml:id="place__523"><placeName>Prag</placeName><location><geo decls="#LatLng">50.088040000000 14.420760000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3067696/</idno></place></listPlace>
+         <place xml:id="place__427"><placeName key="Deutschböhmen">Deutschböhmen</placeName><idno type="GEONAMES"/></place><place xml:id="place__523"><placeName key="Prag">Prag</placeName><location><geo decls="#LatLng">50.088040000000 14.420760000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3067696/</idno></place></listPlace>
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1046"><orgName>Finanzlandesdirektion Prag (Praha)</orgName></org><org xml:id="org__1275"><orgName>Steueramt</orgName></org><org xml:id="org__1289"><orgName>tschechoslowakische Regierung</orgName></org><org xml:id="org__1290"><orgName>tschechoslowakischer Staat</orgName></org><org xml:id="org__3301"><orgName>Deutschösterreichischer Staat</orgName></org></listOrg>
+         <org xml:id="org__1046"><orgName key="Finanzlandesdirektion Prag (Praha)">Finanzlandesdirektion Prag (Praha)</orgName></org><org xml:id="org__1275"><orgName key="Steueramt">Steueramt</orgName></org><org xml:id="org__1289"><orgName key="tschechoslowakische Regierung">tschechoslowakische Regierung</orgName></org><org xml:id="org__1290"><orgName key="tschechoslowakischer Staat">tschechoslowakischer Staat</orgName></org><org xml:id="org__3301"><orgName key="Deutschösterreichischer Staat">Deutschösterreichischer Staat</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

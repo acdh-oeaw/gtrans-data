@@ -43,15 +43,15 @@
          <listPerson>
             <head>Erwähnte Personen</head>
             <person/>
-         <person xml:id="person__3171"><persName><surname>Fischer</surname><forename>Julius</forename><roleName>Dr.</roleName></persName><birth when="1882-06-10">1882-06-10<placeName key="#place__3172">Teplitz</placeName></birth><death when="1943-09-05">1943-09-05<placeName key="#place__508">New York</placeName></death></person></listPerson>
+         <person xml:id="person__3171"><persName key="Fischer, Julius"><surname>Fischer</surname><forename>Julius</forename><roleName>Dr.</roleName></persName><birth when="1882-06-10">1882-06-10<placeName key="#place__3172">Teplitz</placeName></birth><death when="1943-09-05">1943-09-05<placeName key="#place__508">New York</placeName></death></person></listPerson>
          <listPlace>
             <head>Erwähnte Orte</head>
             <place/>
-         <place xml:id="place__548"><placeName>St. Pölten</placeName><location><geo decls="#LatLng">48.200000000000 15.633330000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2766429/</idno></place></listPlace>
+         <place xml:id="place__548"><placeName key="St. Pölten">St. Pölten</placeName><location><geo decls="#LatLng">48.200000000000 15.633330000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2766429/</idno></place></listPlace>
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1340"><orgName>Zentralstelle für sozialdemokratische Gemeindepolitik</orgName></org></listOrg>
+         <org xml:id="org__1340"><orgName key="Zentralstelle für sozialdemokratische Gemeindepolitik">Zentralstelle für sozialdemokratische Gemeindepolitik</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

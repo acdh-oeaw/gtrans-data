@@ -51,7 +51,7 @@
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__3646"><orgName>italienisches Liquidationsbüro</orgName></org></listOrg>
+         <org xml:id="org__3646"><orgName key="italienisches Liquidationsbüro">italienisches Liquidationsbüro</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

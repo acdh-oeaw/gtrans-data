@@ -51,7 +51,7 @@
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1029"><orgName>ehemals österreichisch-ungarische Monarchie</orgName></org><org xml:id="org__1159"><orgName>Národní Výbor (tschechoslowak. Nationalausschuss)</orgName></org><org xml:id="org__1290"><orgName>tschechoslowakischer Staat</orgName></org></listOrg>
+         <org xml:id="org__1029"><orgName key="ehemals österreichisch-ungarische Monarchie">ehemals österreichisch-ungarische Monarchie</orgName></org><org xml:id="org__1159"><orgName key="Národní Výbor (tschechoslowak. Nationalausschuss)">Národní Výbor (tschechoslowak. Nationalausschuss)</orgName></org><org xml:id="org__1290"><orgName key="tschechoslowakischer Staat">tschechoslowakischer Staat</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

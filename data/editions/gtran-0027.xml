@@ -51,7 +51,7 @@
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1019"><orgName>k. k. Ministerium für Landesverteidigung</orgName></org><org xml:id="org__1227"><orgName>Staatsamt für Heerwesen</orgName></org></listOrg>
+         <org xml:id="org__1019"><orgName key="k. k. Ministerium für Landesverteidigung">k. k. Ministerium für Landesverteidigung</orgName></org><org xml:id="org__1227"><orgName key="Staatsamt für Heerwesen">Staatsamt für Heerwesen</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

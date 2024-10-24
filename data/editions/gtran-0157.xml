@@ -43,15 +43,15 @@
          <listPerson>
             <head>Erwähnte Personen</head>
             <person/>
-         <person xml:id="person__884"><persName><surname>Tomschik</surname><forename>Josef</forename><roleName/></persName><birth when="1867-12-27">1867-12-27<placeName key="#place__580">Wien</placeName></birth><death when="1945-07-06">1945-07-06<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/1113900385</idno></person></listPerson>
+         <person xml:id="person__884"><persName key="Tomschik, Josef"><surname>Tomschik</surname><forename>Josef</forename><roleName/></persName><birth when="1867-12-27">1867-12-27<placeName key="#place__580">Wien</placeName></birth><death when="1945-07-06">1945-07-06<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/1113900385</idno></person></listPerson>
          <listPlace>
             <head>Erwähnte Orte</head>
             <place/>
-         <place xml:id="place__568"><placeName>umstrittenes Gebiet</placeName><idno type="GEONAMES"/></place></listPlace>
+         <place xml:id="place__568"><placeName key="umstrittenes Gebiet">umstrittenes Gebiet</placeName><idno type="GEONAMES"/></place></listPlace>
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1218"><orgName>Sozialdemokratische Arbeiterpartei Deutschösterreichs (SDAP)</orgName></org><org xml:id="org__1256"><orgName>Staatsrat</orgName></org></listOrg>
+         <org xml:id="org__1218"><orgName key="Sozialdemokratische Arbeiterpartei Deutschösterreichs (SDAP)">Sozialdemokratische Arbeiterpartei Deutschösterreichs (SDAP)</orgName></org><org xml:id="org__1256"><orgName key="Staatsrat">Staatsrat</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

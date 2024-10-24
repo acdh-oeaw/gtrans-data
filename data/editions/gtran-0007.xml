@@ -43,15 +43,15 @@
          <listPerson>
             <head>Erwähnte Personen</head>
             <person/>
-         <person xml:id="person__635"><persName><surname>Dinghofer</surname><forename>Franz</forename><roleName>Dr.</roleName></persName><birth when="1873-04-06">1873-04-06<placeName key="#place__517">Ottensheim</placeName></birth><death when="1956-01-12">1956-01-12<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118902830</idno></person><person xml:id="person__910"><persName><surname>Wilfling</surname><forename>August</forename><roleName>Dr.</roleName></persName><birth/><death/></person></listPerson>
+         <person xml:id="person__635"><persName key="Dinghofer, Franz"><surname>Dinghofer</surname><forename>Franz</forename><roleName>Dr.</roleName></persName><birth when="1873-04-06">1873-04-06<placeName key="#place__517">Ottensheim</placeName></birth><death when="1956-01-12">1956-01-12<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118902830</idno></person><person xml:id="person__910"><persName key="Wilfling, August"><surname>Wilfling</surname><forename>August</forename><roleName>Dr.</roleName></persName><birth/><death/></person></listPerson>
          <listPlace>
             <head>Erwähnte Orte</head>
             <place/>
-         <place xml:id="place__512"><placeName>Oberösterreich</placeName><location><geo decls="#LatLng">48.250000000000 14.000000000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2769848/</idno></place><place xml:id="place__535"><placeName>Salzburg</placeName><location><geo decls="#LatLng">47.799410000000 13.043990000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2766824/</idno></place></listPlace>
+         <place xml:id="place__512"><placeName key="Oberösterreich">Oberösterreich</placeName><location><geo decls="#LatLng">48.250000000000 14.000000000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2769848/</idno></place><place xml:id="place__535"><placeName key="Salzburg">Salzburg</placeName><location><geo decls="#LatLng">47.799410000000 13.043990000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2766824/</idno></place></listPlace>
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1006"><orgName>deutschösterr. Generalpostdirektion</orgName></org><org xml:id="org__1007"><orgName>deutschösterr. Regierung</orgName></org><org xml:id="org__1185"><orgName>Post</orgName></org><org xml:id="org__1220"><orgName>Staatsamt für Finanzen</orgName></org><org xml:id="org__1289"><orgName>tschechoslowakische Regierung</orgName></org><org xml:id="org__1290"><orgName>tschechoslowakischer Staat</orgName></org><org xml:id="org__1309"><orgName>Verein der Steuerbeamten</orgName></org></listOrg>
+         <org xml:id="org__1006"><orgName key="deutschösterr. Generalpostdirektion">deutschösterr. Generalpostdirektion</orgName></org><org xml:id="org__1007"><orgName key="deutschösterr. Regierung">deutschösterr. Regierung</orgName></org><org xml:id="org__1185"><orgName key="Post">Post</orgName></org><org xml:id="org__1220"><orgName key="Staatsamt für Finanzen">Staatsamt für Finanzen</orgName></org><org xml:id="org__1289"><orgName key="tschechoslowakische Regierung">tschechoslowakische Regierung</orgName></org><org xml:id="org__1290"><orgName key="tschechoslowakischer Staat">tschechoslowakischer Staat</orgName></org><org xml:id="org__1309"><orgName key="Verein der Steuerbeamten">Verein der Steuerbeamten</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

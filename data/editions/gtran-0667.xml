@@ -43,7 +43,7 @@
          <listPerson>
             <head>Erwähnte Personen</head>
             <person/>
-         <person xml:id="person__759"><persName><surname>Lutz</surname><forename>Julius Herbert</forename><roleName/></persName><birth/><death/></person></listPerson>
+         <person xml:id="person__759"><persName key="Lutz, Julius Herbert"><surname>Lutz</surname><forename>Julius Herbert</forename><roleName/></persName><birth/><death/></person></listPerson>
          <listPlace>
             <head>Erwähnte Orte</head>
             <place/>
@@ -51,7 +51,7 @@
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1225"><orgName>Staatsamt des Innern</orgName></org><org xml:id="org__3800"><orgName>Staatsratspräsidium</orgName></org></listOrg>
+         <org xml:id="org__1225"><orgName key="Staatsamt des Innern">Staatsamt des Innern</orgName></org><org xml:id="org__3800"><orgName key="Staatsratspräsidium">Staatsratspräsidium</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

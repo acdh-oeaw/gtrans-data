@@ -47,11 +47,11 @@
          <listPlace>
             <head>Erwähnte Orte</head>
             <place/>
-         <place xml:id="place__402"><placeName>Bayern</placeName><location><geo decls="#LatLng">49.000000000000 11.500000000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2951839/</idno></place><place xml:id="place__421"><placeName>Burgfried (Hallein)</placeName><location><geo decls="#LatLng">47.680040000000 13.111750000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2781184/</idno></place><place xml:id="place__435"><placeName>Dürnberg</placeName><idno type="GEONAMES"/></place><place xml:id="place__459"><placeName>Hallein</placeName><location><geo decls="#LatLng">47.683330000000 13.100000000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2776951/</idno></place><place xml:id="place__490"><placeName>Linz</placeName><location><geo decls="#LatLng">48.306390000000 14.286110000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2772400/</idno></place></listPlace>
+         <place xml:id="place__402"><placeName key="Bayern">Bayern</placeName><location><geo decls="#LatLng">49.000000000000 11.500000000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2951839/</idno></place><place xml:id="place__421"><placeName key="Burgfried (Hallein)">Burgfried (Hallein)</placeName><location><geo decls="#LatLng">47.680040000000 13.111750000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2781184/</idno></place><place xml:id="place__435"><placeName key="Dürnberg">Dürnberg</placeName><idno type="GEONAMES"/></place><place xml:id="place__459"><placeName key="Hallein">Hallein</placeName><location><geo decls="#LatLng">47.683330000000 13.100000000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2776951/</idno></place><place xml:id="place__490"><placeName key="Linz">Linz</placeName><location><geo decls="#LatLng">48.306390000000 14.286110000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2772400/</idno></place></listPlace>
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1042"><orgName>Finanzdirektion Linz</orgName></org></listOrg>
+         <org xml:id="org__1042"><orgName key="Finanzdirektion Linz">Finanzdirektion Linz</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

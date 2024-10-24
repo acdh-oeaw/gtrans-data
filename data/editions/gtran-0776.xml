@@ -43,7 +43,7 @@
          <listPerson>
             <head>Erwähnte Personen</head>
             <person/>
-         <person xml:id="person__742"><persName><surname>Kralowsky</surname><forename>Emil</forename><roleName>Dr.</roleName></persName><birth when="1868-09-13">1868-09-13<placeName key="#place__580">Wien</placeName></birth><death when="1941-10-19">1941-10-19<placeName key="#place__580">Wien</placeName></death></person></listPerson>
+         <person xml:id="person__742"><persName key="Kralowsky, Emil"><surname>Kralowsky</surname><forename>Emil</forename><roleName>Dr.</roleName></persName><birth when="1868-09-13">1868-09-13<placeName key="#place__580">Wien</placeName></birth><death when="1941-10-19">1941-10-19<placeName key="#place__580">Wien</placeName></death></person></listPerson>
          <listPlace>
             <head>Erwähnte Orte</head>
             <place/>
@@ -51,7 +51,7 @@
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1227"><orgName>Staatsamt für Heerwesen</orgName></org></listOrg>
+         <org xml:id="org__1227"><orgName key="Staatsamt für Heerwesen">Staatsamt für Heerwesen</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

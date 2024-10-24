@@ -51,7 +51,7 @@
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1097"><orgName>k.k. Finanzministerium</orgName></org></listOrg>
+         <org xml:id="org__1097"><orgName key="k.k. Finanzministerium">k.k. Finanzministerium</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

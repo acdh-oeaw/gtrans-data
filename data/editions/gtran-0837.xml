@@ -51,7 +51,7 @@
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1253"><orgName>Staatskanzlei</orgName></org><org xml:id="org__1256"><orgName>Staatsrat</orgName></org><org xml:id="org__3257"><orgName>Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</orgName></org></listOrg>
+         <org xml:id="org__1253"><orgName key="Staatskanzlei">Staatskanzlei</orgName></org><org xml:id="org__1256"><orgName key="Staatsrat">Staatsrat</orgName></org><org xml:id="org__3257"><orgName key="Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten">Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

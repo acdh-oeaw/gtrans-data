@@ -48,11 +48,11 @@
          <listPlace>
             <head>Erwähnte Orte</head>
             <place/>
-         <place xml:id="place__430"><placeName>Deutschösterreich</placeName><idno type="GEONAMES"/></place></listPlace>
+         <place xml:id="place__430"><placeName key="Deutschösterreich">Deutschösterreich</placeName><idno type="GEONAMES"/></place></listPlace>
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1242"><orgName>Staatsangestelltenkammer</orgName></org><org xml:id="org__3580"><orgName>Staatsarbeiterkammer</orgName></org></listOrg>
+         <org xml:id="org__1242"><orgName key="Staatsangestelltenkammer">Staatsangestelltenkammer</orgName></org><org xml:id="org__3580"><orgName key="Staatsarbeiterkammer">Staatsarbeiterkammer</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

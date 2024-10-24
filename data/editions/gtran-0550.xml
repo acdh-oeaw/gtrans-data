@@ -43,7 +43,7 @@
          <listPerson>
             <head>Erwähnte Personen</head>
             <person/>
-         <person xml:id="person__625"><persName><surname>Bugatto</surname><forename/><roleName/></persName><birth/><death/></person></listPerson>
+         <person xml:id="person__625"><persName key="Bugatto"><surname>Bugatto</surname><forename/><roleName/></persName><birth/><death/></person></listPerson>
          <listPlace>
             <head>Erwähnte Orte</head>
             <place/>
@@ -51,7 +51,7 @@
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1066"><orgName>Gesandtenkonferenz</orgName></org></listOrg>
+         <org xml:id="org__1066"><orgName key="Gesandtenkonferenz">Gesandtenkonferenz</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

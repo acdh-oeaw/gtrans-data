@@ -43,15 +43,15 @@
          <listPerson>
             <head>Erwähnte Personen</head>
             <person/>
-         <person xml:id="person__693"><persName><surname>Heine</surname><forename>Rudolf</forename><roleName>Dipl.-Ing.</roleName></persName><birth when="1877-12-14">1877-12-14<placeName key="#place__532">Rumburg</placeName></birth><death when="1949-12-10">1949-12-10<placeName key="#place__580">Wien</placeName></death><idno>https://de.wikipedia.org/wiki/Rudolf_Heine</idno></person></listPerson>
+         <person xml:id="person__693"><persName key="Heine, Rudolf"><surname>Heine</surname><forename>Rudolf</forename><roleName>Dipl.-Ing.</roleName></persName><birth when="1877-12-14">1877-12-14<placeName key="#place__532">Rumburg</placeName></birth><death when="1949-12-10">1949-12-10<placeName key="#place__580">Wien</placeName></death><idno>https://de.wikipedia.org/wiki/Rudolf_Heine</idno></person></listPerson>
          <listPlace>
             <head>Erwähnte Orte</head>
             <place/>
-         <place xml:id="place__411"><placeName>Bosnien-Herzegowina</placeName><location><geo decls="#LatLng">44.250000000000 17.833330000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3277605/</idno></place></listPlace>
+         <place xml:id="place__411"><placeName key="Bosnien-Herzegowina">Bosnien-Herzegowina</placeName><location><geo decls="#LatLng">44.250000000000 17.833330000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3277605/</idno></place></listPlace>
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1256"><orgName>Staatsrat</orgName></org></listOrg>
+         <org xml:id="org__1256"><orgName key="Staatsrat">Staatsrat</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

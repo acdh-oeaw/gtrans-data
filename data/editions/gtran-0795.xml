@@ -43,7 +43,7 @@
          <listPerson>
             <head>Erwähnte Personen</head>
             <person/>
-         <person xml:id="person__3858"><persName><surname>Grabmayr (von) Angerheim</surname><forename>Karl</forename><roleName>Dr.</roleName></persName><birth when="1848-02-11">1848-02-11<placeName key="#place__3861">Bozen</placeName></birth><death when="1923-06-24">1923-06-24<placeName key="#place__502">Meran</placeName></death><idno>http://d-nb.info/gnd/11869684X</idno></person></listPerson>
+         <person xml:id="person__3858"><persName key="Grabmayr (von) Angerheim, Karl"><surname>Grabmayr (von) Angerheim</surname><forename>Karl</forename><roleName>Dr.</roleName></persName><birth when="1848-02-11">1848-02-11<placeName key="#place__3861">Bozen</placeName></birth><death when="1923-06-24">1923-06-24<placeName key="#place__502">Meran</placeName></death><idno>http://d-nb.info/gnd/11869684X</idno></person></listPerson>
          <listPlace>
             <head>Erwähnte Orte</head>
             <place/>
@@ -51,7 +51,7 @@
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1257"><orgName>Staatsratsdirektorium</orgName></org><org xml:id="org__1321"><orgName>Verwaltungsgerichtshof</orgName></org></listOrg>
+         <org xml:id="org__1257"><orgName key="Staatsratsdirektorium">Staatsratsdirektorium</orgName></org><org xml:id="org__1321"><orgName key="Verwaltungsgerichtshof">Verwaltungsgerichtshof</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

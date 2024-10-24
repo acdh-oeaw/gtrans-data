@@ -51,7 +51,7 @@
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1199"><orgName>Rechtsschutzverein der Militärzertifikatisten für Österreich</orgName></org><org xml:id="org__1225"><orgName>Staatsamt des Innern</orgName></org><org xml:id="org__3257"><orgName>Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</orgName></org></listOrg>
+         <org xml:id="org__1199"><orgName key="Rechtsschutzverein der Militärzertifikatisten für Österreich">Rechtsschutzverein der Militärzertifikatisten für Österreich</orgName></org><org xml:id="org__1225"><orgName key="Staatsamt des Innern">Staatsamt des Innern</orgName></org><org xml:id="org__3257"><orgName key="Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten">Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

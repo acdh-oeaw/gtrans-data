@@ -51,7 +51,7 @@
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1275"><orgName>Steueramt</orgName></org></listOrg>
+         <org xml:id="org__1275"><orgName key="Steueramt">Steueramt</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

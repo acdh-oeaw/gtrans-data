@@ -44,7 +44,7 @@ Angeführt wird in dem Ansuchen, dass Hnidey, obwohl der rumänischen Nationalit
          <listPerson>
             <head>Erwähnte Personen</head>
             <person/>
-         <person xml:id="person__644"><persName><surname>Enderes</surname><forename>Bruno</forename><roleName>Ing.</roleName></persName><birth when="1871-02-19">1871-02-19<placeName key="#place__580">Wien</placeName></birth><death when="1934-10-17">1934-10-17<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/117500348</idno></person><person xml:id="person__3672"><persName><surname>Hnidey</surname><forename>Viktor</forename><roleName>Dr.</roleName></persName><birth when="1867-06-26">1867-06-26<placeName key="#place__3674">Korczestie</placeName></birth><death/></person></listPerson>
+         <person xml:id="person__644"><persName key="Enderes, Bruno"><surname>Enderes</surname><forename>Bruno</forename><roleName>Ing.</roleName></persName><birth when="1871-02-19">1871-02-19<placeName key="#place__580">Wien</placeName></birth><death when="1934-10-17">1934-10-17<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/117500348</idno></person><person xml:id="person__3672"><persName key="Hnidey, Viktor"><surname>Hnidey</surname><forename>Viktor</forename><roleName>Dr.</roleName></persName><birth when="1867-06-26">1867-06-26<placeName key="#place__3674">Korczestie</placeName></birth><death/></person></listPerson>
          <listPlace>
             <head>Erwähnte Orte</head>
             <place/>
@@ -52,7 +52,7 @@ Angeführt wird in dem Ansuchen, dass Hnidey, obwohl der rumänischen Nationalit
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1105"><orgName>Kabinettsrat</orgName></org><org xml:id="org__1239"><orgName>Staatsamt für Verkehrswesen</orgName></org><org xml:id="org__1257"><orgName>Staatsratsdirektorium</orgName></org></listOrg>
+         <org xml:id="org__1105"><orgName key="Kabinettsrat">Kabinettsrat</orgName></org><org xml:id="org__1239"><orgName key="Staatsamt für Verkehrswesen">Staatsamt für Verkehrswesen</orgName></org><org xml:id="org__1257"><orgName key="Staatsratsdirektorium">Staatsratsdirektorium</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

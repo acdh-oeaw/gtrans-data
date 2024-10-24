@@ -47,11 +47,11 @@
          <listPlace>
             <head>Erwähnte Orte</head>
             <place/>
-         <place xml:id="place__425"><placeName>Dalmatien</placeName><location><geo decls="#LatLng">43.000000000000 17.000000000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3202210/</idno></place><place xml:id="place__430"><placeName>Deutschösterreich</placeName><idno type="GEONAMES"/></place></listPlace>
+         <place xml:id="place__425"><placeName key="Dalmatien">Dalmatien</placeName><location><geo decls="#LatLng">43.000000000000 17.000000000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3202210/</idno></place><place xml:id="place__430"><placeName key="Deutschösterreich">Deutschösterreich</placeName><idno type="GEONAMES"/></place></listPlace>
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__993"><orgName>dalmatinische Landesregierung</orgName></org><org xml:id="org__1200"><orgName>Regierung des SHS-Staates</orgName></org><org xml:id="org__1225"><orgName>Staatsamt des Innern</orgName></org><org xml:id="org__3470"><orgName>SHS-Staat</orgName></org></listOrg>
+         <org xml:id="org__993"><orgName key="dalmatinische Landesregierung">dalmatinische Landesregierung</orgName></org><org xml:id="org__1200"><orgName key="Regierung des SHS-Staates">Regierung des SHS-Staates</orgName></org><org xml:id="org__1225"><orgName key="Staatsamt des Innern">Staatsamt des Innern</orgName></org><org xml:id="org__3470"><orgName key="SHS-Staat">SHS-Staat</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

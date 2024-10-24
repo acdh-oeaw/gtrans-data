@@ -43,7 +43,7 @@
          <listPerson>
             <head>Erwähnte Personen</head>
             <person/>
-         <person xml:id="person__820"><persName><surname>Renner</surname><forename>Karl</forename><roleName>Dr.</roleName></persName><birth when="1870-12-14">1870-12-14<placeName key="#place__570">Unter-Tannowitz</placeName></birth><death when="1950-12-31">1950-12-31<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118599739</idno></person><person xml:id="person__3564"><persName><surname>Schidl</surname><forename>Viktor</forename><roleName/></persName><birth/><death/></person><person xml:id="person__837"><persName><surname>Schmid</surname><forename>Karl</forename><roleName/></persName><birth when="1878-02-09">1878-02-09<placeName key="#place__535">Salzburg</placeName></birth><death when="1942-06-09">1942-06-09<placeName key="#place__580">Wien</placeName></death></person></listPerson>
+         <person xml:id="person__820"><persName key="Renner, Karl"><surname>Renner</surname><forename>Karl</forename><roleName>Dr.</roleName></persName><birth when="1870-12-14">1870-12-14<placeName key="#place__570">Unter-Tannowitz</placeName></birth><death when="1950-12-31">1950-12-31<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118599739</idno></person><person xml:id="person__3564"><persName key="Schidl, Viktor"><surname>Schidl</surname><forename>Viktor</forename><roleName/></persName><birth/><death/></person><person xml:id="person__837"><persName key="Schmid, Karl"><surname>Schmid</surname><forename>Karl</forename><roleName/></persName><birth when="1878-02-09">1878-02-09<placeName key="#place__535">Salzburg</placeName></birth><death when="1942-06-09">1942-06-09<placeName key="#place__580">Wien</placeName></death></person></listPerson>
          <listPlace>
             <head>Erwähnte Orte</head>
             <place/>
@@ -51,7 +51,7 @@
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1007"><orgName>deutschösterr. Regierung</orgName></org><org xml:id="org__1031"><orgName>ehemals österr. Staat</orgName></org><org xml:id="org__1120"><orgName>Konstituierende Nationalversammlung</orgName></org><org xml:id="org__1242"><orgName>Staatsangestelltenkammer</orgName></org><org xml:id="org__1333"><orgName>Zentralverband der deutschösterr. Staatsbeamtenvereine</orgName></org></listOrg>
+         <org xml:id="org__1007"><orgName key="deutschösterr. Regierung">deutschösterr. Regierung</orgName></org><org xml:id="org__1031"><orgName key="ehemals österr. Staat">ehemals österr. Staat</orgName></org><org xml:id="org__1120"><orgName key="Konstituierende Nationalversammlung">Konstituierende Nationalversammlung</orgName></org><org xml:id="org__1242"><orgName key="Staatsangestelltenkammer">Staatsangestelltenkammer</orgName></org><org xml:id="org__1333"><orgName key="Zentralverband der deutschösterr. Staatsbeamtenvereine">Zentralverband der deutschösterr. Staatsbeamtenvereine</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

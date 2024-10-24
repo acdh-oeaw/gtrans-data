@@ -43,15 +43,15 @@
          <listPerson>
             <head>Erwähnte Personen</head>
             <person/>
-         <person xml:id="person__700"><persName><surname>Hierhammer</surname><forename>Heinrich</forename><roleName/></persName><birth when="1857-05-11">1857-05-11<placeName key="#place__580">Wien</placeName></birth><death when="1936-12-23">1936-12-23<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/102127108X</idno></person><person xml:id="person__709"><persName><surname>Hoß</surname><forename>Franz</forename><roleName/></persName><birth when="1866-11-04">1866-11-04<placeName key="#place__3167">Floridsdorf</placeName></birth><death when="1947-08-12">1947-08-12<placeName key="#place__580">Wien</placeName></death><idno>https://de.wikipedia.org/wiki/Franz_Ho%C3%9F</idno></person></listPerson>
+         <person xml:id="person__700"><persName key="Hierhammer, Heinrich"><surname>Hierhammer</surname><forename>Heinrich</forename><roleName/></persName><birth when="1857-05-11">1857-05-11<placeName key="#place__580">Wien</placeName></birth><death when="1936-12-23">1936-12-23<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/102127108X</idno></person><person xml:id="person__709"><persName key="Hoß, Franz"><surname>Hoß</surname><forename>Franz</forename><roleName/></persName><birth when="1866-11-04">1866-11-04<placeName key="#place__3167">Floridsdorf</placeName></birth><death when="1947-08-12">1947-08-12<placeName key="#place__580">Wien</placeName></death><idno>https://de.wikipedia.org/wiki/Franz_Ho%C3%9F</idno></person></listPerson>
          <listPlace>
             <head>Erwähnte Orte</head>
             <place/>
-         <place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <place xml:id="place__580"><placeName key="Wien">Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1259"><orgName>Gaswerke (städtische)</orgName></org></listOrg>
+         <org xml:id="org__1259"><orgName key="Gaswerke (städtische)">Gaswerke (städtische)</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

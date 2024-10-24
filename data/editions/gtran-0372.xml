@@ -43,15 +43,15 @@
          <listPerson>
             <head>Erwähnte Personen</head>
             <person/>
-         <person xml:id="person__609"><persName><surname>Beck von Managetta</surname><forename>Eugen</forename><roleName>Dr.</roleName></persName><birth when="1861-06-15">1861-06-15<placeName key="#place__524">Preßburg</placeName></birth><death when="1943-11-07">1943-11-07<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/137693036; https://www.deutsche-biographie.de/pnd137693036.html</idno></person><person xml:id="person__3642"><persName><surname>Fröhlich</surname><forename/><roleName/></persName><birth/><death/></person><person xml:id="person__3641"><persName><surname>Pauernfeindt</surname><forename/><roleName/></persName><birth/><death/></person><person xml:id="person__3564"><persName><surname>Schidl</surname><forename>Viktor</forename><roleName/></persName><birth/><death/></person></listPerson>
+         <person xml:id="person__609"><persName key="Beck von Managetta, Eugen"><surname>Beck von Managetta</surname><forename>Eugen</forename><roleName>Dr.</roleName></persName><birth when="1861-06-15">1861-06-15<placeName key="#place__524">Preßburg</placeName></birth><death when="1943-11-07">1943-11-07<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/137693036; https://www.deutsche-biographie.de/pnd137693036.html</idno></person><person xml:id="person__3642"><persName key="Fröhlich"><surname>Fröhlich</surname><forename/><roleName/></persName><birth/><death/></person><person xml:id="person__3641"><persName key="Pauernfeindt"><surname>Pauernfeindt</surname><forename/><roleName/></persName><birth/><death/></person><person xml:id="person__3564"><persName key="Schidl, Viktor"><surname>Schidl</surname><forename>Viktor</forename><roleName/></persName><birth/><death/></person></listPerson>
          <listPlace>
             <head>Erwähnte Orte</head>
             <place/>
-         <place xml:id="place__429"><placeName>Deutsches Reich</placeName><idno type="GEONAMES"/></place></listPlace>
+         <place xml:id="place__429"><placeName key="Deutsches Reich">Deutsches Reich</placeName><idno type="GEONAMES"/></place></listPlace>
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__3524"><orgName>Zentralverband der österreichischen Staatsbeamtenvereine</orgName></org></listOrg>
+         <org xml:id="org__3524"><orgName key="Zentralverband der österreichischen Staatsbeamtenvereine">Zentralverband der österreichischen Staatsbeamtenvereine</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

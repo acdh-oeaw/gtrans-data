@@ -43,11 +43,11 @@
          <listPerson>
             <head>Erwähnte Personen</head>
             <person/>
-         <person xml:id="person__622"><persName><surname>Brockhausen</surname><forename>Carl</forename><roleName>Prof. Dr.</roleName></persName><birth when="1859-05-09">1859-05-09<placeName key="#place__3129">Emmerich am Rhein</placeName></birth><death when="1951-09-16">1951-09-16<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/116552980</idno></person></listPerson>
+         <person xml:id="person__622"><persName key="Brockhausen, Carl"><surname>Brockhausen</surname><forename>Carl</forename><roleName>Prof. Dr.</roleName></persName><birth when="1859-05-09">1859-05-09<placeName key="#place__3129">Emmerich am Rhein</placeName></birth><death when="1951-09-16">1951-09-16<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/116552980</idno></person></listPerson>
          <listPlace>
             <head>Erwähnte Orte</head>
             <place/>
-         <place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <place xml:id="place__580"><placeName key="Wien">Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>

@@ -51,7 +51,7 @@
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1007"><orgName>deutschösterr. Regierung</orgName></org><org xml:id="org__1031"><orgName>ehemals österr. Staat</orgName></org><org xml:id="org__1066"><orgName>Gesandtenkonferenz</orgName></org><org xml:id="org__1217"><orgName>Soldatenrat</orgName></org><org xml:id="org__1239"><orgName>Staatsamt für Verkehrswesen</orgName></org><org xml:id="org__1246"><orgName>Staatsbahn</orgName></org><org xml:id="org__3688"><orgName>Vertrauensmännerausschuss der deutschösterreichischen Eisenbahner</orgName></org><org xml:id="org__3689"><orgName>Generalinspektion der Eisenbahnen</orgName></org><org xml:id="org__3690"><orgName>Arbeiterräte</orgName></org></listOrg>
+         <org xml:id="org__1007"><orgName key="deutschösterr. Regierung">deutschösterr. Regierung</orgName></org><org xml:id="org__1031"><orgName key="ehemals österr. Staat">ehemals österr. Staat</orgName></org><org xml:id="org__1066"><orgName key="Gesandtenkonferenz">Gesandtenkonferenz</orgName></org><org xml:id="org__1217"><orgName key="Soldatenrat">Soldatenrat</orgName></org><org xml:id="org__1239"><orgName key="Staatsamt für Verkehrswesen">Staatsamt für Verkehrswesen</orgName></org><org xml:id="org__1246"><orgName key="Staatsbahn">Staatsbahn</orgName></org><org xml:id="org__3688"><orgName key="Vertrauensmännerausschuss der deutschösterreichischen Eisenbahner">Vertrauensmännerausschuss der deutschösterreichischen Eisenbahner</orgName></org><org xml:id="org__3689"><orgName key="Generalinspektion der Eisenbahnen">Generalinspektion der Eisenbahnen</orgName></org><org xml:id="org__3690"><orgName key="Arbeiterräte">Arbeiterräte</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

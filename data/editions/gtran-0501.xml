@@ -51,7 +51,7 @@
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1105"><orgName>Kabinettsrat</orgName></org><org xml:id="org__1231"><orgName>Provisorische Nationalversammlung  (Staatsangestelltenausschuss)</orgName></org><org xml:id="org__1256"><orgName>Staatsrat</orgName></org></listOrg>
+         <org xml:id="org__1105"><orgName key="Kabinettsrat">Kabinettsrat</orgName></org><org xml:id="org__1231"><orgName key="Provisorische Nationalversammlung (Staatsangestelltenausschuss)">Provisorische Nationalversammlung  (Staatsangestelltenausschuss)</orgName></org><org xml:id="org__1256"><orgName key="Staatsrat">Staatsrat</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

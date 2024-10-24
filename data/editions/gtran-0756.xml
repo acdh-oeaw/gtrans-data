@@ -43,15 +43,15 @@
          <listPerson>
             <head>Erwähnte Personen</head>
             <person/>
-         <person xml:id="person__910"><persName><surname>Wilfling</surname><forename>August</forename><roleName>Dr.</roleName></persName><birth/><death/></person></listPerson>
+         <person xml:id="person__910"><persName key="Wilfling, August"><surname>Wilfling</surname><forename>August</forename><roleName>Dr.</roleName></persName><birth/><death/></person></listPerson>
          <listPlace>
             <head>Erwähnte Orte</head>
             <place/>
-         <place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <place xml:id="place__580"><placeName key="Wien">Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1203"><orgName>Reichsverein der aus Militäranwärtern hervorgegangenen Beamten in Wien</orgName></org></listOrg>
+         <org xml:id="org__1203"><orgName key="Reichsverein der aus Militäranwärtern hervorgegangenen Beamten in Wien">Reichsverein der aus Militäranwärtern hervorgegangenen Beamten in Wien</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

@@ -51,7 +51,7 @@
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1159"><orgName>Národní Výbor (tschechoslowak. Nationalausschuss)</orgName></org><org xml:id="org__1185"><orgName>Post</orgName></org><org xml:id="org__1290"><orgName>tschechoslowakischer Staat</orgName></org><org xml:id="org__3492"><orgName>tschechoslowakisches Preßbüro</orgName></org><org xml:id="org__3493"><orgName>Eisenbahnkommission (Tschechoslowakei)</orgName></org><org xml:id="org__3494"><orgName>Postkommission (Tschechoslowakei)</orgName></org></listOrg>
+         <org xml:id="org__1159"><orgName key="Národní Výbor (tschechoslowak. Nationalausschuss)">Národní Výbor (tschechoslowak. Nationalausschuss)</orgName></org><org xml:id="org__1185"><orgName key="Post">Post</orgName></org><org xml:id="org__1290"><orgName key="tschechoslowakischer Staat">tschechoslowakischer Staat</orgName></org><org xml:id="org__3492"><orgName key="tschechoslowakisches Preßbüro">tschechoslowakisches Preßbüro</orgName></org><org xml:id="org__3493"><orgName key="Eisenbahnkommission (Tschechoslowakei)">Eisenbahnkommission (Tschechoslowakei)</orgName></org><org xml:id="org__3494"><orgName key="Postkommission (Tschechoslowakei)">Postkommission (Tschechoslowakei)</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

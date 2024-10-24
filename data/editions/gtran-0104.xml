@@ -43,15 +43,15 @@
          <listPerson>
             <head>Erwähnte Personen</head>
             <person/>
-         <person xml:id="person__631"><persName><surname>Danneberg</surname><forename>Robert</forename><roleName>Dr.</roleName></persName><birth when="1885-07-23">1885-07-23<placeName key="#place__580">Wien</placeName></birth><death when="1942-01-01">1942-01-01<placeName key="#place__3132">Auschwitz (KZ)</placeName></death><idno>http://d-nb.info/gnd/118523643</idno></person></listPerson>
+         <person xml:id="person__631"><persName key="Danneberg, Robert"><surname>Danneberg</surname><forename>Robert</forename><roleName>Dr.</roleName></persName><birth when="1885-07-23">1885-07-23<placeName key="#place__580">Wien</placeName></birth><death when="1942-01-01">1942-01-01<placeName key="#place__3132">Auschwitz (KZ)</placeName></death><idno>http://d-nb.info/gnd/118523643</idno></person></listPerson>
          <listPlace>
             <head>Erwähnte Orte</head>
             <place/>
-         <place xml:id="place__509"><placeName>Niederösterreich</placeName><location><geo decls="#LatLng">48.333330000000 15.750000000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2770542/</idno></place><place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <place xml:id="place__509"><placeName key="Niederösterreich">Niederösterreich</placeName><location><geo decls="#LatLng">48.333330000000 15.750000000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2770542/</idno></place><place xml:id="place__580"><placeName key="Wien">Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1056"><orgName>Gemeinderat (Wien)</orgName></org></listOrg>
+         <org xml:id="org__1056"><orgName key="Gemeinderat (Wien)">Gemeinderat (Wien)</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

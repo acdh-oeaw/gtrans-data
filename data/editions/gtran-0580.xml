@@ -51,7 +51,7 @@
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1185"><orgName>Post</orgName></org><org xml:id="org__1226"><orgName>Staatsamt für Gewerbe, Industrie und Handel</orgName></org><org xml:id="org__1227"><orgName>Staatsamt für Heerwesen</orgName></org><org xml:id="org__3508"><orgName>k.u.k. gemeinsame Armee</orgName></org></listOrg>
+         <org xml:id="org__1185"><orgName key="Post">Post</orgName></org><org xml:id="org__1226"><orgName key="Staatsamt für Gewerbe, Industrie und Handel">Staatsamt für Gewerbe, Industrie und Handel</orgName></org><org xml:id="org__1227"><orgName key="Staatsamt für Heerwesen">Staatsamt für Heerwesen</orgName></org><org xml:id="org__3508"><orgName key="k.u.k. gemeinsame Armee">k.u.k. gemeinsame Armee</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

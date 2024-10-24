@@ -43,15 +43,15 @@
          <listPerson>
             <head>Erwähnte Personen</head>
             <person/>
-         <person xml:id="person__857"><persName><surname>Seipel</surname><forename>Ignaz</forename><roleName>Univ.-Prof. Dr.</roleName></persName><birth when="1876-07-19">1876-07-19<placeName key="#place__580">Wien</placeName></birth><death when="1932-08-02">1932-08-02<placeName key="#place__3139">Pernitz</placeName></death><idno>http://d-nb.info/gnd/11861293X</idno></person></listPerson>
+         <person xml:id="person__857"><persName key="Seipel, Ignaz"><surname>Seipel</surname><forename>Ignaz</forename><roleName>Univ.-Prof. Dr.</roleName></persName><birth when="1876-07-19">1876-07-19<placeName key="#place__580">Wien</placeName></birth><death when="1932-08-02">1932-08-02<placeName key="#place__3139">Pernitz</placeName></death><idno>http://d-nb.info/gnd/11861293X</idno></person></listPerson>
          <listPlace>
             <head>Erwähnte Orte</head>
             <place/>
-         <place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <place xml:id="place__580"><placeName key="Wien">Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1225"><orgName>Staatsamt des Innern</orgName></org><org xml:id="org__1238"><orgName>Staatsamt für Unterricht</orgName></org></listOrg>
+         <org xml:id="org__1225"><orgName key="Staatsamt des Innern">Staatsamt des Innern</orgName></org><org xml:id="org__1238"><orgName key="Staatsamt für Unterricht">Staatsamt für Unterricht</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

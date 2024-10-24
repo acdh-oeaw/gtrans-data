@@ -43,7 +43,7 @@
          <listPerson>
             <head>Erwähnte Personen</head>
             <person/>
-         <person xml:id="person__724"><persName><surname>Habsburg-Lothringen</surname><forename>Karl</forename><roleName>ehemaliger Kaiser</roleName></persName><birth when="1887-08-17">1887-08-17<placeName key="#place__519">Persenbeug</placeName></birth><death when="1922-04-01">1922-04-01<placeName key="#place__446">Funchal</placeName></death><idno>http://d-nb.info/gnd/118560077</idno></person><person xml:id="person__750"><persName><surname>Lammasch</surname><forename>Heinrich</forename><roleName>Prof. Dr.</roleName></persName><birth when="1853-05-21">1853-05-21<placeName key="#place__3181">Seitenstetten</placeName></birth><death when="1920-01-06">1920-01-06<placeName key="#place__535">Salzburg</placeName></death><idno>http://d-nb.info/gnd/118726110</idno></person></listPerson>
+         <person xml:id="person__724"><persName key="Habsburg-Lothringen, Karl"><surname>Habsburg-Lothringen</surname><forename>Karl</forename><roleName>ehemaliger Kaiser</roleName></persName><birth when="1887-08-17">1887-08-17<placeName key="#place__519">Persenbeug</placeName></birth><death when="1922-04-01">1922-04-01<placeName key="#place__446">Funchal</placeName></death><idno>http://d-nb.info/gnd/118560077</idno></person><person xml:id="person__750"><persName key="Lammasch, Heinrich"><surname>Lammasch</surname><forename>Heinrich</forename><roleName>Prof. Dr.</roleName></persName><birth when="1853-05-21">1853-05-21<placeName key="#place__3181">Seitenstetten</placeName></birth><death when="1920-01-06">1920-01-06<placeName key="#place__535">Salzburg</placeName></death><idno>http://d-nb.info/gnd/118726110</idno></person></listPerson>
          <listPlace>
             <head>Erwähnte Orte</head>
             <place/>
@@ -51,7 +51,7 @@
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1031"><orgName>ehemals österr. Staat</orgName></org></listOrg>
+         <org xml:id="org__1031"><orgName key="ehemals österr. Staat">ehemals österr. Staat</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

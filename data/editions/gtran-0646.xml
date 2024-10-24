@@ -47,11 +47,11 @@
          <listPlace>
             <head>Erwähnte Orte</head>
             <place/>
-         <place xml:id="place__473"><placeName>Klagenfurt</placeName><location><geo decls="#LatLng">46.624720000000 14.305280000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2774326/</idno></place><place xml:id="place__564"><placeName>Triest</placeName><location><geo decls="#LatLng">45.649530000000 13.776780000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3165185/</idno></place></listPlace>
+         <place xml:id="place__473"><placeName key="Klagenfurt">Klagenfurt</placeName><location><geo decls="#LatLng">46.624720000000 14.305280000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2774326/</idno></place><place xml:id="place__564"><placeName key="Triest">Triest</placeName><location><geo decls="#LatLng">45.649530000000 13.776780000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3165185/</idno></place></listPlace>
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1187"><orgName>Postamt Triest (Trieste)</orgName></org><org xml:id="org__1224"><orgName>Staatsamt des Äußern</orgName></org><org xml:id="org__1226"><orgName>Staatsamt für Gewerbe, Industrie und Handel</orgName></org><org xml:id="org__3257"><orgName>Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</orgName></org><org xml:id="org__3301"><orgName>Deutschösterreichischer Staat</orgName></org><org xml:id="org__3816"><orgName>Postdirektion Klagenfurt</orgName></org></listOrg>
+         <org xml:id="org__1187"><orgName key="Postamt Triest (Trieste)">Postamt Triest (Trieste)</orgName></org><org xml:id="org__1224"><orgName key="Staatsamt des Äußern">Staatsamt des Äußern</orgName></org><org xml:id="org__1226"><orgName key="Staatsamt für Gewerbe, Industrie und Handel">Staatsamt für Gewerbe, Industrie und Handel</orgName></org><org xml:id="org__3257"><orgName key="Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten">Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</orgName></org><org xml:id="org__3301"><orgName key="Deutschösterreichischer Staat">Deutschösterreichischer Staat</orgName></org><org xml:id="org__3816"><orgName key="Postdirektion Klagenfurt">Postdirektion Klagenfurt</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

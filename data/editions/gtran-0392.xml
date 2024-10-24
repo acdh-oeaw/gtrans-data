@@ -47,11 +47,11 @@
          <listPlace>
             <head>Erwähnte Orte</head>
             <place/>
-         <place xml:id="place__523"><placeName>Prag</placeName><location><geo decls="#LatLng">50.088040000000 14.420760000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3067696/</idno></place><place xml:id="place__564"><placeName>Triest</placeName><location><geo decls="#LatLng">45.649530000000 13.776780000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3165185/</idno></place><place xml:id="place__3818"><placeName>Görz</placeName><location><geo decls="#LatLng">45.940880000000 13.621670000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3175986/</idno></place></listPlace>
+         <place xml:id="place__523"><placeName key="Prag">Prag</placeName><location><geo decls="#LatLng">50.088040000000 14.420760000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3067696/</idno></place><place xml:id="place__564"><placeName key="Triest">Triest</placeName><location><geo decls="#LatLng">45.649530000000 13.776780000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3165185/</idno></place><place xml:id="place__3818"><placeName key="Görz">Görz</placeName><location><geo decls="#LatLng">45.940880000000 13.621670000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3175986/</idno></place></listPlace>
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1238"><orgName>Staatsamt für Unterricht</orgName></org><org xml:id="org__1290"><orgName>tschechoslowakischer Staat</orgName></org></listOrg>
+         <org xml:id="org__1238"><orgName key="Staatsamt für Unterricht">Staatsamt für Unterricht</orgName></org><org xml:id="org__1290"><orgName key="tschechoslowakischer Staat">tschechoslowakischer Staat</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

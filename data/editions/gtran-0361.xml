@@ -47,11 +47,11 @@
          <listPlace>
             <head>Erwähnte Orte</head>
             <place/>
-         <place xml:id="place__424"><placeName>Czernowitz</placeName><location><geo decls="#LatLng">48.291490000000 25.940340000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/710719/</idno></place></listPlace>
+         <place xml:id="place__424"><placeName key="Czernowitz">Czernowitz</placeName><location><geo decls="#LatLng">48.291490000000 25.940340000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/710719/</idno></place></listPlace>
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1222"><orgName>StA der Finanzen (Präsidium)</orgName></org></listOrg>
+         <org xml:id="org__1222"><orgName key="StA der Finanzen (Präsidium)">StA der Finanzen (Präsidium)</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

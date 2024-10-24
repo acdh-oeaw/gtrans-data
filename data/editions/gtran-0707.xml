@@ -43,15 +43,15 @@
          <listPerson>
             <head>Erwähnte Personen</head>
             <person/>
-         <person xml:id="person__631"><persName><surname>Danneberg</surname><forename>Robert</forename><roleName>Dr.</roleName></persName><birth when="1885-07-23">1885-07-23<placeName key="#place__580">Wien</placeName></birth><death when="1942-01-01">1942-01-01<placeName key="#place__3132">Auschwitz (KZ)</placeName></death><idno>http://d-nb.info/gnd/118523643</idno></person><person xml:id="person__678"><persName><surname>Grünwald</surname><forename>Julius</forename><roleName/></persName><birth when="1869-02-25">1869-02-25<placeName key="#place__3153">Čáry</placeName></birth><death when="1945-10-07">1945-10-07<placeName key="#place__3154">London</placeName></death><idno>https://de.wikipedia.org/wiki/Julius_Gr%C3%BCnwald</idno></person><person xml:id="person__822"><persName><surname>Richter</surname><forename>Karl</forename><roleName/></persName><birth when="1978-10-26">1978-10-26</birth><death/></person><person xml:id="person__862"><persName><surname>Skaret</surname><forename>Ferdinand</forename><roleName/></persName><birth/><death/></person></listPerson>
+         <person xml:id="person__631"><persName key="Danneberg, Robert"><surname>Danneberg</surname><forename>Robert</forename><roleName>Dr.</roleName></persName><birth when="1885-07-23">1885-07-23<placeName key="#place__580">Wien</placeName></birth><death when="1942-01-01">1942-01-01<placeName key="#place__3132">Auschwitz (KZ)</placeName></death><idno>http://d-nb.info/gnd/118523643</idno></person><person xml:id="person__678"><persName key="Grünwald, Julius"><surname>Grünwald</surname><forename>Julius</forename><roleName/></persName><birth when="1869-02-25">1869-02-25<placeName key="#place__3153">Čáry</placeName></birth><death when="1945-10-07">1945-10-07<placeName key="#place__3154">London</placeName></death><idno>https://de.wikipedia.org/wiki/Julius_Gr%C3%BCnwald</idno></person><person xml:id="person__822"><persName key="Richter, Karl"><surname>Richter</surname><forename>Karl</forename><roleName/></persName><birth when="1978-10-26">1978-10-26</birth><death/></person><person xml:id="person__862"><persName key="Skaret, Ferdinand"><surname>Skaret</surname><forename>Ferdinand</forename><roleName/></persName><birth/><death/></person></listPerson>
          <listPlace>
             <head>Erwähnte Orte</head>
             <place/>
-         <place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <place xml:id="place__580"><placeName key="Wien">Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1109"><orgName>Klub der Sozialdemokraten im Wiener Gemeinderate</orgName></org></listOrg>
+         <org xml:id="org__1109"><orgName key="Klub der Sozialdemokraten im Wiener Gemeinderate">Klub der Sozialdemokraten im Wiener Gemeinderate</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

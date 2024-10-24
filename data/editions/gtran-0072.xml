@@ -51,7 +51,7 @@
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1028"><orgName>k.k. Ackerbauministerium</orgName></org><org xml:id="org__1142"><orgName>Liqudierungskommissär</orgName></org><org xml:id="org__1220"><orgName>Staatsamt für Finanzen</orgName></org><org xml:id="org__1234"><orgName>Staatsamt für Landwirtschaft</orgName></org></listOrg>
+         <org xml:id="org__1028"><orgName key="k.k. Ackerbauministerium">k.k. Ackerbauministerium</orgName></org><org xml:id="org__1142"><orgName key="Liqudierungskommissär">Liqudierungskommissär</orgName></org><org xml:id="org__1220"><orgName key="Staatsamt für Finanzen">Staatsamt für Finanzen</orgName></org><org xml:id="org__1234"><orgName key="Staatsamt für Landwirtschaft">Staatsamt für Landwirtschaft</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

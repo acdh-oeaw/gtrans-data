@@ -51,7 +51,7 @@
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1074"><orgName>Gewerkschaftsverband der Postangestellten</orgName></org></listOrg>
+         <org xml:id="org__1074"><orgName key="Gewerkschaftsverband der Postangestellten">Gewerkschaftsverband der Postangestellten</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

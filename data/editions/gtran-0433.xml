@@ -43,7 +43,7 @@
          <listPerson>
             <head>Erwähnte Personen</head>
             <person/>
-         <person xml:id="person__712"><persName><surname>Iro</surname><forename>Karl</forename><roleName/></persName><birth when="1861-09-25">1861-09-25<placeName key="#place__438">Eger</placeName></birth><death when="1934-10-12">1934-10-12<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/101886573X</idno></person></listPerson>
+         <person xml:id="person__712"><persName key="Iro, Karl"><surname>Iro</surname><forename>Karl</forename><roleName/></persName><birth when="1861-09-25">1861-09-25<placeName key="#place__438">Eger</placeName></birth><death when="1934-10-12">1934-10-12<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/101886573X</idno></person></listPerson>
          <listPlace>
             <head>Erwähnte Orte</head>
             <place/>
@@ -51,7 +51,7 @@
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1105"><orgName>Kabinettsrat</orgName></org><org xml:id="org__3257"><orgName>Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</orgName></org></listOrg>
+         <org xml:id="org__1105"><orgName key="Kabinettsrat">Kabinettsrat</orgName></org><org xml:id="org__3257"><orgName key="Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten">Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

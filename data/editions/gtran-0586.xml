@@ -43,15 +43,15 @@
          <listPerson>
             <head>Erwähnte Personen</head>
             <person/>
-         <person xml:id="person__820"><persName><surname>Renner</surname><forename>Karl</forename><roleName>Dr.</roleName></persName><birth when="1870-12-14">1870-12-14<placeName key="#place__570">Unter-Tannowitz</placeName></birth><death when="1950-12-31">1950-12-31<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118599739</idno></person></listPerson>
+         <person xml:id="person__820"><persName key="Renner, Karl"><surname>Renner</surname><forename>Karl</forename><roleName>Dr.</roleName></persName><birth when="1870-12-14">1870-12-14<placeName key="#place__570">Unter-Tannowitz</placeName></birth><death when="1950-12-31">1950-12-31<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118599739</idno></person></listPerson>
          <listPlace>
             <head>Erwähnte Orte</head>
             <place/>
-         <place xml:id="place__430"><placeName>Deutschösterreich</placeName><idno type="GEONAMES"/></place><place xml:id="place__536"><placeName>Sarajewo</placeName><location><geo decls="#LatLng">43.848640000000 18.356440000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3191281/</idno></place></listPlace>
+         <place xml:id="place__430"><placeName key="Deutschösterreich">Deutschösterreich</placeName><idno type="GEONAMES"/></place><place xml:id="place__536"><placeName key="Sarajewo">Sarajewo</placeName><location><geo decls="#LatLng">43.848640000000 18.356440000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3191281/</idno></place></listPlace>
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__981"><orgName>Bosnien-Herzegowina (Bosna i Hercegovina)</orgName></org><org xml:id="org__1100"><orgName>k.u.k. Finanzministerium (Abteilung Bosnien-Herzegowina)</orgName></org></listOrg>
+         <org xml:id="org__981"><orgName key="Bosnien-Herzegowina (Bosna i Hercegovina)">Bosnien-Herzegowina (Bosna i Hercegovina)</orgName></org><org xml:id="org__1100"><orgName key="k.u.k. Finanzministerium (Abteilung Bosnien-Herzegowina)">k.u.k. Finanzministerium (Abteilung Bosnien-Herzegowina)</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

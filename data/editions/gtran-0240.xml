@@ -43,15 +43,15 @@
          <listPerson>
             <head>Erwähnte Personen</head>
             <person/>
-         <person xml:id="person__764"><persName><surname>Mataja</surname><forename>Heinrich</forename><roleName>Dr.</roleName></persName><birth when="1877-03-14">1877-03-14<placeName key="#place__580">Wien</placeName></birth><death when="1937-01-23">1937-01-23<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/137937598</idno></person><person xml:id="person__787"><persName><surname>Pacher</surname><forename>Raphael</forename><roleName>Dr.</roleName></persName><birth when="1857-07-21">1857-07-21<placeName key="#place__464">Iserthal</placeName></birth><death when="1936-03-25">1936-03-25<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/124749275</idno></person></listPerson>
+         <person xml:id="person__764"><persName key="Mataja, Heinrich"><surname>Mataja</surname><forename>Heinrich</forename><roleName>Dr.</roleName></persName><birth when="1877-03-14">1877-03-14<placeName key="#place__580">Wien</placeName></birth><death when="1937-01-23">1937-01-23<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/137937598</idno></person><person xml:id="person__787"><persName key="Pacher, Raphael"><surname>Pacher</surname><forename>Raphael</forename><roleName>Dr.</roleName></persName><birth when="1857-07-21">1857-07-21<placeName key="#place__464">Iserthal</placeName></birth><death when="1936-03-25">1936-03-25<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/124749275</idno></person></listPerson>
          <listPlace>
             <head>Erwähnte Orte</head>
             <place/>
-         <place xml:id="place__427"><placeName>Deutschböhmen</placeName><idno type="GEONAMES"/></place><place xml:id="place__568"><placeName>umstrittenes Gebiet</placeName><idno type="GEONAMES"/></place></listPlace>
+         <place xml:id="place__427"><placeName key="Deutschböhmen">Deutschböhmen</placeName><idno type="GEONAMES"/></place><place xml:id="place__568"><placeName key="umstrittenes Gebiet">umstrittenes Gebiet</placeName><idno type="GEONAMES"/></place></listPlace>
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__3301"><orgName>Deutschösterreichischer Staat</orgName></org><org xml:id="org__3608"><orgName>Bezirksausschuss</orgName></org></listOrg>
+         <org xml:id="org__3301"><orgName key="Deutschösterreichischer Staat">Deutschösterreichischer Staat</orgName></org><org xml:id="org__3608"><orgName key="Bezirksausschuss">Bezirksausschuss</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

@@ -47,11 +47,11 @@
          <listPlace>
             <head>Erwähnte Orte</head>
             <place/>
-         <place xml:id="place__430"><placeName>Deutschösterreich</placeName><idno type="GEONAMES"/></place><place xml:id="place__514"><placeName>Ödenburg</placeName><location><geo decls="#LatLng">47.685010000000 16.590490000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3045190/</idno></place></listPlace>
+         <place xml:id="place__430"><placeName key="Deutschösterreich">Deutschösterreich</placeName><idno type="GEONAMES"/></place><place xml:id="place__514"><placeName key="Ödenburg">Ödenburg</placeName><location><geo decls="#LatLng">47.685010000000 16.590490000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3045190/</idno></place></listPlace>
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1174"><orgName>Offizierstöcher-Erziehungsinstitut Ödenburg (Sopron)</orgName></org><org xml:id="org__1225"><orgName>Staatsamt des Innern</orgName></org><org xml:id="org__3301"><orgName>Deutschösterreichischer Staat</orgName></org></listOrg>
+         <org xml:id="org__1174"><orgName key="Offizierstöcher-Erziehungsinstitut Ödenburg (Sopron)">Offizierstöcher-Erziehungsinstitut Ödenburg (Sopron)</orgName></org><org xml:id="org__1225"><orgName key="Staatsamt des Innern">Staatsamt des Innern</orgName></org><org xml:id="org__3301"><orgName key="Deutschösterreichischer Staat">Deutschösterreichischer Staat</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

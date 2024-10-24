@@ -51,7 +51,7 @@
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1039"><orgName>Evangelischer Oberkirchenrat</orgName></org><org xml:id="org__1238"><orgName>Staatsamt für Unterricht</orgName></org></listOrg>
+         <org xml:id="org__1039"><orgName key="Evangelischer Oberkirchenrat">Evangelischer Oberkirchenrat</orgName></org><org xml:id="org__1238"><orgName key="Staatsamt für Unterricht">Staatsamt für Unterricht</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

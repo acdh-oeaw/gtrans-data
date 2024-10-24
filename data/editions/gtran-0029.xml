@@ -51,7 +51,7 @@
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1064"><orgName>Geologische Reichsanstalt</orgName></org><org xml:id="org__1145"><orgName>Liquidierungskommissär beim Staatsamt für Unterricht</orgName></org><org xml:id="org__1238"><orgName>Staatsamt für Unterricht</orgName></org></listOrg>
+         <org xml:id="org__1064"><orgName key="Geologische Reichsanstalt">Geologische Reichsanstalt</orgName></org><org xml:id="org__1145"><orgName key="Liquidierungskommissär beim Staatsamt für Unterricht">Liquidierungskommissär beim Staatsamt für Unterricht</orgName></org><org xml:id="org__1238"><orgName key="Staatsamt für Unterricht">Staatsamt für Unterricht</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

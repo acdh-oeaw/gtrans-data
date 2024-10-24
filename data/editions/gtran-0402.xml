@@ -43,15 +43,15 @@
          <listPerson>
             <head>Erwähnte Personen</head>
             <person/>
-         <person xml:id="person__694"><persName><surname>Heißl</surname><forename>Josef</forename><roleName/></persName><birth/><death/></person><person xml:id="person__803"><persName><surname>Pöllitsch</surname><forename>Hans</forename><roleName/></persName><birth><placeName key="#place__490">Linz</placeName></birth><death/></person></listPerson>
+         <person xml:id="person__694"><persName key="Heißl, Josef"><surname>Heißl</surname><forename>Josef</forename><roleName/></persName><birth/><death/></person><person xml:id="person__803"><persName key="Pöllitsch, Hans"><surname>Pöllitsch</surname><forename>Hans</forename><roleName/></persName><birth><placeName key="#place__490">Linz</placeName></birth><death/></person></listPerson>
          <listPlace>
             <head>Erwähnte Orte</head>
             <place/>
-         <place xml:id="place__434"><placeName>Donawitz</placeName><location><geo decls="#LatLng">47.366670000000 15.066670000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2780850/</idno></place></listPlace>
+         <place xml:id="place__434"><placeName key="Donawitz">Donawitz</placeName><location><geo decls="#LatLng">47.366670000000 15.066670000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2780850/</idno></place></listPlace>
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1213"><orgName>Sicherheitswache Donawitz</orgName></org><org xml:id="org__1340"><orgName>Zentralstelle für sozialdemokratische Gemeindepolitik</orgName></org></listOrg>
+         <org xml:id="org__1213"><orgName key="Sicherheitswache Donawitz">Sicherheitswache Donawitz</orgName></org><org xml:id="org__1340"><orgName key="Zentralstelle für sozialdemokratische Gemeindepolitik">Zentralstelle für sozialdemokratische Gemeindepolitik</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

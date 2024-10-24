@@ -51,7 +51,7 @@
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1239"><orgName>Staatsamt für Verkehrswesen</orgName></org></listOrg>
+         <org xml:id="org__1239"><orgName key="Staatsamt für Verkehrswesen">Staatsamt für Verkehrswesen</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

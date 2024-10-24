@@ -47,11 +47,11 @@
          <listPlace>
             <head>Erwähnte Orte</head>
             <place/>
-         <place xml:id="place__466"><placeName>Italien</placeName><location><geo decls="#LatLng">42.833330000000 12.833330000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3175395/</idno></place><place xml:id="place__497"><placeName>Mals</placeName><location><geo decls="#LatLng">46.687910000000 10.546550000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3174144/</idno></place><place xml:id="place__502"><placeName>Meran</placeName><location><geo decls="#LatLng">46.668170000000 11.159530000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3173577/</idno></place><place xml:id="place__556"><placeName>Südtirol</placeName><location><geo decls="#LatLng">46.500000000000 11.333330000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3165244/</idno></place><place xml:id="place__568"><placeName>umstrittenes Gebiet</placeName><idno type="GEONAMES"/></place></listPlace>
+         <place xml:id="place__466"><placeName key="Italien">Italien</placeName><location><geo decls="#LatLng">42.833330000000 12.833330000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3175395/</idno></place><place xml:id="place__497"><placeName key="Mals">Mals</placeName><location><geo decls="#LatLng">46.687910000000 10.546550000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3174144/</idno></place><place xml:id="place__502"><placeName key="Meran">Meran</placeName><location><geo decls="#LatLng">46.668170000000 11.159530000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3173577/</idno></place><place xml:id="place__556"><placeName key="Südtirol">Südtirol</placeName><location><geo decls="#LatLng">46.500000000000 11.333330000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3165244/</idno></place><place xml:id="place__568"><placeName key="umstrittenes Gebiet">umstrittenes Gebiet</placeName><idno type="GEONAMES"/></place></listPlace>
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1092"><orgName>italienische Truppen</orgName></org><org xml:id="org__1246"><orgName>Staatsbahn</orgName></org></listOrg>
+         <org xml:id="org__1092"><orgName key="italienische Truppen">italienische Truppen</orgName></org><org xml:id="org__1246"><orgName key="Staatsbahn">Staatsbahn</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

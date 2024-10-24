@@ -44,11 +44,11 @@ Berichterstatter GR Grün, Stellungnahme GR Winter, GR Odehnal (contra), Antrag 
          <listPerson>
             <head>Erwähnte Personen</head>
             <person/>
-         <person xml:id="person__676"><persName><surname>Grün</surname><forename>Heinrich</forename><roleName>Dr.</roleName></persName><birth/><death/></person><person xml:id="person__728"><persName><surname>Kienböck</surname><forename>Viktor</forename><roleName>Dr.</roleName></persName><birth when="1873-01-18">1873-01-18<placeName key="#place__580">Wien</placeName></birth><death when="1956-11-23">1956-11-23<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/129085804</idno></person><person xml:id="person__785"><persName><surname>Odehnal</surname><forename>Franz</forename><roleName>Dr.</roleName></persName><birth/><death/></person><person xml:id="person__913"><persName><surname>Winter</surname><forename>Max</forename><roleName/></persName><birth/><death/></person></listPerson>
+         <person xml:id="person__676"><persName key="Grün, Heinrich"><surname>Grün</surname><forename>Heinrich</forename><roleName>Dr.</roleName></persName><birth/><death/></person><person xml:id="person__728"><persName key="Kienböck, Viktor"><surname>Kienböck</surname><forename>Viktor</forename><roleName>Dr.</roleName></persName><birth when="1873-01-18">1873-01-18<placeName key="#place__580">Wien</placeName></birth><death when="1956-11-23">1956-11-23<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/129085804</idno></person><person xml:id="person__785"><persName key="Odehnal, Franz"><surname>Odehnal</surname><forename>Franz</forename><roleName>Dr.</roleName></persName><birth/><death/></person><person xml:id="person__913"><persName key="Winter, Max"><surname>Winter</surname><forename>Max</forename><roleName/></persName><birth/><death/></person></listPerson>
          <listPlace>
             <head>Erwähnte Orte</head>
             <place/>
-         <place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <place xml:id="place__580"><placeName key="Wien">Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>

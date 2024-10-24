@@ -47,11 +47,11 @@
          <listPlace>
             <head>Erwähnte Orte</head>
             <place/>
-         <place xml:id="place__430"><placeName>Deutschösterreich</placeName><idno type="GEONAMES"/></place><place xml:id="place__473"><placeName>Klagenfurt</placeName><location><geo decls="#LatLng">46.624720000000 14.305280000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2774326/</idno></place><place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <place xml:id="place__430"><placeName key="Deutschösterreich">Deutschösterreich</placeName><idno type="GEONAMES"/></place><place xml:id="place__473"><placeName key="Klagenfurt">Klagenfurt</placeName><location><geo decls="#LatLng">46.624720000000 14.305280000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2774326/</idno></place><place xml:id="place__580"><placeName key="Wien">Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1197"><orgName>Rat der Angestellten Kärntens</orgName></org><org xml:id="org__3470"><orgName>SHS-Staat</orgName></org></listOrg>
+         <org xml:id="org__1197"><orgName key="Rat der Angestellten Kärntens">Rat der Angestellten Kärntens</orgName></org><org xml:id="org__3470"><orgName key="SHS-Staat">SHS-Staat</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

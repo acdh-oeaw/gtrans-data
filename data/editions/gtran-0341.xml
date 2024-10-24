@@ -43,7 +43,7 @@
          <listPerson>
             <head>Erwähnte Personen</head>
             <person/>
-         <person xml:id="person__947"><persName><surname>Höpfler</surname><forename>Erwin</forename><roleName/></persName><birth><placeName key="#place__580">Wien</placeName></birth><death/></person></listPerson>
+         <person xml:id="person__947"><persName key="Höpfler, Erwin"><surname>Höpfler</surname><forename>Erwin</forename><roleName/></persName><birth><placeName key="#place__580">Wien</placeName></birth><death/></person></listPerson>
          <listPlace>
             <head>Erwähnte Orte</head>
             <place/>

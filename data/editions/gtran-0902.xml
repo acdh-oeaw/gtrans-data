@@ -48,15 +48,15 @@ Am 30. März 1919 schreibt Magistratsdirektor Pawelka an Stadtrat und Gemeindera
          <listPerson>
             <head>Erwähnte Personen</head>
             <person/>
-         <person xml:id="person__793"><persName><surname>Pawelka</surname><forename>Karl </forename><roleName>Obermag.R.</roleName></persName><birth><placeName key="#place__440">Eibiswald</placeName></birth><death/></person></listPerson>
+         <person xml:id="person__793"><persName key="Pawelka, Karl"><surname>Pawelka</surname><forename>Karl </forename><roleName>Obermag.R.</roleName></persName><birth><placeName key="#place__440">Eibiswald</placeName></birth><death/></person></listPerson>
          <listPlace>
             <head>Erwähnte Orte</head>
             <place/>
-         <place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <place xml:id="place__580"><placeName key="Wien">Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1151"><orgName>Magistratsdirektion (Stadt Wien)</orgName></org></listOrg>
+         <org xml:id="org__1151"><orgName key="Magistratsdirektion (Stadt Wien)">Magistratsdirektion (Stadt Wien)</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

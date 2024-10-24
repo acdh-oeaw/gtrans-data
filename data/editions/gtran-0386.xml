@@ -43,15 +43,15 @@
          <listPerson>
             <head>Erwähnte Personen</head>
             <person/>
-         <person xml:id="person__3270"><persName><surname>Seliger</surname><forename>Josef</forename><roleName/></persName><birth when="1870-02-16">1870-02-16<placeName key="#place__3269">Schönborn bei Reichenberg</placeName></birth><death when="1920-10-18">1920-10-18<placeName key="#place__3172">Teplitz</placeName></death><idno>http://d-nb.info/gnd/128662638</idno></person></listPerson>
+         <person xml:id="person__3270"><persName key="Seliger, Josef"><surname>Seliger</surname><forename>Josef</forename><roleName/></persName><birth when="1870-02-16">1870-02-16<placeName key="#place__3269">Schönborn bei Reichenberg</placeName></birth><death when="1920-10-18">1920-10-18<placeName key="#place__3172">Teplitz</placeName></death><idno>http://d-nb.info/gnd/128662638</idno></person></listPerson>
          <listPlace>
             <head>Erwähnte Orte</head>
             <place/>
-         <place xml:id="place__427"><placeName>Deutschböhmen</placeName><idno type="GEONAMES"/></place></listPlace>
+         <place xml:id="place__427"><placeName key="Deutschböhmen">Deutschböhmen</placeName><idno type="GEONAMES"/></place></listPlace>
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__994"><orgName>Provinz Deutschböhmen</orgName></org></listOrg>
+         <org xml:id="org__994"><orgName key="Provinz Deutschböhmen">Provinz Deutschböhmen</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

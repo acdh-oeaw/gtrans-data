@@ -43,15 +43,15 @@
          <listPerson>
             <head>Erwähnte Personen</head>
             <person/>
-         <person xml:id="person__896"><persName><surname>Waldner</surname><forename>Viktor</forename><roleName>Univ.-Prof. Dr.</roleName></persName><birth when="1852-04-01">1852-04-01<placeName key="#place__426">Dellach</placeName></birth><death when="1924-08-30">1924-08-30<placeName key="#place__473">Klagenfurt</placeName></death><idno>https://de.wikipedia.org/wiki/Viktor_Waldner</idno></person></listPerson>
+         <person xml:id="person__896"><persName key="Waldner, Viktor"><surname>Waldner</surname><forename>Viktor</forename><roleName>Univ.-Prof. Dr.</roleName></persName><birth when="1852-04-01">1852-04-01<placeName key="#place__426">Dellach</placeName></birth><death when="1924-08-30">1924-08-30<placeName key="#place__473">Klagenfurt</placeName></death><idno>https://de.wikipedia.org/wiki/Viktor_Waldner</idno></person></listPerson>
          <listPlace>
             <head>Erwähnte Orte</head>
             <place/>
-         <place xml:id="place__411"><placeName>Bosnien-Herzegowina</placeName><location><geo decls="#LatLng">44.250000000000 17.833330000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3277605/</idno></place></listPlace>
+         <place xml:id="place__411"><placeName key="Bosnien-Herzegowina">Bosnien-Herzegowina</placeName><location><geo decls="#LatLng">44.250000000000 17.833330000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3277605/</idno></place></listPlace>
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__982"><orgName>bosnische Regierung</orgName></org></listOrg>
+         <org xml:id="org__982"><orgName key="bosnische Regierung">bosnische Regierung</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

@@ -47,11 +47,11 @@
          <listPlace>
             <head>Erwähnte Orte</head>
             <place/>
-         <place xml:id="place__3172"><placeName>Teplitz</placeName><location><geo decls="#LatLng">50.640400000000 13.824510000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3064288/</idno></place></listPlace>
+         <place xml:id="place__3172"><placeName key="Teplitz">Teplitz</placeName><location><geo decls="#LatLng">50.640400000000 13.824510000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3064288/</idno></place></listPlace>
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1046"><orgName>Finanzlandesdirektion Prag (Praha)</orgName></org><org xml:id="org__1080"><orgName>Hauptzollamt Teplitz (Teplice)</orgName></org><org xml:id="org__1220"><orgName>Staatsamt für Finanzen</orgName></org><org xml:id="org__3301"><orgName>Deutschösterreichischer Staat</orgName></org></listOrg>
+         <org xml:id="org__1046"><orgName key="Finanzlandesdirektion Prag (Praha)">Finanzlandesdirektion Prag (Praha)</orgName></org><org xml:id="org__1080"><orgName key="Hauptzollamt Teplitz (Teplice)">Hauptzollamt Teplitz (Teplice)</orgName></org><org xml:id="org__1220"><orgName key="Staatsamt für Finanzen">Staatsamt für Finanzen</orgName></org><org xml:id="org__3301"><orgName key="Deutschösterreichischer Staat">Deutschösterreichischer Staat</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

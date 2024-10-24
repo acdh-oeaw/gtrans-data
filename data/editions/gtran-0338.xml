@@ -45,7 +45,7 @@ Kaup gibt auch bekannt, dass die Umwandlung der Militär-Sanitätsanstalten in z
          <listPerson>
             <head>Erwähnte Personen</head>
             <person/>
-         <person xml:id="person__3630"><persName><surname>Kaup</surname><forename>Ignaz</forename><roleName>Dr.</roleName></persName><birth when="1870-01-11">1870-01-11<placeName key="#place__3638">Marburg an der Lahn</placeName></birth><death when="1944-03-25">1944-03-25<placeName key="#place__505">München</placeName></death><idno>http://d-nb.info/gnd/117503622</idno></person></listPerson>
+         <person xml:id="person__3630"><persName key="Kaup, Ignaz"><surname>Kaup</surname><forename>Ignaz</forename><roleName>Dr.</roleName></persName><birth when="1870-01-11">1870-01-11<placeName key="#place__3638">Marburg an der Lahn</placeName></birth><death when="1944-03-25">1944-03-25<placeName key="#place__505">München</placeName></death><idno>http://d-nb.info/gnd/117503622</idno></person></listPerson>
          <listPlace>
             <head>Erwähnte Orte</head>
             <place/>
@@ -53,7 +53,7 @@ Kaup gibt auch bekannt, dass die Umwandlung der Militär-Sanitätsanstalten in z
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__3750"><orgName>Soldatenrat der Militärsanitätsanstalten</orgName></org><org xml:id="org__3751"><orgName>Militärsanitätsanstalten</orgName></org><org xml:id="org__3752"><orgName>zivile Sanitätsanstalten für Heeresangehörige</orgName></org></listOrg>
+         <org xml:id="org__3750"><orgName key="Soldatenrat der Militärsanitätsanstalten">Soldatenrat der Militärsanitätsanstalten</orgName></org><org xml:id="org__3751"><orgName key="Militärsanitätsanstalten">Militärsanitätsanstalten</orgName></org><org xml:id="org__3752"><orgName key="zivile Sanitätsanstalten für Heeresangehörige">zivile Sanitätsanstalten für Heeresangehörige</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

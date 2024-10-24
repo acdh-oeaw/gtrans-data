@@ -51,7 +51,7 @@
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1212"><orgName>Sicherheitswache Wien</orgName></org><org xml:id="org__3819"><orgName>Polizeiagentenkorps</orgName></org></listOrg>
+         <org xml:id="org__1212"><orgName key="Sicherheitswache Wien">Sicherheitswache Wien</orgName></org><org xml:id="org__3819"><orgName key="Polizeiagentenkorps">Polizeiagentenkorps</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

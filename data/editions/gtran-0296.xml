@@ -47,11 +47,11 @@
          <listPlace>
             <head>Erwähnte Orte</head>
             <place/>
-         <place xml:id="place__429"><placeName>Deutsches Reich</placeName><idno type="GEONAMES"/></place></listPlace>
+         <place xml:id="place__429"><placeName key="Deutsches Reich">Deutsches Reich</placeName><idno type="GEONAMES"/></place></listPlace>
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__3515"><orgName>Deutsche Reichsregierung</orgName></org><org xml:id="org__3516"><orgName>Wolffsche Bureau [Deutsches Reich]</orgName></org></listOrg>
+         <org xml:id="org__3515"><orgName key="Deutsche Reichsregierung">Deutsche Reichsregierung</orgName></org><org xml:id="org__3516"><orgName key="Wolffsche Bureau [Deutsches Reich]">Wolffsche Bureau [Deutsches Reich]</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

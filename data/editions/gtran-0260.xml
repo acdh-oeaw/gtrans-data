@@ -43,15 +43,15 @@
          <listPerson>
             <head>Erwähnte Personen</head>
             <person/>
-         <person xml:id="person__684"><persName><surname>Hackl</surname><forename>Michael</forename><roleName/></persName><birth/><death/></person></listPerson>
+         <person xml:id="person__684"><persName key="Hackl, Michael"><surname>Hackl</surname><forename>Michael</forename><roleName/></persName><birth/><death/></person></listPerson>
          <listPlace>
             <head>Erwähnte Orte</head>
             <place/>
-         <place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <place xml:id="place__580"><placeName key="Wien">Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__984"><orgName>Brauerschutzverband</orgName></org><org xml:id="org__1334"><orgName>Zentralverband der Lebens- und Genußmittelarbeiter und -Arbeiterinnen Österreichs</orgName></org></listOrg>
+         <org xml:id="org__984"><orgName key="Brauerschutzverband">Brauerschutzverband</orgName></org><org xml:id="org__1334"><orgName key="Zentralverband der Lebens- und Genußmittelarbeiter und -Arbeiterinnen Österreichs">Zentralverband der Lebens- und Genußmittelarbeiter und -Arbeiterinnen Österreichs</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

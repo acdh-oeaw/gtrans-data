@@ -47,11 +47,11 @@
          <listPlace>
             <head>Erwähnte Orte</head>
             <place/>
-         <place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <place xml:id="place__580"><placeName key="Wien">Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1007"><orgName>deutschösterr. Regierung</orgName></org><org xml:id="org__3477"><orgName>ständige Vertretung der deutschösterreichischen Staatsangestelltenvereine</orgName></org><org xml:id="org__3527"><orgName>ständige Vertretung der österreichischen Staatsbeamtenvereine</orgName></org></listOrg>
+         <org xml:id="org__1007"><orgName key="deutschösterr. Regierung">deutschösterr. Regierung</orgName></org><org xml:id="org__3477"><orgName key="ständige Vertretung der deutschösterreichischen Staatsangestelltenvereine">ständige Vertretung der deutschösterreichischen Staatsangestelltenvereine</orgName></org><org xml:id="org__3527"><orgName key="ständige Vertretung der österreichischen Staatsbeamtenvereine">ständige Vertretung der österreichischen Staatsbeamtenvereine</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

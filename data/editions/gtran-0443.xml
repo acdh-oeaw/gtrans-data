@@ -47,11 +47,11 @@
          <listPlace>
             <head>Erwähnte Orte</head>
             <place/>
-         <place xml:id="place__427"><placeName>Deutschböhmen</placeName><idno type="GEONAMES"/></place><place xml:id="place__523"><placeName>Prag</placeName><location><geo decls="#LatLng">50.088040000000 14.420760000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3067696/</idno></place><place xml:id="place__566"><placeName>tschech. Gebiet</placeName><idno type="GEONAMES"/></place><place xml:id="place__568"><placeName>umstrittenes Gebiet</placeName><idno type="GEONAMES"/></place></listPlace>
+         <place xml:id="place__427"><placeName key="Deutschböhmen">Deutschböhmen</placeName><idno type="GEONAMES"/></place><place xml:id="place__523"><placeName key="Prag">Prag</placeName><location><geo decls="#LatLng">50.088040000000 14.420760000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3067696/</idno></place><place xml:id="place__566"><placeName key="tschech. Gebiet">tschech. Gebiet</placeName><idno type="GEONAMES"/></place><place xml:id="place__568"><placeName key="umstrittenes Gebiet">umstrittenes Gebiet</placeName><idno type="GEONAMES"/></place></listPlace>
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1009"><orgName>deutschösterr. Staatskanzlei, deutschböhmische Abteilung</orgName></org><org xml:id="org__1224"><orgName>Staatsamt des Äußern</orgName></org><org xml:id="org__1239"><orgName>Staatsamt für Verkehrswesen</orgName></org><org xml:id="org__1246"><orgName>Staatsbahn</orgName></org><org xml:id="org__1286"><orgName>tschechoslowak. Eisenbahnministerium</orgName></org></listOrg>
+         <org xml:id="org__1009"><orgName key="deutschösterr. Staatskanzlei, deutschböhmische Abteilung">deutschösterr. Staatskanzlei, deutschböhmische Abteilung</orgName></org><org xml:id="org__1224"><orgName key="Staatsamt des Äußern">Staatsamt des Äußern</orgName></org><org xml:id="org__1239"><orgName key="Staatsamt für Verkehrswesen">Staatsamt für Verkehrswesen</orgName></org><org xml:id="org__1246"><orgName key="Staatsbahn">Staatsbahn</orgName></org><org xml:id="org__1286"><orgName key="tschechoslowak. Eisenbahnministerium">tschechoslowak. Eisenbahnministerium</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

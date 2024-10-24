@@ -43,15 +43,15 @@
          <listPerson>
             <head>Erwähnte Personen</head>
             <person/>
-         <person xml:id="person__3284"><persName><surname>Stöckler</surname><forename>Josef</forename><roleName/></persName><birth when="1866-06-08">1866-06-08<placeName key="#place__3283">St. Valentin (NÖ)</placeName></birth><death when="1936-12-09">1936-12-09<placeName key="#place__3283">St. Valentin (NÖ)</placeName></death><idno>http://d-nb.info/gnd/103681033X</idno></person></listPerson>
+         <person xml:id="person__3284"><persName key="Stöckler, Josef"><surname>Stöckler</surname><forename>Josef</forename><roleName/></persName><birth when="1866-06-08">1866-06-08<placeName key="#place__3283">St. Valentin (NÖ)</placeName></birth><death when="1936-12-09">1936-12-09<placeName key="#place__3283">St. Valentin (NÖ)</placeName></death><idno>http://d-nb.info/gnd/103681033X</idno></person></listPerson>
          <listPlace>
             <head>Erwähnte Orte</head>
             <place/>
-         <place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place><place xml:id="place__3446"><placeName>Schönbrunn</placeName><location><geo decls="#LatLng">48.184940000000 16.312290000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/6354998/</idno></place><place xml:id="place__3447"><placeName>Laxenburg</placeName><location><geo decls="#LatLng">48.068330000000 16.356070000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2772810/</idno></place></listPlace>
+         <place xml:id="place__580"><placeName key="Wien">Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place><place xml:id="place__3446"><placeName key="Schönbrunn">Schönbrunn</placeName><location><geo decls="#LatLng">48.184940000000 16.312290000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/6354998/</idno></place><place xml:id="place__3447"><placeName key="Laxenburg">Laxenburg</placeName><location><geo decls="#LatLng">48.068330000000 16.356070000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2772810/</idno></place></listPlace>
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1234"><orgName>Staatsamt für Landwirtschaft</orgName></org></listOrg>
+         <org xml:id="org__1234"><orgName key="Staatsamt für Landwirtschaft">Staatsamt für Landwirtschaft</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

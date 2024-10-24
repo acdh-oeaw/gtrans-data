@@ -51,7 +51,7 @@
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1007"><orgName>deutschösterr. Regierung</orgName></org><org xml:id="org__1008"><orgName>deutschösterr. Staatsangestelltenverein</orgName></org><org xml:id="org__1201"><orgName>Reichsschutzverein der Militärzertifikatisten Österreichs</orgName></org><org xml:id="org__1204"><orgName>Reichsverein der Justizdiener und Gefangenenaufseher Österreichs</orgName></org></listOrg>
+         <org xml:id="org__1007"><orgName key="deutschösterr. Regierung">deutschösterr. Regierung</orgName></org><org xml:id="org__1008"><orgName key="deutschösterr. Staatsangestelltenverein">deutschösterr. Staatsangestelltenverein</orgName></org><org xml:id="org__1201"><orgName key="Reichsschutzverein der Militärzertifikatisten Österreichs">Reichsschutzverein der Militärzertifikatisten Österreichs</orgName></org><org xml:id="org__1204"><orgName key="Reichsverein der Justizdiener und Gefangenenaufseher Österreichs">Reichsverein der Justizdiener und Gefangenenaufseher Österreichs</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

@@ -47,11 +47,11 @@
          <listPlace>
             <head>Erwähnte Orte</head>
             <place/>
-         <place xml:id="place__490"><placeName>Linz</placeName><location><geo decls="#LatLng">48.306390000000 14.286110000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2772400/</idno></place><place xml:id="place__576"><placeName>Vorarlberg</placeName><location><geo decls="#LatLng">47.250000000000 9.916670000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2762300/</idno></place></listPlace>
+         <place xml:id="place__490"><placeName key="Linz">Linz</placeName><location><geo decls="#LatLng">48.306390000000 14.286110000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2772400/</idno></place><place xml:id="place__576"><placeName key="Vorarlberg">Vorarlberg</placeName><location><geo decls="#LatLng">47.250000000000 9.916670000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2762300/</idno></place></listPlace>
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1225"><orgName>Staatsamt des Innern</orgName></org><org xml:id="org__1244"><orgName>Staatsangestelltenrat Linz</orgName></org><org xml:id="org__1247"><orgName>Staatsbediensteten-Kommission der Staatsbedienstetenorganisationen (vorgeschlagen)</orgName></org><org xml:id="org__1248"><orgName>Staatsbedienstetenorganisationen</orgName></org></listOrg>
+         <org xml:id="org__1225"><orgName key="Staatsamt des Innern">Staatsamt des Innern</orgName></org><org xml:id="org__1244"><orgName key="Staatsangestelltenrat Linz">Staatsangestelltenrat Linz</orgName></org><org xml:id="org__1247"><orgName key="Staatsbediensteten-Kommission der Staatsbedienstetenorganisationen (vorgeschlagen)">Staatsbediensteten-Kommission der Staatsbedienstetenorganisationen (vorgeschlagen)</orgName></org><org xml:id="org__1248"><orgName key="Staatsbedienstetenorganisationen">Staatsbedienstetenorganisationen</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

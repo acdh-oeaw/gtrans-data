@@ -47,11 +47,11 @@
          <listPlace>
             <head>Erwähnte Orte</head>
             <place/>
-         <place xml:id="place__422"><placeName>Cervignano del Friuli</placeName><location><geo decls="#LatLng">45.820820000000 13.339290000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3178992/</idno></place><place xml:id="place__453"><placeName>Graz</placeName><location><geo decls="#LatLng">47.066670000000 15.450000000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2778067/</idno></place><place xml:id="place__564"><placeName>Triest</placeName><location><geo decls="#LatLng">45.649530000000 13.776780000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3165185/</idno></place><place xml:id="place__3817"><placeName>Großklein</placeName><location><geo decls="#LatLng">46.736110000000 15.444440000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2777662/</idno></place></listPlace>
+         <place xml:id="place__422"><placeName key="Cervignano del Friuli">Cervignano del Friuli</placeName><location><geo decls="#LatLng">45.820820000000 13.339290000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3178992/</idno></place><place xml:id="place__453"><placeName key="Graz">Graz</placeName><location><geo decls="#LatLng">47.066670000000 15.450000000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2778067/</idno></place><place xml:id="place__564"><placeName key="Triest">Triest</placeName><location><geo decls="#LatLng">45.649530000000 13.776780000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3165185/</idno></place><place xml:id="place__3817"><placeName key="Großklein">Großklein</placeName><location><geo decls="#LatLng">46.736110000000 15.444440000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2777662/</idno></place></listPlace>
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1044"><orgName>Finanzlandesdirektion Graz</orgName></org><org xml:id="org__1047"><orgName>Finanzlandesdirektion Triest (Trieste)</orgName></org><org xml:id="org__3257"><orgName>Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</orgName></org></listOrg>
+         <org xml:id="org__1044"><orgName key="Finanzlandesdirektion Graz">Finanzlandesdirektion Graz</orgName></org><org xml:id="org__1047"><orgName key="Finanzlandesdirektion Triest (Trieste)">Finanzlandesdirektion Triest (Trieste)</orgName></org><org xml:id="org__3257"><orgName key="Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten">Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

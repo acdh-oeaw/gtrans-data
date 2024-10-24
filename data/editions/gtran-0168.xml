@@ -43,7 +43,7 @@
          <listPerson>
             <head>Erwähnte Personen</head>
             <person/>
-         <person xml:id="person__829"><persName><surname>Rotter</surname><forename>Hans</forename><roleName/></persName><birth/><death/></person></listPerson>
+         <person xml:id="person__829"><persName key="Rotter, Hans"><surname>Rotter</surname><forename>Hans</forename><roleName/></persName><birth/><death/></person></listPerson>
          <listPlace>
             <head>Erwähnte Orte</head>
             <place/>
@@ -51,7 +51,7 @@
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__991"><orgName>Christlichsoziale Partei (CSP)</orgName></org><org xml:id="org__3176"><orgName>Tschechoslowakische Partei</orgName></org></listOrg>
+         <org xml:id="org__991"><orgName key="Christlichsoziale Partei (CSP)">Christlichsoziale Partei (CSP)</orgName></org><org xml:id="org__3176"><orgName key="Tschechoslowakische Partei">Tschechoslowakische Partei</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

@@ -47,11 +47,11 @@
          <listPlace>
             <head>Erwähnte Orte</head>
             <place/>
-         <place xml:id="place__418"><placeName>Budapest</placeName><location><geo decls="#LatLng">47.498010000000 19.039910000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3054643/</idno></place><place xml:id="place__430"><placeName>Deutschösterreich</placeName><idno type="GEONAMES"/></place><place xml:id="place__444"><placeName>fremdnationales Gebiet</placeName><idno type="GEONAMES"/></place><place xml:id="place__554"><placeName>Südmähren</placeName><idno type="GEONAMES"/></place><place xml:id="place__568"><placeName>umstrittenes Gebiet</placeName><idno type="GEONAMES"/></place></listPlace>
+         <place xml:id="place__418"><placeName key="Budapest">Budapest</placeName><location><geo decls="#LatLng">47.498010000000 19.039910000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3054643/</idno></place><place xml:id="place__430"><placeName key="Deutschösterreich">Deutschösterreich</placeName><idno type="GEONAMES"/></place><place xml:id="place__444"><placeName key="fremdnationales Gebiet">fremdnationales Gebiet</placeName><idno type="GEONAMES"/></place><place xml:id="place__554"><placeName key="Südmähren">Südmähren</placeName><idno type="GEONAMES"/></place><place xml:id="place__568"><placeName key="umstrittenes Gebiet">umstrittenes Gebiet</placeName><idno type="GEONAMES"/></place></listPlace>
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1007"><orgName>deutschösterr. Regierung</orgName></org><org xml:id="org__1038"><orgName>Eötvös-Kollegium (Budapest)</orgName></org><org xml:id="org__1156"><orgName>Mittelschule</orgName></org><org xml:id="org__3301"><orgName>Deutschösterreichischer Staat</orgName></org></listOrg>
+         <org xml:id="org__1007"><orgName key="deutschösterr. Regierung">deutschösterr. Regierung</orgName></org><org xml:id="org__1038"><orgName key="Eötvös-Kollegium (Budapest)">Eötvös-Kollegium (Budapest)</orgName></org><org xml:id="org__1156"><orgName key="Mittelschule">Mittelschule</orgName></org><org xml:id="org__3301"><orgName key="Deutschösterreichischer Staat">Deutschösterreichischer Staat</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

@@ -43,7 +43,7 @@
          <listPerson>
             <head>Erwähnte Personen</head>
             <person/>
-         <person xml:id="person__773"><persName><surname>Miklas</surname><forename>Wilhelm</forename><roleName/></persName><birth when="1872-10-15">1872-10-15<placeName key="#place__481">Krems</placeName></birth><death when="1956-03-20">1956-03-20<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118783882</idno></person><person xml:id="person__875"><persName><surname>Sylvester</surname><forename>Julius</forename><roleName>Dr.</roleName></persName><birth when="1854-06-30">1854-06-30<placeName key="#place__580">Wien</placeName></birth><death when="1944-07-13">1944-07-13<placeName key="#place__592">Zell am Wallersee</placeName></death><idno>http://d-nb.info/gnd/120148595</idno></person></listPerson>
+         <person xml:id="person__773"><persName key="Miklas, Wilhelm"><surname>Miklas</surname><forename>Wilhelm</forename><roleName/></persName><birth when="1872-10-15">1872-10-15<placeName key="#place__481">Krems</placeName></birth><death when="1956-03-20">1956-03-20<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118783882</idno></person><person xml:id="person__875"><persName key="Sylvester, Julius"><surname>Sylvester</surname><forename>Julius</forename><roleName>Dr.</roleName></persName><birth when="1854-06-30">1854-06-30<placeName key="#place__580">Wien</placeName></birth><death when="1944-07-13">1944-07-13<placeName key="#place__592">Zell am Wallersee</placeName></death><idno>http://d-nb.info/gnd/120148595</idno></person></listPerson>
          <listPlace>
             <head>Erwähnte Orte</head>
             <place/>
@@ -51,7 +51,7 @@
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1076"><orgName>Habsburg-Lothringischer Hausschatz</orgName></org><org xml:id="org__1084"><orgName>Hofärar</orgName></org><org xml:id="org__1087"><orgName>Hofmuseum</orgName></org><org xml:id="org__1171"><orgName>Oberst-Kämmereramt</orgName></org><org xml:id="org__1192"><orgName>Privatsammlungen des Kaiserhauses</orgName></org><org xml:id="org__1238"><orgName>Staatsamt für Unterricht</orgName></org></listOrg>
+         <org xml:id="org__1076"><orgName key="Habsburg-Lothringischer Hausschatz">Habsburg-Lothringischer Hausschatz</orgName></org><org xml:id="org__1084"><orgName key="Hofärar">Hofärar</orgName></org><org xml:id="org__1087"><orgName key="Hofmuseum">Hofmuseum</orgName></org><org xml:id="org__1171"><orgName key="Oberst-Kämmereramt">Oberst-Kämmereramt</orgName></org><org xml:id="org__1192"><orgName key="Privatsammlungen des Kaiserhauses">Privatsammlungen des Kaiserhauses</orgName></org><org xml:id="org__1238"><orgName key="Staatsamt für Unterricht">Staatsamt für Unterricht</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

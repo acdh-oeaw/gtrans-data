@@ -43,15 +43,15 @@
          <listPerson>
             <head>Erwähnte Personen</head>
             <person/>
-         <person xml:id="person__936"><persName><surname>Loewenfeld-Russ</surname><forename>Johann</forename><roleName/></persName><birth when="1873-10-29">1873-10-29<placeName key="#place__580">Wien</placeName></birth><death when="1940-01-12">1940-01-12<placeName key="#place__580">Wien</placeName></death><idno>https://de.wikipedia.org/wiki/Johann_L%C3%B6wenfeld-Russ</idno></person><person xml:id="person__872"><persName><surname>Steinwender</surname><forename>Otto</forename><roleName>Dr.</roleName></persName><birth when="1847-02-17">1847-02-17<placeName key="#place__473">Klagenfurt</placeName></birth><death when="1921-03-20">1921-03-20<placeName key="#place__575">Villach</placeName></death><idno>http://d-nb.info/gnd/120148269</idno></person><person xml:id="person__938"><persName><surname>Stöger-Steiner von Steinstätten</surname><forename>Rudolf</forename><roleName/></persName><birth><placeName key="#place__580">Wien</placeName></birth><death/></person><person xml:id="person__937"><persName><surname>von Beck</surname><forename/><roleName/></persName><birth><placeName key="#place__580">Wien</placeName></birth><death/></person></listPerson>
+         <person xml:id="person__936"><persName key="Loewenfeld-Russ, Johann"><surname>Loewenfeld-Russ</surname><forename>Johann</forename><roleName/></persName><birth when="1873-10-29">1873-10-29<placeName key="#place__580">Wien</placeName></birth><death when="1940-01-12">1940-01-12<placeName key="#place__580">Wien</placeName></death><idno>https://de.wikipedia.org/wiki/Johann_L%C3%B6wenfeld-Russ</idno></person><person xml:id="person__872"><persName key="Steinwender, Otto"><surname>Steinwender</surname><forename>Otto</forename><roleName>Dr.</roleName></persName><birth when="1847-02-17">1847-02-17<placeName key="#place__473">Klagenfurt</placeName></birth><death when="1921-03-20">1921-03-20<placeName key="#place__575">Villach</placeName></death><idno>http://d-nb.info/gnd/120148269</idno></person><person xml:id="person__938"><persName key="Stöger-Steiner von Steinstätten, Rudolf"><surname>Stöger-Steiner von Steinstätten</surname><forename>Rudolf</forename><roleName/></persName><birth><placeName key="#place__580">Wien</placeName></birth><death/></person><person xml:id="person__937"><persName key="von Beck"><surname>von Beck</surname><forename/><roleName/></persName><birth><placeName key="#place__580">Wien</placeName></birth><death/></person></listPerson>
          <listPlace>
             <head>Erwähnte Orte</head>
             <place/>
-         <place xml:id="place__430"><placeName>Deutschösterreich</placeName><idno type="GEONAMES"/></place><place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <place xml:id="place__430"><placeName key="Deutschösterreich">Deutschösterreich</placeName><idno type="GEONAMES"/></place><place xml:id="place__580"><placeName key="Wien">Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1256"><orgName>Staatsrat</orgName></org></listOrg>
+         <org xml:id="org__1256"><orgName key="Staatsrat">Staatsrat</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

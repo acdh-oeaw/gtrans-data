@@ -43,15 +43,15 @@
          <listPerson>
             <head>Erwähnte Personen</head>
             <person/>
-         <person xml:id="person__879"><persName><surname>Teufel</surname><forename>Oskar</forename><roleName/></persName><birth when="1880-10-05">1880-10-05<placeName key="#place__595">Znaim</placeName></birth><death when="1946-01-26">1946-01-26<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/1027122671</idno></person><person xml:id="person__926"><persName><surname>Zerdik</surname><forename>Johann</forename><roleName>Ing.</roleName></persName><birth when="1878-04-07">1878-04-07<placeName key="#place__580">Wien</placeName></birth><death when="1961-06-11">1961-06-11<placeName key="#place__580">Wien</placeName></death><idno>https://de.wikipedia.org/wiki/Johann_Zerdik</idno></person></listPerson>
+         <person xml:id="person__879"><persName key="Teufel, Oskar"><surname>Teufel</surname><forename>Oskar</forename><roleName/></persName><birth when="1880-10-05">1880-10-05<placeName key="#place__595">Znaim</placeName></birth><death when="1946-01-26">1946-01-26<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/1027122671</idno></person><person xml:id="person__926"><persName key="Zerdik, Johann"><surname>Zerdik</surname><forename>Johann</forename><roleName>Ing.</roleName></persName><birth when="1878-04-07">1878-04-07<placeName key="#place__580">Wien</placeName></birth><death when="1961-06-11">1961-06-11<placeName key="#place__580">Wien</placeName></death><idno>https://de.wikipedia.org/wiki/Johann_Zerdik</idno></person></listPerson>
          <listPlace>
             <head>Erwähnte Orte</head>
             <place/>
-         <place xml:id="place__506"><placeName>Neubistritz</placeName><location><geo decls="#LatLng">49.019260000000 15.103160000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3069706/</idno></place></listPlace>
+         <place xml:id="place__506"><placeName key="Neubistritz">Neubistritz</placeName><location><geo decls="#LatLng">49.019260000000 15.103160000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3069706/</idno></place></listPlace>
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1235"><orgName>Staatsamt für öffentliche Arbeiten</orgName></org><org xml:id="org__1290"><orgName>tschechoslowakischer Staat</orgName></org><org xml:id="org__3431"><orgName>Fachschule für Weberei in Neubistritz</orgName></org></listOrg>
+         <org xml:id="org__1235"><orgName key="Staatsamt für öffentliche Arbeiten">Staatsamt für öffentliche Arbeiten</orgName></org><org xml:id="org__1290"><orgName key="tschechoslowakischer Staat">tschechoslowakischer Staat</orgName></org><org xml:id="org__3431"><orgName key="Fachschule für Weberei in Neubistritz">Fachschule für Weberei in Neubistritz</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

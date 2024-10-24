@@ -47,11 +47,11 @@
          <listPlace>
             <head>Erwähnte Orte</head>
             <place/>
-         <place xml:id="place__463"><placeName>Innsbruck</placeName><location><geo decls="#LatLng">47.262660000000 11.394540000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2775220/</idno></place><place xml:id="place__530"><placeName>Rovereto</placeName><location><geo decls="#LatLng">45.890400000000 11.040530000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3168854/</idno></place></listPlace>
+         <place xml:id="place__463"><placeName key="Innsbruck">Innsbruck</placeName><location><geo decls="#LatLng">47.262660000000 11.394540000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2775220/</idno></place><place xml:id="place__530"><placeName key="Rovereto">Rovereto</placeName><location><geo decls="#LatLng">45.890400000000 11.040530000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3168854/</idno></place></listPlace>
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1293"><orgName>Übungsschule Rovereto</orgName></org><org xml:id="org__3815"><orgName>Schutzkomitee für die Interessen der Bevölkerung des italienischen Okkupationsgebietes</orgName></org></listOrg>
+         <org xml:id="org__1293"><orgName key="Übungsschule Rovereto">Übungsschule Rovereto</orgName></org><org xml:id="org__3815"><orgName key="Schutzkomitee für die Interessen der Bevölkerung des italienischen Okkupationsgebietes">Schutzkomitee für die Interessen der Bevölkerung des italienischen Okkupationsgebietes</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

@@ -43,11 +43,11 @@
          <listPerson>
             <head>Erwähnte Personen</head>
             <person/>
-         <person xml:id="person__689"><persName><surname>Hartl</surname><forename>Karl</forename><roleName>Mag.R. Dr.</roleName></persName><birth when="1878-01-28">1878-01-28<placeName key="#place__580">Wien</placeName></birth><death when="1941-02-21">1941-02-21<placeName key="#place__580">Wien</placeName></death></person></listPerson>
+         <person xml:id="person__689"><persName key="Hartl, Karl"><surname>Hartl</surname><forename>Karl</forename><roleName>Mag.R. Dr.</roleName></persName><birth when="1878-01-28">1878-01-28<placeName key="#place__580">Wien</placeName></birth><death when="1941-02-21">1941-02-21<placeName key="#place__580">Wien</placeName></death></person></listPerson>
          <listPlace>
             <head>Erwähnte Orte</head>
             <place/>
-         <place xml:id="place__580"><placeName>Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
+         <place xml:id="place__580"><placeName key="Wien">Wien</placeName><location><geo decls="#LatLng">48.208490000000 16.372080000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2761369/</idno></place></listPlace>
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>

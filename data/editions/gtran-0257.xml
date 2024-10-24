@@ -43,15 +43,15 @@
          <listPerson>
             <head>Erwähnte Personen</head>
             <person/>
-         <person xml:id="person__628"><persName><surname>Chalupek</surname><forename/><roleName/></persName><birth/><death/></person><person xml:id="person__635"><persName><surname>Dinghofer</surname><forename>Franz</forename><roleName>Dr.</roleName></persName><birth when="1873-04-06">1873-04-06<placeName key="#place__517">Ottensheim</placeName></birth><death when="1956-01-12">1956-01-12<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118902830</idno></person><person xml:id="person__781"><persName><surname>Hejpetr</surname><forename/><roleName/></persName><birth/><death/></person><person xml:id="person__879"><persName><surname>Teufel</surname><forename>Oskar</forename><roleName/></persName><birth when="1880-10-05">1880-10-05<placeName key="#place__595">Znaim</placeName></birth><death when="1946-01-26">1946-01-26<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/1027122671</idno></person></listPerson>
+         <person xml:id="person__628"><persName key="Chalupek"><surname>Chalupek</surname><forename/><roleName/></persName><birth/><death/></person><person xml:id="person__635"><persName key="Dinghofer, Franz"><surname>Dinghofer</surname><forename>Franz</forename><roleName>Dr.</roleName></persName><birth when="1873-04-06">1873-04-06<placeName key="#place__517">Ottensheim</placeName></birth><death when="1956-01-12">1956-01-12<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/118902830</idno></person><person xml:id="person__781"><persName key="Hejpetr"><surname>Hejpetr</surname><forename/><roleName/></persName><birth/><death/></person><person xml:id="person__879"><persName key="Teufel, Oskar"><surname>Teufel</surname><forename>Oskar</forename><roleName/></persName><birth when="1880-10-05">1880-10-05<placeName key="#place__595">Znaim</placeName></birth><death when="1946-01-26">1946-01-26<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/1027122671</idno></person></listPerson>
          <listPlace>
             <head>Erwähnte Orte</head>
             <place/>
-         <place xml:id="place__469"><placeName>Kaplitz</placeName><location><geo decls="#LatLng">48.738810000000 14.494490000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3073862/</idno></place><place xml:id="place__552"><placeName>Sudetengebiete</placeName><idno type="GEONAMES"/></place><place xml:id="place__567"><placeName>Tschechoslowakei</placeName><location><geo decls="#LatLng">50.082920000000 14.466720000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/8505031/</idno></place></listPlace>
+         <place xml:id="place__469"><placeName key="Kaplitz">Kaplitz</placeName><location><geo decls="#LatLng">48.738810000000 14.494490000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3073862/</idno></place><place xml:id="place__552"><placeName key="Sudetengebiete">Sudetengebiete</placeName><idno type="GEONAMES"/></place><place xml:id="place__567"><placeName key="Tschechoslowakei">Tschechoslowakei</placeName><location><geo decls="#LatLng">50.082920000000 14.466720000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/8505031/</idno></place></listPlace>
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1276"><orgName>Steueramt Kaplitz (Kaplice)</orgName></org></listOrg>
+         <org xml:id="org__1276"><orgName key="Steueramt Kaplitz (Kaplice)">Steueramt Kaplitz (Kaplice)</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

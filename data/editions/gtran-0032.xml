@@ -43,7 +43,7 @@
          <listPerson>
             <head>Erwähnte Personen</head>
             <person/>
-         <person xml:id="person__3860"><persName><surname>(von) Hock</surname><forename>Paul</forename><roleName/></persName><birth when="1857-10-20">1857-10-20<placeName key="#place__580">Wien</placeName></birth><death when="1924-09-02">1924-09-02<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/12650041X</idno></person></listPerson>
+         <person xml:id="person__3860"><persName key="(von) Hock, Paul"><surname>(von) Hock</surname><forename>Paul</forename><roleName/></persName><birth when="1857-10-20">1857-10-20<placeName key="#place__580">Wien</placeName></birth><death when="1924-09-02">1924-09-02<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/12650041X</idno></person></listPerson>
          <listPlace>
             <head>Erwähnte Orte</head>
             <place/>
@@ -51,7 +51,7 @@
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1005"><orgName>deutschösterr. Gendarmerie</orgName></org><org xml:id="org__1060"><orgName>Gendarmerie</orgName></org><org xml:id="org__1225"><orgName>Staatsamt des Innern</orgName></org></listOrg>
+         <org xml:id="org__1005"><orgName key="deutschösterr. Gendarmerie">deutschösterr. Gendarmerie</orgName></org><org xml:id="org__1060"><orgName key="Gendarmerie">Gendarmerie</orgName></org><org xml:id="org__1225"><orgName key="Staatsamt des Innern">Staatsamt des Innern</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

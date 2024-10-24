@@ -47,11 +47,11 @@
          <listPlace>
             <head>Erwähnte Orte</head>
             <place/>
-         <place xml:id="place__556"><placeName>Südtirol</placeName><location><geo decls="#LatLng">46.500000000000 11.333330000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3165244/</idno></place></listPlace>
+         <place xml:id="place__556"><placeName key="Südtirol">Südtirol</placeName><location><geo decls="#LatLng">46.500000000000 11.333330000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3165244/</idno></place></listPlace>
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1197"><orgName>Rat der Angestellten Kärntens</orgName></org><org xml:id="org__3257"><orgName>Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</orgName></org></listOrg>
+         <org xml:id="org__1197"><orgName key="Rat der Angestellten Kärntens">Rat der Angestellten Kärntens</orgName></org><org xml:id="org__3257"><orgName key="Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten">Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

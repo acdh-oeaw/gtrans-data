@@ -51,7 +51,7 @@
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1228"><orgName>Staatsamt für Heerwesen (Heereskommission)</orgName></org></listOrg>
+         <org xml:id="org__1228"><orgName key="Staatsamt für Heerwesen (Heereskommission)">Staatsamt für Heerwesen (Heereskommission)</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

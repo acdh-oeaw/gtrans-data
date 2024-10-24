@@ -43,15 +43,15 @@
          <listPerson>
             <head>Erwähnte Personen</head>
             <person/>
-         <person xml:id="person__608"><persName><surname>Bauer</surname><forename>Otto</forename><roleName>Dr.</roleName></persName><birth when="1881-09-05">1881-09-05<placeName key="#place__580">Wien</placeName></birth><death when="1938-07-04">1938-07-04<placeName key="#place__518">Paris</placeName></death><idno>http://d-nb.info/gnd/118507346</idno></person><person xml:id="person__879"><persName><surname>Teufel</surname><forename>Oskar</forename><roleName/></persName><birth when="1880-10-05">1880-10-05<placeName key="#place__595">Znaim</placeName></birth><death when="1946-01-26">1946-01-26<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/1027122671</idno></person><person xml:id="person__887"><persName><surname>Tusar</surname><forename>Vlastimil</forename><roleName/></persName><birth when="1880-10-18">1880-10-18<placeName key="#place__523">Prag</placeName></birth><death when="1924-03-22">1924-03-22<placeName key="#place__404">Berlin</placeName></death><idno>http://d-nb.info/gnd/133790649</idno></person></listPerson>
+         <person xml:id="person__608"><persName key="Bauer, Otto"><surname>Bauer</surname><forename>Otto</forename><roleName>Dr.</roleName></persName><birth when="1881-09-05">1881-09-05<placeName key="#place__580">Wien</placeName></birth><death when="1938-07-04">1938-07-04<placeName key="#place__518">Paris</placeName></death><idno>http://d-nb.info/gnd/118507346</idno></person><person xml:id="person__879"><persName key="Teufel, Oskar"><surname>Teufel</surname><forename>Oskar</forename><roleName/></persName><birth when="1880-10-05">1880-10-05<placeName key="#place__595">Znaim</placeName></birth><death when="1946-01-26">1946-01-26<placeName key="#place__580">Wien</placeName></death><idno>http://d-nb.info/gnd/1027122671</idno></person><person xml:id="person__887"><persName key="Tusar, Vlastimil"><surname>Tusar</surname><forename>Vlastimil</forename><roleName/></persName><birth when="1880-10-18">1880-10-18<placeName key="#place__523">Prag</placeName></birth><death when="1924-03-22">1924-03-22<placeName key="#place__404">Berlin</placeName></death><idno>http://d-nb.info/gnd/133790649</idno></person></listPerson>
          <listPlace>
             <head>Erwähnte Orte</head>
             <place/>
-         <place xml:id="place__554"><placeName>Südmähren</placeName><idno type="GEONAMES"/></place><place xml:id="place__567"><placeName>Tschechoslowakei</placeName><location><geo decls="#LatLng">50.082920000000 14.466720000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/8505031/</idno></place></listPlace>
+         <place xml:id="place__554"><placeName key="Südmähren">Südmähren</placeName><idno type="GEONAMES"/></place><place xml:id="place__567"><placeName key="Tschechoslowakei">Tschechoslowakei</placeName><location><geo decls="#LatLng">50.082920000000 14.466720000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/8505031/</idno></place></listPlace>
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1060"><orgName>Gendarmerie</orgName></org><org xml:id="org__1224"><orgName>Staatsamt des Äußern</orgName></org></listOrg>
+         <org xml:id="org__1060"><orgName key="Gendarmerie">Gendarmerie</orgName></org><org xml:id="org__1224"><orgName key="Staatsamt des Äußern">Staatsamt des Äußern</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

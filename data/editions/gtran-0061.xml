@@ -51,7 +51,7 @@
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1030"><orgName>k.k. Regierung</orgName></org><org xml:id="org__1051"><orgName>fremdnationale Staaten</orgName></org><org xml:id="org__1149"><orgName>Liquidierungskommission</orgName></org><org xml:id="org__1196"><orgName>Qualifikationskommission</orgName></org></listOrg>
+         <org xml:id="org__1030"><orgName key="k.k. Regierung">k.k. Regierung</orgName></org><org xml:id="org__1051"><orgName key="fremdnationale Staaten">fremdnationale Staaten</orgName></org><org xml:id="org__1149"><orgName key="Liquidierungskommission">Liquidierungskommission</orgName></org><org xml:id="org__1196"><orgName key="Qualifikationskommission">Qualifikationskommission</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

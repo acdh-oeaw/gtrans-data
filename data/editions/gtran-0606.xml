@@ -49,11 +49,11 @@ Das Staatsamt für Finanzen veranlasste die Einstellung von Beihilfen für Febru
          <listPlace>
             <head>Erwähnte Orte</head>
             <place/>
-         <place xml:id="place__485"><placeName>Laibach</placeName><location><geo decls="#LatLng">46.051080000000 14.505130000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3196359/</idno></place></listPlace>
+         <place xml:id="place__485"><placeName key="Laibach">Laibach</placeName><location><geo decls="#LatLng">46.051080000000 14.505130000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3196359/</idno></place></listPlace>
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__3786"><orgName>Postdirektion Laibach</orgName></org></listOrg>
+         <org xml:id="org__3786"><orgName key="Postdirektion Laibach">Postdirektion Laibach</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

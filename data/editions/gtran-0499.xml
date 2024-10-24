@@ -47,11 +47,11 @@
          <listPlace>
             <head>Erwähnte Orte</head>
             <place/>
-         <place xml:id="place__411"><placeName>Bosnien-Herzegowina</placeName><location><geo decls="#LatLng">44.250000000000 17.833330000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3277605/</idno></place><place xml:id="place__430"><placeName>Deutschösterreich</placeName><idno type="GEONAMES"/></place><place xml:id="place__453"><placeName>Graz</placeName><location><geo decls="#LatLng">47.066670000000 15.450000000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2778067/</idno></place></listPlace>
+         <place xml:id="place__411"><placeName key="Bosnien-Herzegowina">Bosnien-Herzegowina</placeName><location><geo decls="#LatLng">44.250000000000 17.833330000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3277605/</idno></place><place xml:id="place__430"><placeName key="Deutschösterreich">Deutschösterreich</placeName><idno type="GEONAMES"/></place><place xml:id="place__453"><placeName key="Graz">Graz</placeName><location><geo decls="#LatLng">47.066670000000 15.450000000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2778067/</idno></place></listPlace>
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1006"><orgName>deutschösterr. Generalpostdirektion</orgName></org><org xml:id="org__1012"><orgName>ehemalige Militärpostverwaltung</orgName></org><org xml:id="org__1093"><orgName>jugoslaw. Postverwaltung</orgName></org><org xml:id="org__1188"><orgName>Postdirektion Graz</orgName></org><org xml:id="org__1226"><orgName>Staatsamt für Gewerbe, Industrie und Handel</orgName></org></listOrg>
+         <org xml:id="org__1006"><orgName key="deutschösterr. Generalpostdirektion">deutschösterr. Generalpostdirektion</orgName></org><org xml:id="org__1012"><orgName key="ehemalige Militärpostverwaltung">ehemalige Militärpostverwaltung</orgName></org><org xml:id="org__1093"><orgName key="jugoslaw. Postverwaltung">jugoslaw. Postverwaltung</orgName></org><org xml:id="org__1188"><orgName key="Postdirektion Graz">Postdirektion Graz</orgName></org><org xml:id="org__1226"><orgName key="Staatsamt für Gewerbe, Industrie und Handel">Staatsamt für Gewerbe, Industrie und Handel</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

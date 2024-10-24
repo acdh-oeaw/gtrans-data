@@ -47,11 +47,11 @@
          <listPlace>
             <head>Erwähnte Orte</head>
             <place/>
-         <place xml:id="place__420"><placeName>Bukowina</placeName><location><geo decls="#LatLng">48.000000000000 25.500000000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/571096/</idno></place></listPlace>
+         <place xml:id="place__420"><placeName key="Bukowina">Bukowina</placeName><location><geo decls="#LatLng">48.000000000000 25.500000000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/571096/</idno></place></listPlace>
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1184"><orgName>polnischer Staat</orgName></org><org xml:id="org__1235"><orgName>Staatsamt für öffentliche Arbeiten</orgName></org></listOrg>
+         <org xml:id="org__1184"><orgName key="polnischer Staat">polnischer Staat</orgName></org><org xml:id="org__1235"><orgName key="Staatsamt für öffentliche Arbeiten">Staatsamt für öffentliche Arbeiten</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

@@ -43,15 +43,15 @@
          <listPerson>
             <head>Erwähnte Personen</head>
             <person/>
-         <person xml:id="person__3814"><persName><surname>Gärtner</surname><forename/><roleName/></persName><birth/><death/></person><person xml:id="person__814"><persName><surname>Redinger</surname><forename/><roleName/></persName><birth/><death/></person><person xml:id="person__910"><persName><surname>Wilfling</surname><forename>August</forename><roleName>Dr.</roleName></persName><birth/><death/></person></listPerson>
+         <person xml:id="person__3814"><persName key="Gärtner"><surname>Gärtner</surname><forename/><roleName/></persName><birth/><death/></person><person xml:id="person__814"><persName key="Redinger"><surname>Redinger</surname><forename/><roleName/></persName><birth/><death/></person><person xml:id="person__910"><persName key="Wilfling, August"><surname>Wilfling</surname><forename>August</forename><roleName>Dr.</roleName></persName><birth/><death/></person></listPerson>
          <listPlace>
             <head>Erwähnte Orte</head>
             <place/>
-         <place xml:id="place__404"><placeName>Berlin</placeName><location><geo decls="#LatLng">52.524370000000 13.410530000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2950159/</idno></place></listPlace>
+         <place xml:id="place__404"><placeName key="Berlin">Berlin</placeName><location><geo decls="#LatLng">52.524370000000 13.410530000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/2950159/</idno></place></listPlace>
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__997"><orgName>Deutsches Reich</orgName></org><org xml:id="org__1001"><orgName>deutsch-österr. Paritätische Kommission</orgName></org><org xml:id="org__1007"><orgName>deutschösterr. Regierung</orgName></org><org xml:id="org__1031"><orgName>ehemals österr. Staat</orgName></org><org xml:id="org__1220"><orgName>Staatsamt für Finanzen</orgName></org><org xml:id="org__3301"><orgName>Deutschösterreichischer Staat</orgName></org><org xml:id="org__3346"><orgName>Regierung des Deutschen Reichs</orgName></org></listOrg>
+         <org xml:id="org__997"><orgName key="Deutsches Reich">Deutsches Reich</orgName></org><org xml:id="org__1001"><orgName key="deutsch-österr. Paritätische Kommission">deutsch-österr. Paritätische Kommission</orgName></org><org xml:id="org__1007"><orgName key="deutschösterr. Regierung">deutschösterr. Regierung</orgName></org><org xml:id="org__1031"><orgName key="ehemals österr. Staat">ehemals österr. Staat</orgName></org><org xml:id="org__1220"><orgName key="Staatsamt für Finanzen">Staatsamt für Finanzen</orgName></org><org xml:id="org__3301"><orgName key="Deutschösterreichischer Staat">Deutschösterreichischer Staat</orgName></org><org xml:id="org__3346"><orgName key="Regierung des Deutschen Reichs">Regierung des Deutschen Reichs</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

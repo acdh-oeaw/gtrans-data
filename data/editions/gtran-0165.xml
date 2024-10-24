@@ -51,7 +51,7 @@
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1232"><orgName>Staatsamt für Justiz</orgName></org></listOrg>
+         <org xml:id="org__1232"><orgName key="Staatsamt für Justiz">Staatsamt für Justiz</orgName></org></listOrg>
       </back>
   </text>
 </TEI>

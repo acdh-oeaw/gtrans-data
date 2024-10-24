@@ -47,11 +47,11 @@
          <listPlace>
             <head>Erwähnte Orte</head>
             <place/>
-         <place xml:id="place__416"><placeName>Brünn</placeName><location><geo decls="#LatLng">49.195220000000 16.607960000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3078610/</idno></place><place xml:id="place__565"><placeName>Troppau</placeName><location><geo decls="#LatLng">49.938660000000 17.902570000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3068927/</idno></place><place xml:id="place__568"><placeName>umstrittenes Gebiet</placeName><idno type="GEONAMES"/></place></listPlace>
+         <place xml:id="place__416"><placeName key="Brünn">Brünn</placeName><location><geo decls="#LatLng">49.195220000000 16.607960000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3078610/</idno></place><place xml:id="place__565"><placeName key="Troppau">Troppau</placeName><location><geo decls="#LatLng">49.938660000000 17.902570000000</geo></location><idno type="GEONAMES">http://sws.geonames.org/3068927/</idno></place><place xml:id="place__568"><placeName key="umstrittenes Gebiet">umstrittenes Gebiet</placeName><idno type="GEONAMES"/></place></listPlace>
          <listOrg>
             <head>Erwähnte Institutionen</head>
             <org/>
-         <org xml:id="org__1220"><orgName>Staatsamt für Finanzen</orgName></org><org xml:id="org__1288"><orgName>tschechoslowak. Finanzministerium</orgName></org><org xml:id="org__1289"><orgName>tschechoslowakische Regierung</orgName></org><org xml:id="org__1290"><orgName>tschechoslowakischer Staat</orgName></org><org xml:id="org__3301"><orgName>Deutschösterreichischer Staat</orgName></org></listOrg>
+         <org xml:id="org__1220"><orgName key="Staatsamt für Finanzen">Staatsamt für Finanzen</orgName></org><org xml:id="org__1288"><orgName key="tschechoslowak. Finanzministerium">tschechoslowak. Finanzministerium</orgName></org><org xml:id="org__1289"><orgName key="tschechoslowakische Regierung">tschechoslowakische Regierung</orgName></org><org xml:id="org__1290"><orgName key="tschechoslowakischer Staat">tschechoslowakischer Staat</orgName></org><org xml:id="org__3301"><orgName key="Deutschösterreichischer Staat">Deutschösterreichischer Staat</orgName></org></listOrg>
       </back>
   </text>
 </TEI>
