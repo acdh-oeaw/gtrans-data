@@ -1171,6 +1171,383 @@
                </location>
                <idno type="GEONAMES">http://sws.geonames.org/3067882/</idno>
             </place>
+            <place xml:id="place__517">
+               <placeName key="Ottensheim">Ottensheim</placeName>
+            </place>
+            <place xml:id="place__479">
+               <placeName key="Kopfing im Innkreis">Kopfing im Innkreis</placeName>
+            </place>
+            <place xml:id="place__3181">
+               <placeName key="Seitenstetten">Seitenstetten</placeName>
+            </place>
+            <place xml:id="place__481">
+               <placeName key="Krems">Krems</placeName>
+            </place>
+            <place xml:id="place__461">
+               <placeName key="Horschenz">Horschenz</placeName>
+            </place>
+            <place xml:id="place__570">
+               <placeName key="Unter-Tannowitz">Unter-Tannowitz</placeName>
+            </place>
+            <place xml:id="place__3269">
+               <placeName key="Schönborn bei Reichenberg">Schönborn bei Reichenberg</placeName>
+            </place>
+            <place xml:id="place__3116">
+               <placeName key="Hinterbrühl">Hinterbrühl</placeName>
+            </place>
+            <place xml:id="place__3132">
+               <placeName key="Auschwitz (KZ)">Auschwitz (KZ)</placeName>
+            </place>
+            <place xml:id="place__3340">
+               <placeName key="Andelsbuch">Andelsbuch</placeName>
+            </place>
+            <place xml:id="place__3146">
+               <placeName key="Belluno">Belluno</placeName>
+            </place>
+            <place xml:id="place__3114">
+               <placeName key="Kroměříž">Kroměříž</placeName>
+            </place>
+            <place xml:id="place__3115">
+               <placeName key="Theresienstadt (KZ)">Theresienstadt (KZ)</placeName>
+            </place>
+            <place xml:id="place__3124">
+               <placeName key="Tattendorf">Tattendorf</placeName>
+            </place>
+            <place xml:id="place__3127">
+               <placeName key="Claremont">Claremont</placeName>
+            </place>
+            <place xml:id="place__3168">
+               <placeName key="Kattowitz">Kattowitz</placeName>
+            </place>
+            <place xml:id="place__3244">
+               <placeName key="Gothenburg">Gothenburg</placeName>
+            </place>
+            <place xml:id="place__3118">
+               <placeName key="Wolfpassing bei Zeiselmauer">Wolfpassing bei Zeiselmauer</placeName>
+            </place>
+            <place xml:id="place__440">
+               <placeName key="Eibiswald">Eibiswald</placeName>
+            </place>
+            <place xml:id="place__575">
+               <placeName key="Villach">Villach</placeName>
+            </place>
+            <place xml:id="place__3283">
+               <placeName key="St. Valentin (NÖ)">St. Valentin (NÖ)</placeName>
+            </place>
+            <place xml:id="place__560">
+               <placeName key="Thomigsdorf">Thomigsdorf</placeName>
+            </place>
+            <place xml:id="place__525">
+               <placeName key="Prosmik">Prosmik</placeName>
+            </place>
+            <place xml:id="place__464">
+               <placeName key="Iserthal">Iserthal</placeName>
+            </place>
+            <place xml:id="place__3162">
+               <placeName key="Friedburg">Friedburg</placeName>
+            </place>
+            <place xml:id="place__524">
+               <placeName key="Preßburg">Preßburg</placeName>
+            </place>
+            <place xml:id="place__401">
+               <placeName key="Bad Kreuzen">Bad Kreuzen</placeName>
+            </place>
+            <place xml:id="place__3304">
+               <placeName key="Wigstadtl">Wigstadtl</placeName>
+            </place>
+            <place xml:id="place__450">
+               <placeName key="Göding">Göding</placeName>
+            </place>
+            <place xml:id="place__484">
+               <placeName key="Lackenbach">Lackenbach</placeName>
+            </place>
+            <place xml:id="place__3153">
+               <placeName key="Čáry">Čáry</placeName>
+            </place>
+            <place xml:id="place__3154">
+               <placeName key="London">London</placeName>
+            </place>
+            <place xml:id="place__426">
+               <placeName key="Dellach">Dellach</placeName>
+            </place>
+            <place xml:id="place__3243">
+               <placeName key="Taus">Taus</placeName>
+            </place>
+            <place xml:id="place__526">
+               <placeName key="Rann">Rann</placeName>
+            </place>
+            <place xml:id="place__3147">
+               <placeName key="Kraków">Kraków</placeName>
+            </place>
+            <place xml:id="place__3148">
+               <placeName key="Genève">Genève</placeName>
+            </place>
+            <place xml:id="place__3129">
+               <placeName key="Emmerich am Rhein">Emmerich am Rhein</placeName>
+            </place>
+            <place xml:id="place__549">
+               <placeName key="Stachenwald">Stachenwald</placeName>
+            </place>
+            <place xml:id="place__445">
+               <placeName key="Fulnek">Fulnek</placeName>
+            </place>
+            <place xml:id="place__508">
+               <placeName key="New York">New York</placeName>
+            </place>
+            <place xml:id="place__415">
+               <placeName key="Brixen">Brixen</placeName>
+            </place>
+            <place xml:id="place__3180">
+               <placeName key="Neufisching">Neufisching</placeName>
+            </place>
+            <place xml:id="place__3179">
+               <placeName key="Gars am Kamp">Gars am Kamp</placeName>
+            </place>
+            <place xml:id="place__3111">
+               <placeName key="St. Jakob bei Bozen">St. Jakob bei Bozen</placeName>
+            </place>
+            <place xml:id="place__3894">
+               <placeName key="Москва">Москва</placeName>
+            </place>
+            <place xml:id="place__3141">
+               <placeName key="Gösting bei Zistersdorf">Gösting bei Zistersdorf</placeName>
+            </place>
+            <place xml:id="place__3167">
+               <placeName key="Floridsdorf">Floridsdorf</placeName>
+            </place>
+            <place xml:id="place__3890">
+               <placeName key="Amsterdam">Amsterdam</placeName>
+            </place>
+            <place xml:id="place__3892">
+               <placeName key="Trier">Trier</placeName>
+            </place>
+            <place xml:id="place__3888">
+               <placeName key="Erfurt">Erfurt</placeName>
+            </place>
+            <place xml:id="place__505">
+               <placeName key="München">München</placeName>
+            </place>
+            <place xml:id="place__519">
+               <placeName key="Persenbeug">Persenbeug</placeName>
+            </place>
+            <place xml:id="place__446">
+               <placeName key="Funchal">Funchal</placeName>
+            </place>
+            <place xml:id="place__3142">
+               <placeName key="Pohrlitz">Pohrlitz</placeName>
+            </place>
+            <place xml:id="place__455">
+               <placeName key="Großmeseritsch">Großmeseritsch</placeName>
+            </place>
+            <place xml:id="place__3386">
+               <placeName key="Frainspitz">Frainspitz</placeName>
+            </place>
+            <place xml:id="place__540">
+               <placeName key="Schönau an der Triesting">Schönau an der Triesting</placeName>
+            </place>
+            <place xml:id="place__489">
+               <placeName key="Libochowan">Libochowan</placeName>
+            </place>
+            <place xml:id="place__478">
+               <placeName key="Königsberg">Königsberg</placeName>
+            </place>
+            <place xml:id="place__3638">
+               <placeName key="Marburg an der Lahn">Marburg an der Lahn</placeName>
+            </place>
+            <place xml:id="place__477">
+               <placeName key="Königgrätz">Königgrätz</placeName>
+            </place>
+            <place xml:id="place__522">
+               <placeName key="Pottendorf">Pottendorf</placeName>
+            </place>
+            <place xml:id="place__456">
+               <placeName key="Gurahumora">Gurahumora</placeName>
+            </place>
+            <place xml:id="place__577">
+               <placeName key="Waiern">Waiern</placeName>
+            </place>
+            <place xml:id="place__3245">
+               <placeName key="Lomnička">Lomnička</placeName>
+            </place>
+            <place xml:id="place__3122">
+               <placeName key="Leipzig">Leipzig</placeName>
+            </place>
+            <place xml:id="place__457">
+               <placeName key="Gußwerk">Gußwerk</placeName>
+            </place>
+            <place xml:id="place__3165">
+               <placeName key="Bruck an der Leitha">Bruck an der Leitha</placeName>
+            </place>
+            <place xml:id="place__592">
+               <placeName key="Zell am Wallersee">Zell am Wallersee</placeName>
+            </place>
+            <place xml:id="place__3499">
+               <placeName key="Grundlsee">Grundlsee</placeName>
+            </place>
+            <place xml:id="place__3504">
+               <placeName key="Mariahilf">Mariahilf</placeName>
+            </place>
+            <place xml:id="place__3503">
+               <placeName key="Purkersdorf">Purkersdorf</placeName>
+            </place>
+            <place xml:id="place__3410">
+               <placeName key="Töketerebes">Töketerebes</placeName>
+            </place>
+            <place xml:id="place__3347">
+               <placeName key="Stuttgart">Stuttgart</placeName>
+            </place>
+            <place xml:id="place__460">
+               <placeName key="Hard bei Bregenz">Hard bei Bregenz</placeName>
+            </place>
+            <place xml:id="place__3177">
+               <placeName key="Bad Vöslau">Bad Vöslau</placeName>
+            </place>
+            <place xml:id="place__3143">
+               <placeName key="Staunton (Virginia)">Staunton (Virginia)</placeName>
+            </place>
+            <place xml:id="place__3144">
+               <placeName key="Washington">Washington</placeName>
+            </place>
+            <place xml:id="place__3155">
+               <placeName key="Bratislava">Bratislava</placeName>
+            </place>
+            <place xml:id="place__3820">
+               <placeName key="Perg">Perg</placeName>
+            </place>
+            <place xml:id="place__3821">
+               <placeName key="Baden">Baden</placeName>
+            </place>
+            <place xml:id="place__3367">
+               <placeName key="St. Ruprecht/Kärnten">St. Ruprecht/Kärnten</placeName>
+            </place>
+            <place xml:id="place__3349">
+               <placeName key="Gaaden bei Wien">Gaaden bei Wien</placeName>
+            </place>
+            <place xml:id="place__3369">
+               <placeName key="Sezemitz">Sezemitz</placeName>
+            </place>
+            <place xml:id="place__3375">
+               <placeName key="Klopein">Klopein</placeName>
+            </place>
+            <place xml:id="place__3359">
+               <placeName key="Karolinenthal">Karolinenthal</placeName>
+            </place>
+            <place xml:id="place__3361">
+               <placeName key="Lefartowskaja">Lefartowskaja</placeName>
+            </place>
+            <place xml:id="place__3380">
+               <placeName key="Tarnopol">Tarnopol</placeName>
+            </place>
+            <place xml:id="place__3355">
+               <placeName key="Zürich">Zürich</placeName>
+            </place>
+            <place xml:id="place__3405">
+               <placeName key="Mariabrunn bei Wien">Mariabrunn bei Wien</placeName>
+            </place>
+            <place xml:id="place__3296">
+               <placeName key="Mistelbach">Mistelbach</placeName>
+            </place>
+            <place xml:id="place__3292">
+               <placeName key="Berkeley">Berkeley</placeName>
+            </place>
+            <place xml:id="place__3242">
+               <placeName key="Perchtoldsdorf">Perchtoldsdorf</placeName>
+            </place>
+            <place xml:id="place__3531">
+               <placeName key="Steyrling">Steyrling</placeName>
+            </place>
+            <place xml:id="place__3532">
+               <placeName key="Wels">Wels</placeName>
+            </place>
+            <place xml:id="place__589">
+               <placeName key="Wilten bei Innsbruck">Wilten bei Innsbruck</placeName>
+            </place>
+            <place xml:id="place__3131">
+               <placeName key="Lodenitz bei Pohrlitz">Lodenitz bei Pohrlitz</placeName>
+            </place>
+            <place xml:id="place__557">
+               <placeName key="Taconic">Taconic</placeName>
+            </place>
+            <place xml:id="place__400">
+               <placeName key="Alt-Rothwasser">Alt-Rothwasser</placeName>
+            </place>
+            <place xml:id="place__3163">
+               <placeName key="Kainraths">Kainraths</placeName>
+            </place>
+            <place xml:id="place__3674">
+               <placeName key="Korczestie">Korczestie</placeName>
+            </place>
+            <place xml:id="place__3139">
+               <placeName key="Pernitz">Pernitz</placeName>
+            </place>
+            <place xml:id="place__3450">
+               <placeName key="Hermsdorf bei Braunau/Böhmen">Hermsdorf bei
+                  Braunau/Böhmen</placeName>
+            </place>
+            <place xml:id="place__3135">
+               <placeName key="Smichow">Smichow</placeName>
+            </place>
+            <place xml:id="place__3112">
+               <placeName key="Kloster">Kloster</placeName>
+            </place>
+            <place xml:id="place__467">
+               <placeName key="Japons">Japons</placeName>
+            </place>
+            <place xml:id="place__3797">
+               <placeName key="Klosterneuburg">Klosterneuburg</placeName>
+            </place>
+            <place xml:id="place__3133">
+               <placeName key="Stein in Oberkrain">Stein in Oberkrain</placeName>
+            </place>
+            <place xml:id="place__3134">
+               <placeName key="Unec">Unec</placeName>
+            </place>
+            <place xml:id="place__550">
+               <placeName key="Strakonitz">Strakonitz</placeName>
+            </place>
+            <place xml:id="place__3121">
+               <placeName key="Zollikon bei Zürich">Zollikon bei Zürich</placeName>
+            </place>
+            <place xml:id="place__486">
+               <placeName key="Lambach">Lambach</placeName>
+            </place>
+            <place xml:id="place__2415">
+               <placeName key="Altmünster">Altmünster</placeName>
+            </place>
+            <place xml:id="place__398">
+               <placeName key="Aich am Attersee">Aich am Attersee</placeName>
+            </place>
+            <place xml:id="place__3861">
+               <placeName key="Bozen">Bozen</placeName>
+            </place>
+            <place xml:id="place__3138">
+               <placeName key="Bistritz">Bistritz</placeName>
+            </place>
+            <place xml:id="place__3140">
+               <placeName key="Dachau (KZ)">Dachau (KZ)</placeName>
+            </place>
+            <place xml:id="place__3178">
+               <placeName key="Niedertregist (bei Voitsberg)">Niedertregist (bei
+                  Voitsberg)</placeName>
+            </place>
+            <place xml:id="place__3779">
+               <placeName key="Kleßheim">Kleßheim</placeName>
+            </place>
+            <place xml:id="place__3489">
+               <placeName key="Ober-Moschtienitz">Ober-Moschtienitz</placeName>
+            </place>
+            <place xml:id="place__3487">
+               <placeName key="Achenkirchen">Achenkirchen</placeName>
+            </place>
+            <place xml:id="place__3897">
+               <placeName key="Groß Weikersdorf">Groß Weikersdorf</placeName>
+            </place>
+            <place xml:id="place__3440">
+               <placeName key="Leibnitz">Leibnitz</placeName>
+            </place>
+            <place xml:id="place__3441">
+               <placeName key="Tregist">Tregist</placeName>
+            </place>
          </listPlace>
       </body>
    </text>
