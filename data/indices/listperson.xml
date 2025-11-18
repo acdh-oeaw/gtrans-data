@@ -21,17 +21,17 @@
                <persName key="Reumann, Jakob"><surname>Reumann</surname><forename>Jakob</forename><roleName/></persName>
                <birth/>
                <death/>
-            </person>
+            <idno>https://d-nb.info/gnd/1014062276</idno></person>
             <person xml:id="person__843">
                <persName key="Schorsch, Johann"><surname>Schorsch</surname><forename>Johann</forename><roleName/></persName>
                <birth/>
                <death/>
-            </person>
+            <idno>https://d-nb.info/gnd/1121689876</idno></person>
             <person xml:id="person__891">
                <persName key="Vaugoin, Karl"><surname>Vaugoin</surname><forename>Karl</forename><roleName/></persName>
                <birth/>
                <death/>
-            </person>
+            <idno>https://d-nb.info/gnd/118804022</idno></person>
             <person xml:id="person__635">
                <persName key="Dinghofer, Franz"><surname>Dinghofer</surname><forename>Franz</forename><roleName>Dr.</roleName></persName>
                <birth when="1873-04-06">1873-04-06<placeName key="#place__517">Ottensheim</placeName></birth>
@@ -82,12 +82,12 @@
                <persName key="Hein, Oskar"><surname>Hein</surname><forename>Oskar</forename><roleName>Dr.</roleName></persName>
                <birth/>
                <death/>
-            </person>
+            <idno>https://d-nb.info/gnd/122461584</idno></person>
             <person xml:id="person__774">
                <persName key="Moißl, Alois"><surname>Moißl</surname><forename>Alois</forename><roleName/></persName>
                <birth><placeName key="#place__481">Krems</placeName></birth>
                <death/>
-            </person>
+            <idno>https://d-nb.info/gnd/1361359269</idno></person>
             <person xml:id="person__798">
                <persName key="Philip, Georg"><surname>Philip</surname><forename>Georg</forename><roleName/></persName>
                <birth><placeName key="#place__490">Linz</placeName></birth>
@@ -107,12 +107,12 @@
                <persName key="Scheu, Gustav"><surname>Scheu</surname><forename>Gustav</forename><roleName>Dr.</roleName></persName>
                <birth/>
                <death/>
-            </person>
+            <idno>https://d-nb.info/gnd/129263745</idno></person>
             <person xml:id="person__836">
                <persName key="Schmid, Heinrich"><surname>Schmid</surname><forename>Heinrich</forename><roleName>Ing.</roleName></persName>
                <birth/>
                <death/>
-            </person>
+            <idno>https://d-nb.info/gnd/118608606</idno></person>
             <person xml:id="person__852">
                <persName key="Sedlak, Karl"><surname>Sedlak</surname><forename>Karl</forename><roleName/></persName>
                <birth/>
@@ -122,7 +122,7 @@
                <persName key="Stangelberger, Franz"><surname>Stangelberger</surname><forename>Franz</forename><roleName/></persName>
                <birth/>
                <death/>
-            </person>
+            <idno>https://d-nb.info/gnd/128014466</idno></person>
             <person xml:id="person__903">
                <persName key="Weiskirchner, Richard"><surname>Weiskirchner</surname><forename>Richard</forename><roleName>DDr.</roleName></persName>
                <birth when="1861-03-24">1861-03-24<placeName key="#place__580">Wien</placeName></birth>
@@ -134,7 +134,7 @@
                   Rudolph</forename><roleName/></persName>
                <birth/>
                <death/>
-               <idno>https://de.wikipedia.org/wiki/Alfred_Rudolph_Zimmerman</idno>
+               <idno>https://d-nb.info/gnd/133794962</idno>
             </person>
             <person xml:id="person__879">
                <persName key="Teufel, Oskar"><surname>Teufel</surname><forename>Oskar</forename><roleName/></persName>
@@ -162,12 +162,12 @@
                <persName key="Schrott"><surname>Schrott </surname><forename/><roleName/></persName>
                <birth><placeName key="#place__580">Wien</placeName></birth>
                <death/>
-            </person>
+            <idno>https://d-nb.info/gnd/12796827X</idno></person>
             <person xml:id="person__612">
                <persName key="Biber, Ludwig"><surname>Biber</surname><forename>Ludwig</forename><roleName/></persName>
                <birth when="1873-04-25">1873-04-25<placeName key="#place__580">Wien</placeName></birth>
                <death when="1959-03-31">1959-03-31<placeName key="#place__3116">Hinterbrühl</placeName></death>
-               <idno>https://de.wikipedia.org/wiki/Ludwig_Biber</idno>
+               <idno>https://d-nb.info/gnd/1255161639</idno>
             </person>
             <person xml:id="person__728">
                <persName key="Kienböck, Viktor"><surname>Kienböck</surname><forename>Viktor</forename><roleName>Dr.</roleName></persName>
@@ -215,7 +215,7 @@
                      Boog</surname><forename>Adolf</forename><roleName>Feldmarschallleutnant</roleName></persName>
                <birth when="1866-04-27">1866-04-27<placeName key="#place__3146">Belluno</placeName></birth>
                <death when="1929-02-15">1929-02-15<placeName key="#place__580">Wien</placeName></death>
-               <idno>https://de.wikipedia.org/wiki/Adolf_von_Boog</idno>
+               <idno>https://d-nb.info/gnd/1314980769</idno>
             </person>
             <person xml:id="person__610">
                <persName key="Bermann, Julius"><surname>Bermann</surname><forename>Julius</forename><roleName/></persName>
@@ -250,7 +250,7 @@
                <persName key="Kokrda, Quirin"><surname>Kokrda</surname><forename>Quirin</forename><roleName/></persName>
                <birth when="1873-07-04">1873-07-04<placeName key="#place__3168">Kattowitz</placeName></birth>
                <death when="1937-10-15">1937-10-15<placeName key="#place__580">Wien</placeName></death>
-               <idno>https://de.wikipedia.org/wiki/Quirin_Kokrda</idno>
+               <idno>https://d-nb.info/gnd/1123817537</idno>
             </person>
             <person xml:id="person__755">
                <persName key="Linder, Julius"><surname>Linder</surname><forename>Julius</forename><roleName/></persName>
@@ -262,7 +262,7 @@
                <persName key="Pölzer, Amalie"><surname>Pölzer</surname><forename>Amalie</forename><roleName/></persName>
                <birth><placeName key="#place__490">Linz</placeName></birth>
                <death/>
-            </person>
+            <idno>https://d-nb.info/gnd/1026394910</idno></person>
             <person xml:id="person__858">
                <persName key="Siegel, Franz"><surname>Siegel</surname><forename>Franz</forename><roleName/></persName>
                <birth when="1876-06-15">1876-06-15</birth>
@@ -282,7 +282,7 @@
                <persName key="Wilfling, August"><surname>Wilfling</surname><forename>August</forename><roleName>Dr.</roleName></persName>
                <birth/>
                <death/>
-            </person>
+            <idno>https://d-nb.info/gnd/133807649</idno></person>
             <person xml:id="person__608">
                <persName key="Bauer, Otto"><surname>Bauer</surname><forename>Otto</forename><roleName>Dr.</roleName></persName>
                <birth when="1881-09-05">1881-09-05<placeName key="#place__580">Wien</placeName></birth>
@@ -429,7 +429,7 @@
                <persName key="Kolassa, Viktor"><surname>Kolassa</surname><forename>Viktor</forename><roleName/></persName>
                <birth/>
                <death/>
-               <idno>https://de.wikipedia.org/wiki/Viktor_Kolassa</idno>
+               <idno>https://d-nb.info/gnd/1272434346</idno>
             </person>
             <person xml:id="person__3322">
                <persName key="Leth, Adolf"><surname>Leth</surname><forename>Adolf</forename><roleName/></persName>
@@ -447,7 +447,7 @@
                <persName key="Seipel, Ignaz"><surname>Seipel</surname><forename>Ignaz</forename><roleName/></persName>
                <birth/>
                <death/>
-               <idno>https://de.wikipedia.org/wiki/Ignaz_Seipel</idno>
+               <idno>https://d-nb.info/gnd/11861293X</idno>
             </person>
             <person xml:id="person__656">
                <persName key="Freißler, Robert"><surname>Freißler</surname><forename>Robert</forename><roleName>Dr.</roleName></persName>
@@ -488,7 +488,7 @@
                <persName key="Gröbner, Johann"><surname>Gröbner</surname><forename>Johann</forename><roleName/></persName>
                <birth/>
                <death/>
-            </person>
+            <idno>https://d-nb.info/gnd/1327661691</idno></person>
             <person xml:id="person__678">
                <persName key="Grünwald, Julius"><surname>Grünwald</surname><forename>Julius</forename><roleName/></persName>
                <birth when="1869-02-25">1869-02-25<placeName key="#place__3153">Čáry</placeName></birth>
@@ -504,17 +504,17 @@
                <persName key="Pokorny, Johann"><surname>Pokorny</surname><forename>Johann</forename><roleName/></persName>
                <birth><placeName key="#place__490">Linz</placeName></birth>
                <death/>
-            </person>
+            <idno>https://d-nb.info/gnd/1019309229</idno></person>
             <person xml:id="person__877">
                <persName key="Täubler, Alexander"><surname>Täubler</surname><forename>Alexander</forename><roleName/></persName>
                <birth><placeName key="#place__462">Iglau</placeName></birth>
                <death/>
-            </person>
+            <idno>https://d-nb.info/gnd/1158270682</idno></person>
             <person xml:id="person__899">
                <persName key="Walter, Gabriele"><surname>Walter</surname><forename>Gabriele</forename><roleName/></persName>
                <birth><placeName key="#place__426">Dellach</placeName></birth>
                <death/>
-            </person>
+            <idno>https://d-nb.info/gnd/120010577</idno></person>
             <person xml:id="person__698">
                <persName key="Herrmann von Herrnritt, Rudolf"><surname>Herrmann von
                      Herrnritt</surname><forename>Rudolf</forename><roleName>Dr.</roleName></persName>
@@ -532,7 +532,7 @@
                      Dr.</roleName></persName>
                <birth when="1852-04-01">1852-04-01<placeName key="#place__426">Dellach</placeName></birth>
                <death when="1924-08-30">1924-08-30<placeName key="#place__473">Klagenfurt</placeName></death>
-               <idno>https://de.wikipedia.org/wiki/Viktor_Waldner</idno>
+               <idno>https://d-nb.info/gnd/1207042226</idno>
             </person>
             <person xml:id="person__916">
                <persName key="Wolf, Karl Hermann"><surname>Wolf</surname><forename>Karl
@@ -557,7 +557,7 @@
                <persName key="Schmid, Karl"><surname>Schmid</surname><forename>Karl</forename><roleName/></persName>
                <birth when="1878-02-09">1878-02-09<placeName key="#place__535">Salzburg</placeName></birth>
                <death when="1942-06-09">1942-06-09<placeName key="#place__580">Wien</placeName></death>
-            </person>
+            <idno>https://d-nb.info/gnd/118608606</idno></person>
             <person xml:id="person__897">
                <persName key="Waldsam, Hans"><surname>Waldsam</surname><forename>Hans</forename><roleName/></persName>
                <birth><placeName key="#place__426">Dellach</placeName></birth>
@@ -599,7 +599,7 @@
                <persName key="Widholz, Laurenz"><surname>Widholz</surname><forename>Laurenz</forename><roleName/></persName>
                <birth when="1861-05-02">1861-05-02</birth>
                <death when="1926-11-19">1926-11-19<placeName key="#place__580">Wien</placeName></death>
-            </person>
+            <idno>https://d-nb.info/gnd/1147998264</idno></person>
             <person xml:id="person__695">
                <persName key="Hellmann, Josef"><surname>Hellmann</surname><forename>Josef</forename><roleName/></persName>
                <birth when="1865-10-18">1865-10-18</birth>
@@ -610,7 +610,7 @@
                      Arnold</forename><roleName/></persName>
                <birth/>
                <death/>
-            </person>
+            <idno>https://d-nb.info/gnd/117419524</idno></person>
             <person xml:id="person__762">
                <persName key="Marckhl, Richard"><surname>Marckhl</surname><forename>Richard</forename><roleName/></persName>
                <birth when="1861-05-10">1861-05-10<placeName key="#place__526">Rann</placeName></birth>
@@ -643,7 +643,7 @@
                <persName key="Waber, Leopold"><surname>Waber</surname><forename>Leopold</forename><roleName>Dr.</roleName></persName>
                <birth/>
                <death/>
-               <idno>https://de.wikipedia.org/wiki/Leopold_Waber</idno>
+               <idno>https://d-nb.info/gnd/130170429</idno>
             </person>
             <person xml:id="person__622">
                <persName key="Brockhausen, Carl"><surname>Brockhausen</surname><forename>Carl</forename><roleName>Prof.
@@ -692,7 +692,7 @@
                <persName key="Grün, Heinrich"><surname>Grün</surname><forename>Heinrich</forename><roleName>Dr.</roleName></persName>
                <birth/>
                <death/>
-            </person>
+            <idno>https://d-nb.info/gnd/131829742</idno></person>
             <person xml:id="person__749">
                <persName key="Laferl, Gisela"><surname>Laferl</surname><forename>Gisela</forename><roleName/></persName>
                <birth when="1884-09-07">1884-09-07<placeName key="#place__3180">Neufisching</placeName></birth>
@@ -711,7 +711,7 @@
                <persName key="Angermayer, Karl"><surname>Angermayer</surname><forename>Karl</forename><roleName/></persName>
                <birth when="1862-11-17">1862-11-17<placeName key="#place__580">Wien</placeName></birth>
                <death when="1941-04-05">1941-04-05<placeName key="#place__580">Wien</placeName></death>
-               <idno>https://de.wikipedia.org/wiki/Karl_Angermayer</idno>
+               <idno>https://d-nb.info/gnd/1074530241</idno>
             </person>
             <person xml:id="person__621">
                <persName key="Breuer, Johann Alfred"><surname>Breuer</surname><forename>Johann
@@ -743,12 +743,12 @@
                <persName key="Fischer, Ignaz"><surname>Fischer</surname><forename>Ignaz</forename><roleName/></persName>
                <birth/>
                <death/>
-            </person>
+            <idno>https://d-nb.info/gnd/1124266968</idno></person>
             <person xml:id="person__703">
                <persName key="Hödl, Josef"><surname>Hödl</surname><forename>Josef</forename><roleName/></persName>
                <birth/>
                <death/>
-            </person>
+            <idno>https://d-nb.info/gnd/132667371</idno></person>
             <person xml:id="person__709">
                <persName key="Hoß, Franz"><surname>Hoß</surname><forename>Franz</forename><roleName/></persName>
                <birth when="1866-11-04">1866-11-04<placeName key="#place__3167">Floridsdorf</placeName></birth>
@@ -776,7 +776,7 @@
                <persName key="Rummelhardt, Karl"><surname>Rummelhardt</surname><forename>Karl</forename><roleName/></persName>
                <birth/>
                <death/>
-            </person>
+            <idno>https://d-nb.info/gnd/1028828276</idno></person>
             <person xml:id="person__838">
                <persName key="Schmitz, Richard"><surname>Schmitz</surname><forename>Richard</forename><roleName/></persName>
                <birth/>
@@ -792,7 +792,7 @@
                <persName key="Seitz, Alma"><surname>Seitz</surname><forename>Alma</forename><roleName>Dr.</roleName></persName>
                <birth/>
                <death/>
-            </person>
+            <idno>https://d-nb.info/gnd/127977279</idno></person>
             <person xml:id="person__3889">
                <persName key="Weber, Max"><surname>Weber</surname><forename>Max</forename><roleName/></persName>
                <birth when="1864-04-21">1864-04-21<placeName key="#place__3888">Erfurt</placeName></birth>
@@ -814,7 +814,7 @@
                   </roleName></persName>
                <birth/>
                <death/>
-            </person>
+            <idno>https://d-nb.info/gnd/1035349973</idno></person>
             <person xml:id="person__724">
                <persName key="Habsburg-Lothringen, Karl"><surname>Habsburg-Lothringen</surname><forename>Karl</forename><roleName>ehemaliger
                      Kaiser</roleName></persName>
@@ -857,7 +857,7 @@
                      Kuno</forename><roleName>Dr.</roleName></persName>
                <birth when="1877-01-22">1877-01-22<placeName key="#place__3386">Frainspitz</placeName></birth>
                <death when="1951-12-26">1951-12-26<placeName key="#place__580">Wien</placeName></death>
-            </person>
+            <idno>https://d-nb.info/gnd/1156960576</idno></person>
             <person xml:id="person__784">
                <persName key="Oberdorffer, Leonhard"><surname>Oberdorffer</surname><forename>Leonhard</forename><roleName>Dr.</roleName></persName>
                <birth when="1875-03-08">1875-03-08<placeName key="#place__523">Prag</placeName></birth>
@@ -885,7 +885,7 @@
                <persName key="Zweig, Egon"><surname>Zweig</surname><forename>Egon</forename><roleName>Dr.</roleName></persName>
                <birth/>
                <death/>
-            </person>
+            <idno>https://d-nb.info/gnd/116000899</idno></person>
             <person xml:id="person__767">
                <persName key="Mayer, Josef"><surname>Mayer</surname><forename>Josef</forename><roleName/></persName>
                <birth when="1877-04-09">1877-04-09<placeName key="#place__438">Eger</placeName></birth>
@@ -903,7 +903,7 @@
                <persName key="Hödl, Richard"><surname>Hödl</surname><forename>Richard</forename><roleName>Dr.</roleName></persName>
                <birth/>
                <death/>
-            </person>
+            <idno>https://d-nb.info/gnd/140333665</idno></person>
             <person xml:id="person__814">
                <persName key="Redinger"><surname>Redinger</surname><forename/><roleName/></persName>
                <birth/>
@@ -983,7 +983,7 @@
                <persName key="Schwarz-Hiller, Rudolf"><surname>Schwarz-Hiller</surname><forename>Rudolf</forename><roleName>Dr.</roleName></persName>
                <birth/>
                <death/>
-            </person>
+            <idno>https://d-nb.info/gnd/103347374X</idno></person>
             <person xml:id="person__824">
                <persName key="Riedl, Richard"><surname>Riedl</surname><forename>Richard</forename><roleName>Dr.</roleName></persName>
                <birth when="1865-12-08">1865-12-08<placeName key="#place__580">Wien</placeName></birth>
@@ -994,7 +994,7 @@
                <persName key="Bock, Marie"><surname>Bock</surname><forename>Marie</forename><roleName/></persName>
                <birth when="1881-07-10">1881-07-10<placeName key="#place__3122">Leipzig</placeName></birth>
                <death when="1959-06-06">1959-06-06<placeName key="#place__580">Wien</placeName></death>
-               <idno>https://de.wikipedia.org/wiki/Marie_Bock_(Politikerin)</idno>
+               <idno>https://d-nb.info/gnd/126213534</idno>
             </person>
             <person xml:id="person__659">
                <persName key="Freundlich, Emmy"><surname>Freundlich</surname><forename>Emmy</forename><roleName/></persName>
@@ -1017,17 +1017,17 @@
                <persName key="Jorde, Julius"><surname>Jorde</surname><forename>Julius</forename><roleName/></persName>
                <birth><placeName key="#place__580">Wien</placeName></birth>
                <death/>
-            </person>
+            <idno>https://d-nb.info/gnd/1023794381</idno></person>
             <person xml:id="person__806">
                <persName key="Popp, Adelheid"><surname>Popp</surname><forename>Adelheid</forename><roleName/></persName>
                <birth when="1869-02-11">1869-02-11</birth>
                <death when="1939-03-07">1939-03-07<placeName key="#place__580">Wien</placeName></death>
-            </person>
+            <idno>https://d-nb.info/gnd/118595792</idno></person>
             <person xml:id="person__808">
                <persName key="Proft, Gabriele"><surname>Proft</surname><forename>Gabriele</forename><roleName/></persName>
                <birth/>
                <death/>
-            </person>
+            <idno>https://d-nb.info/gnd/120740729</idno></person>
             <person xml:id="person__841">
                <persName key="Schön, Peter"><surname>Schön</surname><forename>Peter</forename><roleName/></persName>
                <birth><placeName key="#place__457">Gußwerk</placeName></birth>
@@ -1052,12 +1052,12 @@
                <persName key="Kohler"><surname>Kohler</surname><forename/><roleName/></persName>
                <birth/>
                <death/>
-            </person>
+            <idno>https://d-nb.info/gnd/1344399436</idno></person>
             <person xml:id="person__3641">
                <persName key="Pauernfeindt"><surname>Pauernfeindt</surname><forename/><roleName/></persName>
                <birth/>
                <death/>
-            </person>
+            <idno>https://d-nb.info/gnd/1033880191</idno></person>
             <person xml:id="person__3692">
                <persName key="Steinfest"><surname>Steinfest</surname><forename/><roleName/></persName>
                <birth/>
@@ -1095,7 +1095,7 @@
                <persName key="Rehak, Rudolf"><surname>Rehak</surname><forename>Rudolf</forename><roleName/></persName>
                <birth><placeName key="#place__463">Innsbruck</placeName></birth>
                <death/>
-            </person>
+            <idno>https://d-nb.info/gnd/1295224887</idno></person>
             <person xml:id="person__875">
                <persName key="Sylvester, Julius"><surname>Sylvester</surname><forename>Julius</forename><roleName>Dr.</roleName></persName>
                <birth when="1854-06-30">1854-06-30<placeName key="#place__580">Wien</placeName></birth>
@@ -1130,7 +1130,7 @@
                <persName key="Loewenfeld-Russ, Johann"><surname>Loewenfeld-Russ</surname><forename>Johann</forename><roleName/></persName>
                <birth when="1873-10-29">1873-10-29<placeName key="#place__580">Wien</placeName></birth>
                <death when="1940-01-12">1940-01-12<placeName key="#place__580">Wien</placeName></death>
-               <idno>https://de.wikipedia.org/wiki/Johann_L%C3%B6wenfeld-Russ</idno>
+               <idno>https://d-nb.info/gnd/118813692</idno>
             </person>
             <person xml:id="person__3501">
                <persName key="Maria Theresia, Maria Theresia"><surname>Maria
@@ -1165,7 +1165,7 @@
                <persName key="Brabbée, Richard"><surname>Brabbée</surname><forename>Richard</forename><roleName>Baurat</roleName></persName>
                <birth/>
                <death/>
-            </person>
+            <idno>https://d-nb.info/gnd/126227209</idno></person>
             <person xml:id="person__666">
                <persName key="Gmeiner, Wilhelm"><surname>Gmeiner</surname><forename>Wilhelm</forename><roleName>Magistratsrat</roleName></persName>
                <birth/>
@@ -1205,7 +1205,7 @@
                      Koär.Dr.</roleName></persName>
                <birth><placeName key="#place__526">Rann</placeName></birth>
                <death/>
-            </person>
+            <idno>https://d-nb.info/gnd/1037883454</idno></person>
             <person xml:id="person__768">
                <persName key="Mayer, Richard"><surname>Mayer</surname><forename>Richard</forename><roleName>Branddirektor-Stellvertreter
                      Ober Inspektor</roleName></persName>
@@ -1232,13 +1232,13 @@
                <persName key="Schürff, Hans"><surname>Schürff</surname><forename>Hans</forename><roleName/></persName>
                <birth/>
                <death/>
-               <idno>https://de.wikipedia.org/wiki/Hans_Sch%C3%BCrff</idno>
+               <idno>https://d-nb.info/gnd/1033101540</idno>
             </person>
             <person xml:id="person__3336">
                <persName key="Straffner, Sepp"><surname>Straffner</surname><forename>Sepp</forename><roleName/></persName>
                <birth/>
                <death/>
-               <idno>https://de.wikipedia.org/wiki/Sepp_Straffner</idno>
+               <idno>https://d-nb.info/gnd/132773074</idno>
             </person>
             <person xml:id="person__797">
                <persName key="Pflügl, Egon"><surname>Pflügl</surname><forename>Egon</forename><roleName>Dr.</roleName></persName>
@@ -1277,7 +1277,7 @@
                      Flotow</surname><forename>Ludwig</forename><roleName/></persName>
                <birth><placeName key="#place__580">Wien</placeName></birth>
                <death/>
-            </person>
+            <idno>https://d-nb.info/gnd/118534068</idno></person>
             <person xml:id="person__3767">
                <persName key="Hanausek"><surname>Hanausek</surname><forename/><roleName/></persName>
                <birth/>
@@ -1308,7 +1308,7 @@
                <persName key="Odehnal, Franz"><surname>Odehnal</surname><forename>Franz</forename><roleName>Dr.</roleName></persName>
                <birth/>
                <death/>
-            </person>
+            <idno>https://d-nb.info/gnd/1024714837</idno></person>
             <person xml:id="person__874">
                <persName key="Strobl, Anna"><surname>Strobl</surname><forename>Anna</forename><roleName/></persName>
                <birth><placeName key="#place__473">Klagenfurt</placeName></birth>
@@ -1318,7 +1318,7 @@
                <persName key="Plaschkes, Leopold"><surname>Plaschkes</surname><forename>Leopold</forename><roleName>Dr.</roleName></persName>
                <birth><placeName key="#place__490">Linz</placeName></birth>
                <death/>
-            </person>
+            <idno>https://d-nb.info/gnd/1026198755</idno></person>
             <person xml:id="person__775">
                <persName key="Müller, Josef"><surname>Müller</surname><forename>Josef</forename><roleName>Ober-Magistratsrat
                      Dr.</roleName></persName>
@@ -1388,7 +1388,7 @@
                      Vittorelli</surname><forename>Paul</forename><roleName/></persName>
                <birth><placeName key="#place__580">Wien</placeName></birth>
                <death/>
-            </person>
+            <idno>https://d-nb.info/gnd/128287152</idno></person>
             <person xml:id="person__627">
                <persName key="Čerović, Bozidar"><surname>Čerović</surname><forename>Bozidar</forename><roleName>Dr.</roleName></persName>
                <birth/>
@@ -1412,7 +1412,7 @@
                <persName key="Hohensinner, Oswald"><surname>Hohensinner</surname><forename>Oswald</forename><roleName/></persName>
                <birth/>
                <death/>
-            </person>
+            <idno>https://d-nb.info/gnd/136784062</idno></person>
             <person xml:id="person__3564">
                <persName key="Schidl, Viktor"><surname>Schidl</surname><forename>Viktor</forename><roleName/></persName>
                <birth/>
@@ -1439,7 +1439,7 @@
                <persName key="Hötzel"><surname>Hötzel</surname><forename/><roleName/></persName>
                <birth/>
                <death/>
-            </person>
+            <idno>https://d-nb.info/gnd/127775331</idno></person>
             <person xml:id="person__739">
                <persName key="Körber, Johann"><surname>Körber</surname><forename>Johann</forename><roleName/></persName>
                <birth/>
@@ -1477,7 +1477,7 @@
                      von</surname><forename>Ludwig</forename><roleName/></persName>
                <birth when="1866-02-22">1866-02-22</birth>
                <death/>
-            </person>
+            <idno>https://d-nb.info/gnd/1038761417</idno></person>
             <person xml:id="person__3365">
                <persName key="Carus, Friedrich"><surname>Carus</surname><forename>Friedrich</forename><roleName>Dr.</roleName></persName>
                <birth/>
@@ -1507,7 +1507,7 @@
                <persName key="Karrer, Bruno"><surname>Karrer</surname><forename>Bruno</forename><roleName>Dr.</roleName></persName>
                <birth when="1882-10-13">1882-10-13<placeName key="#place__453">Graz</placeName></birth>
                <death when="1954-02-03">1954-02-03<placeName key="#place__580">Wien</placeName></death>
-            </person>
+            <idno>https://d-nb.info/gnd/135443016</idno></person>
             <person xml:id="person__3315">
                <persName key="Klein, Franz"><surname>Klein</surname><forename>Franz</forename><roleName>Dr.</roleName></persName>
                <birth when="1854-04-24">1854-04-24<placeName key="#place__580">Wien</placeName></birth>
@@ -1519,7 +1519,7 @@
                      von</surname><forename>Otto</forename><roleName/></persName>
                <birth when="1861-05-20">1861-05-20<placeName key="#place__580">Wien</placeName></birth>
                <death when="1927-07-23">1927-07-23<placeName key="#place__3375">Klopein</placeName></death>
-            </person>
+            <idno>https://d-nb.info/gnd/136053904</idno></person>
             <person xml:id="person__745">
                <persName key="Kuh-Chrobak, Paul"><surname>Kuh-Chrobak</surname><forename>Paul</forename><roleName>Dr.</roleName></persName>
                <birth when="1863-03-11">1863-03-11<placeName key="#place__580">Wien</placeName></birth>
@@ -1536,7 +1536,7 @@
                      von</surname><forename>Josef</forename><roleName/></persName>
                <birth when="1873-04-04">1873-04-04<placeName key="#place__580">Wien</placeName></birth>
                <death when="1940-01-12">1940-01-12<placeName key="#place__580">Wien</placeName></death>
-            </person>
+            <idno>https://d-nb.info/gnd/133661733</idno></person>
             <person xml:id="person__3362">
                <persName key="Marek, Ferdinand"><surname>Marek</surname><forename>Ferdinand</forename><roleName>Dr.</roleName></persName>
                <birth when="1881-01-25">1881-01-25<placeName key="#place__3359">Karolinenthal</placeName></birth>
@@ -1582,7 +1582,7 @@
                <persName key="Kanik, Franz"><surname>Kanik</surname><forename>Franz</forename><roleName/></persName>
                <birth><placeName key="#place__580">Wien</placeName></birth>
                <death/>
-            </person>
+            <idno>https://d-nb.info/gnd/1013094328</idno></person>
             <person xml:id="person__940">
                <persName key="Waiß, Erwin"><surname>Waiß</surname><forename>Erwin</forename><roleName/></persName>
                <birth><placeName key="#place__580">Wien</placeName></birth>
@@ -1707,12 +1707,12 @@
                <persName key="Aigner, Artur"><surname>Aigner</surname><forename>Artur</forename><roleName>Dr.</roleName></persName>
                <birth when="1876-06-02">1876-06-02<placeName key="#place__580">Wien</placeName></birth>
                <death when="1947-03-24">1947-03-24<placeName key="#place__580">Wien</placeName></death>
-            </person>
+            <idno>https://d-nb.info/gnd/125883404</idno></person>
             <person xml:id="person__629">
                <persName key="Czermak"><surname>Czermak</surname><forename/><roleName/></persName>
                <birth/>
                <death/>
-            </person>
+            <idno>https://d-nb.info/gnd/1243890169</idno></person>
             <person xml:id="person__930">
                <persName key="Fritsch"><surname>Fritsch</surname><forename/><roleName/></persName>
                <birth><placeName key="#place__580">Wien</placeName></birth>
@@ -1727,7 +1727,7 @@
                <persName key="Lehmann"><surname>Lehmann</surname><forename/><roleName/></persName>
                <birth><placeName key="#place__580">Wien</placeName></birth>
                <death/>
-            </person>
+            <idno>https://d-nb.info/gnd/130554928</idno></person>
             <person xml:id="person__932">
                <persName key="Mahel"><surname>Mahel</surname><forename/><roleName/></persName>
                <birth><placeName key="#place__580">Wien</placeName></birth>
@@ -1737,7 +1737,7 @@
                <persName key="Schulz, Hermann"><surname>Schulz</surname><forename>Hermann</forename><roleName/></persName>
                <birth/>
                <death/>
-            </person>
+            <idno>https://d-nb.info/gnd/127288139</idno></person>
             <person xml:id="person__885">
                <persName key="Tomicek"><surname>Tomicek</surname><forename/><roleName/></persName>
                <birth><placeName key="#place__580">Wien</placeName></birth>
@@ -1752,13 +1752,13 @@
                <persName key="Hammerschmid, Josef"><surname>Hammerschmid</surname><forename>Josef</forename><roleName/></persName>
                <birth when="1880-03-05">1880-03-05<placeName key="#place__3163">Kainraths</placeName></birth>
                <death when="1945-10-27">1945-10-27<placeName key="#place__580">Wien</placeName></death>
-               <idno>https://de.wikipedia.org/wiki/Josef_Hammerschmid</idno>
+               <idno>https://d-nb.info/gnd/172782759</idno>
             </person>
             <person xml:id="person__876">
                <persName key="Tandler, Julius"><surname>Tandler</surname><forename>Julius</forename><roleName>Dr.</roleName></persName>
                <birth when="1869-02-16">1869-02-16<placeName key="#place__462">Iglau</placeName></birth>
                <death/>
-            </person>
+            <idno>https://d-nb.info/gnd/118620657</idno></person>
             <person xml:id="person__3672">
                <persName key="Hnidey, Viktor"><surname>Hnidey</surname><forename>Viktor</forename><roleName>Dr.</roleName></persName>
                <birth when="1867-06-26">1867-06-26<placeName key="#place__3674">Korczestie</placeName></birth>
@@ -1778,7 +1778,7 @@
                <persName key="Höfenmayer, Franz"><surname>Höfenmayer</surname><forename>Franz</forename><roleName>Dr.</roleName></persName>
                <birth/>
                <death/>
-            </person>
+            <idno>https://d-nb.info/gnd/130182907</idno></person>
             <person xml:id="person__3555">
                <persName key="Riehl, Anton S."><surname>Riehl</surname><forename>Anton
                      S.</forename><roleName>Dr.</roleName></persName>
@@ -1834,7 +1834,7 @@
                <persName key="Proksch, Ferdinand"><surname>Proksch</surname><forename>Ferdinand</forename><roleName/></persName>
                <birth/>
                <death/>
-            </person>
+            <idno>https://d-nb.info/gnd/13923795X</idno></person>
             <person xml:id="person__3569">
                <persName key="Freund, Selma"><surname>Freund</surname><forename>Selma</forename><roleName/></persName>
                <birth/>
@@ -1859,7 +1859,7 @@
                <persName key="Pogatschnigg"><surname>Pogatschnigg</surname><forename/><roleName/></persName>
                <birth/>
                <death/>
-            </person>
+            <idno>https://d-nb.info/gnd/116250534</idno></person>
             <person xml:id="person__3562">
                <persName key="Pramesberger"><surname>Pramesberger</surname><forename/><roleName/></persName>
                <birth/>
@@ -1879,7 +1879,7 @@
                <persName key="Markus"><surname>Markus</surname><forename/><roleName>Hofrat</roleName></persName>
                <birth/>
                <death/>
-            </person>
+            <idno>https://d-nb.info/gnd/120524880</idno></person>
             <person xml:id="person__888">
                <persName key="Ullreich, Franz"><surname>Ullreich</surname><forename>Franz</forename><roleName/></persName>
                <birth/>
@@ -1894,12 +1894,12 @@
                <persName key="Rott"><surname>Rott</surname><forename/><roleName>Hofrat</roleName></persName>
                <birth/>
                <death/>
-            </person>
+            <idno>https://d-nb.info/gnd/132967233X</idno></person>
             <person xml:id="person__605">
                <persName key="Balling, Karl"><surname>Balling</surname><forename>Karl</forename><roleName/></persName>
                <birth/>
                <death/>
-            </person>
+            <idno>https://d-nb.info/gnd/125036337</idno></person>
             <person xml:id="person__725">
                <persName key="Keller, Oskar"><surname>Keller</surname><forename>Oskar</forename><roleName/></persName>
                <birth/>
@@ -1938,7 +1938,7 @@
                <persName key="Klug"><surname>Klug</surname><forename/><roleName>Dr.</roleName></persName>
                <birth/>
                <death/>
-            </person>
+            <idno>https://d-nb.info/gnd/118563483</idno></person>
             <person xml:id="person__3618">
                <persName key="Scheuchenstuel, Wilhelm"><surname>Scheuchenstuel</surname><forename>Wilhelm</forename><roleName>Dr.</roleName></persName>
                <birth when="1863-02-21">1863-02-21<placeName key="#place__580">Wien</placeName></birth>
@@ -1954,7 +1954,7 @@
                <persName key="Feldmann, Johann"><surname>Feldmann</surname><forename>Johann</forename><roleName/></persName>
                <birth/>
                <death/>
-            </person>
+            <idno>https://d-nb.info/gnd/1024399001</idno></person>
             <person xml:id="person__663">
                <persName key="Glasauer, Oswald"><surname>Glasauer</surname><forename>Oswald</forename><roleName>Dr.</roleName></persName>
                <birth/>
@@ -2000,7 +2000,7 @@
                   </roleName></persName>
                <birth><placeName key="#place__467">Japons</placeName></birth>
                <death/>
-            </person>
+            <idno>https://d-nb.info/gnd/1352296683</idno></person>
             <person xml:id="person__859">
                <persName key="Siegmeth"><surname>Siegmeth</surname><forename/><roleName>Mag.Sekr.Dr.</roleName></persName>
                <birth/>
@@ -2016,7 +2016,7 @@
                <persName key="Basta"><surname>Basta</surname><forename/><roleName>Dr.</roleName></persName>
                <birth/>
                <death/>
-            </person>
+            <idno>https://d-nb.info/gnd/1250943825</idno></person>
             <person xml:id="person__3171">
                <persName key="Fischer, Julius"><surname>Fischer</surname><forename>Julius</forename><roleName>Dr.</roleName></persName>
                <birth when="1882-06-10">1882-06-10<placeName key="#place__3172">Teplitz</placeName></birth>
@@ -2035,7 +2035,7 @@
                      Steinstätten</surname><forename>Rudolf</forename><roleName/></persName>
                <birth><placeName key="#place__580">Wien</placeName></birth>
                <death/>
-            </person>
+            <idno>https://d-nb.info/gnd/1019652462</idno></person>
             <person xml:id="person__937">
                <persName key="von Beck"><surname>von Beck</surname><forename/><roleName/></persName>
                <birth><placeName key="#place__580">Wien</placeName></birth>
@@ -2095,12 +2095,12 @@
                <persName key="Howanski"><surname>Howanski</surname><forename/><roleName/></persName>
                <birth/>
                <death/>
-            </person>
+            <idno>https://d-nb.info/gnd/133566854</idno></person>
             <person xml:id="person__3663">
                <persName key="Semara"><surname>Semara</surname><forename/><roleName/></persName>
                <birth/>
                <death/>
-            </person>
+            <idno>https://d-nb.info/gnd/1152826921</idno></person>
             <person xml:id="person__3664">
                <persName key="Valniček"><surname>Valniček</surname><forename/><roleName/></persName>
                <birth/>
@@ -2120,12 +2120,12 @@
                <persName key="Zimmerl, Franz"><surname>Zimmerl</surname><forename>Franz</forename><roleName/></persName>
                <birth/>
                <death/>
-            </person>
+            <idno>https://d-nb.info/gnd/126944849</idno></person>
             <person xml:id="person__3804">
                <persName key="Bittner"><surname>Bittner</surname><forename/><roleName/></persName>
                <birth/>
                <death/>
-            </person>
+            <idno>https://d-nb.info/gnd/1158632797</idno></person>
             <person xml:id="person__3808">
                <persName key="Huber, Josef"><surname>Huber</surname><forename>Josef</forename><roleName/></persName>
                <birth/>
@@ -2171,25 +2171,25 @@
                <persName key="Heumann"><surname>Heumann</surname><forename/><roleName/></persName>
                <birth/>
                <death/>
-            </person>
+            <idno>https://d-nb.info/gnd/1226118887</idno></person>
             <person xml:id="person__3856">
                <persName key="Hainisch, Marianne"><surname>Hainisch</surname><forename>Marianne</forename><roleName/></persName>
                <birth when="1839-03-25">1839-03-25<placeName key="#place__3821">Baden</placeName></birth>
                <death when="1936-05-05">1936-05-05<placeName key="#place__580">Wien</placeName></death>
-               <idno>https://www.biographien.ac.at/oebl_2/152.pdf</idno>
+               <idno>https://d-nb.info/gnd/116393289</idno>
             </person>
             <person xml:id="person__3857">
                <persName key="Höfler, Alois"><surname>Höfler</surname><forename>Alois</forename><roleName>Prof.
                      Dr.</roleName></persName>
                <birth when="1853-04-06">1853-04-06</birth>
                <death when="1922-02-26">1922-02-26</death>
-               <idno>https://www.deutsche-biographie.de/gnd116925272.html#ndbcontent</idno>
+               <idno>https://d-nb.info/gnd/116925272</idno>
             </person>
             <person xml:id="person__661">
                <persName key="Gärtner, Sophie"><surname>Gärtner</surname><forename>Sophie</forename><roleName/></persName>
                <birth when="1880-01-01">1880-01-01</birth>
                <death when="1974-01-01">1974-01-01</death>
-               <idno>https://de.wikipedia.org/wiki/Sophie_G%C3%A4rtner</idno>
+               <idno>https://d-nb.info/gnd/1378677609</idno>
             </person>
             <person xml:id="person__675">
                <persName key="Gruber, Josef"><surname>Gruber</surname><forename>Josef</forename><roleName/></persName>
@@ -2256,7 +2256,7 @@
                <persName key="Kikisch"><surname>Kikisch</surname><forename/><roleName/></persName>
                <birth><placeName key="#place__580">Wien</placeName></birth>
                <death/>
-            </person>
+            <idno>https://d-nb.info/gnd/1146596855</idno></person>
             <person xml:id="person__790">
                <persName key="Paukal"><surname>Paukal</surname><forename/><roleName>Oberlandesgerichtsrat</roleName></persName>
                <birth/>
@@ -2266,7 +2266,7 @@
                <persName key="Rodler"><surname>Rodler</surname><forename/><roleName>Landesgerichtsrat</roleName></persName>
                <birth><placeName key="#place__580">Wien</placeName></birth>
                <death/>
-            </person>
+            <idno>https://d-nb.info/gnd/1117165930</idno></person>
             <person xml:id="person__906">
                <persName key="Wenzel"><surname>Wenzel</surname><forename/><roleName>Landesgerichtsrat</roleName></persName>
                <birth/>
@@ -2292,12 +2292,12 @@
                <persName key="Eicha, Egon"><surname>Eicha</surname><forename>Egon</forename><roleName>Dr.</roleName></persName>
                <birth/>
                <death/>
-            </person>
+            <idno>https://d-nb.info/gnd/1011357763</idno></person>
             <person xml:id="person__3880">
                <persName key="Fries-Skene, Alfred"><surname>Fries-Skene</surname><forename>Alfred</forename><roleName>Dr.</roleName></persName>
                <birth when="1870-06-17">1870-06-17</birth>
                <death when="1947-12-16">1947-12-16</death>
-               <idno>https://www.biographien.ac.at/oebl/oebl_F/Fries-Skene_Alfred_1870_1947.xml</idno>
+               <idno>https://d-nb.info/gnd/144034190</idno>
             </person>
             <person xml:id="person__3872">
                <persName key="Hirsch, Karl"><surname>Hirsch</surname><forename>Karl</forename><roleName>Dr.</roleName></persName>
@@ -2329,7 +2329,7 @@
                <persName key="Ledochowski, Karl"><surname>Ledochowski</surname><forename>Karl</forename><roleName/></persName>
                <birth/>
                <death/>
-            </person>
+            <idno>https://d-nb.info/gnd/1198943610</idno></person>
             <person xml:id="person__3877">
                <persName key="Lund, Egon"><surname>Lund</surname><forename>Egon</forename><roleName>Dr.</roleName></persName>
                <birth/>
@@ -2344,7 +2344,7 @@
                <persName key="Pipitz, Ernst"><surname>Pipitz</surname><forename>Ernst</forename><roleName>Dr.</roleName></persName>
                <birth/>
                <death/>
-            </person>
+            <idno>https://d-nb.info/gnd/119072882</idno></person>
             <person xml:id="person__3871">
                <persName key="Schlögl, Georg"><surname>Schlögl</surname><forename>Georg</forename><roleName>Dr.</roleName></persName>
                <birth/>
@@ -2354,7 +2354,7 @@
                <persName key="Skokan, Franz"><surname>Skokan</surname><forename>Franz</forename><roleName/></persName>
                <birth/>
                <death/>
-            </person>
+            <idno>https://d-nb.info/gnd/117424560</idno></person>
             <person xml:id="person__3875">
                <persName key="Stern, Georg"><surname>Stern</surname><forename>Georg</forename><roleName>Dr.</roleName></persName>
                <birth/>
@@ -2364,7 +2364,7 @@
                <persName key="Schachermayer"><surname>Schachermayer</surname><forename/><roleName>Dr.</roleName></persName>
                <birth/>
                <death/>
-            </person>
+            <idno>https://d-nb.info/gnd/109743881</idno></person>
             <person xml:id="person__613">
                <persName key="Blum, Julius"><surname>Blum</surname><forename>Julius</forename><roleName/></persName>
                <birth><placeName key="#place__580">Wien</placeName></birth>
@@ -2396,7 +2396,7 @@
                <persName key="Jenschik, Anton"><surname>Jenschik</surname><forename>Anton</forename><roleName/></persName>
                <birth when="1884-05-30">1884-05-30<placeName key="#place__583">Hernals</placeName></birth>
                <death when="1969-07-06">1969-07-06<placeName key="#place__580">Wien</placeName></death>
-            </person>
+            <idno>https://d-nb.info/gnd/1340943255</idno></person>
             <person xml:id="person__827">
                <persName key="Roth, Heinrich"><surname>Roth</surname><forename>Heinrich</forename><roleName/></persName>
                <birth/>
@@ -2421,7 +2421,7 @@
                <persName key="Witzmann, Franz"><surname>Witzmann</surname><forename>Franz</forename><roleName/></persName>
                <birth/>
                <death/>
-            </person>
+            <idno>https://d-nb.info/gnd/122895134</idno></person>
             <person xml:id="person__600">
                <persName key="Ambros, Karoline"><surname>Ambros</surname><forename>Karoline</forename><roleName/></persName>
                <birth when="1857-03-30">1857-03-30</birth>
@@ -2454,7 +2454,7 @@
                <persName key="Kerner, Karl"><surname>Kerner</surname><forename>Karl</forename><roleName/></persName>
                <birth/>
                <death/>
-            </person>
+            <idno>https://d-nb.info/gnd/1343235340</idno></person>
             <person xml:id="person__3838">
                <persName key="Reininger"><surname>Reininger</surname><forename/><roleName/></persName>
                <birth/>
@@ -2495,7 +2495,7 @@
                <persName key="Karasek, Franz"><surname>Karasek</surname><forename>Franz</forename><roleName/></persName>
                <birth/>
                <death/>
-            </person>
+            <idno>https://d-nb.info/gnd/129202827</idno></person>
             <person xml:id="person__3882">
                <persName key="Schumpeter (Konsul)"><surname>Schumpeter
                   (Konsul)</surname><forename/><roleName/></persName>
@@ -2517,7 +2517,7 @@
                <persName key="Zatka"><surname>Zatka</surname><forename/><roleName/></persName>
                <birth/>
                <death/>
-            </person>
+            <idno>https://d-nb.info/gnd/1062181468</idno></person>
             <person xml:id="person__3780">
                <persName key="Habsburg-Lothringen, Ludwig Viktor"><surname>Habsburg-Lothringen</surname><forename>Ludwig
                   Viktor</forename><roleName/></persName>
@@ -2562,7 +2562,7 @@
                <persName key="Sobitschka"><surname>Sobitschka</surname><forename/><roleName/></persName>
                <birth/>
                <death/>
-            </person>
+            <idno>https://d-nb.info/gnd/1034855239</idno></person>
             <person xml:id="person__3765">
                <persName key="Thaa von"><surname>Thaa von</surname><forename/><roleName/></persName>
                <birth/>
@@ -2587,7 +2587,7 @@
                <persName key="Kotek, Georg"><surname>Kotek</surname><forename>Georg</forename><roleName>Dr.</roleName></persName>
                <birth/>
                <death/>
-            </person>
+            <idno>https://d-nb.info/gnd/129218421</idno></person>
             <person xml:id="person__801">
                <persName key="Podirski, Ferdinand"><surname>Podirski</surname><forename>Ferdinand</forename><roleName>Oberrevident</roleName></persName>
                <birth><placeName key="#place__490">Linz</placeName></birth>
@@ -2597,7 +2597,7 @@
                <persName key="Wildner, Franz"><surname>Wildner</surname><forename>Franz</forename><roleName/></persName>
                <birth/>
                <death/>
-            </person>
+            <idno>https://d-nb.info/gnd/1234157179</idno></person>
             <person xml:id="person__765">
                <persName key="Mataja, Viktor"><surname>Mataja</surname><forename>Viktor</forename><roleName>Dr.</roleName></persName>
                <birth when="1857-07-20">1857-07-20<placeName key="#place__580">Wien</placeName></birth>
@@ -2652,7 +2652,7 @@
                      von</surname><forename>Ferdinand</forename><roleName>Dr.</roleName></persName>
                <birth when="1860-12-18">1860-12-18<placeName key="#place__519">Persenbeug</placeName></birth>
                <death when="1919-11-03">1919-11-03<placeName key="#place__3487">Achenkirchen</placeName></death>
-               <idno>https://tools.wmflabs.org/persondata/p/Ferdinand_von_Wimmer</idno>
+               <idno>https://d-nb.info/gnd/1225370043</idno>
             </person>
             <person xml:id="person__653">
                <persName key="Frank"><surname>Frank</surname><forename/><roleName>Dr.</roleName></persName>
@@ -2673,7 +2673,7 @@
                <persName key="Schlesinger"><surname>Schlesinger</surname><forename/><roleName>Dr.</roleName></persName>
                <birth/>
                <death/>
-            </person>
+            <idno>https://d-nb.info/gnd/1243994495</idno></person>
             <person xml:id="person__3331">
                <persName key="Günther, Georg"><surname>Günther</surname><forename>Georg</forename><roleName/></persName>
                <birth/>
@@ -2684,7 +2684,7 @@
                <persName key="König, Berthold"><surname>König</surname><forename>Berthold</forename><roleName/></persName>
                <birth/>
                <death/>
-               <idno>https://www.parlament.gv.at/WWER/PAD_00870/index.shtml</idno>
+               <idno>https://d-nb.info/gnd/128025085</idno>
             </person>
             <person xml:id="person__3859">
                <persName key="(von) Handel, Erasmus"><surname>(von)
@@ -2718,7 +2718,7 @@
                <persName key="Neunteufel, Raimund"><surname>Neunteufel</surname><forename>Raimund</forename><roleName/></persName>
                <birth when="1872-05-22">1872-05-22<placeName key="#place__467">Japons</placeName></birth>
                <death when="1937-04-18">1937-04-18<placeName key="#place__453">Graz</placeName></death>
-               <idno>https://de.wikipedia.org/wiki/Raimund_Neunteufel</idno>
+               <idno>https://d-nb.info/gnd/126617023</idno>
             </person>
             <person xml:id="person__3898">
                <persName key="Knoll, Johann"><surname>Knoll</surname><forename>Johann</forename><roleName/></persName>
